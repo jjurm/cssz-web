@@ -49,9 +49,9 @@ params:
     #safari_pinned_tab: "<link / abs url>"
 
   label:
-    #text: "CSSZ"
-    icon: media/img/logo/Logo_Shorter_Full_Name.png
-    iconHeight: 35
+    text: "CSSZ"
+    #icon: media/img/logo/Logo_Shorter_Full_Name.png
+    #iconHeight: 35
 
 #  # profile-mode
 #  profileMode:
