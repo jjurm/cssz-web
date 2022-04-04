@@ -17,7 +17,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: 'Czech and Slovak Students in Zurich'
-  description: "ExampleSite description"
+  description: "Czech and Slovak Students in Zurich"
   keywords: [Czech, Slovak, Students, Society, Association, Zurich, ETH, UZH]
   author: CSSZ
   # author: ["Me", "You"] # multiple authors
@@ -49,7 +49,7 @@ params:
     #safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Home"
+    text: "CSSZ"
     #icon: /apple-touch-icon.png
     #iconHeight: 35
 
@@ -70,8 +70,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to our website
+    Title: "Hi there \U0001F44B 🇨🇿🇸🇰"
+    Content: Welcome to the Czech and Slovak Students in Zurich website!
 
   socialIcons:
     - name: twitter
