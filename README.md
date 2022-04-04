@@ -1,6 +1,6 @@
 # cssz.ch
 
-*Official website of the **Czech and Slovak Students in Zurich** association (cssz.ch)*
+*Official website of the **Czech and Slovak Students in Zurich** association (available at [cssz.ch](https://cssz.ch/))*
 
 Website built on [Hugo](https://gohugo.io/).
 
