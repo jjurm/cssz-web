@@ -8,6 +8,30 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 04 Apr 2022 16:45:12 +0200</lastBuildDate><atom:link href="https://cssz.ch/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About us</title>
+      <link>https://cssz.ch/about/</link>
+      <pubDate>Mon, 04 Apr 2022 18:18:26 +0200</pubDate>
+      
+      <guid>https://cssz.ch/about/</guid>
+      <description>The goals of the association are:
+ Unite Czech and Slovak students in Zurich through organising various events Provide help for current students Make studying in Zurich more accessible to potential students  </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://cssz.ch/contact/</link>
+      <pubDate>Mon, 04 Apr 2022 18:18:26 +0200</pubDate>
+      
+      <guid>https://cssz.ch/contact/</guid>
+      <description> Address: Czech and Slovak Students in Zurich
+c/o VSETH
+CAB E27
+Universitätstrasse 6
+8092 Zürich
+Switzerland  </description>
+    </item>
+    
+    <item>
       <title>My First Post</title>
       <link>https://cssz.ch/posts/my-first-post/</link>
       <pubDate>Mon, 04 Apr 2022 16:45:12 +0200</pubDate>
