@@ -49,8 +49,8 @@ params:
     #safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "CSSZ"
-    #icon: /apple-touch-icon.png
+    text: "Czech and Slovak Students in Zurich"
+    #icon: media/img/logo/Logo_Shorter_Full_Name.png
     #iconHeight: 35
 
 #  # profile-mode
