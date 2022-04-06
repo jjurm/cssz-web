@@ -17,7 +17,6 @@ The association has several goals.
 4. To introduce Swiss culture and studying in Switzerland to the (potential) Czechs and Slovaks. 
 
 The association does not pursue commercial purposes and does not seek profit. The organs work on an honorary basis.
-
 We hope you will find the association useful and fun!
 
 Radim, Juraj, Vu, Šimon
