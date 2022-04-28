@@ -28,4 +28,4 @@ If you are developing locally, running `hugo server` will rebuild on any file ch
 - `static` - images and other static assets that are kept without any modification (unlike `assets`)
 - `themes/PaperMod` - the theme, defining how `content` is rendered
   - `assets` - JS and CSS code
-  - `layouts` - HTML templates, HTML code and shortcodes
+  - `layouts` - HTML templates, HTML code and shortcodes 
