@@ -26,7 +26,7 @@ Radim Urban
 : Founding Member, 
  BSc Computer Science Student at ETH
 
-Simon Hrabec
+Šimon Hrabec
 : Founding Member,
  MSc Computer Science Student at ETH
 
