@@ -21,18 +21,21 @@ We hope you will find the association useful and fun!
 
 ## Board
 
+
 Radim Urban:
-:Founding Member, BSc Computer Science Student at ETH
+: Founding Member, 
+ BSc Computer Science Student at ETH
 
 Simon Hrabec:
-:Founding Member, MSc Computer Science Student at ETH
+: Founding Member,
+ MSc Computer Science Student at ETH
 
 Vu Nguyen:
-:Founding Member, MSc Computer Science Student at ETH
+: Founding Member,
+ MSc Computer Science Student at ETH
 
 Juraj Mičko:
-:Founding Member, MSc Computer Science Student at ETH
+: Founding Member,
+ MSc Computer Science Student at ETH
 
 
-
-Radim, Juraj, Vu, Šimon
