@@ -27,7 +27,7 @@ params:
   disableThemeToggle: true
 
   ShowReadingTime: true
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
@@ -76,10 +76,10 @@ params:
   socialIcons:
     - name: twitter
       url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
-    - name: github
-      url: "https://github.com/"
+ #   - name: stackoverflow
+ #     url: "https://stackoverflow.com"
+    - name: linkedin
+      url: "https://linkedin.com/"
 
 #  analytics:
 #    google:
