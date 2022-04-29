@@ -9,7 +9,7 @@ menu:
 
 The CSSZ (Czech and Slovak Students in Zurich) is an association founded by 4 ETH students from Czech Republic and Slovakia. 
 
-The association has several goals.
+## Goals of the association 
 
 1. To unite the community of students from the Czech Republic and Slovakia in Zurich. This goal is achieved by organizing various social events. 
 2. By organizing these for everyone (participation is not limited by nationality, religion or gender), we also want to present Czech and Slovak culture. 
@@ -18,5 +18,21 @@ The association has several goals.
 
 The association does not pursue commercial purposes and does not seek profit. The organs work on an honorary basis.
 We hope you will find the association useful and fun!
+
+## Board
+
+Radim Urban:
+:Founding Member, BSc Computer Science Student at ETH
+
+Simon Hrabec:
+:Founding Member, MSc Computer Science Student at ETH
+
+Vu Nguyen:
+:Founding Member, MSc Computer Science Student at ETH
+
+Juraj Mičko:
+:Founding Member, MSc Computer Science Student at ETH
+
+
 
 Radim, Juraj, Vu, Šimon
