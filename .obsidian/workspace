@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/about.md",
+            "file": "content/events.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/about.md",
+                "file": "content/events.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,14 @@
   },
   "active": "38d10f354b4856b6",
   "lastOpenFiles": [
+    "content/events.md",
+    "content/posts/my-first-post.md",
+    "content/posts/welcome-event.md",
+    "www.cssz.ch/posts/welcome-event.md",
+    "content/contact.md",
     "content/about.md",
-    "content/posts/my-first-post.md"
+    "archetypes/default.md",
+    "Link.md",
+    "README.md"
   ]
 }
