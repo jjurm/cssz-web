@@ -30,6 +30,6 @@ Non-members pay a partial contribution of 8 CHF per person.
 
 **When:** 13. 5. 16:00 ([add to Google Calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=MnQxc3MybjVnNmtzOGtndWlydW5uZzkxam4gbWlja28uanVyYWo2NEBt&tmsrc=micko.juraj64%40gmail.com))
 
-**Where:** [Käferberg Grillstelle](https://www.google.cz/maps/place/Grillstell+mit+Rost+und+Wiitsicht/@47.4017454,8.5088289,813m/data=!3m1!1e3!4m5!3m4!1s0x47900bf1d1599e21:0x120905caab0befa3!8m2!3d47.4017454!4d8.5104489))
+**Where:** [Käferberg Grillstelle](https://www.google.cz/maps/place/Grillstell+mit+Rost+und+Wiitsicht/@47.4017454,8.5088289,813m/data=!3m1!1e3!4m5!3m4!1s0x47900bf1d1599e21:0x120905caab0befa3!8m2!3d47.4017454!4d8.5104489)
 
 **How to get there:** 1 minute by foot from the **Im Wingert** (Bus 69) bus station.
