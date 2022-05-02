@@ -20,9 +20,9 @@ Na konci dubna tohoto roku oficiálně vznikl spolek Czech and Slovak Students i
 
 \[EN\]
 
-_Please sign up for the event [here](https://forms.gle/uJ8F6GE1woBxnx1f7) so that we can estimate the attandance (we need to buy food and drinks). If you have not become member of the CSSZ yet, you can do so [here](https://forms.gle/qn6sZEmELCgtTSSr5) and benefit by drinking and eating for free. Thank you :)_
+_Please sign up for the event [here](https://forms.gle/uJ8F6GE1woBxnx1f7) so that we can estimate the attendance (we need to buy food and drinks). If you have not become a member of CSSZ yet, you can do so [here](https://forms.gle/qn6sZEmELCgtTSSr5) and benefit by drinking and eating for free. Thank you :)_
 
-At the end of April the Czech and Slovak Students in Zurich association was officially founded. To celebrate this occasion, we are going to be grilling at Käferberg! Come to meet Czech and Slovak student and to get to know the association itself. We plan to grill, have a bonfire and sing not only Czech and Slovak songs (guitar included).
+At the end of April, the Czech and Slovak Students in Zurich association was officially founded. To celebrate this occasion, we are going to be grilling at Käferberg! Come to meet Czech and Slovak students and get to know the association itself. We plan to grill, have a bonfire and sing not only Czech and Slovak songs (guitar included).
 
 **!** Entrance (=sausages/bratwursts/bread/beer) is free for CSSZ members. You can become a member by registering [here](https://forms.gle/qn6sZEmELCgtTSSr5) or directly at the event.
 
