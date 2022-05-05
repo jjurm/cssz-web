@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/events.md",
+            "file": "content/contact.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/events.md",
+                "file": "content/contact.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "38d10f354b4856b6",
   "lastOpenFiles": [
-    "content/events.md",
     "content/contact.md",
+    "content/events.md",
     "content/posts/welcome-event.md",
     "content/about.md",
     "content/posts/my-first-post.md",

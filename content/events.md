@@ -14,7 +14,7 @@ Here, you will find out all you need to know about the events we have organized 
 ## Grill Welcome Event!
 
 **Date**
-: 13. 5. 2022
+: [20. 5. 2022 at 17:00](#)
 
 **Where** 
 : [Käferberg Grillstelle](https://www.google.cz/maps/place/Grillstell+mit+Rost+und+Wiitsicht/@47.4017454,8.5088289,813m/data=!3m1!1e3!4m5!3m4!1s0x47900bf1d1599e21:0x120905caab0befa3!8m2!3d47.4017454!4d8.5104489)
