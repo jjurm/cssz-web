@@ -7,7 +7,7 @@ menu:
   main: {}
 ---
 Email:
-: You can either contact us on general info@cssz.ch or contact a [specific board member](http://localhost:1313/about/#meet-the-board).
+: You can either contact us on general info@cssz.ch or contact a [specific board member](http://cssz.ch/about/#meet-the-board).
 
 Address:
 : Czech and Slovak Students in Zurich<br>
