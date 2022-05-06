@@ -27,7 +27,7 @@ params:
   disableThemeToggle: true
 
   ShowReadingTime: true
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
@@ -50,8 +50,8 @@ params:
 
   label:
     text: "Czech and Slovak Students in Zurich"
-    #icon: media/img/logo/Logo_Shorter_Full_Name.png
-    #iconHeight: 35
+    #icon: https://radimurban.com/media/img/Logo_Shorter_Full_Name.png
+    iconHeight: 55
 
 #  # profile-mode
 #  profileMode:
@@ -71,15 +71,15 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B 🇨🇿🇸🇰"
-    Content: Welcome to the Czech and Slovak Students in Zurich website!
+    Content: Welcome to the Czech and Slovak Students in Zurich website! <br> <br> <a style="padding:2px 15px;background-color:rgb(30,30,30);color:white;border-radius:5px;" href="https://forms.gle/qn6sZEmELCgtTSSr5" target="_blank">Become a CSSZ Member</a> <br>
 
   socialIcons:
     - name: facebook
       url: "https://www.facebook.com/czechandslovakstudentsinzurich"
  #   - name: stackoverflow
  #     url: "https://stackoverflow.com"
-    - name: linkedin
-      url: "https://linkedin.com/"
+    #- name: linkedin
+     # url: "https://linkedin.com/"
     - name: instagram
       url: "https://www.instagram.com/cz_and_sk_students_in_zurich/"
 

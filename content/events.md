@@ -11,7 +11,8 @@ Welcome to our Events!
 
 Here, you will find out all you need to know about the events we have organized for you!
 
-## Grill Welcome Event!
+## Grill Welcome Event! 
+<a style="padding:5px 15px;background-color:rgb(30,30,30);color:white;border-radius:5px;float:right" href="https://forms.gle/uJ8F6GE1woBxnx1f7" target="_blank">Sign Up</a>
 
 **Date**
 : [20. 5. 2022 at 17:00](#)
@@ -27,3 +28,5 @@ Here, you will find out all you need to know about the events we have organized 
 
 **Price (members/non-members)**
 : 8CHF / free (you can become member [here](https://forms.gle/qn6sZEmELCgtTSSr5))
+
+

@@ -4,6 +4,11 @@ date: 2022-05-02T12:45:12+02:00
 draft: false
 ---
 
+
+
+<a style="padding:5px 15px;background-color:rgb(30,30,30);color:white;border-radius:5px;" href="https://forms.gle/uJ8F6GE1woBxnx1f7" target="_blank">Sign Up</a>
+<a style="padding:5px 15px;background-color:rgb(30,30,30);color:white;border-radius:5px;" href="https://forms.gle/qn6sZEmELCgtTSSr5" target="_blank">Become a CSSZ Member</a>
+
 **NEW DATE: 20. 5. 2022 17:00**
 
 _English version follows_
