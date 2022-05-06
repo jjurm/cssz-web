@@ -18,16 +18,22 @@ The CSSZ (Czech and Slovak Students in Zurich) is an association founded by 4 ET
 
 The association does not pursue commercial purposes and does not seek profit. The organs work on an honorary basis.
 We hope you will find the association useful and fun!
+<style>
+.board-img{
+  margin: auto 0;
+    height: auto !important;
+    width: 90% !important;
+    border-radius: 50% !important;
+    object-fit: cover;
+    display: inline;
+}
+
+</style>
 
 ## Meet The Board
 
   <div style="display:grid;grid-template-columns: 30% 1fr;">
-    <img src="https://radimurban.com/media/img/eth3.jpeg" style="margin: auto 0;
-    height: 180px;
-    width: auto;
-    border-radius: 50%;
-    object-fit: cover;
-    display: inline;">
+    <img src="https://radimurban.com/media/img/eth3.jpeg" class="board-img">
     <div>
 
   ### Radim Urban
@@ -40,12 +46,7 @@ We hope you will find the association useful and fun!
 
 
   <div style="display:grid;grid-template-columns: 30% 1fr;">
-    <img src="https://radimurban.com/media/img/hk_0187%20sq1.jpg" style="margin: auto 0;
-    height: 180px;
-    width: auto;
-    border-radius: 50%;
-    object-fit: cover;
-    display: inline;">
+    <img src="https://radimurban.com/media/img/hk_0187%20sq1.jpg" class="board-img">
     <div>
 
   ### Juraj Mičko
@@ -57,12 +58,7 @@ We hope you will find the association useful and fun!
 
     
   <div style="display:grid;grid-template-columns: 30% 1fr;">
-    <img src="https://radimurban.com/media/img/279659688_692759942033485_6827864534195714838_n.jpg" style="margin: auto 0;
-    height: 80%;
-    width: auto;
-    border-radius: 50%;
-    object-fit: cover;
-    display: inline;">
+    <img src="https://radimurban.com/media/img/279659688_692759942033485_6827864534195714838_n.jpg" class="board-img">
     <div>
 
 ### Šimon Hrabec
@@ -74,12 +70,7 @@ We hope you will find the association useful and fun!
   </div>
 
   <div style="display:grid;grid-template-columns: 30% 1fr;">
-    <img src="" style="margin: auto 0;
-    height: 80%;
-    width: auto;
-    border-radius: 50%;
-    object-fit: cover;
-    display: inline;">
+    <img src="" class="board-img">
     <div>
 
 ### Vu Nguyen
