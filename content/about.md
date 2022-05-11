@@ -46,7 +46,7 @@ We hope you will find the association useful and fun!
 
 
   <div style="display:grid;grid-template-columns: 30% 1fr;">
-    <img src="https://radimurban.com/media/img/hk_0187%20sq1.jpg" class="board-img">
+    <img src="https://raw.githubusercontent.com/radimurban/radimurban.github.io/master/media/img/hk_0187%20sq1.jpg?token=GHSAT0AAAAAABT72DVRBGATIBQLJLKV6INKYT33MJA" class="board-img">
     <div>
 
   ### Juraj Mičko
@@ -58,7 +58,7 @@ We hope you will find the association useful and fun!
 
     
   <div style="display:grid;grid-template-columns: 30% 1fr;">
-    <img src="https://radimurban.com/media/img/279659688_692759942033485_6827864534195714838_n.jpg" class="board-img">
+    <img src="https://raw.githubusercontent.com/radimurban/radimurban.github.io/master/media/img/279659688_692759942033485_6827864534195714838_n.jpg?token=GHSAT0AAAAAABT72DVQ2UBRCTDUKWXF7KLIYT33LUA" class="board-img">
     <div>
 
 ### Šimon Hrabec

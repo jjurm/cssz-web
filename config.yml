@@ -71,7 +71,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B 🇨🇿🇸🇰"
-    Content: Welcome to the Czech and Slovak Students in Zurich website! <br> <br> <a style="padding:2px 15px;background-color:rgb(30,30,30);color:white;border-radius:5px;" href="https://forms.gle/qn6sZEmELCgtTSSr5" target="_blank">Become a CSSZ Member</a> <br>
+    Content: Welcome to the Czech and Slovak Students in Zurich website! <br> <a style="padding:3px 15px;background-color:rgb(30,30,30);color:white;border-radius:5px;" href="https://forms.gle/qn6sZEmELCgtTSSr5" target="_blank">Become a CSSZ Member</a> <br>
 
   socialIcons:
     - name: facebook
