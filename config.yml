@@ -1,7 +1,11 @@
-baseURL: 'https://cssz.ch/'
+baseURL: "https://cssz.ch/"
+title: "Czech and Slovak Students in Zurich"
 languageCode: 'en-us'
-title: 'Czech and Slovak Students in Zurich'
-theme: PaperMod
+permalinks:
+  post: /:year/:month/:title/
+theme:
+- cssz
+- hugo-theme-stack
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -14,103 +18,6 @@ minify:
   disableXML: true
   minifyOutput: true
 
-params:
-  env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: 'Czech and Slovak Students in Zurich'
-  description: "Czech and Slovak Students in Zurich"
-  keywords: [Czech, Slovak, Students, Society, Association, Zurich, ETH, UZH]
-  author: CSSZ
-  # author: ["Me", "You"] # multiple authors
-  #images: ["<link or path of image for opengraph, twitter-cards>"]
-  DateFormat: "January 2, 2006"
-  defaultTheme: light # dark, light
-  disableThemeToggle: true
-
-  ShowReadingTime: true
-  ShowShareButtons: false
-  ShowPostNavLinks: true
-  ShowBreadCrumbs: true
-  ShowCodeCopyButtons: false
-  disableSpecial1stPost: false
-  disableScrollToTop: false
-  comments: false
-  hidemeta: false
-  hideSummary: false
-  showtoc: false
-  tocopen: false
-
-  assets:
-    # disableHLJS: true # to disable highlight.js
-    # disableFingerprinting: true
-    #favicon: "<link / abs url>"
-    #favicon16x16: "<link / abs url>"
-    #favicon32x32: "<link / abs url>"
-    #apple_touch_icon: "<link / abs url>"
-    #safari_pinned_tab: "<link / abs url>"
-
-  label:
-    text: "Czech and Slovak Students in Zurich"
-    #icon: https://radimurban.com/media/img/Logo_Shorter_Full_Name.png
-    iconHeight: 55
-
-#  # profile-mode
-#  profileMode:
-#    enabled: false # needs to be explicitly set
-#    title: ExampleSite
-#    subtitle: "This is subtitle"
-#    imageUrl: "<img location>"
-#    imageWidth: 120
-#    imageHeight: 120
-#    imageTitle: my image
-#    buttons:
-#      - name: Posts
-#        url: posts
-#      - name: Tags
-#        url: tags
-
-  # home-info mode
-  homeInfoParams:
-    Title: "Hi there \U0001F44B 🇨🇿🇸🇰"
-    Content: Welcome to the Czech and Slovak Students in Zurich website! <br> <a style="padding:3px 15px;background-color:rgb(30,30,30);color:white;border-radius:5px;" href="https://forms.gle/qn6sZEmELCgtTSSr5" target="_blank">Become a CSSZ Member</a> <br>
-
-  socialIcons:
-    - name: facebook
-      url: "https://www.facebook.com/czechandslovakstudentsinzurich"
- #   - name: stackoverflow
- #     url: "https://stackoverflow.com"
-    #- name: linkedin
-     # url: "https://linkedin.com/"
-    - name: instagram
-      url: "https://www.instagram.com/cz_and_sk_students_in_zurich/"
-
-#  analytics:
-#    google:
-#      SiteVerificationTag: "XYZabc"
-#    bing:
-#      SiteVerificationTag: "XYZabc"
-#    yandex:
-#      SiteVerificationTag: "XYZabc"
-
-#  cover:
-#    hidden: true # hide everywhere but not in structured data
-#    hiddenInList: true # hide on list pages and home
-#    hiddenInSingle: true # hide on single page
-
-#  editPost:
-#    URL: "https://github.com/<path_to_repo>/content"
-#    Text: "Suggest Changes" # edit text
-#    appendFilePath: true # to append file path to Edit link
-
-  # for search
-  # https://fusejs.io/api/options.html
-  fuseOpts:
-    isCaseSensitive: false
-    shouldSort: true
-    location: 0
-    distance: 1000
-    threshold: 0.4
-    minMatchCharLength: 0
-    keys: ["title", "permalink", "summary", "content"]
 menu:
   main: []
 #    - identifier: categories
