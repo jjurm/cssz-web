@@ -1,0 +1,18 @@
+main: []
+#    - identifier: categories
+#      name: categories
+#      url: /categories/
+#      weight: 10
+#    - identifier: tags
+#      name: tags
+#      url: /tags/
+#      weight: 20
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+# pygmentsUseClasses: true
+# markup:
+#     highlight:
+#         # anchorLineNos: true
+#         codeFences: true
+#         guessSyntax: true
+#         lineNos: true
+#         style: monokai

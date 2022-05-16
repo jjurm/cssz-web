@@ -1,0 +1,51 @@
+{{- $eventDetails := partial "event/event-details-dict" . -}}
+{{- with $eventDetails -}}
+<div class="article-details event-details">
+    <dl>
+        {{ if .date_start }}
+        <dt>{{ partial "helper/fontawesome" "calendar" }} Event date:</dt>
+        <dd>
+            <time>{{- .date_start.Format $.Site.Params.dateFormat.event -}}
+            </time>
+            {{ if .date_end }}
+            &mdash;
+            <time>
+                {{ if (eq (.date_start.Format "2006-01-21") (.date_end.Format "2006-01-21")) }}
+                {{- .date_end.Format $.Site.Params.dateFormat.eventEndShort -}}
+                {{ else }}
+                {{- .date_end.Format $.Site.Params.dateFormat.event -}}
+                {{ end }}
+            </time>
+            {{ end }}
+            {{ partial "event/components/google-calendar-btn" (dict "ctx" $ "eventDetails" .) }}
+        </dd>
+        {{ end }}
+        {{ with .location }}
+        <dt>{{ partial "helper/fontawesome" "solid/location-dot" }}Location:</dt>
+        <dd>
+            {{- $url := (printf `https://maps.google.com/?q=%s` .text) -}}
+            {{ if isset . "link" -}}
+                {{- $url = .link -}}
+            {{- end }}
+            <a class="link" href="{{ $url }}" target=_blank rel=noopener>
+                <address>
+                    {{ .text }}
+                </address>
+            </a>
+        </dd>
+        {{ end }}
+        {{ with .registration }}
+        <dt>{{ partial "helper/fontawesome" "solid/user-plus" }} Registration:</dt>
+        <dd>
+            {{- partial "helper/button.html" (dict "link" .link "label" .text "class" "btn-primary") -}}
+        </dd>
+        {{ end }}
+        {{ range .notes }}
+        <div class="alert d-flex align-items-center alert-{{ default "info" .alert_type }}" role="alert">
+            {{ partial "helper/fontawesome" (dict "icon" (default "solid/info" .icon) "class" "me-4") }}
+            <div>{{ .text | $.Page.RenderString (dict "display" "block") }}</div>
+        </div>
+        {{ end }}
+    </dl>
+</div>
+{{- end -}}

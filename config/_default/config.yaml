@@ -1,0 +1,60 @@
+# See https://github.com/CaiJimmy/hugo-theme-stack/blob/master/exampleSite/config.yaml
+# for more configuration options
+
+baseURL: "https://cssz.ch/"
+title: "Czech and Slovak Students in Zurich"
+languageCode: 'en-gb'
+timeZone: "Europe/Zurich"
+permalinks:
+  post: /:year/:month/:title/
+  page: /:slug/
+theme:
+- cssz
+- hugo-theme-stack
+
+languages:
+  en:
+    languageName: English
+    #title: Example Site
+    weight: 1
+# Theme i18n support
+# Available values: ar, ca, de, el, en, es, fr, id, it, ja, ko, nl, pt-br, th, uk, zh-cn, zh-hk, zh-tw
+DefaultContentLanguage: en
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics: G-5CRSPLB515
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+related:
+  includeNewer: true
+  threshold: 60
+  toLower: false
+  indices:
+    - name: tags
+      weight: 100
+    - name: categories
+      weight: 200
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  tableOfContents:
+    endLevel: 4
+    ordered: true
+    startLevel: 2
+  highlight:
+    noClasses: false
+    codeFences: true
+    guessSyntax: true
+    lineNoStart: 1
+    lineNos: true
+    lineNumbersInTable: true
+    tabWidth: 4

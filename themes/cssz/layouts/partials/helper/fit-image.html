@@ -1,0 +1,19 @@
+{{/*
+    use the template as follows:
+    {{ partial "helper/fit-image.html" (dict "asset" . "format" "370x420 q0 jpg" "alt" "Description of the image" "title" "Title of the image" "class" "mt-4" "deferred" "true") }}
+    ("alt", "title", "class", "deferred" parameters are optional:)
+    {{ partial "helper/fit-image.html" (dict "asset" . "format" "370x420 q0 jpg") }}
+*/}}
+
+{{- $image := partial "helper/get-image.html" .asset -}}
+{{ if not (eq .format "original") }}{{- $image = $image.Fit .format -}}{{ end }}
+
+{{- if eq .deferred "true" -}}
+<!-- Deferred image is loaded as a 1x1 transparent image, and replaced with the desired image on `window.onload` (see the script in footer.html) -->
+<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" class="img-fluid jsonly{{ with .class }} {{ . }}{{ end }}"{{ with .alt }} alt="{{ . }}"{{ end }}{{ with .title }} title="{{ . }}"{{ end }}>
+<noscript><img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" class="img-fluid{{ with .class }} {{ . }}{{ end }}"{{ with .alt }} alt="{{ . }}"{{ end }}{{ with .title }} title="{{ . }}"{{ end }}></noscript>
+{{- else -}}
+<img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" class="img-fluid{{ with .class }} {{ . }}{{ end }}"{{ with .alt }} alt="{{ . }}"{{ end }}{{ with .title }} title="{{ . }}"{{ end }}>
+{{- end -}}
+
+{{- "" -}}

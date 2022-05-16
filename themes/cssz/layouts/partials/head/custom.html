@@ -1,0 +1,3 @@
+{{- with resources.Get `site.webmanifest` | resources.ExecuteAsTemplate `site.webmanifest` . | minify | fingerprint -}}
+<link rel="manifest" href="{{ .RelPermalink }}">
+{{- end }}

@@ -1,0 +1,10 @@
+{{- $eventDetails := .Params.event_details -}}
+{{- $eventDetails = merge $eventDetails (dict "title" (printf "%s: %s" $.Site.Params.shortTitle .Params.Title)) -}}
+{{- $eventDetails = merge $eventDetails (dict "date_start" (time.AsTime $eventDetails.date_start)) -}}
+{{- $eventDetails = merge $eventDetails (dict "date_end" (time.AsTime $eventDetails.date_end)) -}}
+{{- $eventDetails = merge $eventDetails (dict "url" .Permalink) -}}
+{{- if not (reflect.IsMap $eventDetails.location) -}}
+{{- $eventDetails = merge $eventDetails (dict "location" (dict "text" $eventDetails.location)) -}}
+{{- end -}}
+{{- $eventDetails = merge $eventDetails (dict "details" .Params.description) -}}
+{{- return $eventDetails -}}

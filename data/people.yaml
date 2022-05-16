@@ -1,0 +1,22 @@
+board:
+  - name: Radim Urban
+    role: President, Co-founding Member
+    about: Radim studies BSc Computer Science at ETH. In his free time he likes to play tennis or guitar.
+    email: radim.urban@cssz.ch
+    image: images/members/radim-urban.jpeg
+  - name: Juraj Mičko
+    role: Co-founding Member
+    about: "Juraj studies Computer Science MSc at ETH Zurich, after graduating from Cambridge University. He loves producing music, outdoor sports, cooking and spending meaningful time with people. Psst: he can’t wait to meet you!"
+    email: juraj.micko@cssz.ch
+    instagram: jjurm64
+    image: images/members/juraj-micko.jpg
+  - name: Šimon Hrabec
+    role: Co-founding Member
+    about: MSc Computer Science Student at ETH
+    email: simon.hrabec@cssz.ch
+    image: images/members/simon-hrabec.jpg
+  - name: Vu Nguyen
+    role: Co-founding Member
+    about: MSc Computer Science Student at ETH
+    email: vu.nguyen@cssz.ch
+    image: images/members/vu-nguyen.jpeg

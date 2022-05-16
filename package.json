@@ -1,0 +1,12 @@
+{
+  "name": "cssz-web",
+  "version": "1.0.0",
+  "description": "Official website of the Czech and Slovak Students in Zurich association",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.1.1",
+    "bootstrap": "^5.1.3"
+  }
+}
