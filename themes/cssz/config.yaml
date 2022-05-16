@@ -70,7 +70,7 @@ params:
     toggle: false
 
     # Available values: auto, light, dark
-    default: auto
+    default: light
 
   imageProcessing:
     cover:
