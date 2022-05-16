@@ -1,0 +1,8 @@
+{{/*
+  use this template as follows:
+  {{ $image := partial "helper/get-image.html" "images/something.jpg" }}
+*/}}
+
+{{- $image := resources.Get . -}}
+{{- if not $image -}}{{- errorf "Image '%s' cannot be found in assets" .asset -}}{{- end -}}
+{{- return $image -}}

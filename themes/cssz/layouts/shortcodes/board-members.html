@@ -1,0 +1,16 @@
+<div class="people-list">
+{{ range .Site.Data.people.board }}
+<div class="person row">
+    <div class="col-3">
+    {{ partial "helper/fill-image.html" (dict "asset" .image "format" "320x320 q80 jpg") }}
+    </div>
+    <div class="col-9">
+            <h2>{{ .name }}</h2>
+            <strong>{{ .role }}</strong>
+            <p class="about-person">{{ .about }}</p>
+            <a href="mailto:{{ .email }}" target="_blank" rel="noopener">{{ .email }}</a>
+
+    </div>
+</div>
+{{ end }}
+</div>

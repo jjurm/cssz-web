@@ -1,25 +1,4 @@
-baseURL: "https://cssz.ch/"
-title: "Czech and Slovak Students in Zurich"
-languageCode: 'en-us'
-permalinks:
-  post: /:year/:month/:title/
-theme:
-- cssz
-- hugo-theme-stack
-
-enableRobotsTXT: true
-buildDrafts: false
-buildFuture: false
-buildExpired: false
-
-googleAnalytics: G-5CRSPLB515
-
-minify:
-  disableXML: true
-  minifyOutput: true
-
-menu:
-  main: []
+main: []
 #    - identifier: categories
 #      name: categories
 #      url: /categories/
@@ -37,8 +16,3 @@ menu:
 #         guessSyntax: true
 #         lineNos: true
 #         style: monokai
-
-markup:
-  goldmark:
-    renderer:
-      unsafe: true

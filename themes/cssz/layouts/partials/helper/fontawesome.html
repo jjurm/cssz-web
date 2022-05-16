@@ -1,0 +1,24 @@
+{{/*
+Explore available icons here:
+https://fontawesome.com/search?q=calendar&m=free&s=regular%2Csolid%2Cbrands
+*/}}
+{{- $icon := . -}}
+{{- $className := "" -}}
+{{- if reflect.IsMap . -}}
+{{- $icon = .icon -}}
+{{- if isset . "class" -}}{{- $className = .class -}}{{- end -}}
+{{- end -}}
+
+{{- $fname := print "node_modules/@fortawesome/fontawesome-free/svgs/" $icon ".svg" -}}
+{{- if not (fileExists $fname) -}}
+{{- $fname1 := $fname -}}
+{{- $fname = print "node_modules/@fortawesome/fontawesome-free/svgs/regular/" $icon ".svg" -}}
+{{- if not (fileExists $fname) -}}
+{{- errorf "Cannot find font-awesome icon '%s' (%s)" $icon $fname1 -}}
+{{- end -}}
+{{- end -}}
+<span class="svg-icon{{ with $className }} {{ $className }}{{ end }}" >
+{{- $path:="<path" -}}
+{{- $fill:="<path fill=\"currentColor\"" -}}
+{{ replace (readFile $fname) $path $fill | safeHTML }}
+</span>

@@ -1,0 +1,38 @@
+{{ define "main" }}
+
+<article class="{{ if .Params.image }}has-image {{ end }}main-article">
+    {{ partial "article/components/content" . }}
+
+    {{ partial "article/components/footer" . }}
+
+    {{ if or .Params.math .Site.Params.article.math }}
+    {{ partialCached "article/components/math.html" . }}
+    {{ end }}
+</article>
+
+{{ if .Params.links }}
+{{ partial "article/components/links" . }}
+{{ end }}
+
+{{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
+{{ $notHidden := where .Site.RegularPages "Params.hidden" "!=" true }}
+{{ $filtered := ($pages | intersect $notHidden) }}
+{{ $pag := .Paginate ($filtered) }}
+
+<section class="article-list">
+    {{ range $index, $element := $pag.Pages }}
+    {{ if eq $element.Section "events" }}
+    {{ partial "event-list/compact" . }}
+    {{ else }}
+    {{ partial "article-list/default" . }}
+    {{ end }}
+    {{ end }}
+</section>
+
+{{- partial "pagination.html" . -}}
+{{- partial "footer/footer" . -}}
+{{ end }}
+
+{{ define "right-sidebar" }}
+{{ partial "sidebar/right.html" (dict "Context" . "Scope" "homepage") }}
+{{ end }}

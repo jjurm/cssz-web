@@ -1,0 +1,10 @@
+{{- with .eventDetails -}}
+{{- $dateStart := dateFormat "2006-01-02T15:04:05Z07:00" .date_start | replaceRE "-|:" "" | replaceRE "\\+" "Z" -}}
+{{- $dateEnd := dateFormat "2006-01-02T15:04:05Z07:00" .date_end | replaceRE "-|:" "" | replaceRE "\\+" "Z" -}}
+{{- $details := (printf "%s" .url) -}}
+{{- with .details -}}
+    {{- $details = (printf "%s\n\n%s" $details .) -}}
+{{- end -}}
+{{- $url := (printf "https://www.google.com/calendar/render?action=TEMPLATE&text=%s&dates=%s/%s&location=%s&details=%s&sf=true&output=xml&ctz=%s" .title $dateStart $dateEnd .location.text $details $.ctx.Site.Params.timeZone) -}}
+{{- partial "helper/button.html" (dict "link" $url "label" "Add to Google Calendar" "class" "btn-secondary") -}}
+{{- end -}}

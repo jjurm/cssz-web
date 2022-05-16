@@ -1,0 +1,11 @@
+{{/*
+    use the template as follows:
+    {{ partial "helper/button.html" (dict "link" "http://..." "label" "Read more" "class" "btn-main" "title" "Read more") }}
+    ("class", "title" are optional)
+
+    example styles:
+      - btn-secondary
+      - btn-solid-border
+*/}}
+<a href="{{ .link | safeURL }}" class="btn {{ if .class }}{{ .class }}{{ else }}btn-main{{ end }}"{{ with .title}} title="{{ . | safeHTML }}"{{ end }}{{ if strings.HasPrefix .link "http" }} target="_blank" rel="noopener"
+{{ end }}>{{ .label }}{{ partial "helper/fontawesome" "solid/angle-right" }}</a>

@@ -1,0 +1,31 @@
+{{- $eventDetails := partial "event/event-details-dict" . -}}
+{{- with $eventDetails -}}
+<span class="event-compact-details">
+    {{ if .date_start }}
+        <span>
+        {{ partial "helper/fontawesome" "calendar" }}
+        <time>{{- .date_start.Format $.Site.Params.dateFormat.event -}}
+        </time>
+        {{ if .date_end }}
+        &mdash;
+        <time>
+            {{ if (eq (.date_start.Format "2006-01-21") (.date_end.Format "2006-01-21")) }}
+            {{- .date_end.Format $.Site.Params.dateFormat.eventEndShort -}}
+            {{ else }}
+            {{- .date_end.Format $.Site.Params.dateFormat.event -}}
+            {{ end }}
+        </time>
+        {{ end }}
+        </span>
+    {{ end }}
+
+    {{ with .location }}
+        <span>
+        {{ partial "helper/fontawesome" "solid/location-dot" }}
+        <address>
+            {{ .text }}
+        </address>
+        </span>
+    {{ end }}
+    </span>
+{{- end -}}
