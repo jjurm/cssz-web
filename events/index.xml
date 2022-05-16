@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Events on Czech and Slovak Students in Zurich</title>
+        <link>https://cssz.ch/events/</link>
+        <description>Recent content in Events on Czech and Slovak Students in Zurich</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-gb</language>
+        <lastBuildDate>Mon, 02 May 2022 00:00:00 +0200</lastBuildDate><atom:link href="https://cssz.ch/events/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Grill Welcome Event!</title>
+        <link>https://cssz.ch/events/grill-welcome-event/</link>
+        <pubDate>Mon, 02 May 2022 00:00:00 +0200</pubDate>
+        
+        <guid>https://cssz.ch/events/grill-welcome-event/</guid>
+        <description>&lt;p&gt;At the end of April, the Czech and Slovak Students in Zurich association was officially founded. To celebrate this occasion, we are going to be grilling at Käferberg! Come to meet Czech and Slovak students and get to know the association itself. We plan to grill, have a bonfire and sing not only Czech and Slovak songs (guitar included).&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

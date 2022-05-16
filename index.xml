@@ -1,71 +1,137 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Czech and Slovak Students in Zurich</title>
-    <link>https://cssz.ch/</link>
-    <description>Recent content on Czech and Slovak Students in Zurich</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 02 May 2022 12:45:12 +0200</lastBuildDate><atom:link href="https://cssz.ch/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Grill Welcome Event!</title>
-      <link>https://cssz.ch/posts/welcome-event/</link>
-      <pubDate>Mon, 02 May 2022 12:45:12 +0200</pubDate>
-      
-      <guid>https://cssz.ch/posts/welcome-event/</guid>
-      <description>Sign Up Become a CSSZ Member
-NEW DATE: 20. 5. 2022 17:00
-English version follows
-Prosím, přihlaste se na tuto událost zde, abychom mohli dobře odhadnout celkovou účast (ulehčí nám to nákup)! Pokud ještě nejste členy CSSZ, zaregistrujte se nejprve jako člen CSSZ zde a akce je pro Vás zdarma. Děkujeme :)
-Na konci dubna tohoto roku oficiálně vznikl spolek Czech and Slovak Students in Zurich. K této příležitosti organizujeme grilování na Käferbergu!</description>
-    </item>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>CSSZ on Czech and Slovak Students in Zurich</title>
+        <link>https://cssz.ch/</link>
+        <description>Recent content in CSSZ on Czech and Slovak Students in Zurich</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-gb</language>
+        <lastBuildDate>Mon, 02 May 2022 00:00:00 +0200</lastBuildDate><atom:link href="https://cssz.ch/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Grill Welcome Event!</title>
+        <link>https://cssz.ch/events/grill-welcome-event/</link>
+        <pubDate>Mon, 02 May 2022 00:00:00 +0200</pubDate>
+        
+        <guid>https://cssz.ch/events/grill-welcome-event/</guid>
+        <description>&lt;p&gt;At the end of April, the Czech and Slovak Students in Zurich association was officially founded. To celebrate this occasion, we are going to be grilling at Käferberg! Come to meet Czech and Slovak students and get to know the association itself. We plan to grill, have a bonfire and sing not only Czech and Slovak songs (guitar included).&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Contact</title>
+        <link>https://cssz.ch/contact/</link>
+        <pubDate>Mon, 04 Apr 2022 18:18:26 +0200</pubDate>
+        
+        <guid>https://cssz.ch/contact/</guid>
+        <description>&lt;dl&gt;
+&lt;dt&gt;Email:&lt;/dt&gt;
+&lt;dd&gt;You can either contact us on general &lt;a class=&#34;link&#34; href=&#34;mailto:info@cssz.ch&#34; &gt;info@cssz.ch&lt;/a&gt; or contact a &lt;a class=&#34;link&#34; href=&#34;https://cssz.ch/about/#meet-the-board&#34; &gt;specific board member&lt;/a&gt;.&lt;/dd&gt;
+&lt;dt&gt;Address:&lt;/dt&gt;
+&lt;dd&gt;Czech and Slovak Students in Zurich&lt;br&gt;
+c/o VSETH&lt;br&gt;
+CAB E27&lt;br&gt;
+Universitätstrasse 6&lt;br&gt;
+8092 Zürich&lt;br&gt;
+Switzerland&lt;/dd&gt;
+&lt;/dl&gt;
+</description>
+        </item>
+        <item>
+        <title>Hello and Welcome to CSSZ!🇨🇿🇸🇰</title>
+        <link>https://cssz.ch/posts/my-first-post/</link>
+        <pubDate>Mon, 04 Apr 2022 16:45:12 +0200</pubDate>
+        
+        <guid>https://cssz.ch/posts/my-first-post/</guid>
+        <description>&lt;p&gt;Hello and Welcome!&lt;/p&gt;
+&lt;p&gt;Welcome to the official webpage of Czech and Slovak Students in Zurich!&lt;/p&gt;
+&lt;p&gt;Stay tuned as we will post soon about what we have planned for you!&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>About us</title>
+        <link>https://cssz.ch/about/</link>
+        <pubDate>Mon, 04 Apr 2022 00:00:00 +0200</pubDate>
+        
+        <guid>https://cssz.ch/about/</guid>
+        <description>&lt;p&gt;CSSZ (Czech and Slovak Students in Zurich) is an association founded by 4 ETH students from the Czech Republic and Slovakia.&lt;/p&gt;
+&lt;h2 id=&#34;goals-of-the-association&#34;&gt;Goals of The Association&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Unite the community&lt;/strong&gt; of students from the Czech Republic and Slovakia in Zurich&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Organise events&lt;/strong&gt; for everyone to socialize (participation is not limited by nationality, religion or gender), present Czech and Slovak culture.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Provide support&lt;/strong&gt; to students in academic and related matters. Students can contact the association with any questions or requests for help. We are also happy to help potential students with their applications and in any other way.&lt;/li&gt;
+&lt;li&gt;To &lt;strong&gt;introduce Swiss culture&lt;/strong&gt; and to the Czechs and Slovaks studying in Switzerland.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The association does not pursue commercial purposes and does not seek profit. The organs work on an honorary basis.
+We hope you will find the association useful and fun!&lt;/p&gt;
+&lt;h2 id=&#34;meet-the-board&#34;&gt;Meet The Board&lt;/h2&gt;
+&lt;div class=&#34;people-list&#34;&gt;
+
+&lt;div class=&#34;person row&#34;&gt;
+    &lt;div class=&#34;col-3&#34;&gt;
     
-    <item>
-      <title>Events</title>
-      <link>https://cssz.ch/events/</link>
-      <pubDate>Wed, 27 Apr 2022 18:18:26 +0200</pubDate>
-      
-      <guid>https://cssz.ch/events/</guid>
-      <description>Welcome to our Events!
-Here, you will find out all you need to know about the events we have organized for you!
-Grill Welcome Event! Sign Up
- Date 20. 5. 2022 at 17:00 Where Käferberg Grillstelle Details Event Sign up Sign up Price free for CSSZ members / 8CHF (you can become member here)   .sign-in{ padding:5px 15px;background-color:rgb(30,30,30);color:white;border-radius:5px;float:right; } .sign-in:hover{ background-color:rgb(50,50,50); } .sign-in:active{ background-color:rgb(70,70,70); }  </description>
-    </item>
+&lt;img src=&#34;https://cssz.ch/images/members/radim-urban_hu24f5efb6a3abe27c030f455a40c6373c_223269_320x320_fill_q80_box_smart1.jpeg&#34; width=&#34;320&#34; height=&#34;320&#34; class=&#34;img-fluid&#34;&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;col-9&#34;&gt;
+            &lt;h2&gt;Radim Urban&lt;/h2&gt;
+            &lt;strong&gt;President, Co-founding Member&lt;/strong&gt;
+            &lt;p class=&#34;about-person&#34;&gt;Radim studies BSc Computer Science at ETH. In his free time he likes to play tennis or guitar.&lt;/p&gt;
+            &lt;a href=&#34;mailto:radim.urban@cssz.ch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;radim.urban@cssz.ch&lt;/a&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;person row&#34;&gt;
+    &lt;div class=&#34;col-3&#34;&gt;
     
-    <item>
-      <title>About us</title>
-      <link>https://cssz.ch/about/</link>
-      <pubDate>Mon, 04 Apr 2022 18:18:26 +0200</pubDate>
-      
-      <guid>https://cssz.ch/about/</guid>
-      <description>The CSSZ (Czech and Slovak Students in Zurich) is an association founded by 4 ETH students from Czech Republic and Slovakia.
-Goals of The Association  To unite the community of students from the Czech Republic and Slovakia in Zurich. This goal is achieved by organizing various social events. By organizing these for everyone (participation is not limited by nationality, religion or gender), we also want to present Czech and Slovak culture.</description>
-    </item>
+&lt;img src=&#34;https://cssz.ch/images/members/juraj-micko_huec2c903921342f8b071bafe620ebfb65_2594921_320x320_fill_q80_box_smart1.jpg&#34; width=&#34;320&#34; height=&#34;320&#34; class=&#34;img-fluid&#34;&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;col-9&#34;&gt;
+            &lt;h2&gt;Juraj Mičko&lt;/h2&gt;
+            &lt;strong&gt;Co-founding Member&lt;/strong&gt;
+            &lt;p class=&#34;about-person&#34;&gt;Juraj studies Computer Science MSc at ETH Zurich, after graduating from Cambridge University. He loves producing music, outdoor sports, cooking and spending meaningful time with people. Psst: he can’t wait to meet you!&lt;/p&gt;
+            &lt;a href=&#34;mailto:juraj.micko@cssz.ch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;juraj.micko@cssz.ch&lt;/a&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;person row&#34;&gt;
+    &lt;div class=&#34;col-3&#34;&gt;
     
-    <item>
-      <title>Contact</title>
-      <link>https://cssz.ch/contact/</link>
-      <pubDate>Mon, 04 Apr 2022 18:18:26 +0200</pubDate>
-      
-      <guid>https://cssz.ch/contact/</guid>
-      <description> Email: You can either contact us on general info@cssz.ch or contact a specific board member. Address: Czech and Slovak Students in Zurich
-c/o VSETH
-CAB E27
-Universitätstrasse 6
-8092 Zürich
-Switzerland  </description>
-    </item>
+&lt;img src=&#34;https://cssz.ch/images/members/simon-hrabec_hu4135d3b5bfe504bf3ac1fcba011e00c2_37355_320x320_fill_q80_box_smart1.jpg&#34; width=&#34;320&#34; height=&#34;320&#34; class=&#34;img-fluid&#34;&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;col-9&#34;&gt;
+            &lt;h2&gt;Šimon Hrabec&lt;/h2&gt;
+            &lt;strong&gt;Co-founding Member&lt;/strong&gt;
+            &lt;p class=&#34;about-person&#34;&gt;MSc Computer Science Student at ETH&lt;/p&gt;
+            &lt;a href=&#34;mailto:simon.hrabec@cssz.ch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;simon.hrabec@cssz.ch&lt;/a&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;person row&#34;&gt;
+    &lt;div class=&#34;col-3&#34;&gt;
     
-    <item>
-      <title>Hello and Welcome to CSSZ!🇨🇿🇸🇰</title>
-      <link>https://cssz.ch/posts/my-first-post/</link>
-      <pubDate>Mon, 04 Apr 2022 16:45:12 +0200</pubDate>
-      
-      <guid>https://cssz.ch/posts/my-first-post/</guid>
-      <description>Hello and Welcome!
-Welcome to the official webpage of Czech and Slovak Students in Zurich!
-Stay tuned as we will post soon about what we have planned for you!</description>
-    </item>
-    
-  </channel>
+&lt;img src=&#34;https://cssz.ch/images/members/vu-nguyen_huaf52aeabf5a38bf2293765c575105421_15312_320x320_fill_q80_box_smart1.jpeg&#34; width=&#34;320&#34; height=&#34;320&#34; class=&#34;img-fluid&#34;&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;col-9&#34;&gt;
+            &lt;h2&gt;Vu Nguyen&lt;/h2&gt;
+            &lt;strong&gt;Co-founding Member&lt;/strong&gt;
+            &lt;p class=&#34;about-person&#34;&gt;MSc Computer Science Student at ETH&lt;/p&gt;
+            &lt;a href=&#34;mailto:vu.nguyen@cssz.ch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;vu.nguyen@cssz.ch&lt;/a&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+</description>
+        </item>
+        <item>
+        <title>Search</title>
+        <link>https://cssz.ch/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://cssz.ch/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
 </rss>

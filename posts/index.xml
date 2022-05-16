@@ -1,35 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Posts on Czech and Slovak Students in Zurich</title>
-    <link>https://cssz.ch/posts/</link>
-    <description>Recent content in Posts on Czech and Slovak Students in Zurich</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 02 May 2022 12:45:12 +0200</lastBuildDate><atom:link href="https://cssz.ch/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Grill Welcome Event!</title>
-      <link>https://cssz.ch/posts/welcome-event/</link>
-      <pubDate>Mon, 02 May 2022 12:45:12 +0200</pubDate>
-      
-      <guid>https://cssz.ch/posts/welcome-event/</guid>
-      <description>Sign Up Become a CSSZ Member
-NEW DATE: 20. 5. 2022 17:00
-English version follows
-Prosím, přihlaste se na tuto událost zde, abychom mohli dobře odhadnout celkovou účast (ulehčí nám to nákup)! Pokud ještě nejste členy CSSZ, zaregistrujte se nejprve jako člen CSSZ zde a akce je pro Vás zdarma. Děkujeme :)
-Na konci dubna tohoto roku oficiálně vznikl spolek Czech and Slovak Students in Zurich. K této příležitosti organizujeme grilování na Käferbergu!</description>
-    </item>
-    
-    <item>
-      <title>Hello and Welcome to CSSZ!🇨🇿🇸🇰</title>
-      <link>https://cssz.ch/posts/my-first-post/</link>
-      <pubDate>Mon, 04 Apr 2022 16:45:12 +0200</pubDate>
-      
-      <guid>https://cssz.ch/posts/my-first-post/</guid>
-      <description>Hello and Welcome!
-Welcome to the official webpage of Czech and Slovak Students in Zurich!
-Stay tuned as we will post soon about what we have planned for you!</description>
-    </item>
-    
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Czech and Slovak Students in Zurich</title>
+        <link>https://cssz.ch/posts/</link>
+        <description>Recent content in Posts on Czech and Slovak Students in Zurich</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-gb</language>
+        <lastBuildDate>Mon, 04 Apr 2022 16:45:12 +0200</lastBuildDate><atom:link href="https://cssz.ch/posts/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Hello and Welcome to CSSZ!🇨🇿🇸🇰</title>
+        <link>https://cssz.ch/posts/my-first-post/</link>
+        <pubDate>Mon, 04 Apr 2022 16:45:12 +0200</pubDate>
+        
+        <guid>https://cssz.ch/posts/my-first-post/</guid>
+        <description>&lt;p&gt;Hello and Welcome!&lt;/p&gt;
+&lt;p&gt;Welcome to the official webpage of Czech and Slovak Students in Zurich!&lt;/p&gt;
+&lt;p&gt;Stay tuned as we will post soon about what we have planned for you!&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>

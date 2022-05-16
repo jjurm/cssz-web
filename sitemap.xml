@@ -3,19 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://cssz.ch/</loc>
-    <lastmod>2022-05-02T12:45:12+02:00</lastmod>
-  </url><url>
-    <loc>https://cssz.ch/posts/welcome-event/</loc>
-    <lastmod>2022-05-02T12:45:12+02:00</lastmod>
-  </url><url>
-    <loc>https://cssz.ch/posts/</loc>
-    <lastmod>2022-05-02T12:45:12+02:00</lastmod>
+    <lastmod>2022-05-02T00:00:00+02:00</lastmod>
   </url><url>
     <loc>https://cssz.ch/events/</loc>
-    <lastmod>2022-04-27T18:18:26+02:00</lastmod>
+    <lastmod>2022-05-02T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://cssz.ch/about/</loc>
-    <lastmod>2022-04-04T18:18:26+02:00</lastmod>
+    <loc>https://cssz.ch/events/grill-welcome-event/</loc>
+    <lastmod>2022-05-02T00:00:00+02:00</lastmod>
   </url><url>
     <loc>https://cssz.ch/contact/</loc>
     <lastmod>2022-04-04T18:18:26+02:00</lastmod>
@@ -23,7 +17,15 @@
     <loc>https://cssz.ch/posts/my-first-post/</loc>
     <lastmod>2022-04-04T16:45:12+02:00</lastmod>
   </url><url>
+    <loc>https://cssz.ch/posts/</loc>
+    <lastmod>2022-04-04T16:45:12+02:00</lastmod>
+  </url><url>
+    <loc>https://cssz.ch/about/</loc>
+    <lastmod>2022-04-04T00:00:00+02:00</lastmod>
+  </url><url>
     <loc>https://cssz.ch/categories/</loc>
+  </url><url>
+    <loc>https://cssz.ch/search/</loc>
   </url><url>
     <loc>https://cssz.ch/tags/</loc>
   </url>

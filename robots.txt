@@ -1,3 +1,1 @@
 User-agent: *
-Disallow:
-Sitemap: https://cssz.ch/sitemap.xml
