@@ -3,7 +3,7 @@
 <div class="article-details event-details">
     <dl>
         {{ if .date_start }}
-        <dt>{{ partial "helper/fontawesome" "calendar" }} Event date:</dt>
+        <dt>{{ partial "helper/fontawesome" "calendar" }}&nbsp;Event date:</dt>
         <dd>
             <time>{{- .date_start.Format $.Site.Params.dateFormat.event -}}
             </time>
@@ -21,7 +21,7 @@
         </dd>
         {{ end }}
         {{ with .location }}
-        <dt>{{ partial "helper/fontawesome" "solid/location-dot" }}Location:</dt>
+        <dt>{{ partial "helper/fontawesome" "solid/location-dot" }}&nbsp;Location:</dt>
         <dd>
             {{- $url := (printf `https://maps.google.com/?q=%s` .text) -}}
             {{ if isset . "link" -}}
@@ -35,7 +35,7 @@
         </dd>
         {{ end }}
         {{ with .registration }}
-        <dt>{{ partial "helper/fontawesome" "solid/user-plus" }} Registration:</dt>
+        <dt>{{ partial "helper/fontawesome" "solid/user-plus" }}&nbsp;Registration:</dt>
         <dd>
             {{- partial "helper/button.html" (dict "link" .link "label" .text "class" "btn-primary") -}}
         </dd>
