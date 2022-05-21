@@ -19,19 +19,23 @@
                     {{- $Permalink := $image.resource.RelPermalink -}}
                     {{- $Width := $image.resource.Width -}}
                     {{- $Height := $image.resource.Height -}}
+                    {{- $Srcset := "" -}}
 
                     {{- if (default true .Page.Site.Params.imageProcessing.cover.enabled) -}}
-                        {{- $thumbnail := $image.resource.Fill "120x120" -}}
+                        {{- $thumbnail := $image.resource.Resize "800x" -}}
+                        {{- $thumbnailRetina := $image.resource.Resize "1600x" -}}
+                        {{- $Srcset = printf "%s 800w, %s 1600w" $thumbnail.RelPermalink $thumbnailRetina.RelPermalink -}}
                         {{- $Permalink = $thumbnail.RelPermalink -}}
                         {{- $Width = $thumbnail.Width -}}
                         {{- $Height = $thumbnail.Height -}}
                     {{- end -}}
 
                     <img src="{{ $Permalink }}"
-                        width="{{ $Width }}"
-                        height="{{ $Height }}"
-                        alt="{{ .Title }}"
-                        loading="lazy">
+                         {{ with $Srcset }}srcset="{{ . }}"{{ end }}
+                         width="{{ $Width }}"
+                         height="{{ $Height }}"
+                         loading="lazy"
+                         alt="{{ .Title }}" />
                 {{ else }}
                     <img src="{{ $image.permalink }}" loading="lazy" alt="Featured image of post {{ .Title }}" />
                 {{ end }}
