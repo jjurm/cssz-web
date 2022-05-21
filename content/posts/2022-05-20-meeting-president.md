@@ -12,3 +12,5 @@ Hosted by the H.E. Ignazio Cassis, President of the Swiss Confederation, she was
 After the visit, the delegation went to the famous Polyterrasse in front of the main building of ETH, where students from Slovakia and the Czech Republic exchanged a few words directly with the President Čaputová. We talked about studying at ETH and the CSSZ association. The President was grateful for the meeting, and she appreciated our initiative.
 
 Thank you to the President for a very nice meeting!
+
+{{< image asset="images/events/2022-05-20-meeting-president/image3.jpeg" format="1600x1000" >}}
