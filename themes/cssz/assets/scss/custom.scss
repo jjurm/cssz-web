@@ -52,6 +52,10 @@ p, dl, .alert {
   time, a {
     font-size: 1em;
   }
+
+  address {
+    margin-bottom: 0;
+  }
 }
 
 // Sidebar
@@ -68,19 +72,6 @@ p, dl, .alert {
 }
 
 // Event details
-.event-compact-details {
-  color: var(--card-text-color-secondary);
-  font-size: 1.2rem;
-
-  display: flex;
-  flex-direction: row;
-  gap: 12px;
-
-  & > span {
-
-  }
-}
-
 .event-details {
   &, & .btn {
     font-family: var(--article-font-family);
