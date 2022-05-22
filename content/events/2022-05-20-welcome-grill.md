@@ -26,3 +26,15 @@ event_details:
 ---
 
 At the end of April, the Czech and Slovak Students in Zurich association was officially founded. To celebrate this occasion, we are going to be grilling at Käferberg! Come to meet Czech and Slovak students and get to know the association itself. We plan to grill, have a bonfire and sing not only Czech and Slovak songs (guitar included).
+
+---
+
+## Summary
+
+The first official event of CSSZ was a success!
+
+We were delighted to welcome also two professors from ETH with Slovak roots: Dr. Jan Cvengros and Prof. Peter Molnar.
+Thank you to all for a large attendance and we're already looking forward to the next event! ❤️
+
+{{< image asset="images/events/2022-05-20-welcome-grill/image0.jpeg" height=500 >}}
+{{< image asset="images/events/2022-05-20-welcome-grill/image1.jpeg" height=500 >}}
