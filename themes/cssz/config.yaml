@@ -97,6 +97,10 @@ params:
         height: 150
         quality: 75
         loading: lazy
+      person:
+        width: 180
+        height: 180
+        max_vw: 20
 
 ### Custom menu
 ### See https://docs.stack.jimmycai.com/configuration/custom-menu.html
