@@ -3,7 +3,7 @@
 <div class="person row">
     <div class="col-3">
         {{- $params := dict "asset" .image "type" "person" -}}
-        {{ partialCached "helper/resize-image" (dict "Context" $ "Params" $params) $params }}
+        {{ partialCached "helper/resize-image" (dict "Context" $.Page "Params" $params) $params }}
     </div>
     <div class="col-9">
             <h2>{{ .name }}</h2>

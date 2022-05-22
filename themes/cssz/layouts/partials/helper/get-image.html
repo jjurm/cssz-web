@@ -4,5 +4,5 @@
 */}}
 
 {{- $image := resources.Get . -}}
-{{- if not $image -}}{{- errorf "Image '%s' cannot be found in assets" .asset -}}{{- end -}}
+{{- if not $image -}}{{- errorf "Image '%s' cannot be found in assets" . -}}{{- end -}}
 {{- return $image -}}
