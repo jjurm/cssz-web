@@ -16,7 +16,6 @@
     {{- else if and (isset . "image") .image.resource -}}
         {{- $image = .image.resource -}}
     {{- end -}}
-    {{ $original := $image }}
 
     {{- if $image -}}
         {{- $Width := $image.Width -}}
@@ -47,6 +46,7 @@
         {{- else if and (lt $largestScale 2) (or ($input_width) ($input_height)) -}}
             {{ warnf "Image %s is smaller than ideal for requested dimensions %dx%d (recommended is at least scale 2, i.e. %dx%d)" $image.RelPermalink $Width $Height (mul 2 $Width) (mul 2 $Height) }}
         {{- end -}}
+        {{- $largestScale = math.Min $largestScale 2.0 -}}
         {{- $largestW := mul $largestScale $Width | math.Round | int -}}
         {{- $largestH := mul $largestScale $Height | math.Round | int -}}
 
@@ -78,7 +78,19 @@
         {{- $scaled := slice -}}
         {{- $srcset_webp := slice -}}
         {{- $srcset_jpg := slice -}}
-        {{- range ($typeConfig.responsive_image_widths | append $image.Width) -}}
+        {{- range (slice $Width $image.Width) -}}
+            {{- $w := . -}}
+            {{- $h := mul (div (float $image.Height) $image.Width) $w | math.Round | int -}}
+            {{- if le $w $image.Width -}}
+                {{- $webp := $image.Resize (printf "%dx%d webp q%d" $w $h $quality) -}}
+                {{- $jpg := $image.Resize (printf "%dx%d jpg q%d" $w $h $quality) -}}
+
+                {{- $srcset_webp = $srcset_webp | append (printf "%s %dw" $webp.RelPermalink $w) -}}
+                {{- $srcset_jpg = $srcset_jpg | append (printf "%s %dw" $jpg.RelPermalink $w) -}}
+                {{- $scaled = $scaled | append (dict "w" $w "image" $jpg) -}}
+            {{- end -}}
+        {{- end -}}
+        {{- range $typeConfig.responsive_image_widths -}}
             {{- $w := div (mul (float .) $typeConfig.max_vw) 100 | math.Round | int -}}
             {{- $h := mul (div (float $image.Height) $image.Width) $w | math.Round | int -}}
             {{- if le $w $image.Width -}}
@@ -106,7 +118,7 @@
                     sizes="(max-width: {{ $Width }}px) 100vw, {{ $Width }}px"
                     type="image/jpeg"
             />
-            <img src="{{ $original.RelPermalink }}"
+            <img src="{{ $defaultImg.RelPermalink }}"
                  width="{{ $Width }}"
                  height="{{ $Height }}"
                  {{ with .class }}class="{{ . }}"{{ end }}
