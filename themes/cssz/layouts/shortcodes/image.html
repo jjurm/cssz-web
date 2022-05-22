@@ -1,5 +1,1 @@
-{{- $params := (dict "asset" $.Params.asset "format" $.Params.format "class" $.Params.class "style" $.Params.style) -}}
-{{- with $.Params.alt -}}
-{{- $params = merge $params (dict "alt" .) -}}
-{{- end -}}
-{{- partial "helper/fill-image.html" $params -}}
+{{- partial "helper/resize-image.html" (dict "Context" . "Params" .Params) -}}

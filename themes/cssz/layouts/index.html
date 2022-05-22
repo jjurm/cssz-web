@@ -21,11 +21,7 @@
 
 <section class="article-list">
     {{ range $index, $element := $pag.Pages }}
-    {{ if eq $element.Section "events" }}
-    {{ partial "event-list/compact" . }}
-    {{ else }}
     {{ partial "article-list/default" . }}
-    {{ end }}
     {{ end }}
 </section>
 

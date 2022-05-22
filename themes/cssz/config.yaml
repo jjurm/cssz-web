@@ -77,6 +77,26 @@ params:
       enabled: true
     content:
       enabled: true
+    imageTypes:
+      default:
+        responsive_image_widths: [640, 1024, 1600, 2000, 4000] # at what sizes should images be generated
+        max_vw: 100 # what is the maximum expected viewport width (100%). For smaller images, e.g. thumbnails, this will be smaller. responsiveImageWidths are then scaled appropriately.
+        quality: 85
+      thumbnail:
+        width: 60
+        height: 60
+        loading: lazy
+        max_vw: 10
+      featured:
+        width: 1253
+        max_vw: 100
+        quality: 85
+        loading: lazy
+      tile:
+        width: 250
+        height: 150
+        quality: 75
+        loading: lazy
 
 ### Custom menu
 ### See https://docs.stack.jimmycai.com/configuration/custom-menu.html

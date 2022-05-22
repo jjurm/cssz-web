@@ -1,0 +1,128 @@
+{{- if not (isset . "Context") -}}
+    {{ errorf "When calling helper/resize-image.html, context must be given in .Context" }}
+{{- end -}}
+{{- with default (dict) .Params -}}
+
+    {{- $type := "default" -}}
+    {{- if isset . "type" -}}{{- $type = .type -}}{{- end -}}
+    {{- $typeConfig := merge $.Context.Site.Params.imageProcessing.imageTypes.default (index $.Context.Site.Params.imageProcessing.imageTypes $type) -}}
+
+    {{- $quality := default $typeConfig.quality .quality -}}
+    {{- $loading := default (default "" $typeConfig.loading) .loading -}}
+
+    {{- $image := "" -}}
+    {{- if isset . "asset" -}}
+        {{- $image = partial "helper/get-image.html" .asset -}}
+    {{- else if and (isset . "image") .image.resource -}}
+        {{- $image = .image.resource -}}
+    {{- end -}}
+    {{ $original := $image }}
+
+    {{- if $image -}}
+        {{- $Width := $image.Width -}}
+        {{- $Height := $image.Height -}}
+
+        {{- $input_width := default false $typeConfig.width -}}
+        {{- if isset . "width" -}}{{- $input_width = .width -}}{{- end -}}
+        {{- $input_height := default false $typeConfig.height -}}
+        {{- if isset . "height" -}}{{- $input_height = .height -}}{{- end -}}
+
+        {{- if $input_width -}}
+            {{- if $input_height -}}
+                {{- $Height = $input_height -}}
+            {{- else -}}
+                {{- $Height = mul (div (float $Height) $Width) $input_width | math.Round | int -}}
+            {{- end -}}
+            {{- $Width = $input_width -}}
+        {{- else -}}
+            {{- if $input_height -}}
+                {{- $Width = mul (div (float $Width) $Height) $input_height | math.Round | int -}}
+                {{- $Height = $input_height -}}
+            {{- end -}}
+        {{- end -}}
+
+        {{- $largestScale := math.Min (div (float $image.Width) $Width) (div (float $image.Height) $Height) -}}
+        {{- if lt $largestScale 1 -}}
+            {{ errorf "Image %s is too small for requested dimensions %dx%d" $image.RelPermalink $Width $Height }}
+        {{- else if lt $largestScale 2 -}}
+            {{ warnf "Image %s is smaller than ideal for requested dimensions %dx%d (recommended is at least scale 2, i.e. %dx%d)" $image.RelPermalink $Width $Height (mul 2 $Width) (mul 2 $Height) }}
+        {{- end -}}
+        {{- $largestW := mul $largestScale $Width | math.Round | int -}}
+        {{- $largestH := mul $largestScale $Height | math.Round | int -}}
+
+        {{- $format := (printf "%dx%d q100" $largestW $largestH) -}}
+        {{- if $format -}}
+            {{- $command := default "fill" .command -}}
+
+            {{- if gt (len (findRE "^resize " $format 1)) 0 -}}
+                {{- $format = replaceRE "^resize " "" $format 1 -}}
+            {{- end -}}
+            {{- if gt (len (findRE "^fill " $format 1)) 0 -}}
+                {{- $format = replaceRE "^fill " "" $format 1 -}}
+                {{- $command = "fill" -}}
+            {{- end -}}
+            {{- if gt (len (findRE "^fit " $format 1)) 0 -}}
+                {{- $format = replaceRE "^fit " "" $format 1 -}}
+                {{- $command = "fit" -}}
+            {{- end -}}
+
+            {{- if eq $command "resize" -}}
+                {{- $image = $image.Resize $format -}}
+            {{- else if eq $command "fill" -}}
+                {{- $image = $image.Fill $format -}}
+            {{- else if eq $command "fit" -}}
+                {{- $image = $image.Fit $format -}}
+            {{- end -}}
+        {{- end -}}
+
+        {{- $scaled := slice -}}
+        {{- $srcset_webp := slice -}}
+        {{- $srcset_jpg := slice -}}
+        {{- range ($typeConfig.responsive_image_widths | append $image.Width) -}}
+            {{- $w := div (mul (float .) $typeConfig.max_vw) 100 | math.Round | int -}}
+            {{- $h := mul (div (float $image.Height) $image.Width) $w | math.Round | int -}}
+            {{- if le $w $image.Width -}}
+                {{- $webp := $image.Resize (printf "%dx%d webp q%d" $w $h $quality) -}}
+                {{- $jpg := $image.Resize (printf "%dx%d jpg q%d" $w $h $quality) -}}
+
+                {{- $srcset_webp = $srcset_webp | append (printf "%s %dw" $webp.RelPermalink $w) -}}
+                {{- $srcset_jpg = $srcset_jpg | append (printf "%s %dw" $jpg.RelPermalink $w) -}}
+                {{- $scaled = $scaled | append (dict "w" $w "image" $jpg) -}}
+            {{- end -}}
+        {{- end -}}
+
+        {{- $defaultImg := $image -}}
+        {{- range first 1 (where $scaled "w" ">=" $Width) -}}
+            {{- $defaultImg = .image -}}
+        {{- end -}}
+
+        {{- $lqip := $image.Resize "20x" -}}
+        <picture class="img" style="background: url(data:image/jpeg;base64,{{ $lqip.Content | base64Encode }}); background-size: cover; display: inline;">
+            <source srcset='{{- delimit $srcset_webp ", " -}}'
+                    sizes="(max-width: {{ $Width }}px) 100vw, {{ $Width }}px"
+                    type="image/webp"
+            />
+            <source srcset='{{- delimit $srcset_jpg ", " -}}'
+                    sizes="(max-width: {{ $Width }}px) 100vw, {{ $Width }}px"
+                    type="image/jpeg"
+            />
+            <img src="{{ $original.RelPermalink }}"
+                 width="{{ $Width }}"
+                 height="{{ $Height }}"
+                 {{ with .class }}class="{{ . }}"{{ end }}
+                 {{ with $loading }}loading="{{ . }}"{{ end }}
+                 {{ with .alt }} alt="{{ . }}"{{ end }}
+                 {{ with .style }} style="{{ . | safeCSS }}"{{ end }}
+            />
+        </picture>
+    {{- else if and (isset . "image") .image.permalink -}}
+        <img src="{{ .image.permalink }}"
+             {{ with .class }}class="{{ . }}"{{ end }}
+             {{ with $loading }}loading="{{ . }}"{{ end }}
+             {{ with .alt }} alt="{{ . }}"{{ end }}
+             {{ with .style }} style="{{ . | safeCSS }}"{{ end }}
+        />
+    {{- else -}}
+        {{ errorf "No image could be loaded from parameters %#v" . }}
+    {{- end -}}
+{{- end -}}

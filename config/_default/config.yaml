@@ -32,6 +32,13 @@ minify:
   disableXML: true
   minifyOutput: true
 
+imaging:
+  anchor: Smart
+  #bgColor: '#ffffff'
+  hint: photo
+  #quality: 75
+  resampleFilter: Lanczos # using Lanczos may cause a slower build
+
 related:
   includeNewer: true
   threshold: 60

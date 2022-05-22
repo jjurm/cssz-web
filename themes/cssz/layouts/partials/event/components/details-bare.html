@@ -23,35 +23,6 @@
         {{ end }}
     </div>
 
-    {{ if eq .Section "events" }}
-    {{- partial "event-list/event-details-inline.html" . -}}
-    {{ else }}
-    {{ if or (not .Date.IsZero) (.Site.Params.article.readingTime) }}
-    <footer class="article-time">
-        {{ if not .Date.IsZero }}
-        <div>
-            {{ partial "helper/icon" "date" }}
-            <span>
-                {{ T "article.publishedOn" }}
-                <time class="article-time--published">
-                    {{- .Date.Format (or .Site.Params.dateFormat.published "Jan 02, 2006") -}}
-                </time>
-            </span>
-        </div>
-        {{ end }}
-
-        {{ if .Site.Params.article.readingTime }}
-        <div>
-            {{ partial "helper/icon" "clock" }}
-            <time class="article-time--reading">
-                {{ T "article.readingTime" .ReadingTime }}
-            </time>
-        </div>
-        {{ end }}
-    </footer>
-    {{ end }}
-    {{ end }}
-
     {{ if .IsTranslated }}
     <footer class="article-translations">
         {{ partial "helper/icon" "language" }}
