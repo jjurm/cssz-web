@@ -44,7 +44,7 @@
         {{- $largestScale := math.Min (div (float $image.Width) $Width) (div (float $image.Height) $Height) -}}
         {{- if lt $largestScale 1 -}}
             {{ errorf "Image %s is too small for requested dimensions %dx%d" $image.RelPermalink $Width $Height }}
-        {{- else if lt $largestScale 2 -}}
+        {{- else if and (lt $largestScale 2) (or ($input_width) ($input_height)) -}}
             {{ warnf "Image %s is smaller than ideal for requested dimensions %dx%d (recommended is at least scale 2, i.e. %dx%d)" $image.RelPermalink $Width $Height (mul 2 $Width) (mul 2 $Height) }}
         {{- end -}}
         {{- $largestW := mul $largestScale $Width | math.Round | int -}}
