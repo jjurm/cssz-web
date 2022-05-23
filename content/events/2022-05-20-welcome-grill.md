@@ -33,7 +33,7 @@ At the end of April, the Czech and Slovak Students in Zurich association was off
 
 The first official event of CSSZ was a success!
 
-We were delighted to welcome also two professors from ETH with Slovak roots: Dr. Jan Cvengros and Prof. Peter Molnar.
+We were delighted to welcome also two professors from ETH with Slovak roots: [Dr. Jan Cvengros](https://chab.ethz.ch/en/the-department/people/a-z/person-detail.MTUyMjA5.TGlzdC82MDEsLTIxMzAxOTI4MDM=.html) and [Prof. Peter Molnar](https://hyd.ifu.ethz.ch/the-group/people/person-detail.html?persid=100330).
 Thank you to all for a large attendance and we're already looking forward to the next event! ❤️
 
 {{< image asset="images/events/2022-05-20-welcome-grill/image0.jpeg" height=500 >}}
