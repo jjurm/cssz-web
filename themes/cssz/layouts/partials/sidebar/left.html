@@ -57,6 +57,8 @@
     </ol>
     {{- end -}}
 
+    <div class="menu-wrapper">
+    <nav>
     <ol class="menu" id="main-menu">
         {{ $currentPage := . }}
         {{ range .Site.Menus.main }}
@@ -98,4 +100,6 @@
             {{ end }}
         </div>
     </ol>
+    </nav>
+    </div>
 </aside>
