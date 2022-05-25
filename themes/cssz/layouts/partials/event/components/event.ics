@@ -14,6 +14,6 @@ DTSTAMP:{{dateFormat "20060102T150405" .Date}}
 DTSTART:{{dateFormat "20060102T150405" $eventDetails.date_start}}
 {{ with $eventDetails.recurring}}RRULE:FREQ=WEEKLY;BYDAY=MO{{ end}}
 {{ with $eventDetails.date_end }}DTEND:{{dateFormat "20060102T150405" .}}{{ end }}
-{{with $eventDetails.location}}LOCATION:{{.text}}{{end}}
+{{with $eventDetails.location}}LOCATION{{with .link}};ALTREP="{{ . | safeURL }}"{{end}}:{{.text}}{{end}}
 URL:{{.Permalink}}
 END:VEVENT
