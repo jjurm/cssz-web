@@ -22,7 +22,7 @@ params:
     avatar:
       enabled: true
       local: true
-      src: images/TEST_13_crop2.png
+      src: images/TEST_13_crop.png
 
   article:
     math: false
