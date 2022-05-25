@@ -17,7 +17,8 @@
                 {{ end }}
             </time>
             {{ end }}
-            {{ partial "event/components/google-calendar-btn" (dict "ctx" $ "eventDetails" .) }}
+            {{/* {{ partial "event/components/google-calendar-btn" (dict "ctx" $ "eventDetails" .) }} */}}
+            <span class="text-muted">(<a class="link" href="{{ with $.OutputFormats.Get `Calendar` }}{{ .RelPermalink | safeURL }}{{ end }}">.ics file</a>)</span>
         </dd>
         {{ end }}
         {{ with .location }}

@@ -27,6 +27,8 @@ event_details:
 
 At the end of April, the Czech and Slovak Students in Zurich association was officially founded. To celebrate this occasion, we are going to be grilling at Käferberg! Come to meet Czech and Slovak students and get to know the association itself. We plan to grill, have a bonfire and sing not only Czech and Slovak songs (guitar included).
 
+<!--more-->
+
 ---
 
 ## Summary

@@ -1,0 +1,3 @@
+{{partial "event/components/header.ics" .}}
+{{partialCached "event/components/event.ics" . .RelPermalink}}
+{{partial "event/components/footer.ics" .}}

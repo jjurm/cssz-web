@@ -1,0 +1,5 @@
+{{- partial "event/components/header.ics" . -}}
+{{- range where (where .Pages "Kind" "page") "Section" "events" -}}
+  {{- partialCached "event/components/event.ics" . .RelPermalink -}}
+{{- end -}}
+{{- partial "event/components/footer.ics" . -}}

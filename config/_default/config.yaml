@@ -28,6 +28,18 @@ buildExpired: false
 
 googleAnalytics: G-5CRSPLB515
 
+uglyurls: true
+outputFormats:
+  HTML:
+    noUgly: true
+  Calendar:
+    noUgly: false
+
+outputs:
+  page:
+    - HTML
+    - Calendar
+
 minify:
   disableXML: true
   minifyOutput: true
