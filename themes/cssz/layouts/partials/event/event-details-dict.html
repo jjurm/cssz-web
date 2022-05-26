@@ -3,6 +3,7 @@
 {{- $eventDetails = merge $eventDetails (dict "date_start" (time.AsTime $eventDetails.date_start)) -}}
 {{- $eventDetails = merge $eventDetails (dict "date_end" (time.AsTime $eventDetails.date_end)) -}}
 {{- $eventDetails = merge $eventDetails (dict "url" .Permalink) -}}
+{{- $eventDetails = merge $eventDetails (dict "notes" (default (slice) $eventDetails.notes)) -}}
 {{- if not (reflect.IsMap $eventDetails.location) -}}
 {{- $eventDetails = merge $eventDetails (dict "location" (dict "text" $eventDetails.location)) -}}
 {{- end -}}
