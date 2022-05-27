@@ -8,4 +8,7 @@
 {{- $eventDetails = merge $eventDetails (dict "location" (dict "text" $eventDetails.location)) -}}
 {{- end -}}
 {{- $eventDetails = merge $eventDetails (dict "details" .Params.description) -}}
+{{- with $eventDetails.coordinator -}}
+    {{- $eventDetails = merge $eventDetails (dict "coordinator" (partial "helper/person" (dict "person" . "Context" $))) -}}
+{{- end -}}
 {{- return $eventDetails -}}

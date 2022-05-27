@@ -1,0 +1,3 @@
+{{- with partial "helper/person.html" (dict "person" .Params "Context" $) -}}
+{{ partial "helper/person-inline" (dict "person" . "Context" $) }}
+{{- end -}}
