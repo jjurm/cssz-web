@@ -2,7 +2,7 @@
 title: CSSZ
 ---
 
-# Hi there 👋 🇨🇿🇸🇰
+# Hi there and welcome to CSSZ! 👋🇨🇿🇸🇰
 
 The CSSZ is an association founded by 4 ETH students from the Czech Republic and Slovakia with the goals of uniting the community and providing support to students in academic and related matters. \
 Read more about our goals [here](/about).
