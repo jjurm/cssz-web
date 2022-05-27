@@ -12,14 +12,13 @@ Changes on the `main` branch trigger the [`gh-pages` workflow](https://github.co
 
 If you prefer developing locally (you can preview any changes immediately and without having to commit), follow these steps:
 
-1. [Install Hugo](https://gohugo.io/getting-started/installing/)
+1. Install [Hugo](https://gohugo.io/getting-started/installing/), [Node.js and npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 2. `git clone git@github.com:jjurm/cssz-web.git && cd cssz-web`
-3. `git submodule init`
-4. `git submodule update`
-5. `npm install`
-6. `hugo server -DF` to start a local server (`-DF` is to include drafts and posts dated in the future) or just `hugo -DF` to build the static website (to the `public` directory)
+3. `git submodule init && git submodule update`
+4. `npm install`
+5. `hugo server -DF` to start a local server (`-DF` is to include drafts and posts dated in the future) or just `hugo -DF` to build the static website (to the `public` directory)
 
-If you are developing locally, running `hugo server` will rebuild on any file changes, reflecting updates automatically and immediately.
+   If you are developing locally, running `hugo server` will rebuild on any file changes, reflecting updates automatically and immediately.
 
 ## Getting Started
 
