@@ -1,5 +1,5 @@
 ---
-title: Hiking in Appenzeller Alps
+title: Hike in Appenzeller Alps
 description: |
   A semester-end trip to the peek Speer in the beautiful nature of Appenzeller Alps!
 slug: hike-in-appenzeller-alps

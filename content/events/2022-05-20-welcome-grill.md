@@ -1,6 +1,6 @@
 ---
 title: "Grill Welcome Event!"
-#description: Have fun
+description: Celebrating the foundation of the Czech and Slovak Students in Zurich association.
 slug: grill-welcome-event
 date: 2022-05-02
 aliases:
