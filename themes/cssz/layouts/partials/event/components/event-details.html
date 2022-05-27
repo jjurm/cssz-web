@@ -21,6 +21,7 @@
             <span class="text-muted">(<a class="link" href="{{ with $.OutputFormats.Get `Calendar` }}{{ .RelPermalink | safeURL }}{{ end }}">.ics file</a>)</span>
         </dd>
         {{ end }}
+
         {{ with .location }}
         <dt>{{ partial "helper/fontawesome" "solid/location-dot" }}&nbsp;Location:</dt>
         <dd>
@@ -35,6 +36,14 @@
             </a>
         </dd>
         {{ end }}
+
+        {{ with .coordinator }}
+        <dt>{{ partial "helper/fontawesome" "solid/person" }}&nbsp;Coordinator:</dt>
+        <dd>
+            {{ partial "helper/person-inline" (dict "Context" $ "person" .) }}
+        </dd>
+        {{ end }}
+
         {{ with .registration }}
         <dt>{{ partial "helper/fontawesome" "solid/user-plus" }}&nbsp;Registration:</dt>
         <dd>

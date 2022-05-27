@@ -12,7 +12,8 @@ event_details:
   location:
     text: Amden
     link: https://goo.gl/maps/bXk47LqsMqYxy4Te9
-  registration:
+  coordinator: emma.hubekova
+registration:
     link: https://forms.gle/r1oWo4giUd69y3VV9
     text: Google Form
 ---
