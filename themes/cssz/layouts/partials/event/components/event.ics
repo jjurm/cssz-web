@@ -6,7 +6,7 @@ DESCRIPTION:<strong>Event details:</strong> {{.Permalink -}}
   {{- with $eventDetails.location}}\n<strong>Location:</strong> {{with .link}}<a href="{{.}}" target="_blank" rel="noopener">{{end}}{{.text}}{{with .link}}</a>{{end}}{{end -}}
   {{- with $eventDetails.registration}}\n<strong>Registration:</strong> {{with .link}}<a href="{{.}}" target="_blank" rel="noopener">{{end}}{{.text}}{{with .link}}</a>{{end}}{{end -}}
   {{- if and (isset $eventDetails "notes") (gt (len $eventDetails.notes) 0) }}\n<strong>Notes:</strong>{{ range $eventDetails.notes }}\n• {{ .text | $.Page.RenderString | replaceRE "(<br>)|\n" " " }}{{ end }}{{ end -}}
-  {{- with .Summary}}\n\n{{ . }}{{end}}
+  {{- with .Summary}}\n\n{{ . | replaceRE "(<br>)|\n" " " }}{{end}}
 UID:{{dateFormat "20060102T150405" .Date}}@cssz.ch
 SEQUENCE:0
 STATUS:CONFIRMED
