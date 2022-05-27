@@ -1,0 +1,9 @@
+{{ with .CurrentSection }}
+{{ if .Params.includeContentAfterEachArticle }}
+<div class="article-list--compact links">
+    <article>
+        {{ if .Content }}{{ partial "article/components/content" . }}{{ end }}
+    </article>
+</div>
+{{ end }}
+{{ end }}

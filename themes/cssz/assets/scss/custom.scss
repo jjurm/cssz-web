@@ -114,6 +114,15 @@ p, dl, .alert {
   }
 }
 
+// Event section
+.article-list--compact .article-content {
+  padding: var(--small-card-padding);
+
+  &>:first-child {
+    margin-top: 0;
+  }
+}
+
 // Font Awesome icons
 .svg-icon {
   .alert > & {
