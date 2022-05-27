@@ -1,0 +1,3 @@
+{{- with partial "helper/person.html" (dict "person" .Params "Context" $) -}}
+{{ .name }} ({{ printf "[%s](mailto:%s)" .email .email | $.Page.RenderString }})
+{{- end -}}

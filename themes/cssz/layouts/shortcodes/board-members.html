@@ -1,16 +1,18 @@
 <div class="people-list">
 {{ range .Site.Data.people.board }}
-<div class="person row">
-    <div class="col-3">
-        {{- $params := dict "asset" .image "type" "person" -}}
-        {{ partialCached "helper/resize-image" (dict "Context" $.Page "Params" $params) $params }}
-    </div>
-    <div class="col-9">
-            <h2>{{ .name }}</h2>
-            <strong>{{ .role }}</strong>
-            <p class="about-person">{{ .about }}</p>
-            <a href="mailto:{{ .email }}" target="_blank" rel="noopener">{{ .email }}</a>
-    </div>
-</div>
+    {{ with partial "helper/person.html" (dict "person" . "Context" $) }}
+        <div class="person row">
+            <div class="col-3">
+                {{- $params := dict "asset" .image "type" "person" -}}
+                {{ partialCached "helper/resize-image" (dict "Context" $.Page "Params" $params) $params }}
+            </div>
+            <div class="col-9">
+                    <h2>{{ .name }}</h2>
+                    <strong>{{ .role }}</strong>
+                    <p class="about-person">{{ .about }}</p>
+                    <a href="mailto:{{ .email }}" target="_blank" rel="noopener">{{ .email }}</a>
+            </div>
+        </div>
+    {{ end }}
 {{ end }}
 </div>

@@ -1,0 +1,16 @@
+{{/*
+  use the template as follows:
+  {{ with partial "helper/person.html" (dict "person" . "Context" $) }}
+*/}}
+
+{{- $person := .person -}}
+{{- if eq (printf "%T" $person) "string" -}}
+    {{- $person = dict "id" $person -}}
+{{- end -}}
+{{- $filtered := where .Context.Site.Data.people.team "id" $person.id -}}
+{{- if not (eq (len $filtered) 1) -}}
+    {{- errorf "There is no (unique) match for person with id '%s'" $person.id -}}
+{{- end -}}
+{{- $person = merge (index $filtered 0) $person -}}
+{{- $person = merge (dict "email" (printf "%s@%s" $person.id $.Context.Site.Params.emailDomain)) $person -}}
+{{- return $person -}}
