@@ -45,7 +45,7 @@ Membership expires:
 
 ## Resignation and exclusion
 
-A withdrawal from the association is possible at any time. One has to inform the board about it by email. The full membership fee must be paid for the semester in question.
+A withdrawal from the association is possible at any time. One has to inform the Board about it by email. The full membership fee must be paid for the semester in question.
 
 A member can be expelled at any time because of violation of the statutes or violations
 against the goals of the association.
@@ -71,13 +71,13 @@ meeting must take place no later than 2 weeks after receipt of the request.
 The General Meeting is the supreme body of the association. It has the following
 inalienable tasks and competences:
 1. Approval of the minutes of the last General Meeting
-2. Approval of the annual report of the board
+2. Approval of the annual report of the Board
 3. Acceptance of the auditor's report and approval of the annual financial statement
-4. Discharge of the board
+4. Discharge of the Board
 5. Election of the President and the other members of the Board of Directors as well as the Auditors.
 6. Determination of the membership fee
 7. Passing resolutions on motions of the Board and the members
-8. Amendment of the statutes, whereby at least 3 members and 2 board members must be present.
+8. Amendment of the statutes, whereby at least 3 members and 2 Board members must be present.
 9. Passing resolutions on the dissolution of the association and the use of the liquidation proceeds.
 
 Any General Meeting duly convened shall constitute a quorum,
@@ -89,7 +89,7 @@ At least a record of the resolutions passed shall be drawn up.
 
 ## The Board of Directors
 
-The board consists of at least 4 persons. The term of office is two semesters (one academic year of ETH). Re-election is possible.
+The Board consists of at least 4 persons. The term of office is two semesters (one academic year of ETH). Re-election is possible.
 In special cases that end the term of office earlier (death or voluntary departure), the individual members will be re-elected.
 The Executive Board manages the day-to-day business and represents the Association externally.
 It issues regulations. It can appoint working groups (specialized groups). It can employ or commission persons for the achievement of the association's goals in return for appropriate compensation.
@@ -98,7 +98,7 @@ are not assigned to another body by law or according to these statutes.
 
 The following departments are represented on the Board:
 1. Presidium
-2. at least 3 board members
+2. at least 3 Board members
 
 Cumulation of offices is possible. The Board of Directors constitutes itself with the exception of the Presidium.
 The Board meets as often as business requires.
