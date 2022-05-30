@@ -173,7 +173,7 @@ Switzerland&lt;/dd&gt;
 &lt;p&gt;The association does not pursue commercial purposes and does not seek profit. The organs work on an honorary basis.
 We hope you will find the association useful and fun!&lt;/p&gt;
 &lt;h2 id=&#34;meet-the-board&#34;&gt;Meet The Board&lt;/h2&gt;
-&lt;div class=&#34;people-list&#34;&gt;
+&lt;div class=&#34;people-list my-4&#34;&gt;
 
     
         &lt;div class=&#34;person row&#34;&gt;
@@ -194,8 +194,7 @@ We hope you will find the association useful and fun!&lt;/p&gt;
                  
                  
             /&gt;
-        &lt;/picture&gt;
-            &lt;/div&gt;
+        &lt;/picture&gt;&lt;/div&gt;
             &lt;div class=&#34;col-9&#34;&gt;
                     &lt;h2&gt;Radim Urban&lt;/h2&gt;
                     &lt;strong&gt;President, Co-founding Member&lt;/strong&gt;
@@ -224,8 +223,7 @@ We hope you will find the association useful and fun!&lt;/p&gt;
                  
                  
             /&gt;
-        &lt;/picture&gt;
-            &lt;/div&gt;
+        &lt;/picture&gt;&lt;/div&gt;
             &lt;div class=&#34;col-9&#34;&gt;
                     &lt;h2&gt;Juraj Mičko&lt;/h2&gt;
                     &lt;strong&gt;Co-founding Member&lt;/strong&gt;
@@ -254,8 +252,7 @@ We hope you will find the association useful and fun!&lt;/p&gt;
                  
                  
             /&gt;
-        &lt;/picture&gt;
-            &lt;/div&gt;
+        &lt;/picture&gt;&lt;/div&gt;
             &lt;div class=&#34;col-9&#34;&gt;
                     &lt;h2&gt;Šimon Hrabec&lt;/h2&gt;
                     &lt;strong&gt;Co-founding Member&lt;/strong&gt;
@@ -284,13 +281,59 @@ We hope you will find the association useful and fun!&lt;/p&gt;
                  
                  
             /&gt;
-        &lt;/picture&gt;
-            &lt;/div&gt;
+        &lt;/picture&gt;&lt;/div&gt;
             &lt;div class=&#34;col-9&#34;&gt;
                     &lt;h2&gt;Vu Nguyen&lt;/h2&gt;
                     &lt;strong&gt;Co-founding Member&lt;/strong&gt;
                     &lt;p class=&#34;about-person&#34;&gt;MSc Computer Science Student at ETH&lt;/p&gt;
                     &lt;a href=&#34;mailto:vu.nguyen@cssz.ch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;vu.nguyen@cssz.ch&lt;/a&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;team-members&#34;&gt;Team Members&lt;/h2&gt;
+&lt;div class=&#34;people-list my-4&#34;&gt;
+
+    
+        &lt;div class=&#34;person row&#34;&gt;
+            &lt;div class=&#34;col-3&#34;&gt;&lt;/div&gt;
+            &lt;div class=&#34;col-9&#34;&gt;
+                    &lt;h2&gt;Emma Hubeková&lt;/h2&gt;
+                    &lt;strong&gt;Events Officer&lt;/strong&gt;
+                    &lt;p class=&#34;about-person&#34;&gt;&lt;/p&gt;
+                    &lt;a href=&#34;mailto:emma.hubekova@cssz.ch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;emma.hubekova@cssz.ch&lt;/a&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    
+
+    
+        &lt;div class=&#34;person row&#34;&gt;
+            &lt;div class=&#34;col-3&#34;&gt;&lt;picture class=&#34;img&#34; style=&#34;background: url(data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAADrklEQVR4nDRST48bxRd873XPH4&amp;#43;99npsb5zsOlklivLLL0JJhIAgpCBBhMQFrpz4SnwAuHDjxJEIDoAEWg4gtCRR0IYNSXAym9iO47U94&amp;#43;npPw&amp;#43;1V6in59AzVV2vquSTvc8BEQARCci/iYiZTw7AOUDnjx0z&amp;#43;&amp;#43;0/MQAwIMiQgBHQ/wtIBB6BYRxK6SklobWmXCkGB8gAzOAceiwwS8Hra8lvT8IYxfGTp9loMikKNZkV/zt/&amp;#43;srFM2zZOcPr62G9GFiSA/DyvF5mqtfrd&amp;#43;4ffPnVN9nLlZSChPzhp/2Pbv7/w/ffsg7df8IBLHowSgCBSNZhXKvt/3Hw2Rdfj5eVsY4dN5JIheK7n&amp;#43;&amp;#43;&amp;#43;efVyr7NRaYXeB0a/QBobIAkAcsxI4TCb3HuYiSB0zFEojVb1KMiDBFmwDdejAnnnHDiWuQ7ID0tIaJb2tWuv99Lbz8fT3uZGK477nc1kI3kyHB5Nis32trLeRT4BM8sVB4IFrQnYwGbn9NtvXD96cLjd6xCittzabMyPj4/Gq4uX6iUzwklmDpmpoKjAqICwgKBkWWKws3V6tij27j96Npnt3Tt48eLlpe3&amp;#43;s4NHOYSliEuq&amp;#43;QfjFUZSxDUE8PGu07MiPLu7e6G/tVJmJ23ubtS73RRCaqUdFSVVtc7YMaBldqQAKxQaSaM0MiytO3vtaqe3FRiTl2au7ME/R81288oH71XOQRS6KOA4gDiCWk2Oc4foe0nERIxo682m6J95&amp;#43;vs&amp;#43;LopaLWolwcq4YQG9hlBK&amp;#43;yaCV&amp;#43;n7t1IW0PmietM8iTLL8zduqmzoZnnSrIkIppNXh9/vvXPrVpxERmtnfbERQHz8yacAJH3UPjBGdNYkmx3RSv/8bW&amp;#43;m1GKxLINm0Nl&amp;#43;&amp;#43;OAhiVgEIcrAOtbGSaVNFAgErrS1DNpa53jD0u1vf1TTWbvVyB3sXr9cOZyOnj9w0Ey7zbTZ3erVGjX5eJj5DnvJVGknhCQps2x879dfTsXYARyVVf7XYTdNS6VW&amp;#43;Vyb6nj6cj551d/pi6s33l0s8nJV5kWxWOa6qsjoyaND6bgV0la3O9K8f/eOVkU7bQPwcjFXZcEAy8VSqnwBYeyYhXcLJbI5Pn58eFhrdsKwPyaYFOMLF84PBoMoioG50qrSGmfTIBCy8fTOrNFv75zLrUGG5XFejkZp2s6y4RRYKdU/1e91uyejVaoChqpSRILByYTIzsfF30XSH0g2oyyjsBEEcjA4RwRCCCEDrauyLBv1hH27bKlWxmqCwb8BAAD//zybGTgShm9/AAAAAElFTkSuQmCC); background-size: cover; display: inline;&#34;&gt;
+            &lt;source srcset=&#39;https://cssz.ch/images/members/timon-fopp_hu9202274e97c8683db1a6eee164aba153_594295_0e7618e4833a2911ba9d88a6ae4a158c.webp 180w, https://cssz.ch/images/members/timon-fopp_hu9202274e97c8683db1a6eee164aba153_594295_814227a5f55f06063f825b9fbcfaae75.webp 360w, https://cssz.ch/images/members/timon-fopp_hu9202274e97c8683db1a6eee164aba153_594295_b16a9ffa137baae811b4e28dbb68385f.webp 128w, https://cssz.ch/images/members/timon-fopp_hu9202274e97c8683db1a6eee164aba153_594295_d7372a6c38df27e6fc74e52fd02a2c01.webp 205w, https://cssz.ch/images/members/timon-fopp_hu9202274e97c8683db1a6eee164aba153_594295_f04d955af5f991916bbbc7de1ea61c44.webp 320w&#39;
+                    sizes=&#34;(max-width: 180px) 100vw, 180px&#34;
+                    type=&#34;image/webp&#34;
+            /&gt;
+            &lt;source srcset=&#39;https://cssz.ch/images/members/timon-fopp_hu9202274e97c8683db1a6eee164aba153_594295_50d5729cbaf7faf445f010c107f9c057.jpg 180w, https://cssz.ch/images/members/timon-fopp_hu9202274e97c8683db1a6eee164aba153_594295_ce474d02baeea73aaaa08d74bc5bdb81.jpg 360w, https://cssz.ch/images/members/timon-fopp_hu9202274e97c8683db1a6eee164aba153_594295_e2e0a6165526ddc8e780fd5068ea86fb.jpg 128w, https://cssz.ch/images/members/timon-fopp_hu9202274e97c8683db1a6eee164aba153_594295_6caece6c2683f3debc0a9f30266badbb.jpg 205w, https://cssz.ch/images/members/timon-fopp_hu9202274e97c8683db1a6eee164aba153_594295_c129e8bc45dc6ff6b492d18683cd1872.jpg 320w&#39;
+                    sizes=&#34;(max-width: 180px) 100vw, 180px&#34;
+                    type=&#34;image/jpeg&#34;
+            /&gt;
+            &lt;img src=&#34;https://cssz.ch/images/members/timon-fopp_hu9202274e97c8683db1a6eee164aba153_594295_50d5729cbaf7faf445f010c107f9c057.jpg&#34;
+                 width=&#34;180&#34;
+                 height=&#34;180&#34;
+                 
+                 
+                 
+                 
+            /&gt;
+        &lt;/picture&gt;&lt;/div&gt;
+            &lt;div class=&#34;col-9&#34;&gt;
+                    &lt;h2&gt;Timon Fopp&lt;/h2&gt;
+                    &lt;strong&gt;UZH Representative&lt;/strong&gt;
+                    &lt;p class=&#34;about-person&#34;&gt;Timon studies BSc Business Informatics at University of Zurich (UZH). He likes playing volleyball, the guitar, riding his motorcycle, travelling and especially loves meeting nice people all over the world.
+&lt;/p&gt;
+                    &lt;a href=&#34;mailto:timon.fopp@cssz.ch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;timon.fopp@cssz.ch&lt;/a&gt;
             &lt;/div&gt;
         &lt;/div&gt;
     
