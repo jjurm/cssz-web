@@ -7,7 +7,7 @@
 {{- if eq (printf "%T" $person) "string" -}}
     {{- $person = dict "id" $person -}}
 {{- end -}}
-{{- $filtered := where .Context.Site.Data.people.team "id" $person.id -}}
+{{- $filtered := where .Context.Site.Data.people.all "id" $person.id -}}
 {{- if not (eq (len $filtered) 1) -}}
     {{- errorf "There is no (unique) match for person with id '%s'" $person.id -}}
 {{- end -}}

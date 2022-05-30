@@ -1,4 +1,4 @@
-team:
+all:
   - id: radim.urban
     name: Radim Urban
     role: President, Co-founding Member
@@ -22,14 +22,25 @@ team:
     about: MSc Computer Science Student at ETH
     image: images/members/vu-nguyen.jpeg
 
-  - id: matus.zilinec
-    name: Matúš Žilinec
+  - id: timon.fopp
+    name: Timon Fopp
+    role: UZH Representative
+    about: |
+      Timon studies BSc Business Informatics at University of Zurich (UZH). He likes playing volleyball, the guitar, riding his motorcycle, travelling and especially loves meeting nice people all over the world.
+    image: images/members/timon-fopp.png
   - id: emma.hubekova
     name: Emma Hubeková
+    role: Events Officer
     phone: +421 949 776 209
+
+  - id: matus.zilinec
+    name: Matúš Žilinec
 
 board:
   - radim.urban
   - juraj.micko
   - simon.hrabec
   - vu.nguyen
+team:
+  - emma.hubekova
+  - timon.fopp

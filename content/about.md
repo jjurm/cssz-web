@@ -20,4 +20,8 @@ We hope you will find the association useful and fun!
 
 ## Meet The Board
 
-{{< board-members >}}
+{{< members-list list="board" >}}
+
+## Team Members
+
+{{< members-list list="team" >}}

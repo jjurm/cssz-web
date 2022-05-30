@@ -1,10 +1,12 @@
-<div class="people-list">
-{{ range .Site.Data.people.board }}
+<div class="people-list my-4">
+{{ range index .Site.Data.people .Params.list }}
     {{ with partial "helper/person.html" (dict "person" . "Context" $) }}
         <div class="person row">
             <div class="col-3">
-                {{- $params := dict "asset" .image "type" "person" -}}
-                {{ partialCached "helper/resize-image" (dict "Context" $.Page "Params" $params) $params }}
+                {{- with .image -}}
+                    {{- $params := dict "asset" . "type" "person" -}}
+                    {{ partialCached "helper/resize-image" (dict "Context" $.Page "Params" $params) $params }}
+                {{- end -}}
             </div>
             <div class="col-9">
                     <h2>{{ .name }}</h2>
