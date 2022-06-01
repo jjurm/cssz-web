@@ -2,7 +2,7 @@
 {{- .name }}{{ if or (.email) (.phone) }} (
     {{- $coord_details := slice -}}
     {{- with .email -}}{{- $coord_details = $coord_details | append (printf "[%s](mailto:%s)" . . | $.Context.Page.RenderString) -}}{{- end -}}
-    {{- with .phone -}}{{- $coord_details = $coord_details | append (printf "[%s](tel:%s)" . (. | replaceRE "\\s|-" "" ) | $.Context.Page.RenderString) -}}{{- end -}}
+    {{- with .phone -}}{{- $coord_details = $coord_details | append (printf "[%s](tel:%s)" (string .) (. | replaceRE "\\s|-" "" ) | $.Context.Page.RenderString) -}}{{- end -}}
     {{- delimit $coord_details ", " -}}
 ){{ end -}}
 {{- end -}}
