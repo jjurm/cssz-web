@@ -10,7 +10,7 @@ all:
     about: "Juraj studies Computer Science MSc at ETH Zurich, after graduating from Cambridge University. He loves producing music, outdoor sports, cooking and spending meaningful time with people. Psst: he can’t wait to meet you!"
     instagram: jjurm64
     image: images/members/juraj-micko.jpg
-    phone: +41762639679
+    phone: "+41762639679"
   - id: simon.hrabec
     name: Šimon Hrabec
     role: Co-founding Member
@@ -31,7 +31,7 @@ all:
   - id: emma.hubekova
     name: Emma Hubeková
     role: Events Officer
-    phone: +421 949 776 209
+    phone: "+421 949 776 209"
 
   - id: matus.zilinec
     name: Matúš Žilinec
