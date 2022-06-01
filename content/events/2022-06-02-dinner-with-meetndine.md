@@ -5,6 +5,14 @@ slug: meet-n-dine
 date: 2022-05-26
 image: "images/events/2022-06-02-dinner-with-meetndine/IMG_6676_edit.jpg"
 
+links:
+  - title: Chinese Chicken and Broccoli Recipe
+    website: https://blogchef.net/chinese-chicken-and-broccoli-recipe/
+    image: "images/events/2022-06-02-dinner-with-meetndine/chinese_chicken_and_brocolli_1.jpeg"
+  - title: 🥘 Meet'n'Dine
+    description: Socialize, eat, relax.
+    website: https://www.notion.so/jjurm/Meet-n-Dine-c0d588aaa93046fe9724599c9ee62976
+
 event_details:
   date_start: 2022-06-02T18:30:00
   date_end: 2022-06-02T21:30:00
@@ -17,9 +25,11 @@ event_details:
     text: Eventbrite
 ---
 
-CSSZ and [Meet'n'Dine](https://www.notion.so/jjurm/Meet-n-Dine-c0d588aaa93046fe9724599c9ee62976) invite you to a casual dinner with fellow students in the cosy environment of a student flat.
+CSSZ and [Meet'n'Dine](https://www.notion.so/jjurm/Meet-n-Dine-c0d588aaa93046fe9724599c9ee62976) invite you to a casual dinner with fellow students in the cosy environment of a student flat. Come join us and feel free to bring a friend!
 
-Come join us and feel free to bring a friend!
+We'll be cooking [Chinese Chicken and Broccoli Recipe](https://blogchef.net/chinese-chicken-and-broccoli-recipe/).
+
+{{< image asset="images/events/2022-06-02-dinner-with-meetndine/chinese_chicken_and_brocolli_1.jpeg" >}}
 
 ---
 

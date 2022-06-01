@@ -11,13 +11,16 @@
     {{- $loading := default (default "" $typeConfig.loading) .loading -}}
 
     {{- $image := "" -}}
-    {{- if not $image -}}
+    {{- if (not $image) -}}
         {{- if isset . "asset" -}}
-            {{- with $.Context.Resources.GetMatch ($.Params.asset) }}
-                {{- $image = . -}}
-            {{- end -}}
-            {{- if not $image -}}
-                {{- $image = partial "helper/get-image.html" .asset -}}
+            {{- $isLocalImage := eq (len (findRE "^https?://" .asset)) 0 -}}
+            {{- if $isLocalImage -}}
+                {{- with $.Context.Resources.GetMatch ($.Params.asset) }}
+                    {{- $image = . -}}
+                {{- end -}}
+                {{- if not $image -}}
+                    {{- $image = partial "helper/get-image.html" .asset -}}
+                {{- end -}}
             {{- end -}}
         {{- else if and (isset . "image") .image.resource -}}
             {{- $image = .image.resource -}}
@@ -136,6 +139,13 @@
         </picture>
     {{- else if and (isset . "image") .image.permalink -}}
         <img src="{{ .image.permalink }}"
+             {{ with .class }}class="{{ . }}"{{ end }}
+             {{ with $loading }}loading="{{ . }}"{{ end }}
+             {{ with .alt }} alt="{{ . }}"{{ end }}
+             {{ with .style }} style="{{ . | safeCSS }}"{{ end }}
+        />
+    {{- else if and (isset . "asset") (gt (len (findRE "^https?://" .asset)) 0) -}}
+        <img src="{{ .asset }}"
              {{ with .class }}class="{{ . }}"{{ end }}
              {{ with $loading }}loading="{{ . }}"{{ end }}
              {{ with .alt }} alt="{{ . }}"{{ end }}
