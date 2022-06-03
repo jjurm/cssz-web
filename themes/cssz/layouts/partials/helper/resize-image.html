@@ -60,7 +60,7 @@
         {{- $largestW := mul $largestScale $Width | math.Round | int -}}
         {{- $largestH := mul $largestScale $Height | math.Round | int -}}
 
-        {{- $format := (printf "%dx%d q100" $largestW $largestH) -}}
+        {{- $format := (printf "%dx%d q100 center" $largestW $largestH) -}}
         {{- if $format -}}
             {{- $command := default "fill" .command -}}
 
@@ -123,11 +123,11 @@
             <source srcset='{{- delimit $srcset_webp ", " -}}'
                     sizes="(max-width: {{ $Width }}px) 100vw, {{ $Width }}px"
                     type="image/webp"
-            />
+            />{{- "" -}}
             <source srcset='{{- delimit $srcset_jpg ", " -}}'
                     sizes="(max-width: {{ $Width }}px) 100vw, {{ $Width }}px"
                     type="image/jpeg"
-            />
+            />{{- "" -}}
             <img src="{{ $defaultImg.RelPermalink }}"
                  width="{{ $Width }}"
                  height="{{ $Height }}"
@@ -135,7 +135,7 @@
                  {{ with $loading }}loading="{{ . }}"{{ end }}
                  {{ with .alt }} alt="{{ . }}"{{ end }}
                  {{ with .style }} style="{{ . | safeCSS }}"{{ end }}
-            />
+            />{{- "" -}}
         </picture>
     {{- else if and (isset . "image") .image.permalink -}}
         <img src="{{ .image.permalink }}"
