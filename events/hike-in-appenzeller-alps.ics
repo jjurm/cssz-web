@@ -29,15 +29,13 @@ END:STANDARD
 END:VTIMEZONE
 
 BEGIN:VEVENT
-
 SUMMARY:Hike in Appenzeller Alps
 DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/hike-in-appenzeller-alps/\n<strong>Location:</strong> <a href="https://goo.gl/maps/bXk47LqsMqYxy4Te9" target="_blank" rel="noopener">Amden</a>\n<strong>Coordinator:</strong> Emma Hubeková (<a class="link" href="mailto:emma.hubekova@cssz.ch">emma.hubekova@cssz.ch</a>, <a class="link" href="tel:&#43;421949776209">+421 949 776 209</a>)\n<strong>Registration:</strong> <a href="https://forms.gle/r1oWo4giUd69y3VV9" target="_blank" rel="noopener">Google Form</a>\n\n<p>CSSZ invites you and your friends to join a semester-end trip to the peek Speer &ndash; <em>König der Voralpen</em>, which is planned for Sunday, 05.06.2022. Come and enjoy hiking in the beautiful nature of Appenzeller Alps with our society!</p> <dl> <dt><strong>Connection</strong></dt> <dd>Zuerich HB, Gleis 6, S 2520527 (07:43 am) &ndash; Ziegelbruecke, + Bus: Ziegelbruecke - Amden Dorf (08:51 am)</dd> <dt><strong>Planned route</strong></dt> <dd><ul> <li>Amden, Dorf</li> <li>Speer</li> <li>Amden, Dorf</li> </ul> </dd> </dl> <p><strong>Total distance:</strong> 17 km  <strong>Expected duration (hiking only):</strong> 6:30 h  <strong>Uphill/downhill:</strong> 1013 m</p>
-UID:20220526T000000@cssz.ch
+UID:20220526T000000-hike-in-appenzeller-alps@cssz.ch
 SEQUENCE:0
 STATUS:CONFIRMED
 DTSTAMP:20220526T000000
 DTSTART:20220605T073000
-
 DTEND:20220605T170000
 LOCATION;ALTREP="https://goo.gl/maps/bXk47LqsMqYxy4Te9":Amden
 URL:https://cssz.ch/events/hike-in-appenzeller-alps/
