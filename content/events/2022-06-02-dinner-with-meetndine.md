@@ -3,7 +3,7 @@ title: Dinner with 🥘 Meet'n'Dine
 description: 
 slug: meet-n-dine
 date: 2022-05-26
-image: "images/events/2022-06-02-dinner-with-meetndine/IMG_6676_edit.jpg"
+image: "images/events/2022-06-02-dinner-with-meetndine/PXL_20220602_182555016.MP_2_crop.jpg"
 
 links:
   - title: Chinese Chicken and Broccoli Recipe
@@ -53,3 +53,12 @@ This community project is set up and currently maintained by our Board member {{
 # Format
 
 Each dinner welcomes around 3 to 8 people in one kitchen. One of us is Masterchef, responsible for preparing the recipe, shopping and feeding the group, others help with the cooking. We'll split the costs of the food individually. Masterchef pays a half share.
+
+---
+
+# So how was it? 😊
+
+Tell for yourself!
+
+{{< image asset="images/events/2022-06-02-dinner-with-meetndine/PXL_20220602_182440861.MP.jpg" width=590 >}}
+{{< image asset="images/events/2022-06-02-dinner-with-meetndine/PXL_20220602_200600572.MP.jpg" width=590 >}}

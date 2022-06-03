@@ -12,6 +12,8 @@ theme:
 - cssz
 - hugo-theme-stack
 
+timeout: 60s
+
 languages:
   en:
     languageName: English
