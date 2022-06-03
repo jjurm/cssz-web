@@ -1,6 +1,7 @@
 {{- $eventDetails := partial "event/event-details-dict" . -}}
 BEGIN:VEVENT
-{{ with $.Site.Params.events.organizer}}ORGANIZER;CN="{{ .name }}":mailto:{{ .email }}{{ end }}
+{{ with $.Site.Params.events.organizer}}ORGANIZER;CN="{{ .name }}":mailto:{{ .email }}
+{{ end -}}
 SUMMARY:{{.Title}}
 DESCRIPTION:<strong>Event details:</strong> {{.Permalink -}}
   {{- with $eventDetails.location}}\n<strong>Location:</strong> {{with .link}}<a href="{{.}}" target="_blank" rel="noopener">{{end}}{{.text}}{{with .link}}</a>{{end}}{{end -}}
@@ -8,13 +9,16 @@ DESCRIPTION:<strong>Event details:</strong> {{.Permalink -}}
   {{- with $eventDetails.registration}}\n<strong>Registration:</strong> {{with .link}}<a href="{{.}}" target="_blank" rel="noopener">{{end}}{{.text}}{{with .link}}</a>{{end}}{{end -}}
   {{- if and (isset $eventDetails "notes") (gt (len $eventDetails.notes) 0) }}\n<strong>Notes:</strong>{{ range $eventDetails.notes }}\n• {{ .text | $.Page.RenderString | replaceRE "(<br>)|\n" " " }}{{ end }}{{ end -}}
   {{- with .Summary}}\n\n{{ . | replaceRE "(<br>)|\n" " " }}{{end}}
-UID:{{dateFormat "20060102T150405" .Date}}@cssz.ch
+UID:{{dateFormat "20060102T150405" .Date}}-{{if .Slug}}{{ .Slug }}{{else}}{{ .File.BaseFileName }}{{end}}@cssz.ch
 SEQUENCE:0
 STATUS:CONFIRMED
 DTSTAMP:{{dateFormat "20060102T150405" .Date}}
 DTSTART:{{dateFormat "20060102T150405" $eventDetails.date_start}}
-{{ with $eventDetails.recurring}}RRULE:FREQ=WEEKLY;BYDAY=MO{{ end}}
-{{ with $eventDetails.date_end }}DTEND:{{dateFormat "20060102T150405" .}}{{ end }}
-{{with $eventDetails.location}}LOCATION{{with .link}};ALTREP="{{ . | safeURL }}"{{end}}:{{.text}}{{end}}
+{{ with $eventDetails.recurring}}RRULE:FREQ=WEEKLY;BYDAY=MO
+{{ end -}}
+{{ with $eventDetails.date_end }}DTEND:{{dateFormat "20060102T150405" .}}
+{{ end -}}
+{{with $eventDetails.location}}LOCATION{{with .link}};ALTREP="{{ . | safeURL }}"{{end}}:{{.text}}
+{{end -}}
 URL:{{.Permalink}}
 END:VEVENT

@@ -1,8 +1,9 @@
 ---
 title: Dinner with 🥘 Meet'n'Dine
-description: 
+description: |
+  Join a casual dinner with fellow students in the cosy environment of a student flat.
 slug: meet-n-dine
-date: 2022-05-26
+date: 2022-05-31
 image: "images/events/2022-06-02-dinner-with-meetndine/PXL_20220602_182555016.MP_2_crop.jpg"
 
 links:
