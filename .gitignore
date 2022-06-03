@@ -248,3 +248,5 @@ dist
 # End of https://www.toptal.com/developers/gitignore/api/hugo,intellij+all,node
 
 .DS_Store
+.obsidian/cache
+.trash/
