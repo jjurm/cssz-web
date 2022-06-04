@@ -31,7 +31,9 @@ all:
   - id: emma.hubekova
     name: Emma Hubeková
     role: Events Officer
+    about: Emma studies Bsc Biology at ETH. She likes reading, writing, playing tennis and many other kinds of sport. 
     phone: "+421 949 776 209"
+    image: images/members/emma-hubekova.png
 
   - id: matus.zilinec
     name: Matúš Žilinec
