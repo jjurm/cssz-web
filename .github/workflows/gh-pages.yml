@@ -29,8 +29,15 @@ jobs:
       - name: Install dependencies
         run: npm install
 
+      - name: Cache Hugo build resources
+        id: cache-hugo
+        uses: actions/cache@v3
+        with:
+          path: resources
+          key: hugo-resources-v1
+
       - name: Build
-        run: hugo --minify
+        run: hugo --gc --minify
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
