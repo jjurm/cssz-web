@@ -35,3 +35,16 @@ CSSZ invites you and your friends to join a semester-end trip to the peek Speer 
 <!--more-->
 
 {{< image asset="images/events/2022-06-05-hike-in-appenzeller-alps/trail_map.png" >}}
+
+---
+
+# How was it?
+
+An all-in-one swiss hiking experience: sunny pictures, cows, good conversations, Wienerli at a mountain hut, rainstorm, fresh air, and nice views 😋
+
+Credit for the photos below goes to Gieri Candinas.
+
+{{< image asset="images/events/2022-06-05-hike-in-appenzeller-alps/_DSC6995_00001.jpg" class="mb-3" >}}
+{{< image asset="images/events/2022-06-05-hike-in-appenzeller-alps/_DSC7007_00001.jpg" class="mb-3" >}}
+{{< image asset="images/events/2022-06-05-hike-in-appenzeller-alps/_DSC7064_00001_01.jpg" class="mb-3" >}}
+{{< image asset="images/events/2022-06-05-hike-in-appenzeller-alps/_DSC7032_00001.jpg" >}}
