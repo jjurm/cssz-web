@@ -19,7 +19,9 @@ If you prefer developing locally (you can preview any changes immediately and wi
 5. `npm install`
 6. `hugo server -DF` to start a local server (`-DF` is to include drafts and posts dated in the future) or just `hugo -DF` to build the static website (to the `public` directory)
 
-   If you are developing locally, running `hugo server` will rebuild on any file changes, reflecting updates automatically and immediately.
+    The first build may take >1min (due to preprocessing a lot of high-res images which are cached for future builds).
+
+    If you are developing locally, running `hugo server` will rebuild on any file changes, reflecting updates automatically and immediately.
 
 ## Getting Started
 

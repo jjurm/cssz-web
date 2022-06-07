@@ -12,7 +12,7 @@ theme:
 - cssz
 - hugo-theme-stack
 
-timeout: 60s
+timeout: 240s
 
 languages:
   en:
