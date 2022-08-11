@@ -4,7 +4,7 @@ PRODID:-//Czech and Slovak Students in Zurich//Events//EN
 URL:webcal://cssz.ch/events/meet-n-dine.ics
 NAME:CSSZ Events
 X-WR-CALNAME:CSSZ Events
-X-WR-CALDESC:List of events organised by Czech and Slovak Students in Zurich.
+X-WR-CALDESC:
 X-WR-TIMEZONE:Europe/Zurich
 X-PUBLISHED-TTL:PT6H
 CALSCALE:GREGORIAN
