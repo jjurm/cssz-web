@@ -1,6 +1,5 @@
 ---
 title: Events
-description: List of events organised by Czech and Slovak Students in Zurich.
 menu:
   main:
     weight: 10

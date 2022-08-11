@@ -6,7 +6,6 @@ menu:
     weight: 90
 ---
 
-# The Statutes of the Association "Czech and Slovak Students in Zurich
 
 ## Name and domicile
 
