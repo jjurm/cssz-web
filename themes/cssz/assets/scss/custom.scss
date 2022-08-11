@@ -37,6 +37,7 @@ address {
 .btn {
   vertical-align: initial;
   font-size: 1em;
+  margin: 5px auto;
 }
 
 p, dl, .alert {
@@ -60,10 +61,14 @@ p, dl, .alert {
 
 #hi-there-and-welcome-to-cssz-{
   padding-top: 10px;
+  font-weight: bold;
   padding-bottom:10px;
   background-color:white;
-  border-radius:0 5px 5px 0;
-  box-shadow: var(--shadow-l1);
+  border-radius:5px;
+  margin: auto;
+  text-align:center;
+  border-inline-start:none;
+  box-shadow: none;
 }
 
 .section-card .section-term{
