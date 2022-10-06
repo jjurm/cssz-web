@@ -40,7 +40,7 @@
         {{ with .coordinator }}
         <dt>{{ partial "helper/fontawesome" "solid/person" }}&nbsp;Coordinator:</dt>
         <dd>
-            {{ partial "helper/person-inline" (dict "Context" $ "person" .) }}
+            {{ partial "helper/person-inline-multiple" (dict "Context" $ "person" .) }}
         </dd>
         {{ end }}
 

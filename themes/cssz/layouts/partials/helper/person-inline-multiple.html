@@ -1,0 +1,7 @@
+{{- with .person -}}
+    {{- $first := true -}}
+    {{- range . -}}
+        {{- if not $first }}, {{ end -}}{{- $first = false -}}
+        {{- partial "helper/person-inline" (dict "Context" $.Context "person" .) -}}
+    {{- end -}}
+{{- end -}}

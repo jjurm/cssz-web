@@ -9,6 +9,14 @@
 {{- end -}}
 {{- $eventDetails = merge $eventDetails (dict "details" .Params.description) -}}
 {{- with $eventDetails.coordinator -}}
-    {{- $eventDetails = merge $eventDetails (dict "coordinator" (partial "helper/person" (dict "person" . "Context" $))) -}}
+    {{- $coordinators := slice -}}
+    {{- if reflect.IsSlice . -}}
+        {{- range . -}}
+            {{- $coordinators = $coordinators | append (partial "helper/person" (dict "person" . "Context" $)) -}}
+        {{- end -}}
+    {{- else -}}
+        {{- $coordinators = slice (partial "helper/person" (dict "person" . "Context" $)) -}}
+    {{- end -}}
+    {{- $eventDetails = merge $eventDetails (dict "coordinator" $coordinators ) -}}
 {{- end -}}
 {{- return $eventDetails -}}
