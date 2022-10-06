@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Czech and Slovak Students in Zurich//Events//EN
+URL:webcal://cssz.ch/events/meet-n-dine-2.ics
+NAME:CSSZ Events
+X-WR-CALNAME:CSSZ Events
+X-WR-CALDESC:
+X-WR-TIMEZONE:Europe/Zurich
+X-PUBLISHED-TTL:PT6H
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-LIC-LOCATION:Europe/Zurich
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+
+BEGIN:VEVENT
+SUMMARY:Meet'n'Dine
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/meet-n-dine-2/\n<strong>Location:</strong> TBC\n<strong>Coordinator:</strong> Juraj Mičko (<a class="link" href="mailto:juraj.micko@cssz.ch">juraj.micko@cssz.ch</a>, <a class="link" href="tel:&#43;41762639679">+41762639679</a>)\n<strong>Notes:</strong>\n• Registration form will be available on this page soon.\n\nCSSZ and Meet&rsquo;n&rsquo;Dine invite you to a casual dinner with fellow students in the cosy environment of a student flat. Come join us and bring a friend! We&rsquo;ll be cooking a traditional Slovak dish: Bryndzové halušky. Stay tuned and follow this page for further details. See the previous event of the Meet&rsquo;n&rsquo;Dine series here.
+UID:20221003T000000-meet-n-dine-2@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20221003T000000
+DTSTART:20221019T183000
+DTEND:20221019T213000
+LOCATION:TBC
+URL:https://cssz.ch/events/meet-n-dine-2/
+END:VEVENT
+
+END:VCALENDAR
+

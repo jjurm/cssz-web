@@ -28,6 +28,42 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+SUMMARY:Hike 🥾 from Uetliberg to Thalwil
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/hike-uetliberg-thalwil/\n<strong>Location:</strong> <a href="https://goo.gl/maps/LAgraK7pxk82yfbe7" target="_blank" rel="noopener">Zurich Triemli</a>\n<strong>Coordinator:</strong> Emma Hubeková (<a class="link" href="mailto:emma.hubekova@cssz.ch">emma.hubekova@cssz.ch</a>, <a class="link" href="tel:&#43;421949776209">+421 949 776 209</a>), Vu Nguyen (<a class="link" href="mailto:vu.nguyen@cssz.ch">vu.nguyen@cssz.ch</a>)\n<strong>Notes:</strong>\n• Registration form will be available on this page soon.\n\n<p>CSSZ invites you and your friends to join the first CSSZ trip of the Autumn Semester 2022.</p> <p>We&rsquo;ll meet at the tram stop <em>Triemli</em> at 9:30 a.m. and start our trip in the direction to Uetliberg, continuing to Thalwil. There we&rsquo;ll take the <em>Ship 3731 29</em> to get back to <em>Zürich Bürkliplatz (See)</em>. Expected duration of this hike with T1 level is 5:30 h.</p> <p><strong>Total distance:</strong> 19 km  <strong>Expected duration:</strong> 5:30 h  <strong>Uphill/downhill:</strong> 570 m</p>
+UID:20221003T000000-hike-uetliberg-thalwil@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20221003T000000
+DTSTART:20221015T093000
+DTEND:20221015T163000
+LOCATION;ALTREP="https://goo.gl/maps/LAgraK7pxk82yfbe7":Zurich Triemli
+URL:https://cssz.ch/events/hike-uetliberg-thalwil/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meet'n'Dine
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/meet-n-dine-2/\n<strong>Location:</strong> TBC\n<strong>Coordinator:</strong> Juraj Mičko (<a class="link" href="mailto:juraj.micko@cssz.ch">juraj.micko@cssz.ch</a>, <a class="link" href="tel:&#43;41762639679">+41762639679</a>)\n<strong>Notes:</strong>\n• Registration form will be available on this page soon.\n\nCSSZ and Meet&rsquo;n&rsquo;Dine invite you to a casual dinner with fellow students in the cosy environment of a student flat. Come join us and bring a friend! We&rsquo;ll be cooking a traditional Slovak dish: Bryndzové halušky. Stay tuned and follow this page for further details. See the previous event of the Meet&rsquo;n&rsquo;Dine series here.
+UID:20221003T000000-meet-n-dine-2@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20221003T000000
+DTSTART:20221019T183000
+DTEND:20221019T213000
+LOCATION:TBC
+URL:https://cssz.ch/events/meet-n-dine-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Semester Meet-Up (General Meeting CSSZ)
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/semester-meet-up-hs22/\n<strong>Location:</strong> TBC\n<strong>Coordinator:</strong> Timon Fopp (<a class="link" href="mailto:timon.fopp@cssz.ch">timon.fopp@cssz.ch</a>)\n<strong>Registration:</strong> <a href="https://forms.gle/tFf2LQ1Mp6eduk1x6" target="_blank" rel="noopener">Google Form</a>\n\nAccording to the statutes, we are convening a General Meeting on 12.11.2022. We will briefly present our activities and plans for the future, followed by an afterparty. Snacks and drinks will be provided. Feel free to reach the Board of CSSZ (board@cssz.ch) with any questions.
+UID:20221003T000000-semester-meet-up-hs22@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20221003T000000
+DTSTART:20221112T180000
+DTEND:20221112T230000
+LOCATION:TBC
+URL:https://cssz.ch/events/semester-meet-up-hs22/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dinner with 🥘 Meet'n'Dine
 DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/meet-n-dine/\n<strong>Location:</strong> <a href="https://goo.gl/maps/1JsoL81FCVowCDFi6" target="_blank" rel="noopener">Bächlerstrasse 44</a>\n<strong>Coordinator:</strong> Juraj Mičko (<a class="link" href="mailto:juraj.micko@cssz.ch">juraj.micko@cssz.ch</a>, <a class="link" href="tel:&#43;41762639679">+41762639679</a>)\n<strong>Registration:</strong> <a href="https://www.eventbrite.co.uk/e/meetndine-registration-205679010457" target="_blank" rel="noopener">Eventbrite</a>\n\nCSSZ and Meet&rsquo;n&rsquo;Dine invite you to a casual dinner with fellow students in the cosy environment of a student flat. Come join us and feel free to bring a friend! We&rsquo;ll be cooking Chinese Chicken and Broccoli Recipe. What is Meet&rsquo;n&rsquo;Dine? Meet&rsquo;n&rsquo;Dine brings people together to: socialise feed ourselves relax from school and real life learn new recipes get inspired about how others live their lives (optionally) discuss hard questions in life Who The group consists of mostly ETH (or UZH) students, but don&rsquo;t hesitate to reach out if you don&rsquo;t feel like a student and would still like to join.
 UID:20220531T000000-meet-n-dine@cssz.ch
