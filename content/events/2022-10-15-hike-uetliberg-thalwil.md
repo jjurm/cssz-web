@@ -15,14 +15,9 @@ event_details:
   coordinator:
     - emma.hubekova
     - vu.nguyen
-  #registration:
-    #link: https://forms.gle/...
-    #text: Google Form
-  notes:
-    - alert_type: info
-      icon: solid/info
-      text: |
-        Registration form will be available on this page soon.
+  registration:
+    link: https://docs.google.com/forms/d/e/1FAIpQLSfL6-gjaGNdOr1Ijl3vDFkh4wXbmOZ_qGM2vC5ujJOXwTFfCA/viewform
+    text: Google Form
 ---
 
 CSSZ invites you and your friends to join the first CSSZ trip of the Autumn Semester 2022.
