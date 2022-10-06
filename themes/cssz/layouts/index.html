@@ -20,7 +20,10 @@
 {{ $pag := .Paginate ($filtered) }}
 
 <section class="article-list">
-    {{ range $index, $element := $pag.Pages }}
+    {{ $pages := $pag.Pages }}
+    {{ $pages = sort $pages ".Params.event_details.date_start" "desc" }}
+    {{ $pages = sort $pages "Date" "desc" }}
+    {{ range $index, $element := $pages }}
     {{ partial "article-list/default" . }}
     {{ end }}
 </section>

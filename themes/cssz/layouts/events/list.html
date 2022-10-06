@@ -33,6 +33,7 @@
 
     {{- $subsections := .Sections -}}
     {{- $pages := .Pages | complement $subsections -}}
+    {{- $pages = sort $pages ".Params.event_details.date_start" "desc" }}
 
     {{- if eq (len $pages) 0 -}}
         {{/* If there are no normal pages, display subsections in list style, with pagination */}}
