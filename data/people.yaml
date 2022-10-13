@@ -31,12 +31,22 @@ all:
   - id: emma.hubekova
     name: Emma Hubeková
     role: Events Officer
-    about: Emma studies Bsc Biology at ETH. She likes reading, writing, playing tennis and many other kinds of sport. 
+    about: Emma studies Bsc Biology at ETH. She likes reading, writing, playing tennis and many other kinds of sport.
     phone: "+421 949 776 209"
     image: images/members/emma-hubekova.png
 
   - id: matus.zilinec
     name: Matúš Žilinec
+
+  - id: zdenek.snajdr
+    name: Zdeněk Šnajdr
+    role: Member
+    about: Zdenek studies BSc Computer Science at ETH Zurich. He enjoys traveling and and likes swimming and learning new languages.
+    image: images/members/zdenek-snajdr.jpg
+
+  - id: rene.caky
+    name: René Čáky
+    role: Member
 
 board:
   - radim.urban
@@ -46,3 +56,5 @@ board:
 team:
   - emma.hubekova
   - timon.fopp
+  - zdenek.snajdr
+  - rene.caky
