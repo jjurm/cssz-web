@@ -7,16 +7,20 @@ date: 2022-10-03
 image: images/events/2022-10-19-meetndine/halusky.jpeg
 
 event_details:
-  date_start: 2022-10-19T18:30:00
-  date_end: 2022-10-19T21:30:00
+  date_start: 2022-11-09T18:30:00
+  date_end: 2022-11-09T21:30:00
   location:
-    text: TBC
+    text: University of Zurich (TBC)
     #link: https://goo.gl/maps/bXk47LqsMqYxy4Te9
   coordinator: juraj.micko
   #registration:
     #link: https://forms.gle/...
     #text: Google Form
   notes:
+    - alert_type: warning
+      icon: solid/exclamation
+      text: |
+        This event was rescheduled from 19. Oct to 9. Nov due to venue availability.
     - alert_type: info
       icon: solid/info
       text: |
