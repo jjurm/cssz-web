@@ -13,18 +13,18 @@ event_details:
     text: University of Zurich (TBC)
     #link: https://goo.gl/maps/bXk47LqsMqYxy4Te9
   coordinator: juraj.micko
-  #registration:
-    #link: https://forms.gle/...
-    #text: Google Form
+  registration:
+    link: https://docs.google.com/forms/d/e/1FAIpQLScP5aqrwKx6c34y9tP0VJBQgIjDAdIT74I0kQuOxjeWvpu-kg/viewform
+    text: Google Form
   notes:
     - alert_type: warning
       icon: solid/exclamation
       text: |
         This event was rescheduled from 19. Oct to 9. Nov due to venue availability.
-    - alert_type: info
-      icon: solid/info
-      text: |
-        Registration form will be available on this page soon.
+    #- alert_type: info
+    #  icon: solid/info
+    #  text: |
+    #    Registration form will be available on this page soon.
 ---
 
 CSSZ and [Meet'n'Dine](https://www.notion.so/jjurm/Meet-n-Dine-c0d588aaa93046fe9724599c9ee62976) invite you to a casual dinner with fellow students in the cosy environment of a student flat. Come join us and bring a friend!
