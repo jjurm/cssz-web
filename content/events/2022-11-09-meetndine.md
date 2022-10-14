@@ -10,7 +10,7 @@ event_details:
   date_start: 2022-11-09T18:30:00
   date_end: 2022-11-09T21:30:00
   location:
-    text: University of Zurich (TBC)
+    text: University of Zurich, KOL-K-Küche
     #link: https://goo.gl/maps/bXk47LqsMqYxy4Te9
   coordinator: juraj.micko
   registration:
