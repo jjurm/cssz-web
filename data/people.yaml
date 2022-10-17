@@ -40,13 +40,15 @@ all:
 
   - id: zdenek.snajdr
     name: Zdeněk Šnajdr
-    role: Member
-    about: Zdenek studies BSc Computer Science at ETH Zurich. He enjoys traveling and and likes swimming and learning new languages.
+    role: Member, Events 
+    about: Zdeněhugok studies BSc Computer Science at ETH Zurich. He enjoys traveling and and likes swimming and learning new languages.
     image: images/members/zdenek-snajdr.jpg
 
   - id: rene.caky
     name: René Čáky
-    role: Member
+    role: Member, Events 
+    about: René studies BSc Computer Science at ETH. He is successful powerlifter on international level. He likes travelling and exloring new cities.
+    image: images/members/rene-caky.jpeg
 
 board:
   - radim.urban
