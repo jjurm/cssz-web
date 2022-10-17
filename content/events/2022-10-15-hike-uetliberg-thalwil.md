@@ -4,7 +4,7 @@ description: |
   Our first hike of the Autumn Semester 2022!
 date: 2022-10-03
 slug: hike-uetliberg-thalwil
-image: images/events/2022-10-15-hike-uetliberg-thalwil/uetliberg_thalwil.jpeg
+image: images/events/2022-10-15-hike-uetliberg-thalwil/everyone.jpeg
 
 event_details:
   date_start: 2022-10-15T09:30:00
@@ -20,6 +20,20 @@ event_details:
     text: Google Form
 ---
 
+Thank You everyone for joining us! You can see some photos from the hike below or the album [here!](https://photos.app.goo.gl/5VGVbvPTzKh7zBF26)
+
+{{< image asset="images/events/2022-10-15-hike-uetliberg-thalwil/trail_map.png" height=200 >}}
+
+{{< image asset="images/events/2022-10-15-hike-uetliberg-thalwil/everyone.jpeg" height=200 >}}
+
+{{< image asset="images/events/2022-10-15-hike-uetliberg-thalwil/view.jpeg" height=200 >}}
+
+{{< image asset="images/events/2022-10-15-hike-uetliberg-thalwil/spider.jpeg" height=200 >}}
+
+[See more photos from the trip here!](https://photos.app.goo.gl/5VGVbvPTzKh7zBF26)
+
+<hr>
+
 CSSZ invites you and your friends to join the first CSSZ trip of the Autumn Semester 2022.
 
 We'll meet at the tram stop _Triemli_ at 9:30 a.m. and start our trip in the direction to Uetliberg, continuing to Thalwil.
@@ -31,4 +45,3 @@ There we'll take the _Ship 3731 29_ to get back to _Zürich Bürkliplatz (See)_.
 
 <!--more-->
 
-{{< image asset="images/events/2022-10-15-hike-uetliberg-thalwil/trail_map.png" >}}
