@@ -47,7 +47,7 @@ all:
   - id: rene.caky
     name: René Čáky
     role: Member, Events 
-    about: René studies BSc Computer Science at ETH. He is successful powerlifter on international level. He likes travelling and exloring new cities.
+    about: René studies BSc Computer Science at ETH. He is a successful powerlifter on international level. He likes travelling and exloring new cities.
     image: images/members/rene-caky.jpeg
 
 board:
