@@ -579,8 +579,8 @@ We hope you will find the association useful and fun!&lt;/p&gt;
             /&gt;&lt;/picture&gt;&lt;/div&gt;
             &lt;div class=&#34;col-9&#34;&gt;
                     &lt;h2&gt;Zdeněk Šnajdr&lt;/h2&gt;
-                    &lt;strong&gt;Member&lt;/strong&gt;
-                    &lt;p class=&#34;about-person&#34;&gt;Zdenek studies BSc Computer Science at ETH Zurich. He enjoys traveling and and likes swimming and learning new languages.&lt;/p&gt;
+                    &lt;strong&gt;Member, Events&lt;/strong&gt;
+                    &lt;p class=&#34;about-person&#34;&gt;Zdeněhugok studies BSc Computer Science at ETH Zurich. He enjoys traveling and and likes swimming and learning new languages.&lt;/p&gt;
                     &lt;a href=&#34;mailto:zdenek.snajdr@cssz.ch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;zdenek.snajdr@cssz.ch&lt;/a&gt;
             &lt;/div&gt;
         &lt;/div&gt;
@@ -588,11 +588,25 @@ We hope you will find the association useful and fun!&lt;/p&gt;
 
     
         &lt;div class=&#34;person row&#34;&gt;
-            &lt;div class=&#34;col-3&#34;&gt;&lt;/div&gt;
+            &lt;div class=&#34;col-3&#34;&gt;&lt;picture class=&#34;img&#34; style=&#34;background: url(data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIABQAFAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5&amp;#43;gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4&amp;#43;Tl5ufo6ery8/T19vf4&amp;#43;fr/2gAMAwEAAhEDEQA/AO0DDNc/otxdSatcCbUZ7iNlOYpQmEYH&amp;#43;HbyB7H1FdNpMNvcAvLIC&amp;#43;/aqZH15FOtfDGm2VzdXMZfdOe5&amp;#43;6M5wPxr5bB5ZOeHlJpe8tD1KmJhGdn0KeV9RR8vqKqXafZbyWDdnY2AfWofN968eVJxk4y3R0ppq6OdhvJ20tL933XBBJY8dG9sY/CtOPxHqksYBuCpUjDKPm596xIP&amp;#43;Rai/wB1v/QjU1v91vqv9a&amp;#43;vpNxppI5nFSlqZ2qeJNVj1O4RbokBv4lDHoO5Gaqf8JPq/wDz9D/v2v8AhVXV/wDkL3P&amp;#43;8P5CqVedOlBybaQ7tH//2Q==); background-size: cover; display: inline;&#34;&gt;
+            &lt;source srcset=&#39;https://cssz.ch/images/members/rene-caky_hu3fe7ef3e7302b5d049c53dbd20f14444_1212883_76420e67557144e2077e9392c5df894a.webp 180w, https://cssz.ch/images/members/rene-caky_hu3fe7ef3e7302b5d049c53dbd20f14444_1212883_bf5073dfa0a71ee7664316f7be41e0d4.webp 360w, https://cssz.ch/images/members/rene-caky_hu3fe7ef3e7302b5d049c53dbd20f14444_1212883_ffcb63d83e347dce054d79c8ab74dd16.webp 128w, https://cssz.ch/images/members/rene-caky_hu3fe7ef3e7302b5d049c53dbd20f14444_1212883_b3bf304ec5f1d3cd7086cb781fbc3b11.webp 205w, https://cssz.ch/images/members/rene-caky_hu3fe7ef3e7302b5d049c53dbd20f14444_1212883_0300e2844b49c3146e44c858494cf93a.webp 320w&#39;
+                    sizes=&#34;(max-width: 180px) 100vw, 180px&#34;
+                    type=&#34;image/webp&#34;
+            /&gt;&lt;source srcset=&#39;https://cssz.ch/images/members/rene-caky_hu3fe7ef3e7302b5d049c53dbd20f14444_1212883_004479561b2ae9dfe9627203f00c3fd6.jpeg 180w, https://cssz.ch/images/members/rene-caky_hu3fe7ef3e7302b5d049c53dbd20f14444_1212883_46b5fe1802440373f6512aaed2c3f733.jpeg 360w, https://cssz.ch/images/members/rene-caky_hu3fe7ef3e7302b5d049c53dbd20f14444_1212883_b280c8af1185e6a016d3f0c37769ee50.jpeg 128w, https://cssz.ch/images/members/rene-caky_hu3fe7ef3e7302b5d049c53dbd20f14444_1212883_c7b24c2266cd949073634bfabfbfdddb.jpeg 205w, https://cssz.ch/images/members/rene-caky_hu3fe7ef3e7302b5d049c53dbd20f14444_1212883_981d56b59262ccfdf4e701947066369c.jpeg 320w&#39;
+                    sizes=&#34;(max-width: 180px) 100vw, 180px&#34;
+                    type=&#34;image/jpeg&#34;
+            /&gt;&lt;img src=&#34;https://cssz.ch/images/members/rene-caky_hu3fe7ef3e7302b5d049c53dbd20f14444_1212883_004479561b2ae9dfe9627203f00c3fd6.jpeg&#34;
+                 width=&#34;180&#34;
+                 height=&#34;180&#34;
+                 
+                 
+                 
+                 
+            /&gt;&lt;/picture&gt;&lt;/div&gt;
             &lt;div class=&#34;col-9&#34;&gt;
                     &lt;h2&gt;René Čáky&lt;/h2&gt;
-                    &lt;strong&gt;Member&lt;/strong&gt;
-                    &lt;p class=&#34;about-person&#34;&gt;&lt;/p&gt;
+                    &lt;strong&gt;Member, Events&lt;/strong&gt;
+                    &lt;p class=&#34;about-person&#34;&gt;René studies BSc Computer Science at ETH. He is successful powerlifter on international level. He likes travelling and exloring new cities.&lt;/p&gt;
                     &lt;a href=&#34;mailto:rene.caky@cssz.ch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rene.caky@cssz.ch&lt;/a&gt;
             &lt;/div&gt;
         &lt;/div&gt;
