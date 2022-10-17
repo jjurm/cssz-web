@@ -41,7 +41,7 @@ all:
   - id: zdenek.snajdr
     name: Zdeněk Šnajdr
     role: Member, Events 
-    about: Zdeněhugok studies BSc Computer Science at ETH Zurich. He enjoys traveling and and likes swimming and learning new languages.
+    about: Zdeněk studies BSc Computer Science at ETH Zurich. He enjoys traveling and and likes swimming and learning new languages.
     image: images/members/zdenek-snajdr.jpg
 
   - id: rene.caky
