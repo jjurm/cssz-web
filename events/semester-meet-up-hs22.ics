@@ -30,14 +30,14 @@ END:VTIMEZONE
 
 BEGIN:VEVENT
 SUMMARY:General Meeting with Afterparty🇨🇿🇸🇰
-DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/semester-meet-up-hs22/\n<strong>Location:</strong> TBC\n<strong>Coordinator:</strong> Timon Fopp (<a class="link" href="mailto:timon.fopp@cssz.ch">timon.fopp@cssz.ch</a>), Radim Urban (<a class="link" href="mailto:radim.urban@cssz.ch">radim.urban@cssz.ch</a>), René Čáky (<a class="link" href="mailto:rene.caky@cssz.ch">rene.caky@cssz.ch</a>)\n<strong>Registration:</strong> <a href="https://forms.gle/tFf2LQ1Mp6eduk1x6" target="_blank" rel="noopener">Google Form</a>\n\nAccording to the statutes, we are convening a General Meeting on 12.11.2022. We will briefly present our activities and plans for the future, followed by an afterparty. Snacks and drinks will be provided. Feel free to reach the Board of CSSZ (board@cssz.ch) with any questions.
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/semester-meet-up-hs22/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/857YNNq7mm2hFW6K7" target="_blank" rel="noopener">ETH Alumni Pavillon (MM C 78.1)</a>\n<strong>Coordinator:</strong> Timon Fopp (<a class="link" href="mailto:timon.fopp@cssz.ch">timon.fopp@cssz.ch</a>), Radim Urban (<a class="link" href="mailto:radim.urban@cssz.ch">radim.urban@cssz.ch</a>), René Čáky (<a class="link" href="mailto:rene.caky@cssz.ch">rene.caky@cssz.ch</a>)\n<strong>Registration:</strong> <a href="https://forms.gle/tFf2LQ1Mp6eduk1x6" target="_blank" rel="noopener">Google Form</a>\n\nAccording to the statutes, we are convening a General Meeting on 12.11.2022. We will briefly present our activities and plans for the future, followed by an afterparty. Snacks and drinks will be provided. Feel free to reach the Board of CSSZ (board@cssz.ch) with any questions.
 UID:20221003T000000-semester-meet-up-hs22@cssz.ch
 SEQUENCE:0
 STATUS:CONFIRMED
 DTSTAMP:20221003T000000
 DTSTART:20221112T180000
 DTEND:20221112T230000
-LOCATION:TBC
+LOCATION;ALTREP="https://maps.app.goo.gl/857YNNq7mm2hFW6K7":ETH Alumni Pavillon (MM C 78.1)
 URL:https://cssz.ch/events/semester-meet-up-hs22/
 END:VEVENT
 
