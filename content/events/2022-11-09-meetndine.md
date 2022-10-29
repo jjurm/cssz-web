@@ -14,8 +14,8 @@ event_details:
     #link: https://goo.gl/maps/bXk47LqsMqYxy4Te9
   coordinator: juraj.micko
   registration:
-    link: https://docs.google.com/forms/d/e/1FAIpQLScP5aqrwKx6c34y9tP0VJBQgIjDAdIT74I0kQuOxjeWvpu-kg/viewform
-    text: Google Form
+    link: https://zurich.esn.ch/index.php?file=addViewEventsRegister.php&evId=2642
+    text: ESN Zürich
   notes:
     - alert_type: warning
       icon: solid/exclamation
