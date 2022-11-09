@@ -8,7 +8,7 @@ image: images/events/2022-10-19-meetndine/halusky.jpeg
 
 event_details:
   date_start: 2022-11-09T18:30:00
-  date_end: 2022-11-09T21:30:00
+  date_end: 2022-11-09T22:00:00
   location:
     text: University of Zurich, KOL-K-Küche
     #link: https://goo.gl/maps/bXk47LqsMqYxy4Te9
