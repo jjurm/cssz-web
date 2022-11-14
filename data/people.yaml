@@ -24,7 +24,7 @@ all:
 
   - id: timon.fopp
     name: Timon Fopp
-    role: UZH Representative
+    role: UZH Representative, Infrastructure
     about: |
       Timon studies BSc Business Informatics at University of Zurich (UZH). He likes playing volleyball, the guitar, riding his motorcycle, travelling and especially loves meeting nice people all over the world.
     image: images/members/timon-fopp.png
@@ -46,17 +46,16 @@ all:
 
   - id: rene.caky
     name: René Čáky
-    role: Member, Events 
+    role: Member, Events Infrastructure
     about: René studies BSc Computer Science at ETH. He is a successful powerlifter on international level. He likes travelling and exloring new cities.
     image: images/members/rene-caky.jpeg
 
 board:
   - radim.urban
   - juraj.micko
-  - simon.hrabec
+  - timon.fopp
   - vu.nguyen
 team:
   - emma.hubekova
-  - timon.fopp
   - zdenek.snajdr
   - rene.caky
