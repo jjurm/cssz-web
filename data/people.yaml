@@ -18,7 +18,7 @@ all:
     image: images/members/simon-hrabec.jpg
   - id: vu.nguyen
     name: Vu Nguyen
-    role: Co-founding Member
+    role: Finance, Co-founding Member
     about: Vu studies MSc Computer Science Student at ETH. In his free time he loves to ski/hike, travel, and do BBQs, among other fun things.
     image: images/members/vu-nguyen.jpeg
 
