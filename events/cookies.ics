@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Czech and Slovak Students in Zurich//Events//EN
+URL:webcal://cssz.ch/events/cookies.ics
+NAME:CSSZ Events
+X-WR-CALNAME:CSSZ Events
+X-WR-CALDESC:
+X-WR-TIMEZONE:Europe/Zurich
+X-PUBLISHED-TTL:PT6H
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-LIC-LOCATION:Europe/Zurich
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+
+BEGIN:VEVENT
+SUMMARY:Baking Christmas Cookies
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/cookies/\n<strong>Location:</strong> UZH Kol-K-Küche\n<strong>Coordinator:</strong> Daniel Mareda (<a class="link" href="mailto:daniel.mareda@gmail.com">daniel.mareda@gmail.com</a>)\n<strong>Registration:</strong> <a href="https://forms.gle/Efam3mejYc8JaD2i6" target="_blank" rel="noopener">Google Form</a>\n\nWe invite you to come in these stressful times and get your deserved reward. Enjoy the two most important things about christmas: Gingerbread and Hotwine. We will bake the traditional christmas cookies, decorate them and drink some hot wine on side. Entry 5CHF.
+UID:20221216T000000-cookies@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20221216T000000
+DTSTART:20221219T180000
+DTEND:20221219T220000
+LOCATION:UZH Kol-K-Küche
+URL:https://cssz.ch/events/cookies/
+END:VEVENT
+
+END:VCALENDAR
+

@@ -28,6 +28,18 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+SUMMARY:Baking Christmas Cookies
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/cookies/\n<strong>Location:</strong> UZH Kol-K-Küche\n<strong>Coordinator:</strong> Daniel Mareda (<a class="link" href="mailto:daniel.mareda@gmail.com">daniel.mareda@gmail.com</a>)\n<strong>Registration:</strong> <a href="https://forms.gle/Efam3mejYc8JaD2i6" target="_blank" rel="noopener">Google Form</a>\n\nWe invite you to come in these stressful times and get your deserved reward. Enjoy the two most important things about christmas: Gingerbread and Hotwine. We will bake the traditional christmas cookies, decorate them and drink some hot wine on side. Entry 5CHF.
+UID:20221216T000000-cookies@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20221216T000000
+DTSTART:20221219T180000
+DTEND:20221219T220000
+LOCATION:UZH Kol-K-Küche
+URL:https://cssz.ch/events/cookies/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:General Meeting with Afterparty🇨🇿🇸🇰
 DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/semester-meet-up-hs22/\n<strong>Location:</strong> <a href="https://www.google.com/maps/place/R%C3%A4mistrasse+59,+8001+Z%C3%BCrich/@47.3721109,8.549581,19z/data=!3m1!4b1!4m5!3m4!1s0x479aa0ae934941d3:0x3324d67e2e8d5700!8m2!3d47.3721109!4d8.5501282" target="_blank" rel="noopener">UZH RAA-E-30</a>\n<strong>Coordinator:</strong> Timon Fopp (<a class="link" href="mailto:timon.fopp@cssz.ch">timon.fopp@cssz.ch</a>), Radim Urban (<a class="link" href="mailto:radim.urban@cssz.ch">radim.urban@cssz.ch</a>), René Čáky (<a class="link" href="mailto:rene.caky@cssz.ch">rene.caky@cssz.ch</a>)\n\nThank You everyone for coming. The most important news from the General Meeting: Timon Fopp has been elected to replace Šimon Hrabec in the board since he resigned from the function. We hope you enjoyed the afterparty! :) According to the statutes, we are convening a General Meeting on 12.11.2022. We will briefly present our activities and plans for the future, followed by an afterparty. Snacks and drinks will be provided.
 UID:20221003T000000-semester-meet-up-hs22@cssz.ch
