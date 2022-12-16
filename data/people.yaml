@@ -50,6 +50,11 @@ all:
     about: René studies BSc Computer Science at ETH. He is a successful powerlifter on international level. He likes travelling and exloring new cities.
     image: images/members/rene-caky.jpeg
 
+  - id: daniel.mareda
+    name: Daniel Mareda
+    role: Member
+    email: daniel.mareda@gmail.com
+
 board:
   - radim.urban
   - juraj.micko
