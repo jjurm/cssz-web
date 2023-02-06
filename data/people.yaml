@@ -21,6 +21,7 @@ all:
     role: Finance, Co-founding Member
     about: Vu studies MSc Computer Science Student at ETH. In his free time he loves to ski/hike, travel, and do BBQs, among other fun things.
     image: images/members/vu-nguyen.jpeg
+    phone: "+41762800264"
 
   - id: timon.fopp
     name: Timon Fopp
@@ -40,7 +41,7 @@ all:
 
   - id: zdenek.snajdr
     name: Zdeněk Šnajdr
-    role: Member, Events 
+    role: Member, Events
     about: Zdeněk studies BSc Computer Science at ETH Zurich. He enjoys traveling and and likes swimming and learning new languages.
     image: images/members/zdenek-snajdr.jpg
 
