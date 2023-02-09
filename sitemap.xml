@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cssz.ch/events/cookies/</loc>
-    <lastmod>2022-12-16T00:00:00+01:00</lastmod>
-  </url><url>
     <loc>https://cssz.ch/</loc>
-    <lastmod>2022-12-16T00:00:00+01:00</lastmod>
+    <lastmod>2023-02-06T00:00:00+01:00</lastmod>
   </url><url>
     <loc>https://cssz.ch/events/</loc>
+    <lastmod>2023-02-06T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://cssz.ch/events/ski-trip-meiringen/</loc>
+    <lastmod>2023-02-06T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://cssz.ch/events/cookies/</loc>
     <lastmod>2022-12-16T00:00:00+01:00</lastmod>
   </url><url>
     <loc>https://cssz.ch/events/semester-meet-up-hs22/</loc>
