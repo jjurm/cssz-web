@@ -31,6 +31,6 @@ If you prefer developing locally (you can preview any changes immediately and wi
 - `config.yml` - global configuration (website title, menu, metadata, other options)
 - `content` - contains all the content: pages, blog posts
 - `static` - images and other static assets that are kept without any modification (unlike `assets`)
-- `themes/PaperMod` - the theme, defining how `content` is rendered
+- `themes/...` - the themes, defining how `content` is rendered
   - `assets` - JS and CSS code
   - `layouts` - HTML templates, HTML code and shortcodes 
