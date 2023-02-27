@@ -32,7 +32,7 @@
     </div>
 
     {{- $subsections := .Sections -}}
-    {{- $pages := .Pages | complement $subsections -}}
+    {{- $pages := (where .Pages "Params.hidden" "!=" true) | complement $subsections -}}
     {{- $pages = sort $pages ".Params.event_details.date_start" "desc" }}
 
     {{- if eq (len $pages) 0 -}}

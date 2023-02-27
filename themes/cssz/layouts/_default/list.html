@@ -32,7 +32,7 @@
     </div>
 
     {{- $subsections := .Sections -}}
-    {{- $pages := .Pages | complement $subsections -}}
+    {{- $pages := (where .Pages "Params.hidden" "!=" true) | complement $subsections -}}
 
     {{- if eq (len $pages) 0 -}}
     {{/* If there are no normal pages, display subsections in list style, with pagination */}}
