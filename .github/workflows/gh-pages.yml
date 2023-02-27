@@ -39,7 +39,7 @@ jobs:
           key: hugo-resources-v1
 
       - name: Build
-        run: hugo --gc --minify
+        run: hugo --gc --minify -F
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
