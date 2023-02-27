@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Czech and Slovak Students in Zurich//Events//EN
+URL:webcal://cssz.ch/events/cambridge-zurich-exchange.ics
+NAME:CSSZ Events
+X-WR-CALNAME:CSSZ Events
+X-WR-CALDESC:
+X-WR-TIMEZONE:Europe/Zurich
+X-PUBLISHED-TTL:PT6H
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-LIC-LOCATION:Europe/Zurich
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+
+BEGIN:VEVENT
+SUMMARY:Cambridge <> Zurich Exchange
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/cambridge-zurich-exchange/\n<strong>Location:</strong> <a href="https://goo.gl/maps/9LEBPFM8ZyfotawJ6" target="_blank" rel="noopener">Cambrige, UK</a>\n<strong>Coordinator:</strong> Juraj Mičko (<a class="link" href="mailto:juraj.micko@cssz.ch">juraj.micko@cssz.ch</a>, <a class="link" href="tel:&#43;41762639679">+41762639679</a>), Radim Urban (<a class="link" href="mailto:radim.urban@cssz.ch">radim.urban@cssz.ch</a>)\n<strong>Registration:</strong> <a href="https://forms.gle/4LBqwbPfhBqG23SE6" target="_blank" rel="noopener">Application Form</a>\n\nCollaboration between Cambridge University Czech and Slovak Society (CUCSS) and Czech and Slovak Students in Zurich (CSSZ) brings an opportunity for members of the two societies to visit the other city. Each of the two societies chooses 8 members to be part of the programme, who will then be paired based on interests. Participants of this programme will host their paired peer (a member of CUCSS) in Zurich for 4 days in exchange to be hosted in Cambridge.
+UID:20230301T000000-cambridge-zurich-exchange@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20230301T000000
+DTSTART:20230513T120000
+DTEND:20230516T120000
+LOCATION;ALTREP="https://goo.gl/maps/9LEBPFM8ZyfotawJ6":Cambrige, UK
+URL:https://cssz.ch/events/cambridge-zurich-exchange/
+END:VEVENT
+
+END:VCALENDAR
+

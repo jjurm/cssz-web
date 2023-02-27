@@ -28,6 +28,18 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+SUMMARY:Cambridge <> Zurich Exchange
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/cambridge-zurich-exchange/\n<strong>Location:</strong> <a href="https://goo.gl/maps/9LEBPFM8ZyfotawJ6" target="_blank" rel="noopener">Cambrige, UK</a>\n<strong>Coordinator:</strong> Juraj Mičko (<a class="link" href="mailto:juraj.micko@cssz.ch">juraj.micko@cssz.ch</a>, <a class="link" href="tel:&#43;41762639679">+41762639679</a>), Radim Urban (<a class="link" href="mailto:radim.urban@cssz.ch">radim.urban@cssz.ch</a>)\n<strong>Registration:</strong> <a href="https://forms.gle/4LBqwbPfhBqG23SE6" target="_blank" rel="noopener">Application Form</a>\n\nCollaboration between Cambridge University Czech and Slovak Society (CUCSS) and Czech and Slovak Students in Zurich (CSSZ) brings an opportunity for members of the two societies to visit the other city. Each of the two societies chooses 8 members to be part of the programme, who will then be paired based on interests. Participants of this programme will host their paired peer (a member of CUCSS) in Zurich for 4 days in exchange to be hosted in Cambridge.
+UID:20230301T000000-cambridge-zurich-exchange@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20230301T000000
+DTSTART:20230513T120000
+DTEND:20230516T120000
+LOCATION;ALTREP="https://goo.gl/maps/9LEBPFM8ZyfotawJ6":Cambrige, UK
+URL:https://cssz.ch/events/cambridge-zurich-exchange/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Spring bQm 🍺
 DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/spring-23-bqm/\n<strong>Location:</strong> <a href="https://goo.gl/maps/bqDsM5dpDLDDRoGg8" target="_blank" rel="noopener">bQm Culture Café & Bar</a>\n<strong>Coordinator:</strong> Timon Fopp (<a class="link" href="mailto:timon.fopp@cssz.ch">timon.fopp@cssz.ch</a>, <a class="link" href="tel:&#43;41783309888">+41783309888</a>)\n\nCZ: Ahooj! Doufám že neumíráte hlady, nový semestr je tady :D Kdo má ve čtvrtek zájem a čas, ať dorazí na první sraz v 7 večer v bQm, na pokec a za pivem 🥳 EN: Hello! I hope you are not starving, the new semester is here :D Anyone who is interested and has time on Thursday should come to the first meeting at 7 in the evening at bQm, for a chat and a beer 🥳
 UID:20230221T000000-spring-23-bqm@cssz.ch
