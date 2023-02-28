@@ -37,7 +37,8 @@ Each of the two societies chooses **8 members** to be part of the programme, who
 If you are among selected participants, you are offered the following:
 
 * Accommodation for 3 nights in a CUCSS member's room in Cambridge (on an inflatable mattress, couch, or a similar low-cost solution)
-* Entry to a [formal dinner at St Catherine's College](https://www.caths.cam.ac.uk/students/college-operations/hall-and-dining) organised by the CUCSS society
+* Entry to the **Annual Dinner of CUCCS** on 14 May, in the form of a formal dinner at the [Trinity Hall College](https://www.trinhall.cam.ac.uk/), also attended by the Trinity Hall Master [Ms Mary Hockaday
+  ](https://www.trinhall.cam.ac.uk/contact-us/contact-directory/fellows-and-academics-directory/mary-hockaday/), who, in the early 1990s, was covering post-communist Czechoslovakia for the BBC in Prague. Dress code: smart (black tie optional)
 * A sightseeing tour of Cambridge and the University
 * An in-person meeting with the CUCSS committee
 
