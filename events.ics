@@ -40,6 +40,18 @@ LOCATION;ALTREP="https://goo.gl/maps/9LEBPFM8ZyfotawJ6":Cambrige, UK
 URL:https://cssz.ch/events/cambridge-zurich-exchange/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pub Quiz 💡
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/pub-quiz/\n<strong>Location:</strong> <a href="https://goo.gl/maps/v75ZzHko9jK8pfGG6" target="_blank" rel="noopener">Oliver Twist Pub</a>\n<strong>Coordinator:</strong> Zdeněk Šnajdr (<a class="link" href="mailto:zdenek.snajdr@cssz.ch">zdenek.snajdr@cssz.ch</a>)\n\n<blockquote> <p>🎉 Are you ready for a night of fun, laughter, and friendly competition? Join us on <strong>April 3rd</strong> for a <strong>pub quiz</strong> at the Oliver Twist Pub in Zurich! 🍻</p> <p>💡 Gather your friends and test your knowledge on a wide range of topics, including history, pop culture, sports, and more. So whether you&rsquo;re a trivia buff or just looking for a fun night out, we hope to see you at the Oliver Twist Pub on April 3rd. Don&rsquo;t forget to bring your A-game! 🔥</p> </blockquote>
+UID:20230221T000000-pub-quiz@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20230221T000000
+DTSTART:20230403T183000
+DTEND:20230403T213000
+LOCATION;ALTREP="https://goo.gl/maps/v75ZzHko9jK8pfGG6":Oliver Twist Pub
+URL:https://cssz.ch/events/pub-quiz/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Spring bQm 🍺
 DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/spring-23-bqm/\n<strong>Location:</strong> <a href="https://goo.gl/maps/bqDsM5dpDLDDRoGg8" target="_blank" rel="noopener">bQm Culture Café & Bar</a>\n<strong>Coordinator:</strong> Timon Fopp (<a class="link" href="mailto:timon.fopp@cssz.ch">timon.fopp@cssz.ch</a>, <a class="link" href="tel:&#43;41783309888">+41783309888</a>)\n\nCZ: Ahooj! Doufám že neumíráte hlady, nový semestr je tady :D Kdo má ve čtvrtek zájem a čas, ať dorazí na první sraz v 7 večer v bQm, na pokec a za pivem 🥳 EN: Hello! I hope you are not starving, the new semester is here :D Anyone who is interested and has time on Thursday should come to the first meeting at 7 in the evening at bQm, for a chat and a beer 🥳
 UID:20230221T000000-spring-23-bqm@cssz.ch
