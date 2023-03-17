@@ -6,7 +6,7 @@ slug: cambridge-zurich-exchange
 date: 2023-03-01
 image: images/events/2023-05-13-cambridge-zurich-exchange/cambridge_crop.jpeg
 draft: false
-hidden: true
+#hidden: true
 
 event_details:
   date_start: 2023-05-13T12:00:00
