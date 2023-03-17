@@ -49,15 +49,15 @@ Participants need to arrange their own flights and catering. However, peers from
 
 ## What's asked
 
-The programme is an exchange, so we ask the participants to offer a similar package to members of CUCSS, in particular, to accommodate your peer from Cambridge at your place for the 3 nights between **18.–21.5.**
+The programme is an exchange, so we ask the participants to offer a similar package to members of CUCSS, in particular, to accommodate your peer from Cambridge at your place for the 3 nights between **20—23 April 2023**.
 
 ## How to apply
 
 If you are interested to participate in this exchange, follow the steps below:
 
-1. Fill in the [Application Form](https://forms.gle/4LBqwbPfhBqG23SE6).
+1. Fill in the [Application Form](https://forms.gle/4LBqwbPfhBqG23SE6) by **31 March 2023**.
 2. If needed based on the number of applications, coordinators may request you to answer additional questions or join a brief interview.
-3. If you are selected, you will be notified via email by 13. April 2023.
+3. If you are selected, you will be notified via email by **5 April 2023**.
 
 Responsible for picking the participants of the exchange are coordinators of the program in both cities.
 
