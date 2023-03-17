@@ -39,7 +39,7 @@ If you are among selected participants, you are offered the following:
 * Accommodation for 3 nights in a CUCSS member's room in Cambridge (on an inflatable mattress, couch, or a similar low-cost solution)
 * Entry to the **Annual Dinner of CUCCS** on 14 May, in the form of a formal dinner at the [Trinity Hall College](https://www.trinhall.cam.ac.uk/), also attended by the Trinity Hall Master [Ms Mary Hockaday
   ](https://www.trinhall.cam.ac.uk/contact-us/contact-directory/fellows-and-academics-directory/mary-hockaday/), who, in the early 1990s, was covering post-communist Czechoslovakia for the BBC in Prague.<br>
-    Dress code: smart (black tie optional).<br>
+    Dress code: smart (black tie optional)<br>
     Included: pre-drinks, 3 courses, wine<br>
     Price: £50
 * A sightseeing tour of Cambridge and the University
@@ -49,7 +49,7 @@ Participants need to arrange their own flights and catering. However, peers from
 
 ## What's asked
 
-The programme is an exchange, so we ask the participants to offer a similar package to members of CUCSS, in particular, to accommodate your peer from Cambridge at your place for 3 nights, (the dates are yet to be confirmed).
+The programme is an exchange, so we ask the participants to offer a similar package to members of CUCSS, in particular, to accommodate your peer from Cambridge at your place for the 3 nights between **18.–21.5.**
 
 ## How to apply
 
