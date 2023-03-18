@@ -44,6 +44,7 @@ all:
     name: Zdeněk Šnajdr
     role: Member, Events
     about: Zdeněk studies BSc Computer Science at ETH Zurich. He enjoys traveling and and likes swimming and learning new languages.
+    phone: "+41762254840"
     image: images/members/zdenek-snajdr.jpg
 
   - id: rene.caky
