@@ -28,6 +28,18 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+SUMMARY:Wine Tasting 🍷
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/wine-tasting/\n<strong>Location:</strong> <a href="https://goo.gl/maps/2JV26xf42Un76h5o8" target="_blank" rel="noopener">Holderbachweg 6</a>\n<strong>Coordinator:</strong> Timon Fopp (<a class="link" href="mailto:timon.fopp@cssz.ch">timon.fopp@cssz.ch</a>, <a class="link" href="tel:&#43;41783309888">+41783309888</a>)\n\nCZ: Degustace vína: V sobotu degustace vína, ať se nám to hýbá, po červeném se zpívá, po bílém se stmívá, přijď a nebuď kůže lína, máme tady litry vína. EN: Wine Tasting: Wine tasting on Saturday, let&rsquo;s keep it moving, after the red it sings, after the white it gets dark, come and don&rsquo;t be lazy, we have litres of wine.
+UID:20230317T000000-wine-tasting@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20230317T000000
+DTSTART:20230318T190000
+DTEND:20230318T230000
+LOCATION;ALTREP="https://goo.gl/maps/2JV26xf42Un76h5o8":Holderbachweg 6
+URL:https://cssz.ch/events/wine-tasting/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Cambridge <> Zurich Exchange
 DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/cambridge-zurich-exchange/\n<strong>Location:</strong> <a href="https://goo.gl/maps/9LEBPFM8ZyfotawJ6" target="_blank" rel="noopener">Cambrige, UK</a>\n<strong>Coordinator:</strong> Juraj Mičko (<a class="link" href="mailto:juraj.micko@cssz.ch">juraj.micko@cssz.ch</a>, <a class="link" href="tel:&#43;41762639679">+41762639679</a>), Radim Urban (<a class="link" href="mailto:radim.urban@cssz.ch">radim.urban@cssz.ch</a>)\n<strong>Registration:</strong> <a href="https://forms.gle/4LBqwbPfhBqG23SE6" target="_blank" rel="noopener">Application Form</a>\n\nCollaboration between Cambridge University Czech and Slovak Society (CUCSS) and Czech and Slovak Students in Zurich (CSSZ) brings an opportunity for members of the two societies to visit the other city. Each of the two societies chooses 8 members to be part of the programme, who will then be paired based on interests. Participants of this programme will host their paired peer (a member of CUCSS) in Zurich for 4 days in exchange to be hosted in Cambridge.
 UID:20230301T000000-cambridge-zurich-exchange@cssz.ch

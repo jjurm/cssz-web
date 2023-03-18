@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Czech and Slovak Students in Zurich//Events//EN
+URL:webcal://cssz.ch/events/wine-tasting.ics
+NAME:CSSZ Events
+X-WR-CALNAME:CSSZ Events
+X-WR-CALDESC:
+X-WR-TIMEZONE:Europe/Zurich
+X-PUBLISHED-TTL:PT6H
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-LIC-LOCATION:Europe/Zurich
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+
+BEGIN:VEVENT
+SUMMARY:Wine Tasting 🍷
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/wine-tasting/\n<strong>Location:</strong> <a href="https://goo.gl/maps/2JV26xf42Un76h5o8" target="_blank" rel="noopener">Holderbachweg 6</a>\n<strong>Coordinator:</strong> Timon Fopp (<a class="link" href="mailto:timon.fopp@cssz.ch">timon.fopp@cssz.ch</a>, <a class="link" href="tel:&#43;41783309888">+41783309888</a>)\n\nCZ: Degustace vína: V sobotu degustace vína, ať se nám to hýbá, po červeném se zpívá, po bílém se stmívá, přijď a nebuď kůže lína, máme tady litry vína. EN: Wine Tasting: Wine tasting on Saturday, let&rsquo;s keep it moving, after the red it sings, after the white it gets dark, come and don&rsquo;t be lazy, we have litres of wine.
+UID:20230317T000000-wine-tasting@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20230317T000000
+DTSTART:20230318T190000
+DTEND:20230318T230000
+LOCATION;ALTREP="https://goo.gl/maps/2JV26xf42Un76h5o8":Holderbachweg 6
+URL:https://cssz.ch/events/wine-tasting/
+END:VEVENT
+
+END:VCALENDAR
+
