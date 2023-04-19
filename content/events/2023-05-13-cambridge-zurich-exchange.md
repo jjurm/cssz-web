@@ -20,6 +20,12 @@ event_details:
   registration:
     link: https://forms.gle/4LBqwbPfhBqG23SE6
     text: Application Form
+  
+  notes: 
+    - alert_type: warning
+      icon: solid/info
+      text: |
+        UPDATE: Selection has been announced. The date of Cambridge students coming to Zurich will be changed. First part of exchange (in Cambridge) stays in May as planned.
 ---
 
 Collaboration between [**Cambridge University Czech and Slovak Society (CUCSS)**](https://cucss.uk/) and **Czech and Slovak Students in Zurich (CSSZ)** brings an opportunity for members of the two societies to visit the other city.
@@ -49,7 +55,7 @@ Participants need to arrange their own flights and catering. However, peers from
 
 ## What's asked
 
-The programme is an exchange, so we ask the participants to offer a similar package to members of CUCSS, in particular, to accommodate your peer from Cambridge at your place for the 3 nights between **20—23 April 2023**.
+The programme is an exchange, so we ask the participants to offer a similar package to members of CUCSS, in particular, to accommodate your peer from Cambridge at your place.
 
 ## How to apply
 
