@@ -3,12 +3,12 @@ title: Goldau-Unterägeri Hike
 description: |
   Join us for spring hike from Goldau-Unterägeri Hike!
 slug: goldau-hike
-date: 2022-05-26
+date: 2023-05-26
 image: images/events/2023-05-06-goldau-hike/gnipen_wildspitz-20200621-19.webp
 draft: false
 event_details:
   date_start: 2023-05-06T08:00:00
-  date_end: 2022-05-06T16:00:00
+  date_end: 2023-05-06T17:00:00
   location:
     text: Route
     link: https://en.mapy.cz/s/mumenunema
