@@ -3,7 +3,7 @@ title: About us
 date: 2022-04-04
 menu:
   main:
-    weight: 100
+    weight: 80
 ---
 
 CSSZ (Czech and Slovak Students in Zurich) is an association founded by 4 ETH students from the Czech Republic and Slovakia. 
