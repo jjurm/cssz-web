@@ -4,7 +4,7 @@ description: |
   Collaboration between Cambridge University Czech and Slovak Society (CUCSS) and CSSZ brings an opportunity for members of the two societies to visit the other city.
 slug: cambridge-zurich-exchange
 date: 2023-03-01
-image: images/events/2023-05-13-cambridge-zurich-exchange/cambridge_crop.jpeg
+image: images/events/2023-05-13-cambridge-zurich-exchange/group.jpeg
 draft: false
 #hidden: true
 
