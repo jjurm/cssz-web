@@ -10,7 +10,7 @@ event_details:
   date_start: 2023-05-25T18:00:00
   date_end: 2023-05-25T20:00:00
   location:
-    text: UZH KO2-F-152
+    text: UZH KO2-G-275
     link: https://goo.gl/maps/FtCu7zEVgUQDtro58
   coordinator:
     - radim.urban
