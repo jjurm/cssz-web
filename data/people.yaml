@@ -58,12 +58,17 @@ all:
     role: Member
     email: daniel.mareda@gmail.com
 
+  - id: ales.kubicek
+    name: Aleš Kubiček
+    role: Member
+
 board:
   - radim.urban
   - juraj.micko
-  - timon.fopp
-  - vu.nguyen
-team:
+  #- vu.nguyen
   - emma.hubekova
   - zdenek.snajdr
+  - ales.kubicek
+team:
+  - timon.fopp
   - rene.caky
