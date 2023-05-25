@@ -65,10 +65,10 @@ all:
 board:
   - radim.urban
   - juraj.micko
-  #- vu.nguyen
   - emma.hubekova
   - zdenek.snajdr
   - ales.kubicek
 team:
+  - vu.nguyen
   - timon.fopp
   - rene.caky
