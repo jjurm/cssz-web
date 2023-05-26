@@ -1,6 +1,7 @@
 ---
 title: About us
 date: 2022-04-04
+image: images/events/2023-05-25-general-meeting/new board.jpeg
 menu:
   main:
     weight: 80
@@ -21,6 +22,12 @@ We hope you will find the association useful and fun!
 ## Meet The Board
 
 {{< members-list list="board" >}}
+
+### Previous Boards
+
+- **FS/HS23**: Radim Urban, Juraj Mičko, Emma Hubeková, Aleš Kubíček, Zděněk Šnajdr
+- **HS22**: Radim Urban, Juraj Mičko, Vu Nguyen, Timon Fopp
+- **FS22**: Radim Urban, Juraj Mičko, Vu Nguyen, Šimon Hrabec
 
 ## Team Members
 
