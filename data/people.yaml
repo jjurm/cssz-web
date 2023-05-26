@@ -61,6 +61,8 @@ all:
   - id: ales.kubicek
     name: Aleš Kubiček
     role: Member
+    about: Aleš studies MSc Computer Science at ETH Zurich. He likes hiking, rowing, cooking and exploring different cultures through travelling, local cuisine and movies.
+    image: images/members/ales-kubicek.png
 
 board:
   - radim.urban
