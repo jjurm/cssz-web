@@ -851,11 +851,25 @@ We hope you will find the association useful and fun!&lt;/p&gt;
 
     
         &lt;div class=&#34;person row&#34;&gt;
-            &lt;div class=&#34;col-3&#34;&gt;&lt;/div&gt;
+            &lt;div class=&#34;col-3&#34;&gt;&lt;picture class=&#34;img&#34; style=&#34;background: url(data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAEIklEQVR4nBTQW28TxwIA4Jmdmb2Nd7O&amp;#43;e&amp;#43;3YwUA4QIBwO4QTnYoKVX1p1ef2qZUqtf&amp;#43;wT31qK1FBSxGCQoKTYCd2Ynvtvd9nZ6v&amp;#43;hQ9/8/X&amp;#43;aHxW8Hzn1iVZlCSsIARj7h&amp;#43;8PwUQahq9mLgyqtzeGc6Dacs0Kpr0&amp;#43;y8jz04//eQB2n3YE4RysNWZTOYX87XZrsuKUtHklWezBJYMhEG6XDi6rtab2gbV62onDNPpmTVfLtHjR1e3Bt3BsD1dztrVVkWXu51WlEeJV8ACI05a9SoA8P/391a&amp;#43;leW5pqlYFPxVoFIZffXlvrVwz5yPnMHIzts9PYqTNy&amp;#43;P/VUBOUzC&amp;#43;Oh4Ztnen6/eaobU6hiKiFlZvH41/t&amp;#43;jXVygxAsCO4ovD3tQxzwHMqZnJ85wy9y7c8uxLH8zOl9Yv748ABwbVfru8PTSoFvwIuE&amp;#43;BoAzxiiVVJXu3Lj14s0zLMRL2x0OTFGANaPaajSv9ntxmq8W3h/PD6fnSz9e04ry/mCMbt8zC5iOJwssldfMnbW/rKiab8ftZk0h2HZcCEooICfyH/13f3ilQeqB2W4c/b2mNYRu3G0QGXR6zQqlXMiW3pxlWVeu9Xrd0Wh0fDqVMXx3dFKUxcINv/j8qaB5g77514tJf1jFg36vBOzx3n2JyGEQvzt4u7lriJqRefxyv2/W69pGzdCNRRz89NuL/Q83SVVfeU5vs&amp;#43;pYKfr2hyeKREvA0yzDBJAKCKP0ZLLQseY5lu&amp;#43;FnuNgBFEHHJ8s/NRumDQIkvVF7KwjXN9oHFojy13lWc5YXiJ2Plt5Hu&amp;#43;KTYhRwXkeZYImbHTQtZvt8Whd2/zoeaEiGUUG0IMnjdlsfjqbrB0LQjEIoyjydq/fyz2exL5EiFE1ilbhpg6C&amp;#43;OzIkytwsNWmIp2NXayrtbyOmrVmlIU5YxCI17ceuEvVSj8mUUEAK0RqWaBm6j5YEgm669Tx7MQrGUzxyXh6qd/nZbYaXwi83tF3Y4fYzvR8FT5/dqAQIckOLcv9/sfvtvs3zg5&amp;#43;dq3QsRgAJZALdPUOnUxP0lgxpG1UDKOQu8E6S/35&amp;#43;ezN6w9AgPXGhkppo2HotNXrDecXU3PTkCsCYwzv/Od6FiN/2bRDIKAwy6IwcDlnjVb76Wd7FaqKkthsdRVVyfKIl6VI1POppdUlTCCGEHU27hpYDCL7ZHwYhjHGQlFwlerb21qSxknCBIGDsiBEDsOAcZa4ke37iiIKLKYVsatrmoiJJFEkwIIDXTcQzEpQQgAQwixPkyRCmOi6oVBRQLDIBEII7lUfEiKUAF27skOptnYDz19ZqwtMSJamKtWYH7CCCxinaaxIkqQi7yKmKu11GwJnPIojxuH70UGaww2tJksyhBACQUCkLAFBgu9HhEig5I7jmWbN7P0LFifRPwEAAP//dlZC7H5p/PcAAAAASUVORK5CYII=); background-size: cover; display: inline;&#34;&gt;
+            &lt;source srcset=&#39;https://cssz.ch/images/members/ales-kubicek_hu52a2ad6c4317b9dff98c0027f9535784_219675_8a393fe38783ef8baf9bc7af45b751c2.webp 180w, https://cssz.ch/images/members/ales-kubicek_hu52a2ad6c4317b9dff98c0027f9535784_219675_743130aaa170dea2f6aec96253152c71.webp 360w, https://cssz.ch/images/members/ales-kubicek_hu52a2ad6c4317b9dff98c0027f9535784_219675_94bc1ee4bbe05515a8f47d1a622344e6.webp 128w, https://cssz.ch/images/members/ales-kubicek_hu52a2ad6c4317b9dff98c0027f9535784_219675_099e4cd2aea6b7cb2329e7ce9dfb1688.webp 205w, https://cssz.ch/images/members/ales-kubicek_hu52a2ad6c4317b9dff98c0027f9535784_219675_b7b7777dd750ee223701f711300feecd.webp 320w&#39;
+                    sizes=&#34;(max-width: 180px) 100vw, 180px&#34;
+                    type=&#34;image/webp&#34;
+            /&gt;&lt;source srcset=&#39;https://cssz.ch/images/members/ales-kubicek_hu52a2ad6c4317b9dff98c0027f9535784_219675_a519bf4f1618597e48c77b7ede079153.jpg 180w, https://cssz.ch/images/members/ales-kubicek_hu52a2ad6c4317b9dff98c0027f9535784_219675_e50b9ab3ecd02ecb5b59e04bac00e72a.jpg 360w, https://cssz.ch/images/members/ales-kubicek_hu52a2ad6c4317b9dff98c0027f9535784_219675_341933d0473db326438048e6921d216c.jpg 128w, https://cssz.ch/images/members/ales-kubicek_hu52a2ad6c4317b9dff98c0027f9535784_219675_aebfa1603341ca5f97169e961e17e980.jpg 205w, https://cssz.ch/images/members/ales-kubicek_hu52a2ad6c4317b9dff98c0027f9535784_219675_2d13c940f46501d85ade03eca324d3c0.jpg 320w&#39;
+                    sizes=&#34;(max-width: 180px) 100vw, 180px&#34;
+                    type=&#34;image/jpeg&#34;
+            /&gt;&lt;img src=&#34;https://cssz.ch/images/members/ales-kubicek_hu52a2ad6c4317b9dff98c0027f9535784_219675_a519bf4f1618597e48c77b7ede079153.jpg&#34;
+                 width=&#34;180&#34;
+                 height=&#34;180&#34;
+                 
+                 
+                 
+                 
+            /&gt;&lt;/picture&gt;&lt;/div&gt;
             &lt;div class=&#34;col-9&#34;&gt;
                     &lt;h2&gt;Aleš Kubiček&lt;/h2&gt;
                     &lt;strong&gt;Member&lt;/strong&gt;
-                    &lt;p class=&#34;about-person&#34;&gt;&lt;/p&gt;
+                    &lt;p class=&#34;about-person&#34;&gt;Aleš studies MSc Computer Science at ETH Zurich. He likes hiking, rowing, cooking and exploring different cultures through travelling, local cuisine and movies.&lt;/p&gt;
                     &lt;a href=&#34;mailto:ales.kubicek@cssz.ch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ales.kubicek@cssz.ch&lt;/a&gt;
             &lt;/div&gt;
         &lt;/div&gt;
