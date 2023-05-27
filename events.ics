@@ -28,6 +28,18 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+SUMMARY:End-of-Semester Grill
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/semester-end-grill/\n<strong>Location:</strong> <a href="https://goo.gl/maps/HdceYG2k6ZYHPbJ27" target="_blank" rel="noopener">Grillplätze behind ASVZ at ETH Hönggerberg</a>\n<strong>Coordinator:</strong> Radim Urban (<a class="link" href="mailto:radim.urban@cssz.ch" target="_blank" rel="noopener">radim.urban@cssz.ch</a>)\n\nCome and enjoy grill with beer!
+UID:20230527T000000-semester-end-grill@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20230527T000000
+DTSTART:20230602T170000
+DTEND:20230602T210000
+LOCATION;ALTREP="https://goo.gl/maps/HdceYG2k6ZYHPbJ27":Grillplätze behind ASVZ at ETH Hönggerberg
+URL:https://cssz.ch/events/semester-end-grill/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:General Meeting
 DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/general-meeting-fs23/\n<strong>Location:</strong> <a href="https://goo.gl/maps/FtCu7zEVgUQDtro58" target="_blank" rel="noopener">UZH KO2-G-275</a>\n<strong>Coordinator:</strong> Radim Urban (<a class="link" href="mailto:radim.urban@cssz.ch" target="_blank" rel="noopener">radim.urban@cssz.ch</a>)\n\nOn May 25th we will host a General Meeting (GM). We will look back at our activities this semester, discuss the direction the society should take and elect a new board. Vu Nguyen, who held the Finance &amp; Legal Matters position in the association, will be leaving the current board. In addition to this position, we want to open one new position and increase the number of members to 5.
 UID:20230520T000000-general-meeting-fs23@cssz.ch
