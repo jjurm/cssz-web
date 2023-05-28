@@ -15,8 +15,8 @@ event_details:
   coordinator:
     - radim.urban
   registration:
-    - link: https://forms.gle/cCJf8X7j5JFTzYpj9
-    - text: Sign up!
+    link: https://forms.gle/cCJf8X7j5JFTzYpj9
+    text: Sign up!
 
 summary: |
   Come and enjoy grill with beer!
