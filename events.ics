@@ -29,7 +29,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 SUMMARY:End-of-Semester Grill
-DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/semester-end-grill/\n<strong>Location:</strong> <a href="https://goo.gl/maps/HdceYG2k6ZYHPbJ27" target="_blank" rel="noopener">Grillplätze behind ASVZ at ETH Hönggerberg</a>\n<strong>Coordinator:</strong> Radim Urban (<a class="link" href="mailto:radim.urban@cssz.ch" target="_blank" rel="noopener">radim.urban@cssz.ch</a>)\n\nCome and enjoy grill with beer!
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/semester-end-grill/\n<strong>Location:</strong> <a href="https://goo.gl/maps/HdceYG2k6ZYHPbJ27" target="_blank" rel="noopener">Grillplätze behind ASVZ at ETH Hönggerberg</a>\n<strong>Coordinator:</strong> Radim Urban (<a class="link" href="mailto:radim.urban@cssz.ch" target="_blank" rel="noopener">radim.urban@cssz.ch</a>)\n<strong>Registration:</strong> <a href="https://forms.gle/cCJf8X7j5JFTzYpj9" target="_blank" rel="noopener">Sign up!</a>\n\nCome and enjoy grill with beer!
 UID:20230527T000000-semester-end-grill@cssz.ch
 SEQUENCE:0
 STATUS:CONFIRMED
