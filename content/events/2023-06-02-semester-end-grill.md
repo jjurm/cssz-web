@@ -30,4 +30,6 @@ We have:
 - big grill 
 - beer on tap
 
+{{< image asset="images/events/2023-06-02-semester-end-grill/invitation.png" >}}
+
 
