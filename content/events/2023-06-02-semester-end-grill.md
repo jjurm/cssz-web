@@ -17,6 +17,11 @@ event_details:
   registration:
     link: https://forms.gle/cCJf8X7j5JFTzYpj9
     text: Sign up!
+  notes:
+    - alert_type: warning
+      icon: solid/info
+      text: |
+        Tne entrance is free for both members and non-members. However, student-friendly prices will be charged to cover costs for food and drinks. Only **Twint** payment is possible (through QR code).
 
 summary: |
   Come and enjoy grill with beer!
