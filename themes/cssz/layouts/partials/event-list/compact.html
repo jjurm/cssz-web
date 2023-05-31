@@ -1,5 +1,12 @@
 <article>
     <a href="{{ .RelPermalink }}">
+        {{- $image := partialCached "helper/image" (dict "Context" . "Type" "articleList") .RelPermalink "articleList" -}}
+        {{ if $image.exists }}
+            <div class="article-image">
+                {{- $params := dict "image" $image "type" "thumbnail" -}}
+                {{- partialCached "helper/resize-image" (dict "Context" $ "Params" $params) $params -}}
+            </div>
+        {{ end }}
         <div class="article-details">
             <h2 class="article-title">
                 {{- .Title -}}
@@ -12,12 +19,6 @@
             {{- partial "event-list/event-details-inline.html" . -}}
         </div>
 
-        {{- $image := partialCached "helper/image" (dict "Context" . "Type" "articleList") .RelPermalink "articleList" -}}
-        {{ if $image.exists }}
-            <div class="article-image">
-                {{- $params := dict "image" $image "type" "thumbnail" -}}
-                {{- partialCached "helper/resize-image" (dict "Context" $ "Params" $params) $params -}}
-            </div>
-        {{ end }}
+        
     </a>
 </article>
