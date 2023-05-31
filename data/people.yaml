@@ -1,13 +1,13 @@
 all:
   - id: radim.urban
     name: Radim Urban
-    role: President, Co-founding Member
-    about: Radim studies BSc Computer Science at ETH. In his free time he likes to play tennis or guitar.
+    role: President
+    about: Radim is a co-founding member of CSSZ. He studies BSc Computer Science at ETH. In his free time he likes to play tennis or guitar.
     image: images/members/radim-urban.jpeg
   - id: juraj.micko
     name: Juraj Mičko
-    role: Co-founding Member
-    about: "Juraj studies Computer Science MSc at ETH Zurich, after graduating from Cambridge University. He loves producing music, outdoor sports, cooking and spending meaningful time with people. Psst: he can’t wait to meet you!"
+    role: Infrastructure
+    about: "Juraj studies Computer Science MSc at ETH Zurich, after graduating from Cambridge University. He loves producing music, outdoor sports, cooking and spending meaningful time with people. He is also a co-founding member of CSSZ. Psst: he can’t wait to meet you!"
     instagram: jjurm64
     image: images/members/juraj-micko.jpg
     phone: "+41762639679"
@@ -18,21 +18,21 @@ all:
     image: images/members/simon-hrabec.jpg
   - id: vu.nguyen
     name: Vu Nguyen
-    role: Finance, Co-founding Member
+    role: Co-founding Member
     about: Vu studies MSc Computer Science Student at ETH. In his free time he loves to ski/hike, travel, and do BBQs, among other fun things.
     image: images/members/vu-nguyen.jpeg
     phone: "+41762800264"
 
   - id: timon.fopp
     name: Timon Fopp
-    role: UZH Representative, Infrastructure
+    role: UZH Representative
     about: |
       Timon studies BSc Business Informatics at University of Zurich (UZH). He likes playing volleyball, the guitar, riding his motorcycle, travelling and especially loves meeting nice people all over the world.
     phone: "+41783309888"
     image: images/members/timon-fopp.png
   - id: emma.hubekova
     name: Emma Hubeková
-    role: Events Officer
+    role: Events
     about: Emma studies Bsc Biology at ETH. She likes reading, writing, playing tennis and many other kinds of sport.
     phone: "+421 949 776 209"
     image: images/members/emma-hubekova.png
@@ -42,7 +42,7 @@ all:
 
   - id: zdenek.snajdr
     name: Zdeněk Šnajdr
-    role: Member, Events
+    role: Infrastructure & Events Support
     about: Zdeněk studies BSc Computer Science at ETH Zurich. He enjoys traveling and and likes swimming and learning new languages.
     phone: "+41762254840"
     image: images/members/zdenek-snajdr.jpg
@@ -60,17 +60,17 @@ all:
 
   - id: ales.kubicek
     name: Aleš Kubiček
-    role: Member
+    role: Finance & Legal
     about: Aleš studies MSc Computer Science at ETH Zurich. He likes hiking, rowing, cooking and exploring different cultures through travelling, local cuisine and movies.
     image: images/members/ales-kubicek.png
 
 board:
   - radim.urban
-  - juraj.micko
-  - emma.hubekova
-  - zdenek.snajdr
   - ales.kubicek
+  - emma.hubekova
+  - juraj.micko
+  - zdenek.snajdr
+  
 team:
   - vu.nguyen
   - timon.fopp
-  - matus.zilinec

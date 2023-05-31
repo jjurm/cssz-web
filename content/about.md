@@ -7,7 +7,7 @@ menu:
     weight: 80
 ---
 
-CSSZ (Czech and Slovak Students in Zurich) is an association founded by 4 ETH students from the Czech Republic and Slovakia. 
+Czech and Slovak Students in Zurich (CSSZ) is an association founded by 4 ETH students from the Czech Republic and Slovakia. 
 
 ## Goals of The Association 
 
@@ -21,13 +21,18 @@ We hope you will find the association useful and fun!
 
 ## Meet The Board
 
+You can contact the board at board@cssz.ch
+
 {{< members-list list="board" >}}
 
 ### Previous Boards
+We are very grateful to everyone, who is motivated to help with running CSSZ. Special "thank you" goes to all of our previous board members who led the society in respective terms (HS: Autumn Semester, FS: Summer Semester). 
 
-- **FS/HS23**: Radim Urban, Juraj Mičko, Emma Hubeková, Aleš Kubíček, Zděněk Šnajdr
-- **HS22**: Radim Urban, Juraj Mičko, Vu Nguyen, Timon Fopp
-- **FS22**: Radim Urban, Juraj Mičko, Vu Nguyen, Šimon Hrabec
+|Term|Board Members|
+|--|--|
+|HS23|Radim Urban, Juraj Mičko, Emma Hubeková, Aleš Kubíček, Zděněk Šnajdr|
+|HS22-FS23|Radim Urban, Juraj Mičko, Vu Nguyen, Timon Fopp|
+|FS22|Radim Urban, Juraj Mičko, Vu Nguyen, Šimon Hrabec (founding members)|
 
 ## Team Members
 
