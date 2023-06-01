@@ -25,19 +25,15 @@ If you prefer developing locally (you can preview any changes immediately and wi
 
 ## Getting Started
 
-If you want to change structure - there are two sources in `themes`.
-
-1. `hugo-theme-stack` - default source of structure, used if not overwritten in `themes/cssz`
-2. `cssz` - structure that overwrites the default
-
 ### Structure
 
 - `assets` - images and other assets that need pre-processing (usually, all images are loaded from this folder, so that they can be resized, compressed, and cut as needed)
 - `config.yml` - global configuration (website title, menu, metadata, other options)
 - `data` - structural data shared across pages, such as board/event coordinators and their details
 - `content` - contains all the content: pages, blog posts
-- `static` - images and other static assets that are kept without any modification (unlike `assets`)
-- `themes/...` - the themes, defining how `content` is rendered
-  - `assets` - JS and CSS code
-  - `layouts` - HTML templates, HTML code and shortcodes 
-
+- `static` - images and other static assets that are served without any modification (unlike `assets`)
+- `themes` - the themes, defining how `content` is rendered
+  - `hugo-theme-stack` - default source of structure, used if not overwritten in `themes/cssz`
+  - `cssz` - overwrites the default
+    - `assets` - JS and CSS code
+    - `layouts` - HTML templates, HTML code and shortcodes
