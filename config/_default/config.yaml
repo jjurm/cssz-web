@@ -37,6 +37,11 @@ outputFormats:
   Calendar:
     noUgly: false
 
+frontmatter:
+  date:
+    - :filename
+    - :default
+
 outputs:
   page:
     - HTML
