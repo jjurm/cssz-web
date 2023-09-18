@@ -39,9 +39,13 @@ outputFormats:
 
 frontmatter:
   date:
+    - date
     - :filename
     - :default
 enableGitInfo: true
+
+taxonomies:
+  semester: semesters
 
 outputs:
   page:
