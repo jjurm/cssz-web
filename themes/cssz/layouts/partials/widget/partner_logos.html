@@ -1,0 +1,4 @@
+{{- range .Params.partners -}}
+    {{- $img := resources.Get .logo -}}
+    <img src="{{ $img.RelPermalink }}" alt="{{ .title }}">
+{{- end -}}

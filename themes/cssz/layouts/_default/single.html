@@ -17,7 +17,7 @@
 
     {{- $TOCManuallyDisabled := eq .Params.toc false -}}
     {{- $TOCEnabled := and (not $TOCManuallyDisabled) $TOCWidgetEnabled -}}
-    {{- $hasTOC := ge (len .TableOfContents) 100 -}}
+    {{- $hasTOC := and (ge (len .TableOfContents) 100) (gt (strings.Count "<li>" .TableOfContents) 1) -}}
     {{- .Scratch.Set "TOCEnabled" (and $TOCEnabled $hasTOC) -}}
 
     {{- .Scratch.Set "hasWidget" (or $HasWidgetNotTOC (and $TOCEnabled $hasTOC)) -}}

@@ -9,13 +9,5 @@
                 {{ warnf "Widget %s not found" .type }}
             {{ end }}
         {{ end }}
-
-        {{ $img := resources.Get "images/partners/eth_uzh.png" }}
-
-        <img src="{{ $img.RelPermalink }}">
-
-        {{ $img := resources.Get "images/partners/impuls.png" }}
-        <img src="{{ $img.RelPermalink }}">
-
     </aside>
 {{ end }}

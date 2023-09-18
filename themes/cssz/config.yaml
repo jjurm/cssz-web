@@ -53,8 +53,23 @@ params:
 #      - type: tag-cloud
 #        params:
 #          limit: 10
+      - type: partner_logos
+        params:
+          partners:
+            - title: ETH & UZH
+              logo: images/partners/eth_uzh.png
+            - title: Impuls Fabrik
+              logo: images/partners/impuls.png
     page:
+      - type: search
       - type: toc
+      - type: partner_logos
+        params:
+          partners:
+            - title: ETH & UZH
+              logo: images/partners/eth_uzh.png
+            - title: Impuls Fabrik
+              logo: images/partners/impuls.png
 
   opengraph:
     #twitter:
