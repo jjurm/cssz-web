@@ -5,7 +5,8 @@ description: |
 image: images/events/2023-09-27-uzh-activity-fair/activity_fair.jpg
 
 event_details:
-  - date_start: 2023-09-27T08:30:00
+  - event_title: Day 1
+    date_start: 2023-09-27T08:30:00
     date_end: 2023-09-27T16:30:00
     location:
       text: Atrium UZH center
@@ -13,7 +14,8 @@ event_details:
     coordinator:
       - radim.urban
       - timon.fopp
-  - date_start: 2023-09-28T08:30:00
+  - event_title: Day 2
+    date_start: 2023-09-28T08:30:00
     date_end: 2023-09-28T16:30:00
     location:
       text: Lichthof UZH Irchel
