@@ -1,0 +1,30 @@
+{{- $eventsDetails := .Params.event_details -}}
+{{- if not (eq (printf "%T" $eventsDetails) "[]interface {}") -}}
+{{- $eventsDetails = slice $eventsDetails -}}
+{{- end -}}
+
+{{- $result := slice -}}
+{{- range $eventDetails := $eventsDetails -}}
+    {{- $eventDetails = merge $eventDetails (dict "title" (printf "%s: %s" $.Site.Params.shortTitle .Params.Title)) -}}
+    {{- $eventDetails = merge $eventDetails (dict "date_start" (time.AsTime $eventDetails.date_start)) -}}
+    {{- $eventDetails = merge $eventDetails (dict "date_end" (time.AsTime $eventDetails.date_end)) -}}
+    {{- $eventDetails = merge $eventDetails (dict "url" .Permalink) -}}
+    {{- $eventDetails = merge $eventDetails (dict "notes" (default (slice) $eventDetails.notes)) -}}
+    {{- if not (reflect.IsMap $eventDetails.location) -}}
+    {{- $eventDetails = merge $eventDetails (dict "location" (dict "text" $eventDetails.location)) -}}
+    {{- end -}}
+    {{- $eventDetails = merge $eventDetails (dict "details" .Params.description) -}}
+    {{- with $eventDetails.coordinator -}}
+        {{- $coordinators := slice -}}
+        {{- if reflect.IsSlice . -}}
+            {{- range . -}}
+                {{- $coordinators = $coordinators | append (partial "helper/person" (dict "person" . "Context" $)) -}}
+            {{- end -}}
+        {{- else -}}
+            {{- $coordinators = slice (partial "helper/person" (dict "person" . "Context" $)) -}}
+        {{- end -}}
+        {{- $eventDetails = merge $eventDetails (dict "coordinator" $coordinators ) -}}
+    {{- end -}}
+    {{- $result = $result | append $eventDetails -}}
+{{- end -}}
+{{- return $result -}}

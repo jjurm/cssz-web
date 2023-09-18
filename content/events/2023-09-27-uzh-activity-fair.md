@@ -5,14 +5,22 @@ description: |
 image: images/events/2023-09-27-uzh-activity-fair/activity_fair.jpg
 
 event_details:
-  date_start: 2023-09-27T08:30:00
-  date_end: 2023-09-27T16:30:00
-  location:
-    text: Atrium UZH center
-    link: https://maps.app.goo.gl/qGfTv7kCa4gTFp239
-  coordinator:
-    - radim.urban
-    - timon.fopp
+  - date_start: 2023-09-27T08:30:00
+    date_end: 2023-09-27T16:30:00
+    location:
+      text: Atrium UZH center
+      link: https://maps.app.goo.gl/qGfTv7kCa4gTFp239
+    coordinator:
+      - radim.urban
+      - timon.fopp
+  - date_start: 2023-09-28T08:30:00
+    date_end: 2023-09-28T16:30:00
+    location:
+      text: Lichthof UZH Irchel
+      link: https://maps.app.goo.gl/rfFmoPU4MLPzuTpj8
+    coordinator:
+      - radim.urban
+      - timon.fopp
 ---
 
 Come and support CSSZ at the VSUZH Activity Fair!

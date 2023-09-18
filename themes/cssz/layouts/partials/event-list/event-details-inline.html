@@ -1,5 +1,5 @@
-{{- $eventDetails := partial "event/event-details-dict" . -}}
-{{- with $eventDetails -}}
+{{- $eventsDetails := partial "event/event-details-dicts" . -}}
+{{- range $eventDetails := $eventsDetails -}}
 <footer class="article-time">
     {{ if .date_start }}
     <div>
