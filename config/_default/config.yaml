@@ -41,6 +41,7 @@ frontmatter:
   date:
     - :filename
     - :default
+enableGitInfo: true
 
 outputs:
   page:

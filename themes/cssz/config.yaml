@@ -11,9 +11,14 @@ params:
 
   dateFormat:
     published: 2 Jan 2006
-    lastUpdated: "2 Jan 2006, 15:04 MST"
+    lastUpdated: "2 Jan 2006"
     event: "2 Jan 2006, 15:04"
     eventEndShort: "15:04"
+
+  events:
+    organizer:
+      name: CSSZ
+      email: info@cssz.ch
 
   sidebar:
     compact: false

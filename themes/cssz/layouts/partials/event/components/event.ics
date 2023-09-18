@@ -2,8 +2,8 @@
 BEGIN:VEVENT
 {{ with $.Site.Params.events.organizer}}ORGANIZER;CN="{{ .name }}":mailto:{{ .email }}
 {{ end -}}
-SUMMARY:{{.Title}}
-DESCRIPTION:<strong>Event details:</strong> {{.Permalink -}}
+SUMMARY:{{ $.Title }}
+DESCRIPTION:<strong>Event details:</strong> {{ $.Permalink -}}
   {{- with $eventDetails.location}}\n<strong>Location:</strong> {{with .link}}<a href="{{.}}" target="_blank" rel="noopener">{{end}}{{.text}}{{with .link}}</a>{{end}}{{end -}}
   {{- with $eventDetails.coordinator}}\n<strong>Coordinator:</strong> {{ partial "helper/person-inline-multiple" (dict "Context" $ "person" .) }}{{end -}}
   {{- with $eventDetails.registration}}\n<strong>Registration:</strong> {{with .link}}<a href="{{.}}" target="_blank" rel="noopener">{{end}}{{.text}}{{with .link}}</a>{{end}}{{end -}}
@@ -20,5 +20,5 @@ DTSTART:{{dateFormat "20060102T150405" $eventDetails.date_start}}
 {{ end -}}
 {{with $eventDetails.location}}LOCATION{{with .link}};ALTREP="{{ . | safeURL }}"{{end}}:{{.text}}
 {{end -}}
-URL:{{.Permalink}}
+URL:{{ $.Permalink }}
 END:VEVENT
