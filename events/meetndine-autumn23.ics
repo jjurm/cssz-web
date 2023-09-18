@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Czech and Slovak Students in Zurich//Events//EN
+URL:webcal://cssz.ch/events/meetndine-autumn23.ics
+NAME:CSSZ Events
+X-WR-CALNAME:CSSZ Events
+X-WR-CALDESC:
+X-WR-TIMEZONE:Europe/Zurich
+X-PUBLISHED-TTL:PT6H
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-LIC-LOCATION:Europe/Zurich
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Meet'n'Dine: Plněné knedlíky uzeným se zelím
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/meetndine-autumn23/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/WpyMr8Uv8sHp9nEg9" target="_blank" rel="noopener">University of Zurich, KOL-K-Küche</a>\n<strong>Coordinator:</strong> Timon Fopp (<a class="link" href="mailto:timon.fopp@cssz.ch" target="_blank" rel="noopener">timon.fopp@cssz.ch</a>, <a class="link" href="tel:&#43;41783309888">+41783309888</a>), Emma Hubeková (<a class="link" href="mailto:emma.hubekova@cssz.ch" target="_blank" rel="noopener">emma.hubekova@cssz.ch</a>, <a class="link" href="tel:&#43;421949776209">+421 949 776 209</a>), Radim Urban (<a class="link" href="mailto:radim.urban@cssz.ch" target="_blank" rel="noopener">radim.urban@cssz.ch</a>)\n<strong>Registration:</strong> (Link will be provided soon)\n<strong>Notes:</strong>\n• Details can still slightly change and will be confirmed soon.\n\nCSSZ and Meet&rsquo;n&rsquo;Dine invite you to a casual dinner with fellow students in the cosy environment of a student flat. Come join us and bring a friend! We&rsquo;ll be cooking a traditional Czech dish: Plněné knedlíky uzeným se zelím (Stuffed dumplings with smoked cabbage). Stay tuned and follow this page for further details.
+UID:20231020T183000-meetndine-autumn23@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20231020T000000
+DTSTART:20231020T183000
+DTEND:20231020T220000
+LOCATION;ALTREP="https://maps.app.goo.gl/WpyMr8Uv8sHp9nEg9":University of Zurich, KOL-K-Küche
+URL:https://cssz.ch/events/meetndine-autumn23/
+END:VEVENT
+
+END:VCALENDAR
+

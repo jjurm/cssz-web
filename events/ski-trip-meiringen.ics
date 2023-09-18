@@ -35,7 +35,7 @@ DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/ski-trip-meir
 UID:20230303T160000-ski-trip-meiringen@cssz.ch
 SEQUENCE:0
 STATUS:CONFIRMED
-DTSTAMP:20230303T000000
+DTSTAMP:20230206T000000
 DTSTART:20230303T160000
 DTEND:20230305T200000
 LOCATION;ALTREP="https://goo.gl/maps/e4daKdBtuV7WTcSL6":CVJM Zentrum Hasliberg
