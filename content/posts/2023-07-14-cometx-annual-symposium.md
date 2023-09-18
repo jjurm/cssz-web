@@ -5,6 +5,9 @@ description: |
 date: 2023-07-13
 url: /cometx-annual-symposium
 image: images/posts/2023-07-14-cometx-annual-symposium/cover-cometx.webp
+
+semesters:
+  - Autumn 2023
 ---
 
 # 3rd Slovak and Czech Annual Symposium 2023

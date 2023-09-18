@@ -3,6 +3,8 @@ title: VSUZH Activity Fair
 description: |
   Meet us and find a way to engage with the Czech and Slovak Students in Zurich!
 image: images/events/2023-09-27-uzh-activity-fair/activity_fair.jpg
+semesters:
+  - autumn-2023
 
 event_details:
   - event_title: Day 1

@@ -3,6 +3,9 @@ title: Hike in Stoos ⛰️
 description: |
   A semester trip to the beautiful Swiss mountains around Stoos.
 image: images/events/2023-10-07-hike-in-stoos/stoos.jpeg
+semesters:
+  - autumn-2023
+hidden_on_homepage: true
 
 event_details:
   date_start: 2023-10-07T09:00:00

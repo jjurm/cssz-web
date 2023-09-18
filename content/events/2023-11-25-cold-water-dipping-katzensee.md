@@ -3,6 +3,9 @@ title: Cold Water Dipping in Katzensee 🏊 & Protein Pancakes 🥞
 description: |
   Ever wondered how cold a lake can get in November? Survivable – try for yourself 😉
 image: images/events/2023-11-25-cold-water-dipping-katzensee/katzensee_dipping.jpg
+semesters:
+  - autumn-2023
+hidden_on_homepage: true
 
 event_details:
   date_start: 2023-11-25T09:15:00

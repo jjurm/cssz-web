@@ -26,6 +26,19 @@
 {{ define "main" }}
     {{ partial "article/article.html" . }}
 
+    {{ if .Params.embed_semester_events }}
+        {{- $pages := index .Site.Taxonomies.semesters .Params.embed_semester_events -}}
+        {{- $pages = where $pages "Section" "events" -}}
+        {{- $pages = (where $pages "Params.hidden" "!=" true) -}}
+        {{- $pages = sort $pages ".Params.event_details.date_start" "desc" }}
+
+        <section class="article-list--compact">
+            {{ range $pages }}
+            {{ partial "event-list/compact" .Page }}
+            {{ end }}
+        </section>
+    {{ end }}
+
     {{ if .Params.links }}
         {{ partial "article/components/links" . }}
     {{ end }}
