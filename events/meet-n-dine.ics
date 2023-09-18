@@ -29,9 +29,10 @@ END:STANDARD
 END:VTIMEZONE
 
 BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
 SUMMARY:Dinner with 🥘 Meet'n'Dine
 DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/meet-n-dine/\n<strong>Location:</strong> <a href="https://goo.gl/maps/1JsoL81FCVowCDFi6" target="_blank" rel="noopener">Bächlerstrasse 44</a>\n<strong>Coordinator:</strong> Juraj Mičko (<a class="link" href="mailto:juraj.micko@cssz.ch" target="_blank" rel="noopener">juraj.micko@cssz.ch</a>, <a class="link" href="tel:&#43;41762639679">+41762639679</a>)\n<strong>Registration:</strong> <a href="https://www.eventbrite.co.uk/e/meetndine-registration-205679010457" target="_blank" rel="noopener">Eventbrite</a>\n\nCSSZ and Meet&rsquo;n&rsquo;Dine invite you to a casual dinner with fellow students in the cosy environment of a student flat. Come join us and feel free to bring a friend! We&rsquo;ll be cooking Chinese Chicken and Broccoli Recipe. What is Meet&rsquo;n&rsquo;Dine? Meet&rsquo;n&rsquo;Dine brings people together to: socialise feed ourselves relax from school and real life learn new recipes get inspired about how others live their lives (optionally) discuss hard questions in life Who The group consists of mostly ETH (or UZH) students, but don&rsquo;t hesitate to reach out if you don&rsquo;t feel like a student and would still like to join.
-UID:20220602T000000-meet-n-dine@cssz.ch
+UID:20220602T183000-meet-n-dine@cssz.ch
 SEQUENCE:0
 STATUS:CONFIRMED
 DTSTAMP:20220602T000000
