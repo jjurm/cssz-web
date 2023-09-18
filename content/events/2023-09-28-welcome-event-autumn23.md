@@ -1,5 +1,5 @@
 ---
-title: Welcome Event, Autumn 2023
+title: Semester Welcome Event (Autumn 2023)
 description: |
   Come to the first meeting of the semester at bQm, for a chat and a beer 🥳
 image: images/events/2023-02-23-spring-bqm/image.imageformat.lightbox.25242075.jpg
