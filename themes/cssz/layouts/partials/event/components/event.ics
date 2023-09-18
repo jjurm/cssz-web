@@ -3,7 +3,7 @@
 BEGIN:VEVENT
 {{ with $.Site.Params.events.organizer}}ORGANIZER;CN="{{ .name }}":mailto:{{ .email }}
 {{ end -}}
-SUMMARY:{{ $.Title }}
+SUMMARY:{{ $.Title }}{{ with .event_title }} – {{ . }}{{ end }}
 DESCRIPTION:<strong>Event details:</strong> {{ $.Permalink -}}
   {{- with $eventDetails.location}}\n<strong>Location:</strong> {{with .link}}<a href="{{.}}" target="_blank" rel="noopener">{{end}}{{.text}}{{with .link}}</a>{{end}}{{end -}}
   {{- with $eventDetails.coordinator}}\n<strong>Coordinator:</strong> {{ partial "helper/person-inline-multiple" (dict "Context" $ "person" .) }}{{end -}}

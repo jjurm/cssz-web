@@ -104,25 +104,29 @@ p, dl, .alert {
 
   dl {
     @extend .row;
-
     dt {
       @extend .col-lg-2, .mb-0;
-
       &:not(:last-child) {
         @extend .mb-lg-4;
       }
     }
-
     dd {
       @extend .col-lg-10;
-
       &:not(:last-child) {
         @extend .mb-4;
       }
     }
-
     dt, dd {
       min-height: 2em;
+    }
+  }
+
+  dl dl {
+    dt {
+      @extend .col-lg-3;
+    }
+    dd {
+      @extend .col-lg-9;
     }
   }
 

@@ -1,6 +1,12 @@
-{{- $eventsDetails := partial "event/event-details-dicts" . -}}
-{{- range $eventDetails := $eventsDetails -}}
 <div class="article-details event-details">
+    {{- $eventsDetails := partial "event/event-details-dicts" . -}}
+    {{- if gt (len $eventsDetails) 1 -}}<dl>{{ end }}
+
+    {{- range $eventDetails := $eventsDetails -}}
+    {{- if gt (len $eventsDetails) 1 -}}
+        <dt>{{ .event_title }}</dt>
+        <dd>
+    {{- end }}
     <dl>
         {{ if .date_start }}
         <dt>{{ partial "helper/fontawesome" "calendar" }}&nbsp;Event date:</dt>
@@ -57,5 +63,11 @@
         </div>
         {{ end }}
     </dl>
+
+    {{- if gt (len $eventsDetails) 1 -}}
+        </dd>
+    {{- end }}
+    {{- end -}}
+
+    {{- if gt (len $eventsDetails) 1 -}}</dl>{{ end }}
 </div>
-{{- end -}}
