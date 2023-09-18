@@ -31,15 +31,17 @@
         {{ with .location }}
         <dt>{{ partial "helper/fontawesome" "solid/location-dot" }}&nbsp;Location:</dt>
         <dd>
-            {{- $url := (printf `https://maps.google.com/?q=%s` .text) -}}
-            {{ if isset . "link" -}}
-                {{- $url = .link -}}
-            {{- end }}
-            <a class="link" href="{{ $url }}" target=_blank rel=noopener>
+            {{- if .link }}
+            <a class="link" href="{{ .link }}" target=_blank rel=noopener>
                 <address>
                     {{ .text }}
                 </address>
             </a>
+            {{- else }}
+            <address>
+                {{ .text }}
+            </address>
+            {{- end }}
         </dd>
         {{ end }}
 
