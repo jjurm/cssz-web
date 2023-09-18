@@ -7,5 +7,4 @@
       - btn-secondary
       - btn-solid-border
 */}}
-<a href="{{ .link | safeURL }}" class="btn {{ if .class }}{{ .class }}{{ else }}btn-main{{ end }}"{{ with .title}} title="{{ . | safeHTML }}"{{ end }}{{ if or (strings.HasPrefix .link "http") (strings.HasPrefix .link "mailto:") }} target="_blank" rel="noopener"
-{{ end }}>{{ .label }}{{ partial "helper/fontawesome" "solid/angle-right" }}</a>
+<a href="{{ .link | safeURL }}" class="btn {{ if .class }}{{ .class }}{{ else }}btn-main{{ end }}{{ if not .link }} disabled{{ end }}"{{ with .title}} title="{{ . | safeHTML }}"{{ end }}{{ if or (strings.HasPrefix .link "http") (strings.HasPrefix .link "mailto:") }} target="_blank" rel="noopener"{{ end }}{{ if not .link }} aria-disabled="true"{{ end }}>{{ .label }}{{ partial "helper/fontawesome" "solid/angle-right" }}</a>
