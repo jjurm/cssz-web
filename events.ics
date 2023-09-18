@@ -68,19 +68,6 @@ URL:https://cssz.ch/events/meetndine-autumn23/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
-SUMMARY:Hike in Stoos ⛰️
-DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/hike-in-stoos/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/PW8tQGxUkJ3ExpRn8" target="_blank" rel="noopener">Stoos</a>\n<strong>Coordinator:</strong> Aleš Kubiček (<a class="link" href="mailto:ales.kubicek@cssz.ch" target="_blank" rel="noopener">ales.kubicek@cssz.ch</a>), Emma Hubeková (<a class="link" href="mailto:emma.hubekova@cssz.ch" target="_blank" rel="noopener">emma.hubekova@cssz.ch</a>, <a class="link" href="tel:&#43;421949776209">+421 949 776 209</a>)\n<strong>Registration:</strong> <a href="https://forms.gle/EQH61naNDfpu3JAi7" target="_blank" rel="noopener">Google Form</a>\n<strong>Notes:</strong>\n• Details can still slightly change and will be confirmed soon.\n\n<p>CSSZ invites you and your friends to join a trip to the beautiful Swiss mountains around Stoos, which is planned for Saturday, 07.10.2023.</p> <dl> <dt><strong>Connection</strong></dt> <dd>TBC, approx. 2h Zurich–Stoos</dd> <dt><strong>Planned route</strong></dt> <dd><ul> <li>Stoos (Stoosbahn)</li> <li>Klingenstock</li> <li>Huser Stock</li> <li>(Fronalpstock)</li> <li>Stoos (Stoosbahn)</li> </ul> </dd> </dl> <p><strong>Total distance:</strong> 12.9km  <strong>Expected duration:</strong> 5-6h  <strong>Uphill/downhill:</strong> 730m <strong>Difficulty</strong>: Sportier - definitely have good shoes / clothes and a relatively good physique.</p> <p>The cable car ascending to Stoos, known as the <a class="link" href="https://www.stoos.ch/en/stories/stoosbahnen" target="_blank" rel="noopener">Stoosbahn funicular</a>, holds the record as the steepest funicular railway in the world with a maximum gradient of 110%, offering breathtaking panoramic views of the majestic Swiss Alps and providing an unforgettable experience for visitors.</p>
-UID:20231007T090000-hike-in-stoos@cssz.ch
-SEQUENCE:0
-STATUS:CONFIRMED
-DTSTAMP:20231007T000000
-DTSTART:20231007T090000
-DTEND:20231007T180000
-LOCATION;ALTREP="https://maps.app.goo.gl/PW8tQGxUkJ3ExpRn8":Stoos
-URL:https://cssz.ch/events/hike-in-stoos/
-END:VEVENT
-BEGIN:VEVENT
-ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
 SUMMARY:Semester Welcome Event (Autumn 2023)
 DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/welcome-event-autumn23/\n<strong>Location:</strong> <a href="https://goo.gl/maps/bqDsM5dpDLDDRoGg8" target="_blank" rel="noopener">bQm Culture Café & Bar</a>\n<strong>Coordinator:</strong> Radim Urban (<a class="link" href="mailto:radim.urban@cssz.ch" target="_blank" rel="noopener">radim.urban@cssz.ch</a>)\n\nJoin us for a lively kick-off to the Autumn semester 2023 at the bQm bar 🍻, where the Czech and Slovak Students in Zurich will host a warm welcome event 🌟. This meetup provides an excellent opportunity for both new and existing students to come together, connect, and make friends 🤝. Don&rsquo;t miss this chance to expand your social circle and make lasting memories with fellow students. We look forward to seeing you there!
 UID:20230928T190000-welcome-event-autumn23@cssz.ch
