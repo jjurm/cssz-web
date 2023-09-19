@@ -7,8 +7,8 @@ semesters:
   - autumn-2023
 
 event_details:
-  date_start: 2023-09-2T19:00:00
-  date_end: 2023-09-28T21:00:00
+  date_start: 2023-09-29T19:00:00
+  date_end: 2023-09-29T21:00:00
   location:
     text: bQm Culture Café & Bar
     link: https://goo.gl/maps/bqDsM5dpDLDDRoGg8
