@@ -28,7 +28,7 @@
             {{ end }}
         </header>
 
-        {{ if .Content }}{{ partial "article/components/content" . }}{{ end }}
+        {{ if or .Content .Params.board_members }}{{ partial "article/components/content" . }}{{ end }}
     </div>
 
     {{- $subsections := .Sections -}}

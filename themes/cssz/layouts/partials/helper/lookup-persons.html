@@ -1,0 +1,9 @@
+{{- $persons := slice -}}
+{{- if reflect.IsSlice . -}}
+    {{- range . -}}
+        {{- $persons = $persons | append (partial "helper/person" (dict "person" .)) -}}
+    {{- end -}}
+{{- else -}}
+    {{- $persons = slice (partial "helper/person" (dict "person" .)) -}}
+{{- end -}}
+{{- return $persons -}}

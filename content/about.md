@@ -28,11 +28,7 @@ You can contact the board at board@cssz.ch
 ### Previous Boards
 We are very grateful to everyone, who is motivated to help with running CSSZ. Special "thank you" goes to all of our previous board members who led the society in respective terms (HS: Autumn Semester, FS: Summer Semester). 
 
-|Term|Board Members|
-|--|--|
-|HS23|Radim Urban, Juraj Mičko, Emma Hubeková, Aleš Kubíček, Zděněk Šnajdr|
-|HS22-FS23|Radim Urban, Juraj Mičko, Vu Nguyen, Timon Fopp|
-|FS22|Radim Urban, Juraj Mičko, Vu Nguyen, Šimon Hrabec (founding members)|
+{{< semester-table >}}
 
 ## Team Members
 

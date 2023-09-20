@@ -1,0 +1,16 @@
+<section class="article-content">
+    {{- with .Params.board_members -}}
+        <strong>Board Members:</strong>
+        <ul>
+        {{- range . -}}
+            {{- with (merge (partial "helper/person.html" (dict "person" . "Context" $)) (dict "phone" nil)) -}}
+                <li>{{- partial "helper/person-inline" (dict "person" . "Context" $) -}}</li>
+            {{- end -}}
+        {{- end -}}
+        </ul>
+    {{- end -}}
+
+    <!-- Refer to https://discourse.gohugo.io/t/responsive-tables-in-markdown/10639/5 -->
+    {{ $wrappedTable := printf "<div class=\"table-wrapper\">${1}</div>" }}
+    {{ .Content | replaceRE "(<table>(?:.|\n)+?</table>)" $wrappedTable | safeHTML }}
+</section>

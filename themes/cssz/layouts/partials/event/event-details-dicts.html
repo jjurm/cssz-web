@@ -15,14 +15,7 @@
     {{- end -}}
     {{- $eventDetails = merge $eventDetails (dict "details" .Params.description) -}}
     {{- with $eventDetails.coordinator -}}
-        {{- $coordinators := slice -}}
-        {{- if reflect.IsSlice . -}}
-            {{- range . -}}
-                {{- $coordinators = $coordinators | append (partial "helper/person" (dict "person" . "Context" $)) -}}
-            {{- end -}}
-        {{- else -}}
-            {{- $coordinators = slice (partial "helper/person" (dict "person" . "Context" $)) -}}
-        {{- end -}}
+        {{- $coordinators := partial "helper/lookup-persons" . -}}
         {{- $eventDetails = merge $eventDetails (dict "coordinator" $coordinators ) -}}
     {{- end -}}
     {{- $result = $result | append $eventDetails -}}

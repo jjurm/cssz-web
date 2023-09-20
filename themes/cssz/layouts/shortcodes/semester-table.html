@@ -1,0 +1,18 @@
+<div class="table-wrapper"><table>
+    <tr>
+        <th>Semester</th>
+        <th>Board Members</th>
+    </tr>
+    {{- range (sort .Site.Taxonomies.semesters ".Page.Date" "desc") -}}
+    <tr>
+        <td>
+            <a class="link" href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+        </td>
+        <td>
+            {{- with .Page.Params.board_members -}}
+                {{- partial "helper/person-inline-multiple" (dict "Context" $ "person" (partial "helper/lookup-persons" .) "omit" (slice "phone" "email")) -}}
+            {{- end -}}
+        </td>
+    </tr>
+    {{- end -}}
+</table></div>

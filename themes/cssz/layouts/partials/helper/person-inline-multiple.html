@@ -1,7 +1,10 @@
 {{- with .person -}}
     {{- $first := true -}}
-    {{- range . -}}
+    {{- range $person := . -}}
         {{- if not $first }}, {{ end -}}{{- $first = false -}}
-        {{- partial "helper/person-inline" (dict "Context" $.Context "person" .) -}}
+        {{- range $.omit -}}
+            {{- $person = merge $person (dict . nil) -}}
+        {{- end -}}
+        {{- partial "helper/person-inline" (dict "Context" $.Context "person" $person) -}}
     {{- end -}}
 {{- end -}}
