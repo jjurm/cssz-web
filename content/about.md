@@ -26,7 +26,7 @@ You can contact the board at board@cssz.ch
 {{< members-list list="board" >}}
 
 ### Previous Boards
-We are very grateful to everyone, who is motivated to help with running CSSZ. Special "thank you" goes to all of our previous board members who led the society in respective terms (HS: Autumn Semester, FS: Summer Semester). 
+We are very grateful to everyone who is motivated to help with running CSSZ. Special "thank you" goes to all of our previous board members who led the society in respective terms. 
 
 {{< semester-table >}}
 
