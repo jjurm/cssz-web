@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Czech and Slovak Students in Zurich//Events//EN
+URL:webcal://cssz.ch/events/swiss-ice-hockey-games.ics
+NAME:CSSZ Events
+X-WR-CALNAME:CSSZ Events
+X-WR-CALDESC:
+X-WR-TIMEZONE:Europe/Zurich
+X-PUBLISHED-TTL:PT6H
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-LIC-LOCATION:Europe/Zurich
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:SWISS Ice Hockey Games 🏒 (SUI vs CZE)
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/swiss-ice-hockey-games/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/KEacxidfHCJcEDXp9" target="_blank" rel="noopener">Swiss Life Arena</a>\n<strong>Coordinator:</strong> Radim Urban (<a class="link" href="mailto:radim.urban@cssz.ch" target="_blank" rel="noopener">radim.urban@cssz.ch</a>), Aleš Kubiček (<a class="link" href="mailto:ales.kubicek@cssz.ch" target="_blank" rel="noopener">ales.kubicek@cssz.ch</a>)\n\nGet ready for an exhilarating evening of ice hockey as we come together to support Czechia in a showdown against Switzerland in the SWISS Ice Hockey Games (EuroHockey Tour). The action-packed day includes not just the Switzerland vs. Czechia match but also an exciting clash between Finland and Sweden, all included in your ticket. So, make the most of your day at the rink! Ticket Purchase: You can buy your tickets here (ticketmaster).
+UID:20231216T180000-swiss-ice-hockey-games@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20231216T000000
+DTSTART:20231216T180000
+DTEND:20231216T210000
+LOCATION;ALTREP="https://maps.app.goo.gl/KEacxidfHCJcEDXp9":Swiss Life Arena
+URL:https://cssz.ch/events/swiss-ice-hockey-games/
+END:VEVENT
+
+END:VCALENDAR
+
