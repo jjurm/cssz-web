@@ -5,6 +5,7 @@ description: |
 image: images/events/2023-12-16-swiss-ice-hockey-games/swiss_life_arena.jpg
 semesters:
   - autumn-2023
+hidden_on_homepage: true
 
 event_details:
   date_start: 2023-12-16T18:00:00
