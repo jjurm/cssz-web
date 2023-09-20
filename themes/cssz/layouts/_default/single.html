@@ -30,8 +30,8 @@
         {{- $pages := index .Site.Taxonomies.semesters .Params.embed_semester_events -}}
         {{- $pages = where $pages "Section" "events" -}}
         {{- $pages = (where $pages "Params.hidden" "!=" true) -}}
-        {{- $pages = sort $pages ".Date" "asc" }}
         {{- $pages = sort $pages ".Params.event_details.date_start" "asc" }}
+        {{- $pages = sort $pages ".Date" "asc" }}
 
         <section class="article-list--compact">
             {{ range $pages }}

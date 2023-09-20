@@ -34,6 +34,7 @@
     {{- $subsections := .Sections -}}
     {{- $pages := (where .Pages "Params.hidden" "!=" true) | complement $subsections -}}
     {{- $pages = sort $pages ".Params.event_details.date_start" "desc" }}
+    {{- $pages = sort $pages ".Date" "desc" }}
 
     {{- if eq (len $pages) 0 -}}
         {{/* If there are no normal pages, display subsections in list style, with pagination */}}
