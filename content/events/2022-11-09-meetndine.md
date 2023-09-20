@@ -3,8 +3,9 @@ title: Meet'n'Dine
 description: |
   Join a cultural dinner with fellow students. We'll be cooking Bryndzové halušky, a traditional Slovak dish.
 slug: meet-n-dine-2
-date: 2022-10-03
+pubdate: 2022-10-03
 image: images/events/2022-10-19-meetndine/halusky.jpeg
+semesters: 2022-autumn
 
 event_details:
   date_start: 2022-11-09T18:30:00

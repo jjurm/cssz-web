@@ -3,8 +3,9 @@ title: Wine Tasting 🍷
 description: |
   Let's keep it moving, after the red it sings, after the white it gets dark, come and don't be lazy, we have litres of wine.
 slug: wine-tasting
-date: 2023-03-17
+published: 2023-03-17
 image: images/events/2023-03-18-wine-tasting/wine_tasting.jpg
+semesters: 2023-spring
 
 event_details:
   date_start: 2023-03-18T19:00:00

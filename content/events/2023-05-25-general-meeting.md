@@ -3,8 +3,9 @@ title: General Meeting
 description: |
   Reflecting on the spring semester, electing new board, and opening positions
 slug: general-meeting-fs23
-date: 2023-05-20
-image: images/events/2023-05-25-general-meeting/meeting2.jpg 
+pubdate: 2023-05-20
+image: images/events/2023-05-25-general-meeting/meeting2.jpg
+semesters: 2023-spring
 
 event_details:
   date_start: 2023-05-25T18:00:00

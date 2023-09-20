@@ -3,8 +3,7 @@ title: Movie Night 🎥 & General Meeting 📊
 description: |
   Join us for a movie night and a general meeting. We'll be watching the Czech movie "Pelíšky" with English subtitles.
 image: images/events/2023-11-10-movie-night-general-meeting/unsplash-camera.jpg
-semesters:
-  - autumn-2023
+semesters: 2023-autumn
 hidden_on_homepage: true
 
 event_details:

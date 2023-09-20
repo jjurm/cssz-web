@@ -2,12 +2,10 @@
 title: 3rd Slovak and Czech Annual Symposium 2023 by CometX
 description: |
   The biggest networking event for Slovaks and Czechs in Switzerland. Semi-formal one-day conference.
-date: 2023-07-13
 url: /cometx-annual-symposium
 image: images/posts/2023-07-14-cometx-annual-symposium/cover-cometx.webp
 
-semesters:
-  - Autumn 2023
+semesters: 2023-autumn
 ---
 
 # 3rd Slovak and Czech Annual Symposium 2023

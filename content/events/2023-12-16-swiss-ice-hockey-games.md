@@ -3,8 +3,7 @@ title: SWISS Ice Hockey Games 🏒 (SUI vs CZE)
 description: |
   Join us for a thrilling night of Switzerland vs. Czechia ice hockey action!
 image: images/events/2023-12-16-swiss-ice-hockey-games/swiss_life_arena.jpg
-semesters:
-  - autumn-2023
+semesters: 2023-autumn
 hidden_on_homepage: true
 
 event_details:

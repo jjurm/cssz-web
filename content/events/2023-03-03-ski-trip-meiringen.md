@@ -3,9 +3,9 @@ title: Ski Trip Meiringen-Hasliberg
 description: |
   Join us for two days of skiing at the beginning of the Spring Semester!
 slug: ski-trip-meiringen
-date: 2023-02-06
+pubdate: 2023-02-06
 image: images/events/2023-03-04-ski-trip-meiringen/meiringen_map.jpeg
-draft: false
+semesters: 2022-autumn
 
 event_details:
   date_start: 2023-03-03T16:00:00

@@ -2,9 +2,10 @@
 title: Hike 🥾 from Uetliberg to Thalwil
 description: |
   Our first hike of the Autumn Semester 2022!
-date: 2022-10-03
+pubdate: 2022-10-03
 slug: hike-uetliberg-thalwil
 image: images/events/2022-10-15-hike-uetliberg-thalwil/everyone.jpeg
+semesters: 2022-autumn
 
 event_details:
   date_start: 2022-10-15T09:30:00

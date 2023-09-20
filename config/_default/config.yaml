@@ -25,7 +25,7 @@ DefaultContentLanguage: en
 
 enableRobotsTXT: true
 buildDrafts: false
-buildFuture: false
+buildFuture: true
 buildExpired: false
 
 googleAnalytics: G-5CRSPLB515
@@ -42,6 +42,12 @@ frontmatter:
     - date
     - :filename
     - :default
+  publishDate:
+    - publishdate
+    - pubdate
+    - published
+    - date
+    - :filename
 enableGitInfo: true
 
 taxonomies:
@@ -68,6 +74,8 @@ related:
   threshold: 60
   toLower: false
   indices:
+    - name: semesters
+      weight: 10
     - name: tags
       weight: 100
     - name: categories

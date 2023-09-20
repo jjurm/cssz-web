@@ -3,9 +3,10 @@ title: Goldau-Unterägeri Hike
 description: |
   Join us for spring hike from Goldau-Unterägeri Hike!
 slug: goldau-hike
-date: 2023-04-26
+pubdate: 2023-04-26
 image: images/events/2023-05-06-goldau-hike/gnipen_wildspitz-20200621-19.webp
-draft: false
+semesters: 2023-spring
+
 event_details:
   date_start: 2023-05-06T08:00:00
   date_end: 2023-05-06T17:00:00

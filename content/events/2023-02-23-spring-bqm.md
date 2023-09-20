@@ -3,9 +3,9 @@ title: Spring bQm 🍺
 description: |
   Come to the first meeting at 7 pm at bQm, for a chat and a beer 🥳
 slug: spring-23-bqm
-date: 2023-02-21
+pubdate: 2023-02-21
 image: images/events/2023-02-23-spring-bqm/image.imageformat.lightbox.25242075.jpg
-draft: false
+semesters: 2023-spring
 
 event_details:
   date_start: 2023-02-23T19:00:00

@@ -5,6 +5,7 @@ description: |
 date: 2023-04-22
 slug: unimak-webinar
 image: images/posts/2023-04-22-unimak-webinar/cover_crop.jpg
+semesters: 2023-spring
 
 links:
   - title: Unimak

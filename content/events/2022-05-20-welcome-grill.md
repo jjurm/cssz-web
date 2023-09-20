@@ -2,10 +2,11 @@
 title: "Grill Welcome Event!"
 description: Celebrating the foundation of the Czech and Slovak Students in Zurich association.
 slug: grill-welcome-event
-date: 2022-05-02
+pubdate: 2022-05-02
 aliases:
 - /posts/welcome-event/
 image: images/events/2022-05-20-welcome-grill/PXL_20220520_185026259.MP.jpg
+semesters: 2022-spring
 
 event_details:
   date_start: 2022-05-20T17:00:00

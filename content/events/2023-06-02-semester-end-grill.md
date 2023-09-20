@@ -3,8 +3,9 @@ title: End-of-Semester Grill
 description: |
   Last day of the semester! Let's go grilling!
 slug: semester-end-grill
-date: 2023-05-27
+pubdate: 2023-05-27
 image: images/events/2022-05-20-welcome-grill/image1.jpeg
+semesters: 2023-spring
 
 event_details:
   date_start: 2023-06-02T17:00:00

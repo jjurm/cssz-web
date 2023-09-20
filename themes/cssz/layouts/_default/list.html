@@ -41,6 +41,21 @@
     {{- $subsections = slice -}}
     {{- end -}}
 
+    {{- if eq .Kind "taxonomy" -}}{{/* e.g. 'Semesters' */}}
+        {{- $pages = slice -}}
+        {{- range .Data.Index -}}
+            {{- $pages = $pages | append .Page -}}
+        {{- end -}}
+        {{- $pages = sort $pages ".Date" "desc" }}
+        {{- $subsections = slice -}}
+    {{- end -}}
+
+    {{- if eq .Kind "term" -}}{{/* e.g. 'Autumn 2023' */}}
+        {{- $pages = sort $pages ".Params.event_details.date_start" "asc" }}
+        {{- $pages = sort $pages ".Date" "asc" }}
+        {{- $pages = sort $pages "PublishDate" "asc" }}
+    {{- end -}}
+
     {{- with $subsections -}}
     <aside>
         <h2 class="section-title">{{ T "list.subsection" (len $subsections) }}</h2>

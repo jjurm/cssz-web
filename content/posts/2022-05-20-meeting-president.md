@@ -4,6 +4,7 @@ description: On 20 May, H.E. Zuzana Čaputová visited ETH Zurich and met studen
 date: 2022-05-20
 slug: meeting-the-president
 image: images/events/2022-05-20-meeting-president/PXL_20220520_093148528.MP_2.jpg
+semesters: 2022-spring
 
 links:
   - title: Slovak President visits ETH | ETH Zurich
