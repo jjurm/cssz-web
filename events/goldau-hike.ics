@@ -35,7 +35,7 @@ DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/goldau-hike/\
 UID:20230506T080000-goldau-hike@cssz.ch
 SEQUENCE:0
 STATUS:CONFIRMED
-DTSTAMP:20230426T000000
+DTSTAMP:20230506T000000
 DTSTART:20230506T080000
 DTEND:20230506T170000
 LOCATION;ALTREP="https://en.mapy.cz/s/mumenunema":Route

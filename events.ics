@@ -125,7 +125,7 @@ DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/semester-end-
 UID:20230602T170000-semester-end-grill@cssz.ch
 SEQUENCE:0
 STATUS:CONFIRMED
-DTSTAMP:20230527T000000
+DTSTAMP:20230602T000000
 DTSTART:20230602T170000
 DTEND:20230602T210000
 LOCATION;ALTREP="https://goo.gl/maps/HdceYG2k6ZYHPbJ27":Grillplätze behind ASVZ at ETH Hönggerberg
@@ -138,37 +138,11 @@ DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/general-meeti
 UID:20230525T180000-general-meeting-fs23@cssz.ch
 SEQUENCE:0
 STATUS:CONFIRMED
-DTSTAMP:20230520T000000
+DTSTAMP:20230525T000000
 DTSTART:20230525T180000
 DTEND:20230525T200000
 LOCATION;ALTREP="https://goo.gl/maps/FtCu7zEVgUQDtro58":UZH KO2-G-275
 URL:https://cssz.ch/events/general-meeting-fs23/
-END:VEVENT
-BEGIN:VEVENT
-ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
-SUMMARY:Goldau-Unterägeri Hike
-DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/goldau-hike/\n<strong>Location:</strong> <a href="https://en.mapy.cz/s/mumenunema" target="_blank" rel="noopener">Route</a>\n<strong>Coordinator:</strong> Radim Urban (<a class="link" href="mailto:radim.urban@cssz.ch" target="_blank" rel="noopener">radim.urban@cssz.ch</a>)\n<strong>Registration:</strong> <a href="https://docs.google.com/forms/d/e/1FAIpQLSeOCLtB4infagcGayZErxCqL7-doxOUA4sMS0QsbPJr56mLEQ/viewform" target="_blank" rel="noopener">Google Form</a>\n\n<h2 id="invitation">Invitation</h2> <p>CSSZ invites you and your friends to join a semester hike from <em>Goldau-Unterägeri</em>, which is planned for Saturday, 06.05.2023. Come and enjoy hiking in the beautiful nature with our society!</p> <h2 id="difficulty">Difficulty</h2> <p>Easy to sporty - about 1000m up and 850m down - but 15.6km, so nothing terrible.</p> <h2 id="transport-connection">Transport connection</h2> <p>We&rsquo;ll take a direct train to Goldau:</p> <picture class="img" style="background: url(data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAADCAIAAAAcOLh5AAAAXUlEQVR4nIzNQQ4CIQxGYabQJrJgwf2vpdcggSo/KVVvMOHtX77UWmNmAL73L4RaKzOHs6iUEiN95je9no/3mGuN3t0dgKqa2c18qaqImNkCLqKcs4gcyv8AAAD//057Kyt0a8IPAAAAAElFTkSuQmCC); background-size: cover; display: inline;">             <source srcset='/images/events/2023-05-06-goldau-hike/conn_hu2e3e1a56dca2c5f5b977e83d21c9544f_43390_9a8e99285c186a61606b2aa772ea0f81.webp 1948w, /images/events/2023-05-06-goldau-hike/conn_hu2e3e1a56dca2c5f5b977e83d21c9544f_43390_9a8e99285c186a61606b2aa772ea0f81.webp 1948w, /images/events/2023-05-06-goldau-hike/conn_hu2e3e1a56dca2c5f5b977e83d21c9544f_43390_cff9bdc723b1af3d25d18177ca7714bd.webp 640w, /images/events/2023-05-06-goldau-hike/conn_hu2e3e1a56dca2c5f5b977e83d21c9544f_43390_c50be3d5b9f217dbe053b229da74ab12.webp 1024w, /images/events/2023-05-06-goldau-hike/conn_hu2e3e1a56dca2c5f5b977e83d21c9544f_43390_bdc37ba2272ac760a7e9f2c7b5833bea.webp 1600w'                     sizes="(max-width: 1948px) 100vw, 1948px"                     type="image/webp"             /><source srcset='/images/events/2023-05-06-goldau-hike/conn_hu2e3e1a56dca2c5f5b977e83d21c9544f_43390_53ae5f0fe0577f65d5a2c66077d7cda4.jpg 1948w, /images/events/2023-05-06-goldau-hike/conn_hu2e3e1a56dca2c5f5b977e83d21c9544f_43390_53ae5f0fe0577f65d5a2c66077d7cda4.jpg 1948w, /images/events/2023-05-06-goldau-hike/conn_hu2e3e1a56dca2c5f5b977e83d21c9544f_43390_a6f1856f9d7361dde2ee306353238238.jpg 640w, /images/events/2023-05-06-goldau-hike/conn_hu2e3e1a56dca2c5f5b977e83d21c9544f_43390_d60c975f53bc8cf853b374b6f94fc8e6.jpg 1024w, /images/events/2023-05-06-goldau-hike/conn_hu2e3e1a56dca2c5f5b977e83d21c9544f_43390_7b249a4480ee2bb3db8d397ba0ec5030.jpg 1600w'                     sizes="(max-width: 1948px) 100vw, 1948px"                     type="image/jpeg"             /><img src="/images/events/2023-05-06-goldau-hike/conn_hu2e3e1a56dca2c5f5b977e83d21c9544f_43390_53ae5f0fe0577f65d5a2c66077d7cda4.jpg"                  width="1948"                  height="318"                                                                                     /></picture> <p>And we&rsquo;ll take a bus and train on the way back from Unterägeri (ca. 1:15, one transfer)</p>
-UID:20230506T080000-goldau-hike@cssz.ch
-SEQUENCE:0
-STATUS:CONFIRMED
-DTSTAMP:20230426T000000
-DTSTART:20230506T080000
-DTEND:20230506T170000
-LOCATION;ALTREP="https://en.mapy.cz/s/mumenunema":Route
-URL:https://cssz.ch/events/goldau-hike/
-END:VEVENT
-BEGIN:VEVENT
-ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
-SUMMARY:Wine Tasting 🍷
-DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/wine-tasting/\n<strong>Location:</strong> <a href="https://goo.gl/maps/2JV26xf42Un76h5o8" target="_blank" rel="noopener">Holderbachweg 6</a>\n<strong>Coordinator:</strong> Timon Fopp (<a class="link" href="mailto:timon.fopp@cssz.ch" target="_blank" rel="noopener">timon.fopp@cssz.ch</a>, <a class="link" href="tel:&#43;41783309888">+41783309888</a>)\n\nCZ: Degustace vína: V sobotu degustace vína, ať se nám to hýbá, po červeném se zpívá, po bílém se stmívá, přijď a nebuď kůže lína, máme tady litry vína. EN: Wine Tasting: Wine tasting on Saturday, let&rsquo;s keep it moving, after the red it sings, after the white it gets dark, come and don&rsquo;t be lazy, we have litres of wine.
-UID:20230318T190000-wine-tasting@cssz.ch
-SEQUENCE:0
-STATUS:CONFIRMED
-DTSTAMP:20230317T000000
-DTSTART:20230318T190000
-DTEND:20230318T230000
-LOCATION;ALTREP="https://goo.gl/maps/2JV26xf42Un76h5o8":Holderbachweg 6
-URL:https://cssz.ch/events/wine-tasting/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
@@ -177,11 +151,24 @@ DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/cambridge-zur
 UID:20230513T120000-cambridge-zurich-exchange@cssz.ch
 SEQUENCE:0
 STATUS:CONFIRMED
-DTSTAMP:20230301T000000
+DTSTAMP:20230513T000000
 DTSTART:20230513T120000
 DTEND:20230516T120000
 LOCATION;ALTREP="https://goo.gl/maps/9LEBPFM8ZyfotawJ6":Cambrige, UK
 URL:https://cssz.ch/events/cambridge-zurich-exchange/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Goldau-Unterägeri Hike
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/goldau-hike/\n<strong>Location:</strong> <a href="https://en.mapy.cz/s/mumenunema" target="_blank" rel="noopener">Route</a>\n<strong>Coordinator:</strong> Radim Urban (<a class="link" href="mailto:radim.urban@cssz.ch" target="_blank" rel="noopener">radim.urban@cssz.ch</a>)\n<strong>Registration:</strong> <a href="https://docs.google.com/forms/d/e/1FAIpQLSeOCLtB4infagcGayZErxCqL7-doxOUA4sMS0QsbPJr56mLEQ/viewform" target="_blank" rel="noopener">Google Form</a>\n\n<h2 id="invitation">Invitation</h2> <p>CSSZ invites you and your friends to join a semester hike from <em>Goldau-Unterägeri</em>, which is planned for Saturday, 06.05.2023. Come and enjoy hiking in the beautiful nature with our society!</p> <h2 id="difficulty">Difficulty</h2> <p>Easy to sporty - about 1000m up and 850m down - but 15.6km, so nothing terrible.</p> <h2 id="transport-connection">Transport connection</h2> <p>We&rsquo;ll take a direct train to Goldau:</p> <picture class="img" style="background: url(data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAADCAIAAAAcOLh5AAAAXUlEQVR4nIzNQQ4CIQxGYabQJrJgwf2vpdcggSo/KVVvMOHtX77UWmNmAL73L4RaKzOHs6iUEiN95je9no/3mGuN3t0dgKqa2c18qaqImNkCLqKcs4gcyv8AAAD//057Kyt0a8IPAAAAAElFTkSuQmCC); background-size: cover; display: inline;">             <source srcset='/images/events/2023-05-06-goldau-hike/conn_hu2e3e1a56dca2c5f5b977e83d21c9544f_43390_9a8e99285c186a61606b2aa772ea0f81.webp 1948w, /images/events/2023-05-06-goldau-hike/conn_hu2e3e1a56dca2c5f5b977e83d21c9544f_43390_9a8e99285c186a61606b2aa772ea0f81.webp 1948w, /images/events/2023-05-06-goldau-hike/conn_hu2e3e1a56dca2c5f5b977e83d21c9544f_43390_cff9bdc723b1af3d25d18177ca7714bd.webp 640w, /images/events/2023-05-06-goldau-hike/conn_hu2e3e1a56dca2c5f5b977e83d21c9544f_43390_c50be3d5b9f217dbe053b229da74ab12.webp 1024w, /images/events/2023-05-06-goldau-hike/conn_hu2e3e1a56dca2c5f5b977e83d21c9544f_43390_bdc37ba2272ac760a7e9f2c7b5833bea.webp 1600w'                     sizes="(max-width: 1948px) 100vw, 1948px"                     type="image/webp"             /><source srcset='/images/events/2023-05-06-goldau-hike/conn_hu2e3e1a56dca2c5f5b977e83d21c9544f_43390_53ae5f0fe0577f65d5a2c66077d7cda4.jpg 1948w, /images/events/2023-05-06-goldau-hike/conn_hu2e3e1a56dca2c5f5b977e83d21c9544f_43390_53ae5f0fe0577f65d5a2c66077d7cda4.jpg 1948w, /images/events/2023-05-06-goldau-hike/conn_hu2e3e1a56dca2c5f5b977e83d21c9544f_43390_a6f1856f9d7361dde2ee306353238238.jpg 640w, /images/events/2023-05-06-goldau-hike/conn_hu2e3e1a56dca2c5f5b977e83d21c9544f_43390_d60c975f53bc8cf853b374b6f94fc8e6.jpg 1024w, /images/events/2023-05-06-goldau-hike/conn_hu2e3e1a56dca2c5f5b977e83d21c9544f_43390_7b249a4480ee2bb3db8d397ba0ec5030.jpg 1600w'                     sizes="(max-width: 1948px) 100vw, 1948px"                     type="image/jpeg"             /><img src="/images/events/2023-05-06-goldau-hike/conn_hu2e3e1a56dca2c5f5b977e83d21c9544f_43390_53ae5f0fe0577f65d5a2c66077d7cda4.jpg"                  width="1948"                  height="318"                                                                                     /></picture> <p>And we&rsquo;ll take a bus and train on the way back from Unterägeri (ca. 1:15, one transfer)</p>
+UID:20230506T080000-goldau-hike@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20230506T000000
+DTSTART:20230506T080000
+DTEND:20230506T170000
+LOCATION;ALTREP="https://en.mapy.cz/s/mumenunema":Route
+URL:https://cssz.ch/events/goldau-hike/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
@@ -190,7 +177,7 @@ DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/pub-quiz/\n<s
 UID:20230403T183000-pub-quiz@cssz.ch
 SEQUENCE:0
 STATUS:CONFIRMED
-DTSTAMP:20230221T000000
+DTSTAMP:20230403T000000
 DTSTART:20230403T183000
 DTEND:20230403T223000
 LOCATION;ALTREP="https://goo.gl/maps/v75ZzHko9jK8pfGG6":Oliver Twist Pub
@@ -198,16 +185,16 @@ URL:https://cssz.ch/events/pub-quiz/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
-SUMMARY:Spring bQm 🍺
-DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/spring-23-bqm/\n<strong>Location:</strong> <a href="https://goo.gl/maps/bqDsM5dpDLDDRoGg8" target="_blank" rel="noopener">bQm Culture Café & Bar</a>\n<strong>Coordinator:</strong> Timon Fopp (<a class="link" href="mailto:timon.fopp@cssz.ch" target="_blank" rel="noopener">timon.fopp@cssz.ch</a>, <a class="link" href="tel:&#43;41783309888">+41783309888</a>)\n\nCZ: Ahooj! Doufám že neumíráte hlady, nový semestr je tady :D Kdo má ve čtvrtek zájem a čas, ať dorazí na první sraz v 7 večer v bQm, na pokec a za pivem 🥳 EN: Hello! I hope you are not starving, the new semester is here :D Anyone who is interested and has time on Thursday should come to the first meeting at 7 in the evening at bQm, for a chat and a beer 🥳
-UID:20230223T190000-spring-23-bqm@cssz.ch
+SUMMARY:Wine Tasting 🍷
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/wine-tasting/\n<strong>Location:</strong> <a href="https://goo.gl/maps/2JV26xf42Un76h5o8" target="_blank" rel="noopener">Holderbachweg 6</a>\n<strong>Coordinator:</strong> Timon Fopp (<a class="link" href="mailto:timon.fopp@cssz.ch" target="_blank" rel="noopener">timon.fopp@cssz.ch</a>, <a class="link" href="tel:&#43;41783309888">+41783309888</a>)\n\nCZ: Degustace vína: V sobotu degustace vína, ať se nám to hýbá, po červeném se zpívá, po bílém se stmívá, přijď a nebuď kůže lína, máme tady litry vína. EN: Wine Tasting: Wine tasting on Saturday, let&rsquo;s keep it moving, after the red it sings, after the white it gets dark, come and don&rsquo;t be lazy, we have litres of wine.
+UID:20230318T190000-wine-tasting@cssz.ch
 SEQUENCE:0
 STATUS:CONFIRMED
-DTSTAMP:20230221T000000
-DTSTART:20230223T190000
-DTEND:20230223T210000
-LOCATION;ALTREP="https://goo.gl/maps/bqDsM5dpDLDDRoGg8":bQm Culture Café & Bar
-URL:https://cssz.ch/events/spring-23-bqm/
+DTSTAMP:20230318T000000
+DTSTART:20230318T190000
+DTEND:20230318T230000
+LOCATION;ALTREP="https://goo.gl/maps/2JV26xf42Un76h5o8":Holderbachweg 6
+URL:https://cssz.ch/events/wine-tasting/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
@@ -216,11 +203,24 @@ DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/ski-trip-meir
 UID:20230303T160000-ski-trip-meiringen@cssz.ch
 SEQUENCE:0
 STATUS:CONFIRMED
-DTSTAMP:20230206T000000
+DTSTAMP:20230303T000000
 DTSTART:20230303T160000
 DTEND:20230305T200000
 LOCATION;ALTREP="https://goo.gl/maps/e4daKdBtuV7WTcSL6":CVJM Zentrum Hasliberg
 URL:https://cssz.ch/events/ski-trip-meiringen/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Spring bQm 🍺
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/spring-23-bqm/\n<strong>Location:</strong> <a href="https://goo.gl/maps/bqDsM5dpDLDDRoGg8" target="_blank" rel="noopener">bQm Culture Café & Bar</a>\n<strong>Coordinator:</strong> Timon Fopp (<a class="link" href="mailto:timon.fopp@cssz.ch" target="_blank" rel="noopener">timon.fopp@cssz.ch</a>, <a class="link" href="tel:&#43;41783309888">+41783309888</a>)\n\nCZ: Ahooj! Doufám že neumíráte hlady, nový semestr je tady :D Kdo má ve čtvrtek zájem a čas, ať dorazí na první sraz v 7 večer v bQm, na pokec a za pivem 🥳 EN: Hello! I hope you are not starving, the new semester is here :D Anyone who is interested and has time on Thursday should come to the first meeting at 7 in the evening at bQm, for a chat and a beer 🥳
+UID:20230223T190000-spring-23-bqm@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20230223T000000
+DTSTART:20230223T190000
+DTEND:20230223T210000
+LOCATION;ALTREP="https://goo.gl/maps/bqDsM5dpDLDDRoGg8":bQm Culture Café & Bar
+URL:https://cssz.ch/events/spring-23-bqm/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
@@ -229,7 +229,7 @@ DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/cookies/\n<st
 UID:20221219T180000-cookies@cssz.ch
 SEQUENCE:0
 STATUS:CONFIRMED
-DTSTAMP:20221216T000000
+DTSTAMP:20221219T000000
 DTSTART:20221219T180000
 DTEND:20221219T220000
 LOCATION:UZH Kol-K-Küche
@@ -242,24 +242,11 @@ DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/semester-meet
 UID:20221112T180000-semester-meet-up-hs22@cssz.ch
 SEQUENCE:0
 STATUS:CONFIRMED
-DTSTAMP:20221003T000000
+DTSTAMP:20221112T000000
 DTSTART:20221112T180000
 DTEND:20221112T230000
 LOCATION;ALTREP="https://www.google.com/maps/place/R%C3%A4mistrasse+59,+8001+Z%C3%BCrich/@47.3721109,8.549581,19z/data=!3m1!4b1!4m5!3m4!1s0x479aa0ae934941d3:0x3324d67e2e8d5700!8m2!3d47.3721109!4d8.5501282":UZH RAA-E-30
 URL:https://cssz.ch/events/semester-meet-up-hs22/
-END:VEVENT
-BEGIN:VEVENT
-ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
-SUMMARY:Hike 🥾 from Uetliberg to Thalwil
-DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/hike-uetliberg-thalwil/\n<strong>Location:</strong> <a href="https://goo.gl/maps/LAgraK7pxk82yfbe7" target="_blank" rel="noopener">Zurich Triemli</a>\n<strong>Coordinator:</strong> Emma Hubeková (<a class="link" href="mailto:emma.hubekova@cssz.ch" target="_blank" rel="noopener">emma.hubekova@cssz.ch</a>, <a class="link" href="tel:&#43;421949776209">+421 949 776 209</a>), Vu Nguyen (<a class="link" href="mailto:vu.nguyen@cssz.ch" target="_blank" rel="noopener">vu.nguyen@cssz.ch</a>, <a class="link" href="tel:&#43;41762800264">+41762800264</a>)\n<strong>Registration:</strong> <a href="https://docs.google.com/forms/d/e/1FAIpQLSfL6-gjaGNdOr1Ijl3vDFkh4wXbmOZ_qGM2vC5ujJOXwTFfCA/viewform" target="_blank" rel="noopener">Google Form</a>\n\n<p>Thank You everyone for joining us! You can see some photos from the hike below or the album <a class="link" href="https://photos.app.goo.gl/5VGVbvPTzKh7zBF26" target="_blank" rel="noopener">here!</a></p> <picture class="img" style="background: url(data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAIAAACgpqunAAACw0lEQVR4nATA6XLbRAAAYO2hlSxZhx3JtuxcTaFMp/QReIe&#43;J4/BP37AwGQmQEKOSeLYsaxbq9We/fDvv/3q2UBLgW3fsYGyYNUNmlV51Xy5THcUFx29yhZAK8ZBFCXbl&#43;u67xRy6chxnufS6M8fPu2q&#43;tgUV9nqNEYabrLFQg5V0w8tFS9F6QLlYv2WV2GcLKf2jtkW7KFleMNAz3QQpgMdb5&#43;3jELBmGLV/XMxwyaL3e5Yv&#43;XtvlMI4FpPpZu6uuZ9A6ezNAqnZdMELjqLI2LAnzf7sZXEIf76apVGfBSW0NgGyOBhGG748g&#43;6lsRfp1P07dsvXOGL7LwstmXfAWgV1SjjwNH0FvzEDDkNjR0ECBBsu57jAla9eV8NO2Y&#43;gpGDIS/KrkqXl/OJNQ/c2dx//O9ZAxwScy0&#43;NCM65HkU&#43;GmyoJa79tAXeEuSr75/AnsmBYBFvdsfng4dxdgQzyWeM9Bxo1&#43;xGg4qAlpu3wve5kRRjexQFj3X/7I5RG5oGcvH6v7pf2gJqQzXxolnFgkIr&#43;agzMdgM/EsDDVy4tDnY4WA&#43;Wg9RPQahi7wCDg0XRL6Xpgc&#43;/E8CVwSlD3vhcjUa&#43;Vn7XS9mSdMmF7i&#43;7w61BVk27KtoTBm4oWhF12e/kBIPAjUM6kkhUa/dyIx7wu1uzYfgZHZPNFcDW2/PRyQHa/mG8g1WK9&#43;XJ2skBsDDU/TNbFJWVWdJmfLrBjUpb4TyL8Ti&#43;r4VNVPMw9bcmzp6E&#43;X2AZcKQEAHIvHCQn42DTSPj89pwO925dNpy5NuZrnj/iTkmCG&#43;DLQKvC5EA&#43;vDxhZZpRiFqdYThppjl0Tee5oFAT8n4JPEGoFvxhvkM229kUZrHxTb&#43;De6V/avsbG0gOn9Y7F0yBCHCN34pA0jPaWPqO0Zxo4M6ybz&#43;rvE7hrrGAP1n&#43;ZnzNntjp5&#43;B4AAP//foOuTpjQ1FQAAAAASUVORK5CYII=); background-size: cover; display: inline;">             <source srcset='/images/events/2022-10-15-hike-uetliberg-thalwil/trail_map_hu79bbd9667dfae221b358b4dc86dacb9b_1535692_2a6532d4a6d16d1a3787a839eaef690f.webp 282w, /images/events/2022-10-15-hike-uetliberg-thalwil/trail_map_hu79bbd9667dfae221b358b4dc86dacb9b_1535692_9f7a8f36701a550ef29de3f6b8ffc4e5.webp 564w'                     sizes="(max-width: 282px) 100vw, 282px"                     type="image/webp"             /><source srcset='/images/events/2022-10-15-hike-uetliberg-thalwil/trail_map_hu79bbd9667dfae221b358b4dc86dacb9b_1535692_c109f26a841341a196aa845625b743f2.jpg 282w, /images/events/2022-10-15-hike-uetliberg-thalwil/trail_map_hu79bbd9667dfae221b358b4dc86dacb9b_1535692_04824e38f1ba7a58d659e418090b2f38.jpg 564w'                     sizes="(max-width: 282px) 100vw, 282px"                     type="image/jpeg"             /><img src="/images/events/2022-10-15-hike-uetliberg-thalwil/trail_map_hu79bbd9667dfae221b358b4dc86dacb9b_1535692_c109f26a841341a196aa845625b743f2.jpg"                  width="282"                  height="200"                                                                                     /></picture> <picture class="img" style="background: url(data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIAA8AFAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5&#43;gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4&#43;Tl5ufo6ery8/T19vf4&#43;fr/2gAMAwEAAhEDEQA/AOnuPifZXFpJc2cF&#43;pQgfMqruz7E1JY/E3QvLMs0t&#43;WIx89twv5GuJ0k2mtzT3MiLb2aymKGKJcZIwNx79c8ewNaUvgrT5Dn7RcZBGMuT06cZ7Vy0cVKon0sauC0sdN/wsXQZCWEs4yejQMCKX/hYWhf89Zf&#43;/DVzf8Awi0WBicnAx1/&#43;tR/wi0X/PY/99f/AFq09tV7In2Z/9k=); background-size: cover; display: inline;">             <source srcset='/images/events/2022-10-15-hike-uetliberg-thalwil/everyone_hub38a0cdffd2d0a1f43e04d5afb46b732_374299_bee89809f39f6c0162266a8e90b65253.webp 267w, /images/events/2022-10-15-hike-uetliberg-thalwil/everyone_hub38a0cdffd2d0a1f43e04d5afb46b732_374299_4f57732f62ae5f0af0b9e511e6286960.webp 534w'                     sizes="(max-width: 267px) 100vw, 267px"                     type="image/webp"             /><source srcset='/images/events/2022-10-15-hike-uetliberg-thalwil/everyone_hub38a0cdffd2d0a1f43e04d5afb46b732_374299_4bafc6461de36331096ce71d04a2efb8.jpeg 267w, /images/events/2022-10-15-hike-uetliberg-thalwil/everyone_hub38a0cdffd2d0a1f43e04d5afb46b732_374299_63f4750a04e82558a4cf2e67c2248290.jpeg 534w'                     sizes="(max-width: 267px) 100vw, 267px"                     type="image/jpeg"             /><img src="/images/events/2022-10-15-hike-uetliberg-thalwil/everyone_hub38a0cdffd2d0a1f43e04d5afb46b732_374299_4bafc6461de36331096ce71d04a2efb8.jpeg"                  width="267"                  height="200"                                                                                     /></picture> <picture class="img" style="background: url(data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIAA8AFAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5&#43;gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4&#43;Tl5ufo6ery8/T19vf4&#43;fr/2gAMAwEAAhEDEQA/AI/BfieVLC4e5jkmcMoLeaR0XHAA/nXRv44nRcRRzbBztaTBNeX6lM1pbI0M8tmrPhkix82ep&#43;tZtyGWB2iv75pMZAMmM/lUKvKxq8Prud5rPxGvIrxVhCxLsBx1ycnnms//AIWVqP8Az0X/AL5Fc5bx27QhmXex5ZnXJJqXybb/AJ5R/wDfAqHXkWsOf//Z); background-size: cover; display: inline;">             <source srcset='/images/events/2022-10-15-hike-uetliberg-thalwil/view_hu96a5ab8e0364e843af4687201b687892_372435_d1d1ccd99b0143232102ebe0a113d2a5.webp 267w, /images/events/2022-10-15-hike-uetliberg-thalwil/view_hu96a5ab8e0364e843af4687201b687892_372435_522e98762864007230c884ed86848f18.webp 534w'                     sizes="(max-width: 267px) 100vw, 267px"                     type="image/webp"             /><source srcset='/images/events/2022-10-15-hike-uetliberg-thalwil/view_hu96a5ab8e0364e843af4687201b687892_372435_b917e3442cb9a2ff394f9284c2275bfa.jpeg 267w, /images/events/2022-10-15-hike-uetliberg-thalwil/view_hu96a5ab8e0364e843af4687201b687892_372435_5b2293d3ef2efb897b0de8bcc6032137.jpeg 534w'                     sizes="(max-width: 267px) 100vw, 267px"                     type="image/jpeg"             /><img src="/images/events/2022-10-15-hike-uetliberg-thalwil/view_hu96a5ab8e0364e843af4687201b687892_372435_b917e3442cb9a2ff394f9284c2275bfa.jpeg"                  width="267"                  height="200"                                                                                     /></picture> <picture class="img" style="background: url(data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIABsAFAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5&#43;gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4&#43;Tl5ufo6ery8/T19vf4&#43;fr/2gAMAwEAAhEDEQA/ALd/dI2qSray7o0JVXViQRznOfbg0ulGJ9ahguJJPJmcAiHllODxjuDxx7VzfifVrK18Q3E9qmFaMMdrHYWPVlz0&#43;lGn6nvntLiUsYfMQMcdAxA5ODjr&#43;lS3JPQZ6zd3KW03lW9w8EKqNqJ5fp1Oe&#43;c1B/aL/wDQQn/8h1y2sapY2uovBZLJJCgABQtjPfoPXn8az/7cT/nhP/5E/wAKvmDQ4zxpI9zcWb3En&#43;kSwLuxG0fCkjAB6enrx9Km07UntPDs1k7sJxuYRiPrjaVZj7bcYx61xzXU920ElxK0j4K7m64HQVYiJRX2nBMfUfWpFc9Z1HxhawXCva6lahZ0Ezh4huDHscn0xVT/AITn/qJ2X/fpa80YB5H3DOGIHsKTy0/uiocguf/Z); background-size: cover; display: inline;">             <source srcset='/images/events/2022-10-15-hike-uetliberg-thalwil/spider_hu96a5ab8e0364e843af4687201b687892_231685_92599b22f8b3e86a48434daa2cb6b56a.webp 150w, /images/events/2022-10-15-hike-uetliberg-thalwil/spider_hu96a5ab8e0364e843af4687201b687892_231685_2433b72ab6b14038dad9e1fbdf17388b.webp 300w'                     sizes="(max-width: 150px) 100vw, 150px"                     type="image/webp"             /><source srcset='/images/events/2022-10-15-hike-uetliberg-thalwil/spider_hu96a5ab8e0364e843af4687201b687892_231685_3117879a747348a1fd46072a70cafd09.jpeg 150w, /images/events/2022-10-15-hike-uetliberg-thalwil/spider_hu96a5ab8e0364e843af4687201b687892_231685_c303271a68a46a7137e951aed75b7e09.jpeg 300w'                     sizes="(max-width: 150px) 100vw, 150px"                     type="image/jpeg"             /><img src="/images/events/2022-10-15-hike-uetliberg-thalwil/spider_hu96a5ab8e0364e843af4687201b687892_231685_3117879a747348a1fd46072a70cafd09.jpeg"                  width="150"                  height="200"                                                                                     /></picture> <p><a class="link" href="https://photos.app.goo.gl/5VGVbvPTzKh7zBF26" target="_blank" rel="noopener">See more photos from the trip here!</a></p> <hr> <p>CSSZ invites you and your friends to join the first CSSZ trip of the Autumn Semester 2022.</p> <p>We&rsquo;ll meet at the tram stop <em>Triemli</em> at 9:30 a.m. and start our trip in the direction to Uetliberg, continuing to Thalwil. There we&rsquo;ll take the <em>Ship 3731 29</em> to get back to <em>Zürich Bürkliplatz (See)</em>. Expected duration of this hike with T1 level is 5:30 h.</p> <p><strong>Total distance:</strong> 19 km  <strong>Expected duration:</strong> 5:30 h  <strong>Uphill/downhill:</strong> 570 m</p>
-UID:20221015T093000-hike-uetliberg-thalwil@cssz.ch
-SEQUENCE:0
-STATUS:CONFIRMED
-DTSTAMP:20221003T000000
-DTSTART:20221015T093000
-DTEND:20221015T163000
-LOCATION;ALTREP="https://goo.gl/maps/LAgraK7pxk82yfbe7":Zurich Triemli
-URL:https://cssz.ch/events/hike-uetliberg-thalwil/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
@@ -268,7 +255,7 @@ DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/meet-n-dine-2
 UID:20221109T183000-meet-n-dine-2@cssz.ch
 SEQUENCE:0
 STATUS:CONFIRMED
-DTSTAMP:20221003T000000
+DTSTAMP:20221109T000000
 DTSTART:20221109T183000
 DTEND:20221109T220000
 LOCATION:University of Zurich, KOL-K-Küche
@@ -276,16 +263,16 @@ URL:https://cssz.ch/events/meet-n-dine-2/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
-SUMMARY:Dinner with 🥘 Meet'n'Dine
-DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/meet-n-dine/\n<strong>Location:</strong> <a href="https://goo.gl/maps/1JsoL81FCVowCDFi6" target="_blank" rel="noopener">Bächlerstrasse 44</a>\n<strong>Coordinator:</strong> Juraj Mičko (<a class="link" href="mailto:juraj.micko@cssz.ch" target="_blank" rel="noopener">juraj.micko@cssz.ch</a>, <a class="link" href="tel:&#43;41762639679">+41762639679</a>)\n<strong>Registration:</strong> <a href="https://www.eventbrite.co.uk/e/meetndine-registration-205679010457" target="_blank" rel="noopener">Eventbrite</a>\n\nCSSZ and Meet&rsquo;n&rsquo;Dine invite you to a casual dinner with fellow students in the cosy environment of a student flat. Come join us and feel free to bring a friend! We&rsquo;ll be cooking Chinese Chicken and Broccoli Recipe. What is Meet&rsquo;n&rsquo;Dine? Meet&rsquo;n&rsquo;Dine brings people together to: socialise feed ourselves relax from school and real life learn new recipes get inspired about how others live their lives (optionally) discuss hard questions in life Who The group consists of mostly ETH (or UZH) students, but don&rsquo;t hesitate to reach out if you don&rsquo;t feel like a student and would still like to join.
-UID:20220602T183000-meet-n-dine@cssz.ch
+SUMMARY:Hike 🥾 from Uetliberg to Thalwil
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/hike-uetliberg-thalwil/\n<strong>Location:</strong> <a href="https://goo.gl/maps/LAgraK7pxk82yfbe7" target="_blank" rel="noopener">Zurich Triemli</a>\n<strong>Coordinator:</strong> Emma Hubeková (<a class="link" href="mailto:emma.hubekova@cssz.ch" target="_blank" rel="noopener">emma.hubekova@cssz.ch</a>, <a class="link" href="tel:&#43;421949776209">+421 949 776 209</a>), Vu Nguyen (<a class="link" href="mailto:vu.nguyen@cssz.ch" target="_blank" rel="noopener">vu.nguyen@cssz.ch</a>, <a class="link" href="tel:&#43;41762800264">+41762800264</a>)\n<strong>Registration:</strong> <a href="https://docs.google.com/forms/d/e/1FAIpQLSfL6-gjaGNdOr1Ijl3vDFkh4wXbmOZ_qGM2vC5ujJOXwTFfCA/viewform" target="_blank" rel="noopener">Google Form</a>\n\n<p>Thank You everyone for joining us! You can see some photos from the hike below or the album <a class="link" href="https://photos.app.goo.gl/5VGVbvPTzKh7zBF26" target="_blank" rel="noopener">here!</a></p> <picture class="img" style="background: url(data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAIAAACgpqunAAACw0lEQVR4nATA6XLbRAAAYO2hlSxZhx3JtuxcTaFMp/QReIe&#43;J4/BP37AwGQmQEKOSeLYsaxbq9We/fDvv/3q2UBLgW3fsYGyYNUNmlV51Xy5THcUFx29yhZAK8ZBFCXbl&#43;u67xRy6chxnufS6M8fPu2q&#43;tgUV9nqNEYabrLFQg5V0w8tFS9F6QLlYv2WV2GcLKf2jtkW7KFleMNAz3QQpgMdb5&#43;3jELBmGLV/XMxwyaL3e5Yv&#43;XtvlMI4FpPpZu6uuZ9A6ezNAqnZdMELjqLI2LAnzf7sZXEIf76apVGfBSW0NgGyOBhGG748g&#43;6lsRfp1P07dsvXOGL7LwstmXfAWgV1SjjwNH0FvzEDDkNjR0ECBBsu57jAla9eV8NO2Y&#43;gpGDIS/KrkqXl/OJNQ/c2dx//O9ZAxwScy0&#43;NCM65HkU&#43;GmyoJa79tAXeEuSr75/AnsmBYBFvdsfng4dxdgQzyWeM9Bxo1&#43;xGg4qAlpu3wve5kRRjexQFj3X/7I5RG5oGcvH6v7pf2gJqQzXxolnFgkIr&#43;agzMdgM/EsDDVy4tDnY4WA&#43;Wg9RPQahi7wCDg0XRL6Xpgc&#43;/E8CVwSlD3vhcjUa&#43;Vn7XS9mSdMmF7i&#43;7w61BVk27KtoTBm4oWhF12e/kBIPAjUM6kkhUa/dyIx7wu1uzYfgZHZPNFcDW2/PRyQHa/mG8g1WK9&#43;XJ2skBsDDU/TNbFJWVWdJmfLrBjUpb4TyL8Ti&#43;r4VNVPMw9bcmzp6E&#43;X2AZcKQEAHIvHCQn42DTSPj89pwO925dNpy5NuZrnj/iTkmCG&#43;DLQKvC5EA&#43;vDxhZZpRiFqdYThppjl0Tee5oFAT8n4JPEGoFvxhvkM229kUZrHxTb&#43;De6V/avsbG0gOn9Y7F0yBCHCN34pA0jPaWPqO0Zxo4M6ybz&#43;rvE7hrrGAP1n&#43;ZnzNntjp5&#43;B4AAP//foOuTpjQ1FQAAAAASUVORK5CYII=); background-size: cover; display: inline;">             <source srcset='/images/events/2022-10-15-hike-uetliberg-thalwil/trail_map_hu79bbd9667dfae221b358b4dc86dacb9b_1535692_2a6532d4a6d16d1a3787a839eaef690f.webp 282w, /images/events/2022-10-15-hike-uetliberg-thalwil/trail_map_hu79bbd9667dfae221b358b4dc86dacb9b_1535692_9f7a8f36701a550ef29de3f6b8ffc4e5.webp 564w'                     sizes="(max-width: 282px) 100vw, 282px"                     type="image/webp"             /><source srcset='/images/events/2022-10-15-hike-uetliberg-thalwil/trail_map_hu79bbd9667dfae221b358b4dc86dacb9b_1535692_c109f26a841341a196aa845625b743f2.jpg 282w, /images/events/2022-10-15-hike-uetliberg-thalwil/trail_map_hu79bbd9667dfae221b358b4dc86dacb9b_1535692_04824e38f1ba7a58d659e418090b2f38.jpg 564w'                     sizes="(max-width: 282px) 100vw, 282px"                     type="image/jpeg"             /><img src="/images/events/2022-10-15-hike-uetliberg-thalwil/trail_map_hu79bbd9667dfae221b358b4dc86dacb9b_1535692_c109f26a841341a196aa845625b743f2.jpg"                  width="282"                  height="200"                                                                                     /></picture> <picture class="img" style="background: url(data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIAA8AFAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5&#43;gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4&#43;Tl5ufo6ery8/T19vf4&#43;fr/2gAMAwEAAhEDEQA/AOnuPifZXFpJc2cF&#43;pQgfMqruz7E1JY/E3QvLMs0t&#43;WIx89twv5GuJ0k2mtzT3MiLb2aymKGKJcZIwNx79c8ewNaUvgrT5Dn7RcZBGMuT06cZ7Vy0cVKon0sauC0sdN/wsXQZCWEs4yejQMCKX/hYWhf89Zf&#43;/DVzf8Awi0WBicnAx1/&#43;tR/wi0X/PY/99f/AFq09tV7In2Z/9k=); background-size: cover; display: inline;">             <source srcset='/images/events/2022-10-15-hike-uetliberg-thalwil/everyone_hub38a0cdffd2d0a1f43e04d5afb46b732_374299_bee89809f39f6c0162266a8e90b65253.webp 267w, /images/events/2022-10-15-hike-uetliberg-thalwil/everyone_hub38a0cdffd2d0a1f43e04d5afb46b732_374299_4f57732f62ae5f0af0b9e511e6286960.webp 534w'                     sizes="(max-width: 267px) 100vw, 267px"                     type="image/webp"             /><source srcset='/images/events/2022-10-15-hike-uetliberg-thalwil/everyone_hub38a0cdffd2d0a1f43e04d5afb46b732_374299_4bafc6461de36331096ce71d04a2efb8.jpeg 267w, /images/events/2022-10-15-hike-uetliberg-thalwil/everyone_hub38a0cdffd2d0a1f43e04d5afb46b732_374299_63f4750a04e82558a4cf2e67c2248290.jpeg 534w'                     sizes="(max-width: 267px) 100vw, 267px"                     type="image/jpeg"             /><img src="/images/events/2022-10-15-hike-uetliberg-thalwil/everyone_hub38a0cdffd2d0a1f43e04d5afb46b732_374299_4bafc6461de36331096ce71d04a2efb8.jpeg"                  width="267"                  height="200"                                                                                     /></picture> <picture class="img" style="background: url(data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIAA8AFAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5&#43;gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4&#43;Tl5ufo6ery8/T19vf4&#43;fr/2gAMAwEAAhEDEQA/AI/BfieVLC4e5jkmcMoLeaR0XHAA/nXRv44nRcRRzbBztaTBNeX6lM1pbI0M8tmrPhkix82ep&#43;tZtyGWB2iv75pMZAMmM/lUKvKxq8Prud5rPxGvIrxVhCxLsBx1ycnnms//AIWVqP8Az0X/AL5Fc5bx27QhmXex5ZnXJJqXybb/AJ5R/wDfAqHXkWsOf//Z); background-size: cover; display: inline;">             <source srcset='/images/events/2022-10-15-hike-uetliberg-thalwil/view_hu96a5ab8e0364e843af4687201b687892_372435_d1d1ccd99b0143232102ebe0a113d2a5.webp 267w, /images/events/2022-10-15-hike-uetliberg-thalwil/view_hu96a5ab8e0364e843af4687201b687892_372435_522e98762864007230c884ed86848f18.webp 534w'                     sizes="(max-width: 267px) 100vw, 267px"                     type="image/webp"             /><source srcset='/images/events/2022-10-15-hike-uetliberg-thalwil/view_hu96a5ab8e0364e843af4687201b687892_372435_b917e3442cb9a2ff394f9284c2275bfa.jpeg 267w, /images/events/2022-10-15-hike-uetliberg-thalwil/view_hu96a5ab8e0364e843af4687201b687892_372435_5b2293d3ef2efb897b0de8bcc6032137.jpeg 534w'                     sizes="(max-width: 267px) 100vw, 267px"                     type="image/jpeg"             /><img src="/images/events/2022-10-15-hike-uetliberg-thalwil/view_hu96a5ab8e0364e843af4687201b687892_372435_b917e3442cb9a2ff394f9284c2275bfa.jpeg"                  width="267"                  height="200"                                                                                     /></picture> <picture class="img" style="background: url(data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIABsAFAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5&#43;gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4&#43;Tl5ufo6ery8/T19vf4&#43;fr/2gAMAwEAAhEDEQA/ALd/dI2qSray7o0JVXViQRznOfbg0ulGJ9ahguJJPJmcAiHllODxjuDxx7VzfifVrK18Q3E9qmFaMMdrHYWPVlz0&#43;lGn6nvntLiUsYfMQMcdAxA5ODjr&#43;lS3JPQZ6zd3KW03lW9w8EKqNqJ5fp1Oe&#43;c1B/aL/wDQQn/8h1y2sapY2uovBZLJJCgABQtjPfoPXn8az/7cT/nhP/5E/wAKvmDQ4zxpI9zcWb3En&#43;kSwLuxG0fCkjAB6enrx9Km07UntPDs1k7sJxuYRiPrjaVZj7bcYx61xzXU920ElxK0j4K7m64HQVYiJRX2nBMfUfWpFc9Z1HxhawXCva6lahZ0Ezh4huDHscn0xVT/AITn/qJ2X/fpa80YB5H3DOGIHsKTy0/uiocguf/Z); background-size: cover; display: inline;">             <source srcset='/images/events/2022-10-15-hike-uetliberg-thalwil/spider_hu96a5ab8e0364e843af4687201b687892_231685_92599b22f8b3e86a48434daa2cb6b56a.webp 150w, /images/events/2022-10-15-hike-uetliberg-thalwil/spider_hu96a5ab8e0364e843af4687201b687892_231685_2433b72ab6b14038dad9e1fbdf17388b.webp 300w'                     sizes="(max-width: 150px) 100vw, 150px"                     type="image/webp"             /><source srcset='/images/events/2022-10-15-hike-uetliberg-thalwil/spider_hu96a5ab8e0364e843af4687201b687892_231685_3117879a747348a1fd46072a70cafd09.jpeg 150w, /images/events/2022-10-15-hike-uetliberg-thalwil/spider_hu96a5ab8e0364e843af4687201b687892_231685_c303271a68a46a7137e951aed75b7e09.jpeg 300w'                     sizes="(max-width: 150px) 100vw, 150px"                     type="image/jpeg"             /><img src="/images/events/2022-10-15-hike-uetliberg-thalwil/spider_hu96a5ab8e0364e843af4687201b687892_231685_3117879a747348a1fd46072a70cafd09.jpeg"                  width="150"                  height="200"                                                                                     /></picture> <p><a class="link" href="https://photos.app.goo.gl/5VGVbvPTzKh7zBF26" target="_blank" rel="noopener">See more photos from the trip here!</a></p> <hr> <p>CSSZ invites you and your friends to join the first CSSZ trip of the Autumn Semester 2022.</p> <p>We&rsquo;ll meet at the tram stop <em>Triemli</em> at 9:30 a.m. and start our trip in the direction to Uetliberg, continuing to Thalwil. There we&rsquo;ll take the <em>Ship 3731 29</em> to get back to <em>Zürich Bürkliplatz (See)</em>. Expected duration of this hike with T1 level is 5:30 h.</p> <p><strong>Total distance:</strong> 19 km  <strong>Expected duration:</strong> 5:30 h  <strong>Uphill/downhill:</strong> 570 m</p>
+UID:20221015T093000-hike-uetliberg-thalwil@cssz.ch
 SEQUENCE:0
 STATUS:CONFIRMED
-DTSTAMP:20220531T000000
-DTSTART:20220602T183000
-DTEND:20220602T213000
-LOCATION;ALTREP="https://goo.gl/maps/1JsoL81FCVowCDFi6":Bächlerstrasse 44
-URL:https://cssz.ch/events/meet-n-dine/
+DTSTAMP:20221015T000000
+DTSTART:20221015T093000
+DTEND:20221015T163000
+LOCATION;ALTREP="https://goo.gl/maps/LAgraK7pxk82yfbe7":Zurich Triemli
+URL:https://cssz.ch/events/hike-uetliberg-thalwil/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
@@ -294,11 +281,24 @@ DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/hike-in-appen
 UID:20220605T073000-hike-in-appenzeller-alps@cssz.ch
 SEQUENCE:0
 STATUS:CONFIRMED
-DTSTAMP:20220526T000000
+DTSTAMP:20220605T000000
 DTSTART:20220605T073000
 DTEND:20220605T170000
 LOCATION;ALTREP="https://goo.gl/maps/bXk47LqsMqYxy4Te9":Amden
 URL:https://cssz.ch/events/hike-in-appenzeller-alps/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Dinner with 🥘 Meet'n'Dine
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/meet-n-dine/\n<strong>Location:</strong> <a href="https://goo.gl/maps/1JsoL81FCVowCDFi6" target="_blank" rel="noopener">Bächlerstrasse 44</a>\n<strong>Coordinator:</strong> Juraj Mičko (<a class="link" href="mailto:juraj.micko@cssz.ch" target="_blank" rel="noopener">juraj.micko@cssz.ch</a>, <a class="link" href="tel:&#43;41762639679">+41762639679</a>)\n<strong>Registration:</strong> <a href="https://www.eventbrite.co.uk/e/meetndine-registration-205679010457" target="_blank" rel="noopener">Eventbrite</a>\n\nCSSZ and Meet&rsquo;n&rsquo;Dine invite you to a casual dinner with fellow students in the cosy environment of a student flat. Come join us and feel free to bring a friend! We&rsquo;ll be cooking Chinese Chicken and Broccoli Recipe. What is Meet&rsquo;n&rsquo;Dine? Meet&rsquo;n&rsquo;Dine brings people together to: socialise feed ourselves relax from school and real life learn new recipes get inspired about how others live their lives (optionally) discuss hard questions in life Who The group consists of mostly ETH (or UZH) students, but don&rsquo;t hesitate to reach out if you don&rsquo;t feel like a student and would still like to join.
+UID:20220602T183000-meet-n-dine@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20220602T000000
+DTSTART:20220602T183000
+DTEND:20220602T213000
+LOCATION;ALTREP="https://goo.gl/maps/1JsoL81FCVowCDFi6":Bächlerstrasse 44
+URL:https://cssz.ch/events/meet-n-dine/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
@@ -307,7 +307,7 @@ DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/grill-welcome
 UID:20220520T170000-grill-welcome-event@cssz.ch
 SEQUENCE:0
 STATUS:CONFIRMED
-DTSTAMP:20220502T000000
+DTSTAMP:20220520T000000
 DTSTART:20220520T170000
 DTEND:20220520T210000
 LOCATION;ALTREP="https://www.google.cz/maps/place/Grillstell+mit+Rost+und+Wiitsicht/@47.4017454,8.5088289,813m/data=!3m1!1e3!4m5!3m4!1s0x47900bf1d1599e21:0x120905caab0befa3!8m2!3d47.4017454!4d8.5104489":Käferberg Grillstelle

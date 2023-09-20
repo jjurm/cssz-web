@@ -1,101 +1,119 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
-        <loc>https://cssz.ch/semesters/</loc>
-        <lastmod>2023-09-20T16:27:29-04:00</lastmod>
+        <loc>https://cssz.ch/semesters/2025-autumn/</loc>
+        <lastmod>2023-09-20T18:17:12-04:00</lastmod>
+    </url><url>
+        <loc>https://cssz.ch/semesters/2025-spring/</loc>
+        <lastmod>2023-09-20T18:17:12-04:00</lastmod>
+    </url><url>
+        <loc>https://cssz.ch/semesters/2024-autumn/</loc>
+        <lastmod>2023-09-20T18:17:12-04:00</lastmod>
+    </url><url>
+        <loc>https://cssz.ch/semesters/2024-spring/</loc>
+        <lastmod>2023-09-20T18:17:12-04:00</lastmod>
     </url><url>
         <loc>https://cssz.ch/events/swiss-ice-hockey-games/</loc>
-        <lastmod>2023-09-20T16:27:29-04:00</lastmod>
+        <lastmod>2023-09-20T18:17:12-04:00</lastmod>
     </url><url>
         <loc>https://cssz.ch/events/cold-water-dipping-katzensee/</loc>
-        <lastmod>2023-09-18T17:02:27-04:00</lastmod>
+        <lastmod>2023-09-20T18:17:12-04:00</lastmod>
     </url><url>
         <loc>https://cssz.ch/events/movie-night-general-meeting/</loc>
-        <lastmod>2023-09-18T17:02:27-04:00</lastmod>
+        <lastmod>2023-09-20T18:17:12-04:00</lastmod>
     </url><url>
         <loc>https://cssz.ch/events/meetndine-autumn23/</loc>
-        <lastmod>2023-09-18T17:02:27-04:00</lastmod>
+        <lastmod>2023-09-20T18:17:12-04:00</lastmod>
     </url><url>
         <loc>https://cssz.ch/events/welcome-event-autumn23/</loc>
-        <lastmod>2023-09-19T13:49:34-04:00</lastmod>
+        <lastmod>2023-09-20T18:17:12-04:00</lastmod>
     </url><url>
         <loc>https://cssz.ch/events/uzh-activity-fair/</loc>
-        <lastmod>2023-09-18T17:02:27-04:00</lastmod>
+        <lastmod>2023-09-20T18:17:12-04:00</lastmod>
+    </url><url>
+        <loc>https://cssz.ch/semesters/2023-autumn/</loc>
+        <lastmod>2023-09-20T18:17:12-04:00</lastmod>
     </url><url>
         <loc>https://cssz.ch/posts/</loc>
-        <lastmod>2023-09-18T17:02:27-04:00</lastmod>
+        <lastmod>2023-09-20T18:17:12-04:00</lastmod>
     </url><url>
         <loc>https://cssz.ch/posts/welcome-to-autumn23/</loc>
-        <lastmod>2023-09-18T17:02:27-04:00</lastmod>
+        <lastmod>2023-09-20T18:17:12-04:00</lastmod>
     </url><url>
         <loc>https://cssz.ch/cometx-annual-symposium/</loc>
-        <lastmod>2023-09-18T17:02:27-04:00</lastmod>
+        <lastmod>2023-09-20T18:17:12-04:00</lastmod>
     </url><url>
         <loc>https://cssz.ch/events/semester-end-grill/</loc>
-        <lastmod>2023-05-30T19:02:09+02:00</lastmod>
+        <lastmod>2023-09-20T18:17:12-04:00</lastmod>
     </url><url>
         <loc>https://cssz.ch/events/general-meeting-fs23/</loc>
-        <lastmod>2023-05-26T14:42:01+02:00</lastmod>
+        <lastmod>2023-09-20T18:17:12-04:00</lastmod>
+    </url><url>
+        <loc>https://cssz.ch/events/cambridge-zurich-exchange/</loc>
+        <lastmod>2023-09-20T18:17:12-04:00</lastmod>
+    </url><url>
+        <loc>https://cssz.ch/events/goldau-hike/</loc>
+        <lastmod>2023-09-20T18:17:12-04:00</lastmod>
     </url><url>
         <loc>https://cssz.ch/room-sharing/</loc>
         <lastmod>2023-05-02T02:07:27+02:00</lastmod>
     </url><url>
-        <loc>https://cssz.ch/events/goldau-hike/</loc>
-        <lastmod>2023-05-02T02:07:27+02:00</lastmod>
-    </url><url>
         <loc>https://cssz.ch/posts/unimak-webinar/</loc>
-        <lastmod>2023-04-22T16:39:13+02:00</lastmod>
-    </url><url>
-        <loc>https://cssz.ch/events/wine-tasting/</loc>
-        <lastmod>2023-03-18T01:56:02+01:00</lastmod>
-    </url><url>
-        <loc>https://cssz.ch/events/cambridge-zurich-exchange/</loc>
-        <lastmod>2023-05-17T13:27:10+02:00</lastmod>
+        <lastmod>2023-09-20T18:17:12-04:00</lastmod>
     </url><url>
         <loc>https://cssz.ch/events/pub-quiz/</loc>
-        <lastmod>2023-03-22T10:26:40+01:00</lastmod>
+        <lastmod>2023-09-20T18:17:12-04:00</lastmod>
     </url><url>
-        <loc>https://cssz.ch/events/spring-23-bqm/</loc>
-        <lastmod>2023-02-21T20:33:11+01:00</lastmod>
+        <loc>https://cssz.ch/events/wine-tasting/</loc>
+        <lastmod>2023-09-20T18:17:12-04:00</lastmod>
     </url><url>
         <loc>https://cssz.ch/events/ski-trip-meiringen/</loc>
-        <lastmod>2023-02-21T14:27:51+01:00</lastmod>
+        <lastmod>2023-09-20T18:17:12-04:00</lastmod>
+    </url><url>
+        <loc>https://cssz.ch/events/spring-23-bqm/</loc>
+        <lastmod>2023-09-20T18:17:12-04:00</lastmod>
+    </url><url>
+        <loc>https://cssz.ch/semesters/2023-spring/</loc>
+        <lastmod>2023-09-20T18:17:12-04:00</lastmod>
     </url><url>
         <loc>https://cssz.ch/events/cookies/</loc>
-        <lastmod>2023-03-22T10:26:40+01:00</lastmod>
+        <lastmod>2023-09-20T18:17:12-04:00</lastmod>
     </url><url>
         <loc>https://cssz.ch/events/semester-meet-up-hs22/</loc>
-        <lastmod>2022-11-21T17:12:03+01:00</lastmod>
-    </url><url>
-        <loc>https://cssz.ch/events/hike-uetliberg-thalwil/</loc>
-        <lastmod>2022-10-17T14:41:09+02:00</lastmod>
+        <lastmod>2023-09-20T18:17:12-04:00</lastmod>
     </url><url>
         <loc>https://cssz.ch/events/meet-n-dine-2/</loc>
-        <lastmod>2022-11-07T21:44:03+01:00</lastmod>
+        <lastmod>2023-09-20T18:17:12-04:00</lastmod>
     </url><url>
-        <loc>https://cssz.ch/events/meet-n-dine/</loc>
-        <lastmod>2022-06-03T11:08:22+02:00</lastmod>
+        <loc>https://cssz.ch/events/hike-uetliberg-thalwil/</loc>
+        <lastmod>2023-09-20T18:17:12-04:00</lastmod>
+    </url><url>
+        <loc>https://cssz.ch/semesters/2022-autumn/</loc>
+        <lastmod>2023-09-20T18:17:12-04:00</lastmod>
     </url><url>
         <loc>https://cssz.ch/events/hike-in-appenzeller-alps/</loc>
-        <lastmod>2022-06-07T09:47:27+01:00</lastmod>
+        <lastmod>2023-09-20T18:17:12-04:00</lastmod>
     </url><url>
-        <loc>https://cssz.ch/posts/meeting-the-president/</loc>
-        <lastmod>2023-09-07T00:29:59-04:00</lastmod>
+        <loc>https://cssz.ch/events/meet-n-dine/</loc>
+        <lastmod>2023-09-20T18:17:12-04:00</lastmod>
     </url><url>
         <loc>https://cssz.ch/events/grill-welcome-event/</loc>
-        <lastmod>2022-05-27T09:04:39+02:00</lastmod>
+        <lastmod>2023-09-20T18:17:12-04:00</lastmod>
+    </url><url>
+        <loc>https://cssz.ch/posts/meeting-the-president/</loc>
+        <lastmod>2023-09-20T18:17:12-04:00</lastmod>
     </url><url>
         <loc>https://cssz.ch/contact/</loc>
         <lastmod>2022-05-16T18:25:58+02:00</lastmod>
     </url><url>
         <loc>https://cssz.ch/posts/hello/</loc>
-        <lastmod>2022-05-21T14:45:38+02:00</lastmod>
+        <lastmod>2023-09-20T18:17:12-04:00</lastmod>
     </url><url>
         <loc>https://cssz.ch/about/</loc>
         <lastmod>2023-05-31T09:19:28+02:00</lastmod>
     </url><url>
-        <loc>https://cssz.ch/semesters/autumn-2023/</loc>
-        <lastmod>2023-09-18T17:02:18-04:00</lastmod>
+        <loc>https://cssz.ch/semesters/2022-spring/</loc>
+        <lastmod>2023-09-20T18:17:12-04:00</lastmod>
     </url><url>
         <loc>https://cssz.ch/</loc>
         <lastmod>2023-05-31T09:19:28+02:00</lastmod>
@@ -105,6 +123,9 @@
     </url><url>
         <loc>https://cssz.ch/search/</loc>
         <lastmod>2022-05-16T18:25:58+02:00</lastmod>
+    </url><url>
+        <loc>https://cssz.ch/semesters/</loc>
+        <lastmod>2023-09-20T18:17:12-04:00</lastmod>
     </url><url>
         <loc>https://cssz.ch/statutes/</loc>
         <lastmod>2022-08-11T19:57:57+02:00</lastmod>
