@@ -30,7 +30,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
 SUMMARY:SWISS Ice Hockey Games 🏒 (SUI vs CZE)
-DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/swiss-ice-hockey-games/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/KEacxidfHCJcEDXp9" target="_blank" rel="noopener">Swiss Life Arena</a>\n<strong>Coordinator:</strong> Radim Urban (<a class="link" href="mailto:radim.urban@cssz.ch" target="_blank" rel="noopener">radim.urban@cssz.ch</a>), Aleš Kubiček (<a class="link" href="mailto:ales.kubicek@cssz.ch" target="_blank" rel="noopener">ales.kubicek@cssz.ch</a>)\n\nGet ready for an exhilarating evening of ice hockey as we come together to support Czechia in a showdown against Switzerland in the SWISS Ice Hockey Games (EuroHockey Tour). The action-packed day includes not just the Switzerland vs. Czechia match but also an exciting clash between Finland and Sweden, all included in your ticket. So, make the most of your day at the rink! Ticket Purchase: You can buy your tickets here (ticketmaster).
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/swiss-ice-hockey-games/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/KEacxidfHCJcEDXp9" target="_blank" rel="noopener">Swiss Life Arena</a>\n<strong>Coordinator:</strong> Radim Urban (<a class="link" href="mailto:radim.urban@cssz.ch" target="_blank" rel="noopener">radim.urban@cssz.ch</a>), Aleš Kubiček (<a class="link" href="mailto:ales.kubicek@cssz.ch" target="_blank" rel="noopener">ales.kubicek@cssz.ch</a>)\n\nTicket Purchase: You can buy your tickets here (ticketmaster). We recommend the student-friendly priced tickets (35 CHF) available in sector H (standing). Tickets also include an earlier match Finland vs. Sweden (day ticket). To join us for this event, simply purchase your ticket and meet us at the Swiss Life Arena on December 16th. It&rsquo;s a great opportunity to connect with fellow Czech and Slovak students, cheer for your favorite team, and experience the thrill of live ice hockey.
 UID:20231216T180000-swiss-ice-hockey-games@cssz.ch
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -78,6 +78,19 @@ DTSTART:20231020T183000
 DTEND:20231020T220000
 LOCATION;ALTREP="https://maps.app.goo.gl/WpyMr8Uv8sHp9nEg9":University of Zurich, KOL-K-Küche
 URL:https://cssz.ch/events/meetndine-autumn23/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Hike in Stoos ⛰️
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/hike-in-stoos/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/PW8tQGxUkJ3ExpRn8" target="_blank" rel="noopener">Stoos</a>\n<strong>Coordinator:</strong> Aleš Kubiček (<a class="link" href="mailto:ales.kubicek@cssz.ch" target="_blank" rel="noopener">ales.kubicek@cssz.ch</a>), Emma Hubeková (<a class="link" href="mailto:emma.hubekova@cssz.ch" target="_blank" rel="noopener">emma.hubekova@cssz.ch</a>, <a class="link" href="tel:&#43;421949776209">+421 949 776 209</a>)\n<strong>Registration:</strong> <a href="https://forms.gle/EQH61naNDfpu3JAi7" target="_blank" rel="noopener">Google Form</a>\n<strong>Notes:</strong>\n• Details can still change based on the weather forecast.\n\n<p>CSSZ invites you and your friends to join a trip to the beautiful Swiss mountains around Stoos, which is planned for Saturday, 07.10.2023.</p> <dl> <dt><strong>Connection</strong></dt> <dd><ul> <li><strong>There:</strong> 8:33-10:17 (Zurich HB → Stoos SZ)</li> <li><strong>Back:</strong> based on our actual hiking time</li> </ul> </dd> <dt><strong>Planned route</strong></dt> <dd><ul> <li>Stoos (Stoosbahn)</li> <li>Klingenstock</li> <li>Huser Stock</li> <li>(Fronalpstock)</li> <li>Stoos (Stoosbahn)</li> </ul> </dd> </dl> <p><strong>Total distance:</strong> 12.9km  <strong>Expected duration:</strong> 5-6h  <strong>Uphill/downhill:</strong> 730m  <strong>Difficulty:</strong> Sportier - definitely have good shoes / clothes and a relatively good physique.</p> <p>The cable car ascending to Stoos, known as the <a class="link" href="https://www.stoos.ch/en/stories/stoosbahnen" target="_blank" rel="noopener">Stoosbahn funicular</a>, holds the record as the steepest funicular railway in the world with a maximum gradient of 110%, offering breathtaking panoramic views of the majestic Swiss Alps and providing an unforgettable experience for visitors.</p>
+UID:20231007T083000-hike-in-stoos@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20231007T000000
+DTSTART:20231007T083000
+DTEND:20231007T180000
+LOCATION;ALTREP="https://maps.app.goo.gl/PW8tQGxUkJ3ExpRn8":Stoos
+URL:https://cssz.ch/events/hike-in-stoos/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="CSSZ":mailto:info@cssz.ch

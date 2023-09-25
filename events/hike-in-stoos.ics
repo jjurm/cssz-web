@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Czech and Slovak Students in Zurich//Events//EN
+URL:webcal://cssz.ch/events/hike-in-stoos.ics
+NAME:CSSZ Events
+X-WR-CALNAME:CSSZ Events
+X-WR-CALDESC:
+X-WR-TIMEZONE:Europe/Zurich
+X-PUBLISHED-TTL:PT6H
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-LIC-LOCATION:Europe/Zurich
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Hike in Stoos ⛰️
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/hike-in-stoos/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/PW8tQGxUkJ3ExpRn8" target="_blank" rel="noopener">Stoos</a>\n<strong>Coordinator:</strong> Aleš Kubiček (<a class="link" href="mailto:ales.kubicek@cssz.ch" target="_blank" rel="noopener">ales.kubicek@cssz.ch</a>), Emma Hubeková (<a class="link" href="mailto:emma.hubekova@cssz.ch" target="_blank" rel="noopener">emma.hubekova@cssz.ch</a>, <a class="link" href="tel:&#43;421949776209">+421 949 776 209</a>)\n<strong>Registration:</strong> <a href="https://forms.gle/EQH61naNDfpu3JAi7" target="_blank" rel="noopener">Google Form</a>\n<strong>Notes:</strong>\n• Details can still change based on the weather forecast.\n\n<p>CSSZ invites you and your friends to join a trip to the beautiful Swiss mountains around Stoos, which is planned for Saturday, 07.10.2023.</p> <dl> <dt><strong>Connection</strong></dt> <dd><ul> <li><strong>There:</strong> 8:33-10:17 (Zurich HB → Stoos SZ)</li> <li><strong>Back:</strong> based on our actual hiking time</li> </ul> </dd> <dt><strong>Planned route</strong></dt> <dd><ul> <li>Stoos (Stoosbahn)</li> <li>Klingenstock</li> <li>Huser Stock</li> <li>(Fronalpstock)</li> <li>Stoos (Stoosbahn)</li> </ul> </dd> </dl> <p><strong>Total distance:</strong> 12.9km  <strong>Expected duration:</strong> 5-6h  <strong>Uphill/downhill:</strong> 730m  <strong>Difficulty:</strong> Sportier - definitely have good shoes / clothes and a relatively good physique.</p> <p>The cable car ascending to Stoos, known as the <a class="link" href="https://www.stoos.ch/en/stories/stoosbahnen" target="_blank" rel="noopener">Stoosbahn funicular</a>, holds the record as the steepest funicular railway in the world with a maximum gradient of 110%, offering breathtaking panoramic views of the majestic Swiss Alps and providing an unforgettable experience for visitors.</p>
+UID:20231007T083000-hike-in-stoos@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20231007T000000
+DTSTART:20231007T083000
+DTEND:20231007T180000
+LOCATION;ALTREP="https://maps.app.goo.gl/PW8tQGxUkJ3ExpRn8":Stoos
+URL:https://cssz.ch/events/hike-in-stoos/
+END:VEVENT
+
+END:VCALENDAR
+
