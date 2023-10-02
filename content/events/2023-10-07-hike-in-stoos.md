@@ -4,7 +4,6 @@ description: |
   A semester trip to the beautiful Swiss mountains around Stoos.
 image: images/events/2023-10-07-hike-in-stoos/stoos.jpeg
 semesters: 2023-autumn
-hidden_on_homepage: true
 
 event_details:
   date_start: 2023-10-07T08:30:00
