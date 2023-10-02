@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Czech and Slovak Students in Zurich//Events//EN
+URL:webcal://cssz.ch/events/pub-quiz-autumn23-1.ics
+NAME:CSSZ Events
+X-WR-CALNAME:CSSZ Events
+X-WR-CALDESC:
+X-WR-TIMEZONE:Europe/Zurich
+X-PUBLISHED-TTL:PT6H
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-LIC-LOCATION:Europe/Zurich
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Pub Quiz 💡
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/pub-quiz-autumn23-1/\n<strong>Location:</strong> <a href="https://goo.gl/maps/v75ZzHko9jK8pfGG6" target="_blank" rel="noopener">Oliver Twist Pub</a>\n<strong>Coordinator:</strong> Zdeněk Šnajdr (<a class="link" href="mailto:zdenek.snajdr@cssz.ch" target="_blank" rel="noopener">zdenek.snajdr@cssz.ch</a>, <a class="link" href="tel:&#43;41762254840">+41762254840</a>)\n<strong>Registration:</strong> <a href="https://forms.gle/hW3eTJUBdJS137117" target="_blank" rel="noopener">Register Here!</a>\n\n🎉 Get ready for a brain-teasing, laughter-filled night of fun! Join us for this semester&rsquo;s first Pub Quiz on October 2nd at the one and only Oliver Twist Pub in Zurich! 🍻 🏆 Put your knowledge to the test and compete with friends or make new ones as you tackle a wide range of exciting and diverse questions. From pop culture and history to sports and general knowledge, there&rsquo;s something for everyone.
+UID:20231002T183000-pub-quiz-autumn23-1@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20231002T000000
+DTSTART:20231002T183000
+DTEND:20231002T223000
+LOCATION;ALTREP="https://goo.gl/maps/v75ZzHko9jK8pfGG6":Oliver Twist Pub
+URL:https://cssz.ch/events/pub-quiz-autumn23-1/
+END:VEVENT
+
+END:VCALENDAR
+
