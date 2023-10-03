@@ -4,7 +4,6 @@ description: |
   Join a cultural dinner with fellow students. We'll be cooking Plněné knedlíky uzeným se zelím, a traditional Czech dish.
 image: images/events/2023-10-20-meetndine-autumn23/knedliky.jpeg
 semesters: 2023-autumn
-hidden_on_homepage: true
 
 event_details:
   date_start: 2023-10-20T18:30:00
