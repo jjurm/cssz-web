@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Czech and Slovak Students in Zurich//Events//EN
+URL:webcal://cssz.ch/events/ski-day-grindelwald.ics
+NAME:CSSZ Events
+X-WR-CALNAME:CSSZ Events
+X-WR-CALDESC:
+X-WR-TIMEZONE:Europe/Zurich
+X-PUBLISHED-TTL:PT6H
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-LIC-LOCATION:Europe/Zurich
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Ski Day in the Jungfrau Region ⛷️ (in planning)
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/ski-day-grindelwald/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/up3LGyDZCfo4xbKd6" target="_blank" rel="noopener">Grindelwald/Wengen – Kleine Scheidegg/Männlichen</a>\n<strong>Coordinator:</strong> Juraj Mičko (<a class="link" href="mailto:juraj.micko@cssz.ch" target="_blank" rel="noopener">juraj.micko@cssz.ch</a>, <a class="link" href="tel:&#43;41762639679">+41762639679</a>)\n<strong>Registration:</strong> <a href="https://forms.gle/SwsKcgK4yThtn1M8A" target="_blank" rel="noopener">Registration form</a>\n\nJoin us for a day of skiing in the beautiful Jungfrau region! We will ski in the Grindelwald/Wengen – Kleine Scheidegg/Männlichen area, the best and biggest ski resort in the Jungfrau region. Price: 75 CHF to be paid by 15.11.2023, includes only the skipass. With a group of &gt;=10 people we get a discount price and return you 9 CHF. Travel You need to book the travel yourself, individually. The following options are available (at the time of writing):
+UID:20231210T060000-ski-day-grindelwald@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20231203T000000
+DTSTART:20231210T060000
+DTEND:20231210T193000
+LOCATION;ALTREP="https://maps.app.goo.gl/up3LGyDZCfo4xbKd6":Grindelwald/Wengen – Kleine Scheidegg/Männlichen
+URL:https://cssz.ch/events/ski-day-grindelwald/
+END:VEVENT
+
+END:VCALENDAR
+
