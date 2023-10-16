@@ -2,7 +2,7 @@
 title: "Ski Day in the Jungfrau Region ⛷️ (in planning)"
 description: |
   Join us for a day of skiing at the end of the Autumn Semester – secure your cheap tickets now!
-image: images/events/2023-12-03-ski-day-grindelwald/grindelwald_ski_map.jpeg
+image: images/events/2023-12-10-ski-day-grindelwald/grindelwald_ski_map.jpeg
 hidden: true
 
 event_details:
@@ -40,7 +40,6 @@ From Grindelwald to Zurich:
 {{< image asset="images/events/2023-12-10-ski-day-grindelwald/train2.png" class="mb-4" >}}
 
 
-
 ## How it works
 
 * Registration through the [Google form](https://forms.gle/SwsKcgK4yThtn1M8A) is open until 15.11.2023.
@@ -60,6 +59,18 @@ From Grindelwald to Zurich:
 Deadline: 15.11.2023
 
 [Let us know](mailto:info@cssz.ch) if you prefer another form of payment.
+
+
+## Maps
+
+{{< button link="https://www.jungfrau.ch/maps/winter/grindelwald-wengen/" label="Interactive map Grindelwald-Wengen" class="btn btn-secondary" >}}  
+{{< button link="https://www.bergfex.com/jungfrau-grindelwald-wengen/panorama/" label="Piste map Grindelwald-Wengen" class="btn btn-secondary" >}}
+
+Ski map:
+{{< image asset="images/events/2023-12-10-ski-day-grindelwald/grindelwald_ski_map.jpeg" >}}
+
+Terrain map:
+{{< image asset="images/events/2023-12-10-ski-day-grindelwald/grindelwald_map.png" class="mb-4" >}}
 
 
 ## Other
