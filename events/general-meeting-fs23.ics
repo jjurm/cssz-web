@@ -31,7 +31,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
 SUMMARY:General Meeting
-DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/general-meeting-fs23/\n<strong>Location:</strong> <a href="https://goo.gl/maps/FtCu7zEVgUQDtro58" target="_blank" rel="noopener">UZH KO2-G-275</a>\n<strong>Coordinator:</strong> Radim Urban (<a class="link" href="mailto:radim.urban@cssz.ch" target="_blank" rel="noopener">radim.urban@cssz.ch</a>)\n\nOn May 25th we will host a General Meeting (GM). We will look back at our activities this semester, discuss the direction the society should take and elect a new board. Vu Nguyen, who held the Finance &amp; Legal Matters position in the association, will be leaving the current board. In addition to this position, we want to open one new position and increase the number of members to 5.
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/general-meeting-fs23/\n<strong>Location:</strong> <a href="https://goo.gl/maps/FtCu7zEVgUQDtro58" target="_blank" rel="noopener">UZH KO2-G-275</a>\n<strong>Coordinator:</strong> Radim Urban (&lt;a class=&#34;link&#34; href=&#34;mailto:radim.urban@cssz.ch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;radim.urban@cssz.ch&lt;/a&gt;)\n\nOn May 25th we will host a General Meeting (GM). We will look back at our activities this semester, discuss the direction the society should take and elect a new board. Vu Nguyen, who held the Finance &amp; Legal Matters position in the association, will be leaving the current board. In addition to this position, we want to open one new position and increase the number of members to 5.
 UID:20230525T180000-general-meeting-fs23@cssz.ch
 SEQUENCE:0
 STATUS:CONFIRMED
