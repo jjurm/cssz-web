@@ -68,19 +68,6 @@ URL:https://cssz.ch/events/cold-water-dipping-katzensee/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
-SUMMARY:Movie Night 🎥 & General Meeting 📊
-DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/movie-night-general-meeting/\n<strong>Location:</strong> TBC\n<strong>Coordinator:</strong> Radim Urban (<a class="link" href="mailto:radim.urban@cssz.ch" target="_blank" rel="noopener">radim.urban@cssz.ch</a>)\n<strong>Registration:</strong> Google Form (provided soon)\n<strong>Notes:</strong>\n• UPDATE: This event will be <strong>postponed</strong> for scheduling complications. The updated time/place will be announced soon.\n\nCSSZ invites you to a General Meeting followed by a Movie night. General Meeting The General Meeting will take place from 19:00 until 20:00. If you have any points to discuss in the agenda, submit them in the registration form. Movie Night Starting at 20:00, we&rsquo;ll be watching the Czech movie Pelíšky with English subtitles. The movie is a comedy-drama set in the 1960s, depicting the life of two families during the time of the Prague Spring.
-UID:20231110T190000-movie-night-general-meeting@cssz.ch
-SEQUENCE:0
-STATUS:CONFIRMED
-DTSTAMP:20231110T000000
-DTSTART:20231110T190000
-DTEND:20231110T220000
-LOCATION:TBC
-URL:https://cssz.ch/events/movie-night-general-meeting/
-END:VEVENT
-BEGIN:VEVENT
-ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
 SUMMARY:Meet'n'Dine: Plněné knedlíky uzeným se zelím
 DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/meetndine-autumn23/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/WpyMr8Uv8sHp9nEg9" target="_blank" rel="noopener">University of Zurich, KOL-K-Küche</a>\n<strong>Coordinator:</strong> Timon Fopp (<a class="link" href="mailto:timon.fopp@cssz.ch" target="_blank" rel="noopener">timon.fopp@cssz.ch</a>, <a class="link" href="tel:&#43;41783309888">+41783309888</a>), Emma Hubeková (<a class="link" href="mailto:emma.hubekova@cssz.ch" target="_blank" rel="noopener">emma.hubekova@cssz.ch</a>, <a class="link" href="tel:&#43;421949776209">+421 949 776 209</a>), Radim Urban (<a class="link" href="mailto:radim.urban@cssz.ch" target="_blank" rel="noopener">radim.urban@cssz.ch</a>)\n<strong>Registration:</strong> <a href="https://forms.gle/f2VQB4x8ZwvFjTDg6" target="_blank" rel="noopener">Google form</a>\n<strong>Notes:</strong>\n• Registration is now open. Please pay the registration fee within 2 days. Signup available till the 17th of October. Later only upon request per email.\n\nCSSZ and Meet&rsquo;n&rsquo;Dine invite you to a casual dinner with fellow students! Come join us and bring a friend! We&rsquo;ll be cooking a traditional Czech dish: Plněné knedlíky uzeným se zelím (Stuffed dumplings with smoked cabbage). Please sign up in the google form provided above and pay the registration fee so that your sign up is definitive. The registration fee is 12 CHF for CSSZ members and 15 CHF for non-members.
 UID:20231020T183000-meetndine-autumn23@cssz.ch
