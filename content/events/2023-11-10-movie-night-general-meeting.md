@@ -16,6 +16,11 @@ event_details:
   registration:
     #link: ...
     text: Google Form (provided soon)
+  notes:
+    - alert_type: warning
+      icon: solid/info
+      text: |
+        UPDATE: This event will be **postponed** for scheduling complications. The updated time/place will be announced soon.
 ---
 
 CSSZ invites you to a General Meeting followed by a Movie night.
