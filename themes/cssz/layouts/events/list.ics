@@ -1,5 +1,7 @@
 {{- partial "event/components/header.ics" . -}}
-{{- range where (where .Pages "Kind" "page") "Section" "events" -}}
+{{- $events := where (where .Pages "Kind" "page") "Section" "events" -}}
+{{- $filtered := where (where $events "Params.hidden" "!=" true) "Params.hidden_in_calendar" "!=" true -}}
+{{- range $filtered -}}
   {{- partialCached "event/components/event.ics" . .RelPermalink -}}
 {{- end -}}
 {{- partial "event/components/footer.ics" . -}}
