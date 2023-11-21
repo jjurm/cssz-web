@@ -3,6 +3,7 @@ title: "Ski Day in the Jungfrau Region ⛷️"
 description: |
   Join us for a day of skiing at the end of the Autumn Semester – secure your cheap tickets now!
 image: images/events/2023-12-10-ski-day-grindelwald/grindelwald_ski_map.jpeg
+pubdate: 2023-11-08
 semesters: 2023-autumn
 
 event_details:
