@@ -2,13 +2,13 @@
 title: Movie Night 🎥 & General Meeting 📊 (updated)
 description: |
   Join us for a movie night and a general meeting. We'll be watching the Czech movie "Pelíšky" with English subtitles.
-image: images/events/2023-11-10-movie-night-general-meeting/unsplash-camera.jpg
+image: images/events/2024-01-09-movie-night-general-meeting/unsplash-camera.jpg
 pubdate: 2023-12-07
 semesters: 2023-autumn
 
 event_details:
-  date_start: 2023-11-10T18:30:00
-  date_end: 2023-11-10T21:30:00
+  date_start: 2024-01-09T18:30:00
+  date_end: 2024-01-09T21:30:00
   location:
     text: ETH Alumni Pavillon (MM C 78.1)
     link: https://maps.app.goo.gl/FWonSBq7EU25zK9M6
@@ -16,7 +16,12 @@ event_details:
     - radim.urban
   registration:
     link: https://forms.gle/MAhv2CrqSpdesr798
-    text: Google Form (provided soon)
+    text: Google Form
+  notes:
+    - alert_type: warning
+      icon: solid/exclamation
+      text: |
+        This event was rescheduled from the original date of 10 November.
 ---
 
 CSSZ invites you to a General Meeting followed by a Movie night.
