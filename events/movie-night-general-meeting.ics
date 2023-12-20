@@ -31,13 +31,13 @@ END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
 SUMMARY:Movie Night 🎥 & General Meeting 📊 (updated)
-DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/movie-night-general-meeting/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/FWonSBq7EU25zK9M6" target="_blank" rel="noopener">ETH Alumni Pavillon (MM C 78.1)</a>\n<strong>Coordinator:</strong> Radim Urban (<a class="link" href="mailto:radim.urban@cssz.ch" target="_blank" rel="noopener">radim.urban@cssz.ch</a>)\n<strong>Registration:</strong> <a href="https://forms.gle/MAhv2CrqSpdesr798" target="_blank" rel="noopener">Google Form (provided soon)</a>\n\nCSSZ invites you to a General Meeting followed by a Movie night. General Meeting The General Meeting will take place from 18:30 until 19:30. If you have any points to discuss in the agenda, submit them in the registration form. Movie Night Starting at 19:30, we&rsquo;ll be watching the Czech movie Pelíšky with English subtitles. The movie is a comedy-drama set in the 1960s, depicting the life of two families during the time of the Prague Spring.
-UID:20231110T183000-movie-night-general-meeting@cssz.ch
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/movie-night-general-meeting/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/FWonSBq7EU25zK9M6" target="_blank" rel="noopener">ETH Alumni Pavillon (MM C 78.1)</a>\n<strong>Coordinator:</strong> Radim Urban (<a class="link" href="mailto:radim.urban@cssz.ch" target="_blank" rel="noopener">radim.urban@cssz.ch</a>)\n<strong>Registration:</strong> <a href="https://forms.gle/MAhv2CrqSpdesr798" target="_blank" rel="noopener">Google Form</a>\n<strong>Notes:</strong>\n• This event was rescheduled from the original date of 10 November.\n\nCSSZ invites you to a General Meeting followed by a Movie night. General Meeting The General Meeting will take place from 18:30 until 19:30. If you have any points to discuss in the agenda, submit them in the registration form. Movie Night Starting at 19:30, we&rsquo;ll be watching the Czech movie Pelíšky with English subtitles. The movie is a comedy-drama set in the 1960s, depicting the life of two families during the time of the Prague Spring.
+UID:20240109T183000-movie-night-general-meeting@cssz.ch
 SEQUENCE:0
 STATUS:CONFIRMED
 DTSTAMP:20240109T000000
-DTSTART:20231110T183000
-DTEND:20231110T213000
+DTSTART:20240109T183000
+DTEND:20240109T213000
 LOCATION;ALTREP="https://maps.app.goo.gl/FWonSBq7EU25zK9M6":ETH Alumni Pavillon (MM C 78.1)
 URL:https://cssz.ch/events/movie-night-general-meeting/
 END:VEVENT
