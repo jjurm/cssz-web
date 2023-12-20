@@ -4,7 +4,6 @@ description: |
   Join us for a thrilling night of Switzerland vs. Czechia ice hockey action!
 image: images/events/2023-12-16-swiss-ice-hockey-games/swiss_life_arena.jpg
 semesters: 2023-autumn
-hidden_on_homepage: true
 
 event_details:
   date_start: 2023-12-16T18:00:00

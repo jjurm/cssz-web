@@ -37,3 +37,16 @@ If you prefer developing locally (you can preview any changes immediately and wi
   - `cssz` - overwrites the default
     - `assets` - JS and CSS code
     - `layouts` - HTML templates, HTML code and shortcodes
+
+### Front Matter
+
+The following properties in the front matter might be helpful:
+
+```markdown
+---
+hidden_on_homepage: true  # Page is published in the list of events and the calendar, but not on the homepage
+hidden_in_calendar: true  # Page is published normally, just hidden in the .ics calendar file (only for events)
+hidden: true              # Page is hidden from: homepage, events list, calendar (and sitemap), but still accessible via direct link
+draft: true               # Page is not published at all
+---
+```
