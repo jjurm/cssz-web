@@ -8,14 +8,14 @@ semesters: 2024-spring
 hidden: true
 
 event_details:
-  date_start: 2024-03-08T19:00:00
-  date_end: 2024-03-08T22:00:00
+  date_start: 2024-04-30T19:00:00
+  date_end: 2024-04-30T22:00:00
   location:
     text: CAB F21 (to be confirmed)
     link: https://maps.app.goo.gl/EATGGCHqgoyu4a9t9
   coordinator:
-    - radim.urban
     - juraj.micko
+    - radim.urban
   registration:
     #link: https://forms.gle/MAhv2CrqSpdesr798
     text: Bank payment (read below)
@@ -50,21 +50,24 @@ Due to the nature of the event, only people over 18 years of age are permitted e
 We will need a lot of help putting together the alcohol.
 If you bring some bottles of liquor from Czechia or Slovakia, apart from being treated a big hero, you will also get in for free.
 
-- Purchase traditional beer, wine, or spirits that you would like to drink in Czechia or Slovakia, either in stores or at the airport, and _keep the receipt_.
+1. Purchase traditional beer, wine, or spirits that you would like to drink in Czechia or Slovakia, either in stores or at the airport, and _keep the receipt_.
 
-  See the following table for a list of bottles that we are missing, or contact the organisers to coordinate your purchase.
+    See the following table for a list of bottles that we are missing, or contact the organisers to coordinate your purchase.
+  
+    <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRRxOxsFnQpcJA3xHLeFECl0O02H3SnOM4y1LKymY_ZU7LER2_Lsw6FBKXEAVSWGSM2EIOwLAG__gVU/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;range=A1%3AB40&amp;headers=false&amp;chrome=false"></iframe>
+  
+    See [this page](https://www.bazg.admin.ch/bazg/en/home/information-individuals/travel-and-purchases--allowances-and-duty-free-limit/importation-into-switzerland/duty-free-allowances--foodstuffs--alcohol-and-tobacco.html) for the duty-free limits.
 
-  <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRRxOxsFnQpcJA3xHLeFECl0O02H3SnOM4y1LKymY_ZU7LER2_Lsw6FBKXEAVSWGSM2EIOwLAG__gVU/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;range=A1%3AB40&amp;headers=false&amp;chrome=false"></iframe>
+2. Please submit [**this form**](https://forms.gle/NYgqJGtc8zMahcJVA) with the list of bottles you are bringing (this will help planning).
+3. Bring the bottles on one of the following days:
 
-  See [this page](https://www.bazg.admin.ch/bazg/en/home/information-individuals/travel-and-purchases--allowances-and-duty-free-limit/importation-into-switzerland/duty-free-allowances--foodstuffs--alcohol-and-tobacco.html) for the duty-free limits.
-
-- Please submit [this form](https://forms.gle/NYgqJGtc8zMahcJVA) with the list of bottles you are bringing (this will help planning).
-- Bring the bottles on one of the following days:
-  - **Monday 4 March** between 15:00 and 16:00 next to CAB 55.3 (preferred)
-  - **Wednesday 6 March** between 13:00 and 14:00 next to CAB 55.3
+   - **Wednesday 28 February** between 13:00 and 14:00 next to CAB 55.3 (preferred)
+   - **Monday 4 March** between 15:00 and 16:00 next to CAB 55.3
+   - talk to Juraj to arrange a different time
 
   We will collect the receipt and reimburse you the full price of the alcohol by Twint.
-- If you are bringing at least 4 liters of alcohol, you will get in for free. Otherwise, you will get a discount of 5 CHF per delivered liter, which you can apply by purchasing the ticket when delivering the bottles.
+
+If you are bringing at least 4 liters of alcohol, you will get in for free. Otherwise, you will get a discount of 5 CHF per delivered liter, which you can apply by purchasing the ticket when delivering the bottles.
 
 You will be put on a guest list, so you don't need to purchase a ticket at the door when you present a photo ID.
 
