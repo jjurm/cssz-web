@@ -1,10 +1,11 @@
 ---
-title: Pub Quiz 💡
+title: Pub Quiz 💡 1️⃣
 description: |
   A brain-teasing, laughter-filled night of fun!
 pubdate: 2024-02-15
 image: images/events/2023-04-03-pub-quiz/pub_quiz.png
 semesters: 2024-spring
+hidden_on_homepage: true
 
 event_details:
   date_start: 2024-03-04T18:30:00
@@ -16,7 +17,7 @@ event_details:
     - zdenek.snajdr
   registration:
     link: https://forms.gle/NxW4TP6dgPL4iDs86
-    text: Register Here!
+    text: Register here
 ---
 
 🎉 Like every semester, get ready for a brain-teasing, laughter-filled night of fun with your favourite people from CSSZ! Join us for this Spring semester's first Pub Quiz on March 3rd at the one and only Oliver Twist Pub in Zurich! 🍻
