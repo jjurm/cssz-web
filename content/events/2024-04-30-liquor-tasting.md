@@ -19,11 +19,6 @@ event_details:
   registration:
     link: "#pay-in-advance"
     text: Bank payment (read below)
-  notes:
-    - alert_type: warning
-      icon: solid/exclamation
-      text: |
-        This event is still in planning and details might change. We expect to have everything confirmed by the end of January.
 ---
 
 CSSZ invites you a big liquor tasting event.
