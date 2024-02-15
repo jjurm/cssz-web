@@ -9,7 +9,7 @@ hidden_on_homepage: true
 
 event_details:
   date_start: 2024-04-14T08:00:00
-  date_end: 2024-06-05T20:30:00
+  date_end: 2024-04-14T20:30:00
   location:
     text: Engi to Filzbach
     link: https://en.mapy.cz/s/jesapohofu
