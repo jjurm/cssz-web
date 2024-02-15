@@ -51,9 +51,9 @@
     {{- end -}}
 
     {{- if eq .Kind "term" -}}{{/* e.g. 'Autumn 2023' */}}
+        {{- $pages = sort $pages "PublishDate" "asc" }}
         {{- $pages = sort $pages ".Params.event_details.date_start" "asc" }}
         {{- $pages = sort $pages ".Date" "asc" }}
-        {{- $pages = sort $pages "PublishDate" "asc" }}
     {{- end -}}
 
     {{- with $subsections -}}
