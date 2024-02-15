@@ -42,6 +42,9 @@
                 {{ .text }}
             </address>
             {{- end }}
+            {{- with .note -}}
+                &nbsp;{{ . }}
+            {{- end }}
         </dd>
         {{ end }}
 

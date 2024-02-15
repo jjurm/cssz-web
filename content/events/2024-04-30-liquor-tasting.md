@@ -1,23 +1,23 @@
 ---
-title: Liquor Tasting 🥃 (in-planning)
+title: Liquor Tasting 🥃
 description: |
   Unlimited tasting of Czech and Slovak liquor specialties.
-image: images/events/2024-03-08-liquor-tasting/photo-1557149559-d74af2d38a1a.jpg
+image: images/events/2024-04-30-liquor-tasting/photo-1557149559-d74af2d38a1a.jpg
 pubdate: 2023-12-07
 semesters: 2024-spring
-hidden: true
 
 event_details:
   date_start: 2024-04-30T19:00:00
   date_end: 2024-04-30T22:00:00
   location:
-    text: CAB F21 (to be confirmed)
+    text: CAB D21
     link: https://maps.app.goo.gl/EATGGCHqgoyu4a9t9
+    note: (the big space in the basement)
   coordinator:
     - juraj.micko
     - radim.urban
   registration:
-    #link: https://forms.gle/MAhv2CrqSpdesr798
+    link: "#pay-in-advance"
     text: Bank payment (read below)
   notes:
     - alert_type: warning
@@ -61,8 +61,8 @@ If you bring some bottles of liquor from Czechia or Slovakia, apart from being t
 2. Please submit [**this form**](https://forms.gle/NYgqJGtc8zMahcJVA) with the list of bottles you are bringing (this will help planning).
 3. Bring the bottles on one of the following days:
 
-   - **Wednesday 28 February** between 13:00 and 14:00 next to CAB 55.3 (preferred)
-   - **Monday 4 March** between 15:00 and 16:00 next to CAB 55.3
+   - **Wednesday 17 April** between 13:00 and 14:00 next to CAB 55.3 (preferred)
+   - **Tuesday 23 April** between 15:00 and 16:00 next to CAB 55.3
    - talk to Juraj to arrange a different time
 
   We will collect the receipt and reimburse you the full price of the alcohol by Twint.
@@ -74,7 +74,13 @@ You will be put on a guest list, so you don't need to purchase a ticket at the d
 
 ### Pay in advance
 
-_(details to be provided soon)_
+**Bank account name:** CSSZ  
+**Address:** CSSZ c/o VSETH, CAB E27, Universitätsstrasse 6, 8092 Zürich  
+**IBAN:** CH31 0900 0000 1592 1820 1  
+**Amount:** 20 CHF  
+**Reference:** LT - &lt;Your Name&gt;
+
+**Deadline:** 23.04.2024
 
 - 'Your Name' on the payment reference must match the person who will attend the event.
 - In case of a payment on behalf of multiple people, please send multiple payments with different references.
@@ -85,3 +91,5 @@ _(details to be provided soon)_
 ### Pay at the door
 
 You can pay at the door by Twint or cash (no change provided).
+
+{{< image asset="images/events/2024-04-30-liquor-tasting/d21.jpeg" >}}
