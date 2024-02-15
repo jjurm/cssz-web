@@ -55,6 +55,19 @@ URL:https://cssz.ch/events/hike-and-grill/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Brave hike through Glarus Alps 🥾🏔️
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/brave-hike-glarus-alps/\n<strong>Location:</strong> <a href="https://en.mapy.cz/s/jesapohofu" target="_blank" rel="noopener">Engi to Filzbach</a>\n<strong>Coordinator:</strong> Juraj Mičko (<a class="link" href="mailto:juraj.micko@cssz.ch" target="_blank" rel="noopener">juraj.micko@cssz.ch</a>, <a class="link" href="tel:&#43;41762639679">+41762639679</a>)\n<strong>Registration:</strong> <a href="https://forms.gle/HjqrWxx82X2uRNfP7" target="_blank" rel="noopener">Google Form</a>\n\n<p>Do you have too much energy and want to spend it in the mountains? Then this hike is for you! We will start in Engi and hike through the Glarus Alps to Filzbach.</p> <p>The hike is estimated to be very <strong>difficult</strong>, so be prepared for a challenging day with a faster pace. We will meet at the Zurich HB at 8:00 and take the train to Engi. Since the starting and ending point are different, taking a shorter route on the day is not possible. Don&rsquo;t forget to bring enough water and food for the day.</p>
+UID:20240414T080000-brave-hike-glarus-alps@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20240414T000000
+DTSTART:20240414T080000
+DTEND:20240605T203000
+LOCATION;ALTREP="https://en.mapy.cz/s/jesapohofu":Engi to Filzbach
+URL:https://cssz.ch/events/brave-hike-glarus-alps/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
 SUMMARY:Lunch in Polymensa
 DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/polymensa-spring24-2/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/2CJVFcinFu8wFiJQ8" target="_blank" rel="noopener">Mensa Polyterrasse</a>\n<strong>Coordinator:</strong> Juraj Mičko (<a class="link" href="mailto:juraj.micko@cssz.ch" target="_blank" rel="noopener">juraj.micko@cssz.ch</a>)\n\nWhat a time saver! Meet your favourite people while you would be eating anyway! Join us for a brief lunch in the Polyterrasse Mensa. We&rsquo;ll be there from 13:00 to 14:00. Invite your friends to join, too! To find the group, message Juraj on WhatsApp
 UID:20240318T130000-polymensa-spring24-2@cssz.ch
