@@ -13,6 +13,7 @@ event_details:
     link: https://grillstelle.ch/grillstellen/1456/graeppelensee-9657-alt-st-johann-switzerland/uebersicht
   coordinator:
     - ales.kubicek
+    - juraj.micko
   registration:
     link: https://forms.gle/p5ozBufCfV2HtvpFA
     text: Google Form
