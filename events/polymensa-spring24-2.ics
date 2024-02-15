@@ -31,7 +31,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
 SUMMARY:Lunch in Polymensa
-DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/polymensa-spring24-2/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/2CJVFcinFu8wFiJQ8" target="_blank" rel="noopener">Mensa Polyterrasse</a>\n<strong>Coordinator:</strong> Juraj Mičko (<a class="link" href="mailto:juraj.micko@cssz.ch" target="_blank" rel="noopener">juraj.micko@cssz.ch</a>, <a class="link" href="tel:&#43;41762639679">+41762639679</a>)\n\nWhat a time saver! Meet your favourite people while you would be eating anyway! Join us for a brief lunch in the Polyterrasse Mensa. We&rsquo;ll be there from 13:00 to 14:00. Invite your friends to join, too!
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/polymensa-spring24-2/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/2CJVFcinFu8wFiJQ8" target="_blank" rel="noopener">Mensa Polyterrasse</a>\n<strong>Coordinator:</strong> Juraj Mičko (<a class="link" href="mailto:juraj.micko@cssz.ch" target="_blank" rel="noopener">juraj.micko@cssz.ch</a>)\n\nWhat a time saver! Meet your favourite people while you would be eating anyway! Join us for a brief lunch in the Polyterrasse Mensa. We&rsquo;ll be there from 13:00 to 14:00. Invite your friends to join, too! To find the group, message Juraj on WhatsApp
 UID:20240318T130000-polymensa-spring24-2@cssz.ch
 SEQUENCE:0
 STATUS:CONFIRMED
