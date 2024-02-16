@@ -21,7 +21,7 @@ event_details:
     text: Bank payment (read below)
 ---
 
-CSSZ invites you a big liquor tasting event.
+CSSZ invites you to a big liquor tasting event.
 Members of the association as well as non-members are equally welcome to join.
 We'll be tasting a variety of Czech and Slovak liquor specialties, including Slivovice, Borovička, and more.
 
@@ -53,16 +53,16 @@ If you bring some bottles of liquor from Czechia or Slovakia, apart from being t
   
     See [this page](https://www.bazg.admin.ch/bazg/en/home/information-individuals/travel-and-purchases--allowances-and-duty-free-limit/importation-into-switzerland/duty-free-allowances--foodstuffs--alcohol-and-tobacco.html) for the duty-free limits.
 
-2. Please submit [**this form**](https://forms.gle/NYgqJGtc8zMahcJVA) with the list of bottles you are bringing (this will help planning).
+2. Please submit [**this form**](https://forms.gle/NYgqJGtc8zMahcJVA) with the list of bottles you are bringing (this will help with planning).
 3. Bring the bottles on one of the following days:
 
-   - **Wednesday 17 April** between 13:00 and 14:00 next to CAB 55.3 (preferred)
-   - **Tuesday 23 April** between 15:00 and 16:00 next to CAB 55.3
+   - **Wednesday, 17 April** between 13:00 and 14:00 next to CAB 55.3 (preferred)
+   - **Tuesday, 23 April** between 15:00 and 16:00 next to CAB 55.3
    - talk to Juraj to arrange a different time
 
   We will collect the receipt and reimburse you the full price of the alcohol by Twint.
 
-If you are bringing at least 4 liters of alcohol, you will get in for free. Otherwise, you will get a discount of 5 CHF per delivered liter, which you can apply by purchasing the ticket when delivering the bottles.
+If you are bringing at least 4 litres of alcohol, you will get in for free. Otherwise, you will get a discount of 5 CHF per delivered litre, which you can apply by purchasing the ticket when delivering the bottles.
 
 You will be put on a guest list, so you don't need to purchase a ticket at the door when you present a photo ID.
 
@@ -79,8 +79,8 @@ You will be put on a guest list, so you don't need to purchase a ticket at the d
 
 - 'Your Name' on the payment reference must match the person who will attend the event.
 - In case of a payment on behalf of multiple people, please send multiple payments with different references.
-- If your payment arrives after 04.03.2024, you will need to pay the difference of 3 CHF at the door.
-  (this helps us for event planning)
+- If your payment arrives after 23.04.2024, you will need to pay the difference of 3 CHF at the door.
+  (this helps us with event planning)
 
 
 ### Pay at the door
