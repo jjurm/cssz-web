@@ -8,6 +8,7 @@ description: |
   A semester-end trip to the peek Speer in the beautiful nature of Appenzeller Alps!
 image: images/events/2022-06-05-hike-in-appenzeller-alps/PXL_20220605_075510556.MP_2.jpg
 semesters: 2024-spring
+pubdate: 2024-01-01 # the publication date, used basically to order posts on the homepage
 
 event_details:
   date_start: 2022-06-05T07:30:00
