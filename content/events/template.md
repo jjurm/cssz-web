@@ -6,7 +6,7 @@ hidden: true
 title: Hike in Appenzeller Alps
 description: |
   A semester-end trip to the peek Speer in the beautiful nature of Appenzeller Alps!
-image: images/events/2022-06-05-hike-in-appenzeller-alps/PXL_20220605_075510556.MP_2.jpg
+image: images/events/2022-06-05-hike-in-appenzeller-alps/PXL_20220605_075510556.MP_2.jpg # all images are in the 'assets' folder
 semesters: 2024-spring
 pubdate: 2024-01-01 # the publication date, used basically to order posts on the homepage
 
