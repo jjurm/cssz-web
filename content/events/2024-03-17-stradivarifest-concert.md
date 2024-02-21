@@ -8,6 +8,7 @@ pubdate: 2024-20-20
 
 event_details:
   date_start: 2024-03-17T17:00:00
+  date_start: 2024-03-17T21:00:00
   location:
     text: Kunsthaus Zürich
     link: https://maps.app.goo.gl/pKG4cJd23h1rSQYr8
