@@ -2,7 +2,7 @@
 title: StradivariFEST Antonín Dvořák
 description: |
   A concert with works by the Czech composer Antonín Dvořák.
-image: images\events\2024-03-17-stradivarifest-concert\190933.png
+image: images/events/2024-03-17-stradivarifest-concert\190933.jpg
 semesters: 2024-spring
 pubdate: 2024-20-20
 
@@ -19,17 +19,17 @@ event_details:
   
 ---
 **Price for students**: 10 CHF
+
+The StradivariFEST is organising a concert with works by the Czech composer Antonín Dvořák.<br>
 https://stradivarifest.com/klangwellen/
 
-The StradivariFEST is organising a concert with works by the Czech composer Antonín Dvořák.
-
-**DVORAK 5**
-Serenade für Streicher in E-Dur, op. 22
+**DVORAK 5**<br>
+Serenade für Streicher in E-Dur, op. 22<br>
 Slawisce Tänze, op. 46/72
 
-Zürich | Kunsthaus Zürich | Chipperfield-Bau | Festsaal
-Sunday, 17.3.2024
-16.15 - Prélude with Urs Mattenberger
+Zürich | Kunsthaus Zürich | Chipperfield-Bau | Festsaal<br>
+Sunday, 17.3.2024<br>
+16.15 - Prélude with Urs Mattenberger<br>
 17.00 - Concert
 
 **Meetup at 16:30 in front of the Kunsthaus entrance.**
