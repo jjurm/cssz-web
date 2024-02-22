@@ -34,3 +34,5 @@ Sunday, 17.3.2024<br>
 17.00 - Concert
 
 **Meetup at 16:30 in front of the Kunsthaus entrance.**
+
+Buy the ticket yourself on the official website.
