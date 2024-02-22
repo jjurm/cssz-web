@@ -48,5 +48,6 @@ hidden_on_homepage: true  # Page is published in the list of events and the cale
 hidden_in_calendar: true  # Page is published normally, just hidden in the .ics calendar file (only for events)
 hidden: true              # Page is hidden from: homepage, events list, calendar (and sitemap), but still accessible via direct link
 draft: true               # Page is not published at all
+pinned: true              # Page is pinned to the top of the homepage
 ---
 ```

@@ -23,6 +23,7 @@
     {{ $pages = sort $pages ".Params.event_details.date_start" "desc" }}
     {{ $pages = sort $pages "Date" "desc" }}
     {{ $pages = sort $pages "PublishDate" "desc" }}
+    {{ $pages = sort $pages ".Params.pinned" "desc" }}
     {{ range $index, $element := $pages }}
     {{ partial "article-list/default" . }}
     {{ end }}

@@ -5,6 +5,7 @@ description: |
 image: images/events/2024-03-17-stradivarifest-concert/dvorak.jpg
 semesters: 2024-spring
 pubdate: 2024-20-20
+hidden_on_homepage: true
 
 event_details:
   date_start: 2024-03-17T17:00:00

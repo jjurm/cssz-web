@@ -3,6 +3,11 @@
     {{ if $image.exists }}
         <div class="article-image">
             <a href="{{ .RelPermalink }}">
+                {{- if .Params.pinned }}
+                    <div class="pin-icon">
+                        {{- partial "helper/fontawesome" (dict "icon" "solid/thumbtack" "class" "me-4") }}
+                    </div>
+                {{- end }}
                 {{- $params := dict "image" $image "type" "featured" "alt" (printf "Featured image of post %s" .Title) -}}
                 {{- partialCached "helper/resize-image" (dict "Context" $ "Params" $params) $params -}}
             </a>
