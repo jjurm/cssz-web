@@ -88,3 +88,11 @@ You will be put on a guest list, so you don't need to purchase a ticket at the d
 You can pay at the door by Twint or cash (no change provided).
 
 {{< image asset="images/events/2024-04-30-liquor-tasting/d21.jpeg" >}}
+
+
+## Disclaimer
+
+- Insurance and sensible behaviour is the responsibility of the participants.
+- By attending, you agree that pictures can be taken of you and used internally for CSSZ purposes (for example on the website, Instagram, etc.)
+- We will strive to provide overly enough drinks and snacks, but ultimately, consumables are provided only until stocks last. 
+- We generally do not offer refunds. If you cannot attend, try to find a replacement and let the event organizers know of the name change.
