@@ -32,6 +32,7 @@ We expect around **80 participants**.
 ## Entrance fee
 
 - **Free** if you bring liquor (read below), or
+- **18 CHF** if paid by bank by the end of March (read below), or
 - **20 CHF** if paid by bank in advance (read below), or
 - **23 CHF** if paid at the door by Twint or cash.
 
@@ -72,7 +73,7 @@ You will be put on a guest list, so you don't need to purchase a ticket at the d
 **Bank account name:** CSSZ  
 **Address:** CSSZ c/o VSETH, CAB E27, Universitätsstrasse 6, 8092 Zürich  
 **IBAN:** CH31 0900 0000 1592 1820 1  
-**Amount:** 20 CHF  
+**Amount:** 20 CHF  (or 18 CHF if paid by the end of March)
 **Reference:** LT - &lt;Your Name&gt;
 
 **Deadline:** 23.04.2024
@@ -80,7 +81,7 @@ You will be put on a guest list, so you don't need to purchase a ticket at the d
 - 'Your Name' on the payment reference must match the person who will attend the event.
 - In case of a payment on behalf of multiple people, please send multiple payments with different references.
 - If your payment arrives after 23.04.2024, you will need to pay the difference of 3 CHF at the door.
-  (this helps us with event planning)
+  (early payments helps us make the event even better for you!)
 
 
 ### Pay at the door
