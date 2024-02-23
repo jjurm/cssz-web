@@ -45,7 +45,7 @@ Due to the nature of the event, only people over 18 years of age are permitted e
 We will need a lot of help putting together the alcohol.
 If you bring some bottles of liquor from Czechia or Slovakia, apart from being treated a big hero, you will also get in for free.
 
-1. Purchase traditional beer, wine, or spirits that you would like to drink in Czechia or Slovakia, either in stores or at the airport, and _keep the receipt_.
+1. Purchase traditional beer, wine, or spirits that you would like to drink in Czechia or Slovakia, either in stores or at the airport (for a reasonable price), and _keep the receipt_.
 
     See the following table for a list of bottles that we are missing, or contact the organisers to coordinate your purchase.
   
@@ -87,12 +87,12 @@ You will be put on a guest list, so you don't need to purchase a ticket at the d
 
 You can pay at the door by Twint or cash (no change provided).
 
-{{< image asset="images/events/2024-04-30-liquor-tasting/d21.jpeg" >}}
-
 
 ## Disclaimer
 
-- Insurance and sensible behaviour is the responsibility of the participants.
-- By attending, you agree that pictures can be taken of you and used internally for CSSZ purposes (for example on the website, Instagram, etc.)
+- Insurance and sensible behaviour are the responsibility of the participants.
+- By attending, you agree that pictures can be taken of you and used internally for CSSZ purposes (for example, on the website, Instagram, etc.)
 - We will strive to provide overly enough drinks and snacks, but ultimately, consumables are provided only until stocks last. 
 - We generally do not offer refunds. If you cannot attend, try to find a replacement and let the event organizers know of the name change.
+
+{{< image asset="images/events/2024-04-30-liquor-tasting/d21.jpeg" >}}
