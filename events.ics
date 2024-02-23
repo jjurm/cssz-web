@@ -108,13 +108,13 @@ END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
 SUMMARY:Pub Quiz 💡 1️⃣
-DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/pub-quiz-spring24-1/\n<strong>Location:</strong> <a href="https://goo.gl/maps/v75ZzHko9jK8pfGG6" target="_blank" rel="noopener">Oliver Twist Pub</a>\n<strong>Coordinator:</strong> Zdeněk Šnajdr (<a class="link" href="mailto:zdenek.snajdr@cssz.ch" target="_blank" rel="noopener">zdenek.snajdr@cssz.ch</a>, <a class="link" href="tel:&#43;41762254840">+41762254840</a>)\n<strong>Registration:</strong> <a href="https://forms.gle/NxW4TP6dgPL4iDs86" target="_blank" rel="noopener">Register here</a>\n\n🎉 Like every semester, get ready for a brain-teasing, laughter-filled night of fun with your favourite people from CSSZ! Join us for this Spring semester&rsquo;s first Pub Quiz on March 3rd at the one and only Oliver Twist Pub in Zurich! 🍻 🏆 Put your knowledge to the test and compete with friends or make new ones as you tackle a wide range of exciting and diverse questions. From pop culture and history to sports and general knowledge, there&rsquo;s something for everyone.
-UID:20240304T183000-pub-quiz-spring24-1@cssz.ch
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/pub-quiz-spring24-1/\n<strong>Location:</strong> <a href="https://goo.gl/maps/v75ZzHko9jK8pfGG6" target="_blank" rel="noopener">Oliver Twist Pub</a>\n<strong>Coordinator:</strong> Zdeněk Šnajdr (<a class="link" href="mailto:zdenek.snajdr@cssz.ch" target="_blank" rel="noopener">zdenek.snajdr@cssz.ch</a>, <a class="link" href="tel:&#43;41762254840">+41762254840</a>)\n<strong>Registration:</strong> <a href="https://forms.gle/mGHsZ5raeTXjcDet8" target="_blank" rel="noopener">Register here</a>\n\n🎉 Like every semester, get ready for a brain-teasing, laughter-filled night of fun with your favourite people from CSSZ! Join us for this Spring semester&rsquo;s first Pub Quiz on March 3rd at the one and only Oliver Twist Pub in Zurich! 🍻 🏆 Put your knowledge to the test and compete with friends or make new ones as you tackle a wide range of exciting and diverse questions. From pop culture and history to sports and general knowledge, there&rsquo;s something for everyone.
+UID:20240311T183000-pub-quiz-spring24-1@cssz.ch
 SEQUENCE:0
 STATUS:CONFIRMED
-DTSTAMP:20240304T000000
-DTSTART:20240304T183000
-DTEND:20240304T223000
+DTSTAMP:20240311T000000
+DTSTART:20240311T183000
+DTEND:20240311T223000
 LOCATION;ALTREP="https://goo.gl/maps/v75ZzHko9jK8pfGG6":Oliver Twist Pub
 URL:https://cssz.ch/events/pub-quiz-spring24-1/
 END:VEVENT
