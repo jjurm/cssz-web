@@ -8,15 +8,15 @@ semesters: 2024-spring
 hidden_on_homepage: true
 
 event_details:
-  date_start: 2024-03-04T18:30:00
-  date_end: 2024-03-04T22:30:00
+  date_start: 2024-03-11T18:30:00
+  date_end: 2024-03-11T22:30:00
   location:
     text: Oliver Twist Pub
     link: https://goo.gl/maps/v75ZzHko9jK8pfGG6
   coordinator:
     - zdenek.snajdr
   registration:
-    link: https://forms.gle/NxW4TP6dgPL4iDs86
+    link: https://forms.gle/mGHsZ5raeTXjcDet8
     text: Register here
 ---
 
