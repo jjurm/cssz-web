@@ -5,7 +5,6 @@ description: |
 pubdate: 2024-02-15
 image: images/events/2023-04-03-pub-quiz/pub_quiz.png
 semesters: 2024-spring
-hidden_on_homepage: true
 
 event_details:
   date_start: 2024-03-11T18:30:00
