@@ -5,7 +5,6 @@ description: |
 image: images/events/2023-09-18-welcome-to-autumn23/unsplash-zurich-polyterrasse.jpg
 semesters: 2024-spring
 embed_semester_events: 2024-spring
-pinned: true
 ---
 
 Dear members,
