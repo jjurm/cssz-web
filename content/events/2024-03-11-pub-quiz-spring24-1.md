@@ -10,8 +10,8 @@ event_details:
   date_start: 2024-03-11T18:30:00
   date_end: 2024-03-11T22:30:00
   location:
-    text: Oliver Twist Pub
-    link: https://goo.gl/maps/v75ZzHko9jK8pfGG6
+    text: Cooper's Pub
+    link: https://maps.app.goo.gl/e41czLvuTh6V6o9o9
   coordinator:
     - zdenek.snajdr
   registration:
@@ -19,6 +19,6 @@ event_details:
     text: Register here
 ---
 
-🎉 Like every semester, get ready for a brain-teasing, laughter-filled night of fun with your favourite people from CSSZ! Join us for this Spring semester's first Pub Quiz on March 3rd at the one and only Oliver Twist Pub in Zurich! 🍻
+🎉 Like every semester, get ready for a brain-teasing, laughter-filled night of fun with your favourite people from CSSZ! Join us for this Spring semester's first Pub Quiz on March 11th at the one and only Cooper's Pub in Zurich! 🍻
 
 🏆 Put your knowledge to the test and compete with friends or make new ones as you tackle a wide range of exciting and diverse questions. From pop culture and history to sports and general knowledge, there's something for everyone.
