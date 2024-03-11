@@ -5,7 +5,6 @@ description: |
 image: images/events/2024-03-18-polymensa-spring24-2/image.imageformat.lightbox.289773918.jpg
 pubdate: 2024-02-15
 semesters: 2024-spring
-hidden_on_homepage: true
 
 event_details:
   date_start: 2024-03-18T13:00:00
