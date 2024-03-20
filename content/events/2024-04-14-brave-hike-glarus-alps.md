@@ -5,7 +5,6 @@ description: |
 image: images/events/2024-04-14-brave-hike-glarus-alps/Murgsee.jpg
 semesters: 2024-spring
 pubdate: 2024-02-15
-hidden_on_homepage: true
 
 event_details:
   date_start: 2024-04-14T08:00:00
