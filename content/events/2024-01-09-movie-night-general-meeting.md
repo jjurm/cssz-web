@@ -35,3 +35,7 @@ If you have any points to discuss in the agenda, submit them in the registration
 ## Movie Night
 
 Starting at **19:30**, we'll be watching the Czech movie _Vrchní, prchni!_ with English subtitles. The movie is about Dalibor, a bookseller, who has financial issues. But one day, a drunk customer in a restaurant mistakes him for the waiter and pays the bill which becomes his trick to solve his money problems.
+
+---
+
+{{< image asset="images/events/2024-01-09-movie-night-general-meeting/PXL_20240109_174603211.jpg" >}}
