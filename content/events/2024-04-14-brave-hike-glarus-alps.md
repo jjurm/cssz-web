@@ -16,6 +16,11 @@ event_details:
   registration:
     link: https://forms.gle/HjqrWxx82X2uRNfP7
     text: Google Form
+  notes:
+    - alert_type: warning
+      icon: solid/info
+      text: |
+        Due to snow and weather conditions we are changing the hike to a different location. Join [this whatsapp group](https://chat.whatsapp.com/Dhd5xtmG19tJMQmwEmhUZ5) to stay updated.
 ---
 
 Do you have too much energy and want to spend it in the mountains?
