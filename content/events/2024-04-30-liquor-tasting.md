@@ -65,8 +65,8 @@ If you bring drinks from Czechia or Slovakia, apart from being treated a big her
 2. Please submit [**this form**](https://forms.gle/NYgqJGtc8zMahcJVA) with the list of bottles you are bringing (this will help with planning).
 3. Bring the bottles on one of the following days:
 
-   - Wednesday, 17 April between 13:00 and 14:00 next to CAB 55.3 (preferred) – [message Juraj](https://wa.me/+421907240239) when you come
-   - **Tuesday, 23 April** between 15:00 and 16:00 next to CAB 55.3
+   - Wednesday, 17 April between 13:00 and 14:00 next to CAB 55.3 (preferred)
+   - **Tuesday, 23 April** between 15:00 and 16:00 next to CAB 55.3 – [message Juraj](https://wa.me/+421907240239) when you come
    - (talk to Juraj if you want to arrange a different time)
 
   We will collect the receipt and reimburse you the full price of the alcohol by Twint.
