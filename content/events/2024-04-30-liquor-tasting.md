@@ -18,23 +18,30 @@ event_details:
     - juraj.micko
     - radim.urban
   registration:
-    link: "#pay-in-advance"
-    text: Bank payment (read below)
+    link: https://zurich.esn.ch/event/2946
+    text: ESN Zürich
+  notes:
+    - alert_type: warning
+      icon: regular/bell
+      text: |
+        Updates:
+        - [Registration through ESN](https://zurich.esn.ch/event/2946) is now open!
+        - We no longer collect spirits (soft drinks, wine and beer are still welcome)
 ---
 
-CSSZ invites you to a big liquor tasting event.
+CSSZ invites you to a big food and liquor tasting event.
 Members of the association as well as non-members are equally welcome to join.
-We'll be tasting a variety of Czech and Slovak liquor specialties, including Slivovice, Borovička, and more.
+We'll be tasting a variety of Czech and Slovak liquor specialties, including Slivovice, Borovička, Becherovka, TATRATEA and more. As a bonus, a selection of Polish alcohol and snacks will be available, too.
 
-This event is organised in collaboration with the ESN Zürich.
-We expect around **80 participants**.
+This event is organised in collaboration with **ESN Zürich**.  
+We expect **80 participants**.
 
 
 ## Entrance fee
 
-- **Free** if you bring liquor (read below), or
-- **18 CHF** if paid by bank by the end of March (read below), or
-- **20 CHF** if paid by bank in advance (read below), or
+- Free if you bring liquor (read below), or
+- **17 CHF** for ESN Card Holders if registered by 28 April – [register through ESN](https://zurich.esn.ch/event/2946), or
+- **20 CHF** for all if registered by 28 April – [register through ESN](https://zurich.esn.ch/event/2946), or
 - **23 CHF** if paid at the door by Twint or cash.
 
 The entry entitles you to **unlimited** tasting: drink as much as you want. Some snacks will be provided, too.
@@ -45,9 +52,9 @@ Due to the nature of the event, only people over 18 years of age are permitted e
 ### Bring liquor, get in for free
 
 We will need a lot of help putting together the alcohol.
-If you bring some bottles of liquor from Czechia or Slovakia, apart from being treated a big hero, you will also get in for free.
+If you bring drinks from Czechia or Slovakia, apart from being treated a big hero, you will also get in for free.
 
-1. Purchase traditional beer, wine, or spirits that you would like to drink in Czechia or Slovakia, either in stores or at the airport (for a reasonable price), and _keep the receipt_.
+1. Purchase traditional wine, beer or soft drinks from Czechia or Slovakia, either in stores or at the airport (for a reasonable price), and _keep the receipt_.
 
     See the following table for a list of bottles that we are missing, or contact the organisers to coordinate your purchase.
   
@@ -58,31 +65,15 @@ If you bring some bottles of liquor from Czechia or Slovakia, apart from being t
 2. Please submit [**this form**](https://forms.gle/NYgqJGtc8zMahcJVA) with the list of bottles you are bringing (this will help with planning).
 3. Bring the bottles on one of the following days:
 
-   - **Wednesday, 17 April** between 13:00 and 14:00 next to CAB 55.3 (preferred) – [message Juraj](https://wa.me/+421907240239) when you come
+   - Wednesday, 17 April between 13:00 and 14:00 next to CAB 55.3 (preferred) – [message Juraj](https://wa.me/+421907240239) when you come
    - **Tuesday, 23 April** between 15:00 and 16:00 next to CAB 55.3
-   - talk to Juraj to arrange a different time
+   - (talk to Juraj if you want to arrange a different time)
 
   We will collect the receipt and reimburse you the full price of the alcohol by Twint.
 
 If you are bringing at least 4 litres of alcohol, you will get in for free. Otherwise, you will get a discount of 5 CHF per delivered litre, which you can apply by purchasing the ticket when delivering the bottles.
 
 You will be put on a guest list, so you don't need to purchase a ticket at the door when you present a photo ID.
-
-
-### Pay in advance
-
-**Bank account name:** CSSZ  
-**Address:** CSSZ c/o VSETH, CAB E27, Universitätsstrasse 6, 8092 Zürich  
-**IBAN:** CH31 0900 0000 1592 1820 1  
-**Amount:** 20 CHF  (or 18 CHF if paid by the end of March)
-**Reference:** LT - &lt;Your Name&gt;
-
-**Deadline:** 23.04.2024
-
-- 'Your Name' on the payment reference must match the person who will attend the event.
-- In case of a payment on behalf of multiple people, please send multiple payments with different references.
-- If your payment arrives after 23.04.2024, you will need to pay the difference of 3 CHF at the door.
-  (early payments helps us make the event even better for you!)
 
 
 ### Pay at the door
@@ -96,5 +87,6 @@ You can pay at the door by Twint or cash (no change provided).
 - By attending, you agree that pictures can be taken of you and used internally for CSSZ purposes (for example, on the website, Instagram, etc.)
 - We will strive to provide overly enough drinks and snacks, but ultimately, consumables are provided only until stocks last. 
 - We generally do not offer refunds. If you cannot attend, try to find a replacement and let the event organizers know of the name change.
+- It's advisable to eat dinner before attending this event.
 
 {{< image asset="images/events/2024-04-30-liquor-tasting/d21.jpeg" >}}
