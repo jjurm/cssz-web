@@ -89,4 +89,14 @@ You can pay at the door by Twint or cash (no change provided).
 - We generally do not offer refunds. If you cannot attend, try to find a replacement and let the event organizers know of the name change.
 - It's advisable to eat dinner before attending this event.
 
+
+## Volunteers
+
+We are still looking for a few volunteers for the following roles:
+- Door/entrance
+- Serving the tables
+- Buildup, Cleanup
+
+If you are willing to help, email {{< person-inline name="Juraj" id="juraj.micko" phone="" >}} stating your availability and preference.
+
 {{< image asset="images/events/2024-04-30-liquor-tasting/d21.jpeg" >}}
