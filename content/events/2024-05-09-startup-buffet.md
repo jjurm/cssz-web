@@ -1,11 +1,10 @@
 ---
-title: CSSZ <> Kaya Startup Dinner
+title: CSSZ <> Kaya VC Startup Buffet
 description: |
   ​​The Czech and Slovak Students in Zurich society in collaboration with Prague-based VC fund KAYA will be co-organising a buffet dinner in ETH Alumni.
 pubdate: 2024-02-15
-image: images/events/2023-04-03-pub-quiz/pub_quiz.png
+image: images/experience-zurich/eth-airpic.jpg
 semesters: 2024-spring
-draft: true
 
 event_details:
   date_start: 2024-05-09T18:00:00
