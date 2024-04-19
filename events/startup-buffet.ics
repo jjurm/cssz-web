@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Czech and Slovak Students in Zurich//Events//EN
+URL:webcal://cssz.ch/events/startup-buffet.ics
+NAME:CSSZ Events
+X-WR-CALNAME:CSSZ Events
+X-WR-CALDESC:
+X-WR-TIMEZONE:Europe/Zurich
+X-PUBLISHED-TTL:PT6H
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-LIC-LOCATION:Europe/Zurich
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:CSSZ <> Kaya VC Startup Buffet
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/startup-buffet/\n<strong>Location:</strong> ETH Alumni Pavillon\n<strong>Coordinator:</strong> Zdeněk Šnajdr (<a class="link" href="mailto:zdenek.snajdr@cssz.ch" target="_blank" rel="noopener">zdenek.snajdr@cssz.ch</a>, <a class="link" href="tel:&#43;41762254840">+41762254840</a>), Radim Urban (<a class="link" href="mailto:radim.urban@cssz.ch" target="_blank" rel="noopener">radim.urban@cssz.ch</a>)\n<strong>Registration:</strong> <a href="https://lu.ma/8nagjxhq" target="_blank" rel="noopener">Register here</a>\n\nAbout the Event ​​Are you interested in startups and things around them? ​​The Czech and Slovak Students in Zurich society in collaboration with Prague-based VC fund KAYA will be co-organising a buffet dinner in ETH Alumni, at 6pm on the 9th of May. ​​You can look forward to meeting representatives from KAYA (and their portfolio) who will be happy to answer your questions, network with like-minded people and of course have some good food.
+UID:20240509T180000-startup-buffet@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20240509T000000
+DTSTART:20240509T180000
+DTEND:20240509T220000
+LOCATION:ETH Alumni Pavillon
+URL:https://cssz.ch/events/startup-buffet/
+END:VEVENT
+
+END:VCALENDAR
+
