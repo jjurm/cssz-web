@@ -26,7 +26,7 @@ event_details:
       text: |
         Updates:
         - [Registration through ESN](https://zurich.esn.ch/event/2946) is now open!
-        - We no longer collect spirits (soft drinks, wine and beer are still welcome)
+        - We no longer accept bottles for free entry (the last collection is over)
 ---
 
 CSSZ invites you to a big food and liquor tasting event.
@@ -39,17 +39,21 @@ We expect **80 participants**.
 
 ## Entrance fee
 
-- Free if you bring liquor (read below), or
 - **17 CHF** for ESN Card Holders if registered by **28 April** – [register through ESN](https://zurich.esn.ch/event/2946), or
 - **20 CHF** for all if registered by **28 April** – [register through ESN](https://zurich.esn.ch/event/2946), or
-- **23 CHF** if paid at the door by Twint or cash.
+- **23 CHF** if paid at the door by Twint or cash (no change provided).
 
 The entry entitles you to **unlimited** tasting: drink as much as you want. Some snacks will be provided, too.
 
 Due to the nature of the event, only people over 18 years of age are permitted entry.
 
 
-### Bring liquor, get in for free
+### ~~Bring liquor, get in for free~~ (no longer available)
+
+**Update:** The last drink collection took place on 23 April. Purchasing a ticket is now the only way to attend the event.
+
+<details class="mb-4">
+<summary><i>Show the info anyway</i></summary>
 
 We will need a lot of help putting together the alcohol.
 If you bring drinks from Czechia or Slovakia, apart from being treated a big hero, you will also get in for free.
@@ -75,10 +79,12 @@ If you are bringing at least 4 litres of alcohol, you will get in for free. Othe
 
 You will be put on a guest list, so you don't need to purchase a ticket at the door when you present a photo ID.
 
+</details>
 
-### Pay at the door
 
-You can pay at the door by Twint or cash (no change provided).
+## Afterparty
+
+After the official end of the event at 10pm, we will move to a nearby bar or an open space (depending on the weather) for an afterparty.
 
 
 ## Disclaimer
