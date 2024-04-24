@@ -45,7 +45,7 @@ We expect **80 participants**.
 
 The entry entitles you to **unlimited** tasting: drink as much as you want. Some snacks will be provided, too.
 
-Due to the nature of the event, only people over 18 years of age are permitted entry.
+Due to the nature of the event, only people over 18 years of age are permitted entry, bring your ID for the inspection.
 
 
 ### ~~Bring liquor, get in for free~~ (no longer available)
