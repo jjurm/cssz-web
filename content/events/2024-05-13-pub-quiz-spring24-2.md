@@ -3,7 +3,7 @@ title: Pub Quiz 💡 2️⃣
 description: |
   Another brain-teasing, laughter-filled night of fun! (and beer)
 pubdate: 2024-02-15
-image: images/events/2024-05-13-pub-quiz/pub_quiz-cssz-asiz.png
+image: images/events/2023-04-03-pub-quiz/pub_quiz.png
 semesters: 2024-spring
 
 event_details:
