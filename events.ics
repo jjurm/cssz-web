@@ -29,6 +29,19 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Pub Quiz 💡 2️⃣
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/pub-quiz-spring24-2/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/e41czLvuTh6V6o9o9" target="_blank" rel="noopener">Cooper's Pub</a>\n<strong>Coordinator:</strong> Zdeněk Šnajdr (<a class="link" href="mailto:zdenek.snajdr@cssz.ch" target="_blank" rel="noopener">zdenek.snajdr@cssz.ch</a>, <a class="link" href="tel:&#43;41762254840">+41762254840</a>)\n<strong>Registration:</strong> <a href="https://forms.gle/pvTD3Wf2YE81Pwxa9" target="_blank" rel="noopener">Register here</a>\n\n🎉 The second brain-teasing, laughter-filled night of fun this semester with your favourite people from CSSZ; this time in collaboration with ASIZ (Associazione Studentesca Italiana a Zurigo)! Join us for yet another Pub Quiz night on May 6th at the one and only Oliver Twist Pub in Zurich! 🍻 🏆 Put your knowledge to the test and compete with friends or make new ones as you tackle a wide range of exciting and diverse questions.
+UID:20240513T183000-pub-quiz-spring24-2@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20240513T000000
+DTSTART:20240513T183000
+DTEND:20240513T223000
+LOCATION;ALTREP="https://maps.app.goo.gl/e41czLvuTh6V6o9o9":Cooper's Pub
+URL:https://cssz.ch/events/pub-quiz-spring24-2/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
 SUMMARY:CSSZ <> Kaya VC Startup Buffet
 DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/startup-buffet/\n<strong>Location:</strong> ETH Alumni Pavillon\n<strong>Coordinator:</strong> Zdeněk Šnajdr (<a class="link" href="mailto:zdenek.snajdr@cssz.ch" target="_blank" rel="noopener">zdenek.snajdr@cssz.ch</a>, <a class="link" href="tel:&#43;41762254840">+41762254840</a>), Radim Urban (<a class="link" href="mailto:radim.urban@cssz.ch" target="_blank" rel="noopener">radim.urban@cssz.ch</a>)\n<strong>Registration:</strong> <a href="https://lu.ma/8nagjxhq" target="_blank" rel="noopener">Register here</a>\n\nAbout the Event ​​Are you interested in startups and things around them? ​​The Czech and Slovak Students in Zurich society in collaboration with Prague-based VC fund KAYA will be co-organising a buffet dinner in ETH Alumni, at 6pm on the 9th of May. ​​You can look forward to meeting representatives from KAYA (and their portfolio) who will be happy to answer your questions, network with like-minded people and of course have some good food.
 UID:20240509T180000-startup-buffet@cssz.ch
