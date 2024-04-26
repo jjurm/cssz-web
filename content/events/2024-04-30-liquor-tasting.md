@@ -19,7 +19,10 @@ event_details:
     - radim.urban
   registration:
     link: https://zurich.esn.ch/event/2946
-    text: ESN Zürich
+    text: Non-CSSZ Members
+  registration:
+    link:  https://forms.gle/fKW92m6Vsggjx4wm7
+    text: CSSZ Members
   notes:
     - alert_type: warning
       icon: regular/bell
