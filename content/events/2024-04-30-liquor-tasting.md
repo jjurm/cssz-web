@@ -34,14 +34,16 @@ Members of the association as well as non-members are equally welcome to join.
 We'll be tasting a variety of Czech and Slovak liquor specialties, including Slivovice, Borovička, Becherovka, TATRATEA and more. As a bonus, a selection of Polish alcohol and snacks will be available, too.
 
 This event is organised in collaboration with **ESN Zürich**.  
-We expect **80 participants**.
+
+
+
+
 
 
 ## Entrance fee
-
+- If you are a CSSZ member, your entry fee is partly sponsored by CSSZ. Use this [link to register](https://forms.gle/fKW92m6Vsggjx4wm7) to register for **12CHF**.
 - **17 CHF** for ESN Card Holders if registered by **28 April** – [register through ESN](https://zurich.esn.ch/event/2946), or
-- **20 CHF** for all if registered by **28 April** – [register through ESN](https://zurich.esn.ch/event/2946), or
-- **23 CHF** if paid at the door by Twint or cash (no change provided).
+- **20 CHF** for others – [register through ESN](https://zurich.esn.ch/event/2946)
 
 The entry entitles you to **unlimited** tasting: drink as much as you want. Some snacks will be provided, too.
 
