@@ -19,13 +19,12 @@ event_details:
     - radim.urban
   registration:
     link: https://zurich.esn.ch/event/2946
-    text: Non-CSSZ Members
+    text: ESN Zurich
   notes:
     - alert_type: warning
       icon: regular/bell
       text: |
         Updates:
-        - **REGISTRATION FOR CSSZ MEMBERS** [USING THIS FORM](https://forms.gle/fKW92m6Vsggjx4wm7)
         - [Registration through ESN](https://zurich.esn.ch/event/2946) is now open!
         - We no longer accept bottles for free entry (the last collection is over)
 ---
@@ -42,7 +41,6 @@ This event is organised in collaboration with **ESN Zürich**.
 
 
 ## Entrance fee
-- If you are a CSSZ member, your entry fee is partly sponsored by CSSZ. Use this [link to register](https://forms.gle/fKW92m6Vsggjx4wm7) to register for **12CHF**.
 - **17 CHF** for ESN Card Holders if registered by **28 April** – [register through ESN](https://zurich.esn.ch/event/2946), or
 - **20 CHF** for others – [register through ESN](https://zurich.esn.ch/event/2946)
 
