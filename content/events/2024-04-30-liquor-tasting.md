@@ -20,14 +20,12 @@ event_details:
   registration:
     link: https://zurich.esn.ch/event/2946
     text: Non-CSSZ Members
-  registration:
-    link:  https://forms.gle/fKW92m6Vsggjx4wm7
-    text: CSSZ Members
   notes:
     - alert_type: warning
       icon: regular/bell
       text: |
         Updates:
+        - **REGISTRATION FOR CSSZ MEMBERS** [USING THIS FORM](https://forms.gle/fKW92m6Vsggjx4wm7)
         - [Registration through ESN](https://zurich.esn.ch/event/2946) is now open!
         - We no longer accept bottles for free entry (the last collection is over)
 ---
