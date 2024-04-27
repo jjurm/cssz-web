@@ -42,7 +42,8 @@ This event is organised in collaboration with **ESN Zürich**.
 
 ## Entrance fee
 - **17 CHF** for ESN Card Holders if registered by **28 April** – [register through ESN](https://zurich.esn.ch/event/2946), or
-- **20 CHF** for others – [register through ESN](https://zurich.esn.ch/event/2946)
+- **20 CHF** for others – [register through ESN](https://zurich.esn.ch/event/2946), or
+- **23 CHF** if paid at the door by Twint or cash (no change provided).
 
 The entry entitles you to **unlimited** tasting: drink as much as you want. Some snacks will be provided, too.
 
