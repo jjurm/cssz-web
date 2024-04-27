@@ -31,13 +31,14 @@ event_details:
 
 CSSZ invites you to a big food and liquor tasting event.
 Members of the association as well as non-members are equally welcome to join.
-We'll be tasting a variety of Czech and Slovak liquor specialties, including Slivovice, Borovička, Becherovka, TATRATEA and more. As a bonus, a selection of Polish alcohol and snacks will be available, too.
+We'll be tasting a variety of Czech, Slovak and Polish liquor specialties, including:
+- Czech and Slovak liquor: Slivovice, Becherovka, TATRATEA, Fernet, Božkov, Magister, and many more
+- Czech beer on tap
+- a selection of Polish alcohol: Zoladkowa Gorzka, Zubrovka, Krupnik, Soplica, Bialy Bocian
+- a selection of wine from the Czech region of Moravia and the Slovak region of Tokaj
+Some snacks will be provided, too.
 
-This event is organised in collaboration with **ESN Zürich**.  
-
-
-
-
+This event is organised in collaboration with **ESN Zürich**, and [Polana](https://www.instagram.com/polana.zurich/).
 
 
 ## Entrance fee
