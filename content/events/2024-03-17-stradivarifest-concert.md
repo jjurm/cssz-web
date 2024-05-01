@@ -4,6 +4,7 @@ description: |
   A concert with works by the Czech composer Antonín Dvořák.
 image: images/events/2024-03-17-stradivarifest-concert/dvorak.jpg
 semesters: 2024-spring
+pubdate: 2024-02-16
 
 event_details:
   date_start: 2024-03-17T17:00:00

@@ -4,7 +4,6 @@ description: |
   An end-of-semester lightweight trip to the beautiful Swiss hills around Gräppelensee.
 image: images/events/2024-05-05-hike-and-grill/janosch-diggelmann-KIUv0rYG8H4-unsplash.jpg
 semesters: 2024-spring
-hidden_on_homepage: true
 
 event_details:
   date_start: 2024-05-05T08:30:00

@@ -3,9 +3,8 @@ title: Liquor Tasting 🥃
 description: |
   Unlimited tasting of Czech and Slovak liquor specialties.
 image: images/events/2024-04-30-liquor-tasting/photo-1557149559-d74af2d38a1a.jpg
-pubdate: 2024-02-16
+pubdate: 2024-02-17
 semesters: 2024-spring
-pinned: true
 
 event_details:
   date_start: 2024-04-30T19:00:00
