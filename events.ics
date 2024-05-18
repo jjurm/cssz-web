@@ -29,6 +29,19 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:StradivariFEST Antonín Dvořák
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/stradivarifest-concert-2/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/aJWWkFES1q2CGvtv9" target="_blank" rel="noopener">Florhof (MKZ) - Grosser Saal</a>\n<strong>Coordinator:</strong> Zdeněk Šnajdr (<a class="link" href="mailto:zdenek.snajdr@cssz.ch" target="_blank" rel="noopener">zdenek.snajdr@cssz.ch</a>, <a class="link" href="tel:&#43;41762254840">+41762254840</a>)\n<strong>Registration:</strong> <a href="https://forms.gle/1jdudLCPcJCHCQiXA" target="_blank" rel="noopener">Google Form</a>\n\nWe have four free tickets for the first four people who register. If you qualify for a free ticket you will be contacted by email! Price for students: 10 CHF The StradivariFEST is organising a concert with works by the Czech composer Antonín Dvořák. https://stradivarifest.com/klangwellen/ DVORAK 6 Streichquintett in Es-Dur, op. 97 Streichsextett in A-Dur, op. 48 Zürich | Musikschule Konservatorium Zürich | Grosser Saal Sunday, 26.05.2024 16.15 - Prélude
+UID:20240526T170000-stradivarifest-concert-2@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20240526T000000
+DTSTART:20240526T170000
+DTEND:20240526T190000
+LOCATION;ALTREP="https://maps.app.goo.gl/aJWWkFES1q2CGvtv9":Florhof (MKZ) - Grosser Saal
+URL:https://cssz.ch/events/stradivarifest-concert-2/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
 SUMMARY:Pub Quiz 💡 2️⃣
 DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/pub-quiz-spring24-2/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/Ev2RV8rR6wfTSUo17" target="_blank" rel="noopener">The Willow Yard Pub</a>\n<strong>Coordinator:</strong> Zdeněk Šnajdr (<a class="link" href="mailto:zdenek.snajdr@cssz.ch" target="_blank" rel="noopener">zdenek.snajdr@cssz.ch</a>, <a class="link" href="tel:&#43;41762254840">+41762254840</a>)\n<strong>Registration:</strong> <a href="https://forms.gle/pvTD3Wf2YE81Pwxa9" target="_blank" rel="noopener">Register here</a>\n<strong>Notes:</strong>\n• Important: Due to an event mix-up in the pub the event will take place in The Willow Yard Pub (see Location). There will be bus from Cooper&rsquo;s Pub to The Willow Yard Pub departing at 19:00. After the event the bus will take us back to Cooper&rsquo;s Pub. You can either take this bus or arrive individually.\n\n🎉 The second brain-teasing, laughter-filled night of fun this semester with your favourite people from CSSZ; this time in collaboration with ASIZ (Associazione Studentesca Italiana a Zurigo)! Join us for yet another Pub Quiz night on May 6th at the one and only Oliver Twist Pub in Zurich! 🍻 🏆 Put your knowledge to the test and compete with friends or make new ones as you tackle a wide range of exciting and diverse questions.
 UID:20240513T183000-pub-quiz-spring24-2@cssz.ch
