@@ -7,8 +7,8 @@ semesters: 2024-autumn
 pubdate: 2024-09-01
 
 event_details:
-  date_start: 2024-08-27T06:40:00
-  date_end: 2024-08-27T20:00:00
+  date_start: 2024-09-01T06:40:00
+  date_end: 2024-09-01T20:00:00
   location:
     text: Urnerboden to Glattalp
     link: https://en.mapy.cz/s/bodeharoha
