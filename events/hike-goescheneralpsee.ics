@@ -32,12 +32,12 @@ BEGIN:VEVENT
 ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
 SUMMARY:Challenging Hike to Göscheneralpsee
 DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/hike-goescheneralpsee/\n<strong>Location:</strong> <a href="https://en.mapy.cz/s/pucakujeke" target="_blank" rel="noopener">Wiggen to Göscheneralp</a>\n<strong>Coordinator:</strong> Juraj Mičko (<a class="link" href="mailto:juraj.micko@cssz.ch" target="_blank" rel="noopener">juraj.micko@cssz.ch</a>, <a class="link" href="tel:&#43;41762639679">+41762639679</a>)\n<strong>Registration:</strong> <a href="https://chat.whatsapp.com/ETYvCKYC8dz2c35z4bIYV6" target="_blank" rel="noopener">WhatsApp group</a>\n\n<p>This time we will hike to the Göscheneralpsee, a beautiful lake surrounded by high mountains. The hike is estimated to be very <strong>difficult</strong>, with 8 hours worth of hike planned for 7:30 hours including breaks and lunch. So, be prepared for a challenging day with a faster pace.</p>
-UID:20240827T080000-hike-goescheneralpsee@cssz.ch
+UID:20240827T070000-hike-goescheneralpsee@cssz.ch
 SEQUENCE:0
 STATUS:CONFIRMED
 DTSTAMP:20240827T000000
-DTSTART:20240827T080000
-DTEND:20240827T203000
+DTSTART:20240827T070000
+DTEND:20240827T200000
 LOCATION;ALTREP="https://en.mapy.cz/s/pucakujeke":Wiggen to Göscheneralp
 URL:https://cssz.ch/events/hike-goescheneralpsee/
 END:VEVENT
