@@ -7,8 +7,8 @@ semesters: 2024-autumn
 pubdate: 2024-08-11
 
 event_details:
-  date_start: 2024-08-27T08:00:00
-  date_end: 2024-08-27T20:30:00
+  date_start: 2024-08-27T07:00:00
+  date_end: 2024-08-27T20:00:00
   location:
     text: Wiggen to Göscheneralp
     link: https://en.mapy.cz/s/pucakujeke
