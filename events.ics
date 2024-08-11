@@ -31,12 +31,12 @@ BEGIN:VEVENT
 ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
 SUMMARY:Hike Via Glaralpina, Etappe 07
 DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/hike-via-glaralpina-etappe-07/\n<strong>Location:</strong> <a href="https://en.mapy.cz/s/bodeharoha" target="_blank" rel="noopener">Urnerboden to Glattalp</a>\n<strong>Coordinator:</strong> Juraj Mičko (<a class="link" href="mailto:juraj.micko@cssz.ch" target="_blank" rel="noopener">juraj.micko@cssz.ch</a>, <a class="link" href="tel:&#43;41762639679">+41762639679</a>)\n<strong>Registration:</strong> <a href="https://chat.whatsapp.com/H4HkgkpoBMMC8dzLpuze0Y" target="_blank" rel="noopener">WhatsApp group</a>\n\n<p>A more chill hike this time, but still with a good amount of uphill.</p>
-UID:20240827T064000-hike-via-glaralpina-etappe-07@cssz.ch
+UID:20240901T064000-hike-via-glaralpina-etappe-07@cssz.ch
 SEQUENCE:0
 STATUS:CONFIRMED
 DTSTAMP:20240901T000000
-DTSTART:20240827T064000
-DTEND:20240827T200000
+DTSTART:20240901T064000
+DTEND:20240901T200000
 LOCATION;ALTREP="https://en.mapy.cz/s/bodeharoha":Urnerboden to Glattalp
 URL:https://cssz.ch/events/hike-via-glaralpina-etappe-07/
 END:VEVENT
