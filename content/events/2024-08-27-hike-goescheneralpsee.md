@@ -26,6 +26,8 @@ This time we will hike to the Göscheneralpsee, a beautiful lake surrounded by h
 
 07:05 -- 09:27 ([Zürich HB → Göschenen, Abzw. Voralp](https://www.sbb.ch/en?date=%222024-08-27%22&moment=%22DEPARTURE%22&p_cursor=%22M3xPQnxNVMK1MTTCtTM3OTIwNcK1Mzc5MjA1wrUzNzkzNDfCtTM3OTM0N8K1MMK1MMK1MTY1wrUzNzkxNzjCtTHCtTDCtTLCtTDCtTDCtS0yMTQ3NDgzNjQ4wrUxwrUyfFBESMK1ZGQ4ZjNhNjdjYzI2ZDEyMzI1ZDliMzE2ZWZjZGRmNTB8UkTCtTI3MDgyMDI0fFJUwrU3MzgwMHxVU8K1MHxSU8K1SU5JVA%3D%3D%22&selected_trip=1&stops=%5B%7B%22value%22%3A%228503000%22%2C%22type%22%3A%22ID%22%2C%22label%22%3A%22Z%C3%BCrich%20HB%22%7D%2C%7B%22value%22%3A%228573111%22%2C%22type%22%3A%22ID%22%2C%22label%22%3A%22G%C3%B6schenen%2C%20Abzw.%20Voralp%22%7D%5D&time=%2207%3A38%22))
 
+Return point-to-point ticket with Half-Fare Card costs CHF 50.40.
+
 ## Planned route
 
 **Total distance:** 14.5 km  
