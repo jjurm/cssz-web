@@ -4,6 +4,7 @@ description: |
   Hikes, food meetups, ski trips - Planning the HS24 Semester and electing new board!
 image: images/events/2023-09-18-welcome-to-autumn23/unsplash-zurich-polyterrasse.jpg
 semesters: 2024-autumn
+pinned: true 
 embed_semester_events: 2024-autumn
 ---
 
