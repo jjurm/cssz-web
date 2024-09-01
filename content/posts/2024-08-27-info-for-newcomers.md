@@ -1,8 +1,8 @@
 ---
-title: Information for Czech&Slovak newcomers!
+title: Welcome to Zurich! Information for Czech and Slovak newcomers!
 description: |
   The following page contains information specifically for Czech and Slovak students coming to Switzerland for studies. 
-date: 2024-08-27
+date: 2024-09-01
 url: /newcomers
 draft: true
 menu:
@@ -40,16 +40,74 @@ Po tomto termínu budete poslání na migrační úřad (Migrationsamt Zürich),
 
 ## Bankovní účet
 
+Snad všechny banky nabízí výhodné podmínky pro studenty. Zde je přehled hlavních bank a jejich nabídky studentských účtů: Credit Suisse, UBS, Zürcher Kantonalbank (ZKB), PostFinance. Mezi další možnosti patří i digitální banky jako například Neon. K otevření bankovního účtu ve Švýcarsku studenti obvykle potřebují platné povolení k pobytu, doklad totožnosti a studentský průkaz.
+
+- [Credit Suisse Young](https://csx.credit-suisse.com/en/account-card/csx/csx-young.html)
+- [UBS key4 Students](https://www.ubs.com/ch/en/private/accounts-and-cards/bundles/students.html)
+- [Zürcher Kantonalbank (ZKB) for Students](https://www.zkb.ch/de/private/konten-karten/pakete-jugendliche-studierende/zkb-student.html)
+- [PostFinance](https://www.postfinance.ch/en/private/paying-saving/banking-packages-accounts/student-account.html)
+- [Neon](https://www.neon-free.ch/en/)
+
+
 ## Náklady na studium
+
+Následující tabulka shrnuje oficiální **odhad** nákladů na studium pro mezinárodní studenty na ETH. Rozdíl na UZH je minimální. Jedná se o orientační čísla (spíše přestřelená), která se mohou lišit podle konkrétních potřeb a životního stylu studenta.
+
+| **Category**                                | **Cost per Month (CHF)** | **Cost per Year (CHF)** |
+|---------------------------------------------|--------------------------|-------------------------|
+| **Compulsory Study Costs (per semester)**   |                          |                         |
+| Tuition fee (including exam fees)           | -                        | 730                     |
+| [ASVZ](http://asvz.ch) + Scholarship Fund + [VSETH](https://vseth.ethz.ch/en)             | -                        | 74                     |
+| **Total Compulsory Study Costs (per semester)** |                        | **804**                 |
+||||
+| **Living Costs Estimate**                 |                          |                         |
+| Rent (room incl. heating, etc.)             | 944                      | 11,300                  |
+| Meals (including cafeteria)                 | 600                      | 7,200                   |
+| Public transport (tramways, bus > Zurich City) | ~49                    | ~586                    |
+| Health insurance                            | *(informace o pojištění níže)*      | ~150 |
+| Individual expenses                         | 200                      | 2400                 |
+||||
+| **Total Study and Living Costs**            |   ~1,870                | ~22,440                 |
+
+
+Více informací o finanční náročnosti studia, ale i možných způsobech financování na [UZH zde](https://www.internationals.uzh.ch/en/living-in-zurich/cost-of-living.html) a [ETH zde](https://ethz.ch/students/en/studies/financial.html).
+
+## ETH Stipendium
+ETH Zurich nabízí stipendia zahraničním studentům jako sekundární zdroj finanční pomoci. Tato stipendia jsou určena k doplnění dalších zdrojů financování, jako jsou stipendia z domovské země studenta, a nepokrývají plné náklady na život a studium v ​​Curychu.
+
+### Kritéria způsobilosti
+- **Studenti bakalářského studia**: Nešvýcarští studenti BSc jsou způsobilí po úspěšném složení všech částí zkoušek z prvního ročníku (Basisjahr).
+- **Magisterští studenti**: Nešvýcarští studenti magisterského studia, kteří nemají bakalářský titul ETH Zurich, jsou způsobilí po dokončení alespoň 40 kreditů v předchozím roce magisterského studia.
+- Stipendia se udělují do konce řádné doby studia plus další dva semestry.
+
+### Proces žádosti
+- Termín přihlášek pro akademický rok 2024/25 je **od 1. září do 31. října 2024**.
+- Přihlášky je nutné podat elektronicky přes portál eStip, kam je potřeba nahrát všechny potřebné dokumenty ve formátu PDF.
+
+
+Další podrobnosti najdete na [webové stránce finanční pomoci ETH Zurich](https://www.ethz.ch/studies/financial).
+
 
 ## Pojištění
 
+Studenti ze zemí EU s „Evropským průkazem zdravotního pojištění“ (EHIC) mohou ve Švýcarsku požádat o výjimku z jinak povinného zdravotního pojištění. O tuto výjimku je třeba požádat do do tří měsíců po příjezdu do Švýcarska. K vyplnění žádosti budete potřebovat digitální kopie následujících dokumentů:
+
+1. **Povolení k pobytu**: Naskenujte přední i zadní stranu. Pokud toto povolení ještě nemáte, poskytněte potvrzení o registraci („Meldebestätigung“).
+2. **Evropská karta zdravotního pojištění**.
+3. **Potvrzení o zápisu ke studiu**: To slouží jako důkaz o vašem zápisu na ETH Zurich.
+
+Po shromáždění těchto dokumentů vyplňte [online formulář](https://svazurich.ch/) SVA Zurich.
+
+**Důležitá poznámka**: Osvobození je platné pouze v případě, že nemáte žádný příjem. Pokud začnete pobírat plat, bez ohledu na jeho výši, budete muset získat zdravotní pojištění – buď studentský balíček pojištění (jako studenti mimo EU), nebo švýcarské pojištění KVG.
+
+- více informací [zde](https://ethz.ch/en/studies/international/after-arrival/health-insurance.html)
+
 ## SIM karta a internet
+
+
 
 ## Veřejná doprava
 
-## Užitečné odkazy
 
-## FAQ
 
 
