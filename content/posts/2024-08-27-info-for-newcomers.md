@@ -30,10 +30,10 @@ Ani Češi ani Slováci vízum k pobytu ve Švýcarsku nepotřebují. Všichni o
 - pas nebo občanku
 - rozšířené potvrzení o studiu (dostupné v portálu mystudies.ethz.ch)
 - nájemní smlouvu (potvrzení o bydlení)
-- 110,-CHF (70,-CHF za povolení k pobytu a 40,-CHF za registraci)
+- 110 CHF (70 CHF za povolení k pobytu a 40 CHF za registraci)
 - důkaz o dostatečných finančních prostředcích, což je buď:
-  - dopis od rodičů, ve kterém potrvzují, že jste jejich dítě a že vás budou finančně podporovat částkou 1.750,-CHF měsíčně, a nebo
-  - bankovní výpis se zůstatkem aspoň 21.000,-CHF
+  - dopis od rodičů, ve kterém potrvzují, že jste jejich dítě a že vás budou finančně podporovat částkou 1.750 CHF měsíčně, a nebo
+  - bankovní výpis se zůstatkem aspoň 21.000 CHF
 
 Po tomto termínu budete poslání na migrační úřad (Migrationsamt Zürich), kde vám budou odebrány biometrické údaje. Povolení k pobytu je kartička, kterou dostane pár týdnů po tomto termínu. Povolení k pobytu je nutné obnovit každý rok.
 
