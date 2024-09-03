@@ -15,7 +15,7 @@ image: images/posts/2024-08-27-info-for-newcomers/zurich.jpeg
 > Na této stránce najdete všechny potřebné informace ohledně ubytování, bankovnictví, pojištění, SIM karet a veřejné dopravy v Curychu. Pokud máte jakékoliv dotazy, neváhejte nás kontaktovat. Informace na této stránce mají tendenci se rychle měnit. Pokud naleznete nepřesné nebo nekompletní informace, dejte nám vědět na info@cssz.ch.
 
 ## Ubytování
-Sehnat ubytování v Curychu může být velmi složité, vyplácí se proto začít včas, ideálně aspoň 2-4 měsíce před začátkem studia, protože potávka po studentském bydlení je extrémně vysoká. Studenti EHT/UZH bydlí převážně ve sdílených bytech (WG). Nejpopulárnější webové stránky pro hledání ubytování jsou: 
+Sehnat ubytování v Curychu může být velmi složité, vyplácí se proto začít včas, ideálně aspoň 2-4 měsíce před začátkem studia, protože potávka po studentském bydlení je extrémně vysoká. Studenti ETH/UZH bydlí převážně ve sdílených bytech (WG). Nejpopulárnější webové stránky pro hledání ubytování jsou: 
 - [**WOKO**](https://www.woko.ch/) je nejoblíbenějším poskytovatelem studentského ubytování v Curychu a organizace nabízející některé z nejdostupnějších možností studentského bydlení, včetně jednolůžkových pokojů, sdílených bytů a studií. Chcete-li si pronajmout pokoj od WOKO nebo Juwo, musíte být zapsáni na univerzitě v Curychu a mladší 28 let, běžně označované jako [kritéria Woko](https://www.woko.ch/files/documents/6730/renting-kritéria.pdf).
 - [**Juwo**](https://juwo.ch/) (Jugendwohnnetz) je organizace poskytující dostupné možnosti bydlení pro studenty ve věku 16 – 25 let a nabízí řadu různých možností bydlení, včetně bytů, sdílených bytů a společných bydlení. Platí stejná kritéria jako u WOKO.
 - [**WG Zimmer**](https://www.wgzimmer.ch/) je portál na hledání sdíleného bydlení.
@@ -23,7 +23,7 @@ Sehnat ubytování v Curychu může být velmi složité, vyplácí se proto za�
 
 Pro studenty ETH existuje možnost pokusit se sehnat pokoj na kampusu Höngerrberg ve [**Student Village**](https://studentvillage.ch) nebo [**Living Science**](https://www.livingscience.ch/living-and-studying-zurich/?L=1). Největší šance je sledovat společnou [Facebookovou skupinu](https://www.facebook.com/groups/ETHZ.Studentenwohnung/) obou objektů, kde stávající studenti nabízejí volné pokoje.
 
-Pomoct umí občas i [**Housing Office ETH/UZH**](https://www.wohnen.ethz.ch/en), která poskytuje vyhledávací portálu a někdy i přiděluje byty / pokoje zahraničním studentům, doktorandům, profesorům a akademickým hostům ETH/UZH.
+Pomoct umí občas i [**Housing Office ETH/UZH**](https://www.wohnen.ethz.ch/en), která poskytuje vyhledávací portál a někdy i přiděluje byty / pokoje zahraničním studentům, doktorandům, profesorům a akademickým hostům ETH/UZH.
 
 ## Povolení k pobytu
 Ani Češi ani Slováci vízum k pobytu ve Švýcarsku nepotřebují. Všichni ovšem potrebují povolení k pobytu (Residence Permit / Aufenthaltsbewilligung). O povolení k pobytu je nutné zažádat **do 14 dnů** od příjezdu do Švýcarska na úřadě pro hlášení obyvatel (Personenmeldeamt Zürich). O termín je možno zažádat na [tomto odkaze](https://www.etermin.net/studentadministration). S sebou si vezměte:
