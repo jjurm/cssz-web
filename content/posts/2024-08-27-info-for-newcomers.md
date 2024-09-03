@@ -4,15 +4,15 @@ description: |
   The following page contains information specifically for Czech and Slovak students coming to Switzerland for studies. 
 date: 2024-09-01
 url: /newcomers
-draft: true
+draft: false
 menu:
   main:
     weight: 50
-    name: For newcomers
+    name: Info for newcomers
 image: images/posts/2024-08-27-info-for-newcomers/zurich.jpeg
 ---
 
-> Na této stránce najdete všechny potřebné informace ohledně ubytování, bankovnictví, pojištění, SIM karet a veřejné dopravy v Curychu. Pokud máte jakékoliv dotazy, neváhejte nás kontaktovat. 
+> Na této stránce najdete všechny potřebné informace ohledně ubytování, bankovnictví, pojištění, SIM karet a veřejné dopravy v Curychu. Pokud máte jakékoliv dotazy, neváhejte nás kontaktovat. Informace na této stránce mají tendenci se rychle měnit. Pokud naleznete nepřesné nebo nekompletní informace, dejte nám vědět na info@cssz.ch.
 
 ## Ubytování
 Sehnat ubytování v Curychu může být velmi složité, vyplácí se proto začít včas, ideálně aspoň 2-4 měsíce před začátkem studia, protože potávka po studentském bydlení je extrémně vysoká. Studenti EHT/UZH bydlí převážně ve sdílených bytech (WG). Nejpopulárnější webové stránky pro hledání ubytování jsou: 
