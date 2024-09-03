@@ -21,9 +21,9 @@ Sehnat ubytování v Curychu může být velmi složité, vyplácí se proto za�
 - [**WG Zimmer**](https://www.wgzimmer.ch/) je portál na hledání sdíleného bydlení.
 - [**Flatfox**](https://flatfox.ch/) je další alternativa k WG Zimmer.
 
-Pro studenty ETH existuje možnost pokusit se sehnat pokoj na kampusu Höngerberg ve [**Student Village**](https://studentvillage.ch) nebo [**Living Science**](https://www.livingscience.ch/living-and-studying-zurich/?L=1). Největší šance je sledovat společnou [Facebookovou skupinu](https://www.facebook.com/groups/ETHZ.Studentenwohnung/) obou objektů, kde stávající studenti nabízejí volné pokoje.
+Pro studenty ETH existuje možnost pokusit se sehnat pokoj na kampusu Höngerrberg ve [**Student Village**](https://studentvillage.ch) nebo [**Living Science**](https://www.livingscience.ch/living-and-studying-zurich/?L=1). Největší šance je sledovat společnou [Facebookovou skupinu](https://www.facebook.com/groups/ETHZ.Studentenwohnung/) obou objektů, kde stávající studenti nabízejí volné pokoje.
 
-Pomoct umí občas i [**Housing Office ETH/UZH**](https://www.wohnen.ethz.ch/en), který poskytováním vyhledávacího portálu a někdy i přiděluje byty, nebo pokoje zahraničním studentům, doktorandům, profesorům a akademickým hostům ETH/UZH.
+Pomoct umí občas i [**Housing Office ETH/UZH**](https://www.wohnen.ethz.ch/en), která poskytuje vyhledávací portálu a někdy i přiděluje byty / pokoje zahraničním studentům, doktorandům, profesorům a akademickým hostům ETH/UZH.
 
 ## Povolení k pobytu
 Ani Češi ani Slováci vízum k pobytu ve Švýcarsku nepotřebují. Všichni ovšem potrebují povolení k pobytu (Residence Permit / Aufenthaltsbewilligung). O povolení k pobytu je nutné zažádat **do 14 dnů** od příjezdu do Švýcarska na úřadě pro hlášení obyvatel (Personenmeldeamt Zürich). O termín je možno zažádat na [tomto odkaze](https://www.etermin.net/studentadministration). S sebou si vezměte:
