@@ -12,7 +12,7 @@ Hey all,
 
 We wish you a great start to the new semester! We have a lot of exciting events planned for you this semester. We would be delighted if you joined us at any of them. More details are coming later at the beginning of the semester. You can find a rough outline below. Make sure to [sign up for our newsletter](https://docs.google.com/forms/d/e/1FAIpQLSeo2aFQFMGMKH2_5Mt2Kh2Z8TsMb0cf2ykdRiKz9vMHPpgHMQ/viewform) to stay in the loop. 
 
-This year the **AGM will take place online on September 12**. We will be electing the new board and organizing team. If you want to participate, sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSf4cSVzluHUELZy2cXoQJNROBzs9AqJAAFjoQyPVmFxeRMftw/viewform?usp=sf_link). Shortly after, we will also publish the specific planned events for the next semester.
+This year the **AGM will take place online on September 13**. We will be electing the new board and organizing team. If you want to participate, sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSf4cSVzluHUELZy2cXoQJNROBzs9AqJAAFjoQyPVmFxeRMftw/viewform?usp=sf_link). Shortly after, we will also publish the specific planned events for the next semester.
 
 And if you’re interested in joining our team, we’d love to hear from you - more below!
 

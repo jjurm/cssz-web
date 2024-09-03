@@ -102,12 +102,37 @@ Po shromáždění těchto dokumentů vyplňte [online formulář](https://svazu
 
 - více informací [zde](https://ethz.ch/en/studies/international/after-arrival/health-insurance.html)
 
-## SIM karta a internet
+## SIM karta
 
+Níže nabízíme seznam populárních mobilních operátorů a odkaz na jejich nabídky. Konkrétní nabídky se často mění, proto doporučujeme navštívit webové stránky operátorů pro aktuální informace. 
 
+Nejpopulárnější:
+- [**Swisscom**](https://www.swisscom.ch/en/residential/mobile-subscription.html)
+- [**Salt**](https://www.salt.ch/en/)
+- [**Sunrise**](https://www.sunrise.ch/business/de/shop/mobile-abos)
+- [**Yallo**](https://www.yallo.ch/en)
+- [**Swype**](https://www.swype.ch/en)
+
+Ostatní:
+- [**M-Budget**](https://www.m-budget-mobile.ch/en)
+- [**Coop Mobile**](https://www.coopmobile.ch/de/mobile-abo)
+- [**Lebara**](https://www.lebara.ch/en)
+- [**Lycamobile**](https://www.lycamobile.ch/en)
+- [**Wingo**](https://www.wingo.ch/en)
+- [**Aldi Suisse**](https://www.aldi-mobile.ch/en)
+- [**TalkTalk**](https://www.talktalk.ch/en)
+- [**Lidl Connect**](https://www.lidl-connect.ch/de)
 
 ## Veřejná doprava
 
+ZVV (Zürcher Verkehrsverbund) je společnost, která spravuje veřejnou dopravu v kantonu Curych. ZVV nabízí měsíční a roční předplatné. Kompletní informace o cenách a typech předplatného najdete na [webových stránkách ZVV](https://www.zvv.ch/zvv/en/travelcards-and-tickets.html). Zde je shrnutí pro studenty do 25 let.
 
+| **Typ předplátného** | **Doba platnosti** | **Cena** |
+|----------------------|---------------------|----------|
+| 1–2 zones | 1 **month** | 63.00 CHF |
+| 1–2 zones | 1 **year** | 586.00 CHF |
 
+Často využívané alternativy:
 
+- **[Night GA Travelcard](https://www.sbb.ch/en/tickets-offers/travelcards/ga-travelcard/night-ga-travelcard.html)**: Pro ty, kteří cestují především ve večerních hodinách, je Night GA Travelcard skvělou volbou. Nabízí neomezené cestování všemi druhy dopravy v rámci sítě ZVV po 19:00 a platí napříč všemi tarifními zónami ZVV za 99 CHF ročně.
+- **[Half Fare Travelcard (Halbtax)](https://www.sbb.ch/en/tickets-offers/travelcards/half-fare-travelcard.html)**: Tato cestovní karta vám umožní užít si cestování po Švýcarsku za poloviční cenu za 190 CHF ročně. Počínaje druhým rokem můžete ušetřit dalších 20 CHF, když si obnovíte cestovní kartu s polovičním tarifem.
