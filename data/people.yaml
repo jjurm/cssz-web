@@ -77,6 +77,8 @@ all:
   - id: ondrej.cernin
     name: Ondřej Černín
     role: Infrastructure & Events Support
+    about: Ondřej studied MSc Computational Science and Engineering. If he's not behind a computer screen, you'll find him hiking in the mountains with his camera or in the forest preparing for his next orienteering race.
+    image: images/members/ondrej-cernin.jpg
 
 board:
   - zdenek.snajdr
@@ -87,7 +89,7 @@ board:
   
 team:
   - juraj.micko
-  - vu.nguyen
   - timon.fopp
   - emma.hubekova
   - ondrej.cernin
+  - vu.nguyen
