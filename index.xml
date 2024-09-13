@@ -1883,7 +1883,7 @@ We hope you will find the association useful and fun!&lt;/p&gt;
             &lt;div class=&#34;col-9&#34;&gt;
                     &lt;h2&gt;Zdeněk Šnajdr&lt;/h2&gt;
                     &lt;strong&gt;President&lt;/strong&gt;
-                    &lt;p class=&#34;about-person&#34;&gt;Zdeněk studies BSc Computer Science at ETH Zurich. He enjoys traveling and and likes swimming and learning new languages.&lt;/p&gt;
+                    &lt;p class=&#34;about-person&#34;&gt;Zdeněk studies MSc Computer Science at ETH Zurich. He enjoys traveling and and likes swimming and learning new languages.&lt;/p&gt;
                     &lt;a href=&#34;mailto:zdenek.snajdr@cssz.ch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;zdenek.snajdr@cssz.ch&lt;/a&gt;
             &lt;/div&gt;
         &lt;/div&gt;
@@ -1943,11 +1943,25 @@ We hope you will find the association useful and fun!&lt;/p&gt;
 
     
         &lt;div class=&#34;person row&#34;&gt;
-            &lt;div class=&#34;col-3&#34;&gt;&lt;/div&gt;
+            &lt;div class=&#34;col-3&#34;&gt;&lt;picture class=&#34;img&#34; style=&#34;background: url(data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIABQAFAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5&amp;#43;gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4&amp;#43;Tl5ufo6ery8/T19vf4&amp;#43;fr/2gAMAwEAAhEDEQA/APVtkeeorntE8ZaNr&amp;#43;q3mn2RmEltkh5EwkwBwSh7gHH5ivOdW8dzQ2Lix1ASyvlAVXIHr1GKpeFfFk8upJC0SQOIikT4BCjH3R65AH5V3czurM51Tjyts9wM0IPUUefD6ivPW1oo7I&amp;#43;owK4PKuQCPqDSf24P&amp;#43;gpbf99rWmnczt5HjOuy41WaJFVIo2IRFzgD&amp;#43;daPh2Rk121KsVPmLypIIyccEcjg1l67/wAhq6/3zWj4f/5Dlp/10T/0KudHWz1W91W40m7e0gCvGuCDNl25HqTVf/hKL7/nnb/98H/GofEP/IZl&amp;#43;g/lWXRKck2kzFRTVz//2Q==); background-size: cover; display: inline;&#34;&gt;
+            &lt;source srcset=&#39;https://cssz.ch/images/members/michal-krkoska_hu5878565977fc070d102127f446431696_79760_6d11b4c74f5b759ffe18b1c7048415f4.webp 180w, https://cssz.ch/images/members/michal-krkoska_hu5878565977fc070d102127f446431696_79760_827b6f215d3ec316e7a14786f5ffa310.webp 360w, https://cssz.ch/images/members/michal-krkoska_hu5878565977fc070d102127f446431696_79760_4fe5ecede287a389383367650459ef82.webp 128w, https://cssz.ch/images/members/michal-krkoska_hu5878565977fc070d102127f446431696_79760_29aa0abdf2c6c171ed20ca6bc96b2bba.webp 205w, https://cssz.ch/images/members/michal-krkoska_hu5878565977fc070d102127f446431696_79760_9fab3772f3da0cdcd8955c7e17f26886.webp 320w&#39;
+                    sizes=&#34;(max-width: 180px) 100vw, 180px&#34;
+                    type=&#34;image/webp&#34;
+            /&gt;&lt;source srcset=&#39;https://cssz.ch/images/members/michal-krkoska_hu5878565977fc070d102127f446431696_79760_f629fd1b57659af656a3d8742e68ea60.jpeg 180w, https://cssz.ch/images/members/michal-krkoska_hu5878565977fc070d102127f446431696_79760_7e90b823b6ed0c896da4629fbc83a966.jpeg 360w, https://cssz.ch/images/members/michal-krkoska_hu5878565977fc070d102127f446431696_79760_03f86bd60be13bcbfc9cbd93f20abfa4.jpeg 128w, https://cssz.ch/images/members/michal-krkoska_hu5878565977fc070d102127f446431696_79760_d7aafba02e25e875f9e32bdedb2bad4c.jpeg 205w, https://cssz.ch/images/members/michal-krkoska_hu5878565977fc070d102127f446431696_79760_51bd591a12d6728cab9fa642141ead8c.jpeg 320w&#39;
+                    sizes=&#34;(max-width: 180px) 100vw, 180px&#34;
+                    type=&#34;image/jpeg&#34;
+            /&gt;&lt;img src=&#34;https://cssz.ch/images/members/michal-krkoska_hu5878565977fc070d102127f446431696_79760_f629fd1b57659af656a3d8742e68ea60.jpeg&#34;
+                 width=&#34;180&#34;
+                 height=&#34;180&#34;
+                 
+                 
+                 
+                 
+            /&gt;&lt;/picture&gt;&lt;/div&gt;
             &lt;div class=&#34;col-9&#34;&gt;
                     &lt;h2&gt;Michal Krkoška&lt;/h2&gt;
                     &lt;strong&gt;Events&lt;/strong&gt;
-                    &lt;p class=&#34;about-person&#34;&gt;&lt;/p&gt;
+                    &lt;p class=&#34;about-person&#34;&gt;Michal is studying MSc Data Science at ETH Zurich, after a BSc in Computer Science at TU Delft. He enjoys skiing, traveling, and discovering new cultures.&lt;/p&gt;
                     &lt;a href=&#34;mailto:michal.krkoska@cssz.ch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;michal.krkoska@cssz.ch&lt;/a&gt;
             &lt;/div&gt;
         &lt;/div&gt;
@@ -2083,6 +2097,44 @@ We hope you will find the association useful and fun!&lt;/p&gt;
                     &lt;p class=&#34;about-person&#34;&gt;Timon studies BSc Business Informatics at University of Zurich (UZH). He likes playing volleyball, the guitar, riding his motorcycle, travelling and especially loves meeting nice people all over the world.
 &lt;/p&gt;
                     &lt;a href=&#34;mailto:timon.fopp@cssz.ch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;timon.fopp@cssz.ch&lt;/a&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    
+
+    
+        &lt;div class=&#34;person row&#34;&gt;
+            &lt;div class=&#34;col-3&#34;&gt;&lt;picture class=&#34;img&#34; style=&#34;background: url(data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAADVElEQVR4nFyVyS51QRSF1y1H3/dNggESPRFiIEYYMTKQCInwBF4Cb2HkHQxMDI6JhAiCiL6P/ur7&amp;#43;&amp;#43;fbSYn8O6ncc07tbq21q24QhmEsFovJOae4uDjxHASBFhYWNDU1pZaWFg0MDCgvL0&amp;#43;Xl5eanZ3VxsaGIpGI7RcXF&amp;#43;vz8zPmnIs456Lu&amp;#43;/tbrK&amp;#43;vLzaEPTw8aGZmRunp6erv71d1dbVqa2vV3d2tkZER/fz86OjoyIrGx8dbDAUw9/HxIdbfhDguLS2ZM8FpaWnKzc1Vfn6&amp;#43;ampqVFFRYXvHx8e6v783ZD5p8Pb2Zi98TEhI0MXFhcIwVGlpqSVaWVmxgl1dXVpeXlZiYqKSk5OtgYODA&amp;#43;3v76upqcl8rMPX11exSAx/i4uLuru7swLNzc3q7OxURkaGBVxdXdleY2Oj0XR9fa3NzU17/oVMIhIClwDgPj09WQJgIgoiZWVlaWxsTD09PWpoaFBbW5t1u7u7q&amp;#43;fnZ2vgFzI8YWxSzSff29uzXxLi8/7&amp;#43;boLBL1MBj7e3t7YQ0KaFbnA8PDzU&amp;#43;vq6VSooKFB2drYpSVKIp1g0GtX29ramp6d1dnb2yznPGM0EwIULHElORycnJwZna2vLZm5wcNAEenl50dzcnHXLXAKVZlh8A7KDZIg9Pz&amp;#43;3Sqg7Pj5usKuqqnRzc2NKn56ean5&amp;#43;Xjs7OyoqKrKRobvCwkJTnGagIKAboKSkpKiurk5DQ0MmyMTEhFZXVzU6OmrOdLO2tmbTgC8xCJWUlKTHx0eLsVMGT3Q1OTlpA0sgc8hslZeXW2BOTo4lQxw4BjqdAZHuWPAHbMeQcqRIxsfU1FQLYvX19dnoAJMgjiFn1w823CEMtJDcOhweHlZvb68lYxSw9vZ2OwU4tLa2qqyszIQDIgkoBlR4ZowYGRYW1NfX2wscUBkjiACKEIyiwIZviKcQqpOQjisrK61bYhwbGC9wgDO8kZSO/YUBfwTxi/olJSVGD1zSJWJRPMDh71mEGxLjSEL2KYIBGRT4ZmZmWuf4M7t2jp2T3YfecKQKc0bH3slfT1xfiIfKnGfGh2fuSwqYKH7CvfGR9febN3zhmzsRoTgIFAANRdkPfLDNkHP2/H8y7wOHBHZ0dNg4ARlR/F8HaP8FAAD//50qQKcZiq0&amp;#43;AAAAAElFTkSuQmCC); background-size: cover; display: inline;&#34;&gt;
+            &lt;source srcset=&#39;https://cssz.ch/images/members/emma-hubekova_hu5531aa644ce180a9b96ed7b7cf8fa055_631074_68d463e3692504a8bfd32585518acb90.webp 180w, https://cssz.ch/images/members/emma-hubekova_hu5531aa644ce180a9b96ed7b7cf8fa055_631074_eb8311539799feb2277432aaa63c6c5b.webp 360w, https://cssz.ch/images/members/emma-hubekova_hu5531aa644ce180a9b96ed7b7cf8fa055_631074_d2d4bf15396e8cc220601b4032f81497.webp 128w, https://cssz.ch/images/members/emma-hubekova_hu5531aa644ce180a9b96ed7b7cf8fa055_631074_57a7ca9de89b61900c0f9889b149ab66.webp 205w, https://cssz.ch/images/members/emma-hubekova_hu5531aa644ce180a9b96ed7b7cf8fa055_631074_ba8edfe4eb3d22cbe8d5053c2abc4f21.webp 320w&#39;
+                    sizes=&#34;(max-width: 180px) 100vw, 180px&#34;
+                    type=&#34;image/webp&#34;
+            /&gt;&lt;source srcset=&#39;https://cssz.ch/images/members/emma-hubekova_hu5531aa644ce180a9b96ed7b7cf8fa055_631074_a8843727223694a0c787ec5d03dd272f.jpg 180w, https://cssz.ch/images/members/emma-hubekova_hu5531aa644ce180a9b96ed7b7cf8fa055_631074_3c56a08560270fe917f5e93d4e7bbc61.jpg 360w, https://cssz.ch/images/members/emma-hubekova_hu5531aa644ce180a9b96ed7b7cf8fa055_631074_ca85936e4a0c654239cf403cb6112c8f.jpg 128w, https://cssz.ch/images/members/emma-hubekova_hu5531aa644ce180a9b96ed7b7cf8fa055_631074_8643140e9275fcbc27201d17ae3c11f1.jpg 205w, https://cssz.ch/images/members/emma-hubekova_hu5531aa644ce180a9b96ed7b7cf8fa055_631074_82998a6c8da7dbbc522aa5abd4e65d21.jpg 320w&#39;
+                    sizes=&#34;(max-width: 180px) 100vw, 180px&#34;
+                    type=&#34;image/jpeg&#34;
+            /&gt;&lt;img src=&#34;https://cssz.ch/images/members/emma-hubekova_hu5531aa644ce180a9b96ed7b7cf8fa055_631074_a8843727223694a0c787ec5d03dd272f.jpg&#34;
+                 width=&#34;180&#34;
+                 height=&#34;180&#34;
+                 
+                 
+                 
+                 
+            /&gt;&lt;/picture&gt;&lt;/div&gt;
+            &lt;div class=&#34;col-9&#34;&gt;
+                    &lt;h2&gt;Emma Hubeková&lt;/h2&gt;
+                    &lt;strong&gt;Organizational support&lt;/strong&gt;
+                    &lt;p class=&#34;about-person&#34;&gt;Emma studies Bsc Biology at ETH. She likes reading, writing, playing tennis and many other kinds of sport.&lt;/p&gt;
+                    &lt;a href=&#34;mailto:emma.hubekova@cssz.ch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;emma.hubekova@cssz.ch&lt;/a&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    
+
+    
+        &lt;div class=&#34;person row&#34;&gt;
+            &lt;div class=&#34;col-3&#34;&gt;&lt;/div&gt;
+            &lt;div class=&#34;col-9&#34;&gt;
+                    &lt;h2&gt;Ondřej Černín&lt;/h2&gt;
+                    &lt;strong&gt;Infrastructure &amp;amp; Events Support&lt;/strong&gt;
+                    &lt;p class=&#34;about-person&#34;&gt;&lt;/p&gt;
+                    &lt;a href=&#34;mailto:ondrej.cernin@cssz.ch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ondrej.cernin@cssz.ch&lt;/a&gt;
             &lt;/div&gt;
         &lt;/div&gt;
     
