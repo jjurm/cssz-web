@@ -1,12 +1,12 @@
 all:
   - id: radim.urban
     name: Radim Urban
-    role: President
+    role: Infrastructure
     about: Radim is a co-founding member of CSSZ. He studies BSc Computer Science at ETH. In his free time he likes to play tennis or guitar.
     image: images/members/radim-urban.jpeg
   - id: juraj.micko
     name: Juraj Mičko
-    role: Infrastructure
+    role: Infrastructure support
     about: "Juraj studies Computer Science MSc at ETH Zurich, after graduating from Cambridge University. He loves producing music, outdoor sports, cooking and spending meaningful time with people. He is also a co-founding member of CSSZ. Psst: he can’t wait to meet you!"
     instagram: jjurm64
     image: images/members/juraj-micko.jpg
@@ -18,7 +18,7 @@ all:
     image: images/members/simon-hrabec.jpg
   - id: vu.nguyen
     name: Vu Nguyen
-    role: Co-founding Member
+    role: Finnce & Legal Support
     about: Vu studies MSc Computer Science Student at ETH. In his free time he loves to ski/hike, travel, and do BBQs, among other fun things.
     image: images/members/vu-nguyen.jpeg
     phone: "+41762800264"
@@ -32,7 +32,7 @@ all:
     image: images/members/timon-fopp.png
   - id: emma.hubekova
     name: Emma Hubeková
-    role: Events
+    role: Organizational support
     about: Emma studies Bsc Biology at ETH. She likes reading, writing, playing tennis and many other kinds of sport.
     phone: "+421 949 776 209"
     image: images/members/emma-hubekova.png
@@ -42,7 +42,7 @@ all:
 
   - id: zdenek.snajdr
     name: Zdeněk Šnajdr
-    role: Infrastructure & Events Support
+    role: President
     about: Zdeněk studies BSc Computer Science at ETH Zurich. He enjoys traveling and and likes swimming and learning new languages.
     phone: "+41762254840"
     image: images/members/zdenek-snajdr.jpg
@@ -64,13 +64,22 @@ all:
     about: Aleš studies MSc Computer Science at ETH Zurich. He likes hiking, rowing, cooking and exploring different cultures through travelling, local cuisine and movies.
     image: images/members/ales-kubicek.png
 
+  - id: michal.krkoska
+    name: Michal Krkoška
+    role: Events
+
+  - id: max.kellenberger
+    name: Max Kellenberger
+    role: Infrastructure & Events Support
+
 board:
+  - zdenek.snajdr
   - radim.urban
   - ales.kubicek
-  - emma.hubekova
-  - juraj.micko
-  - zdenek.snajdr
+  - michal.krkoska
+  - max.kellenberger
   
 team:
+  - juraj.micko
   - vu.nguyen
   - timon.fopp
