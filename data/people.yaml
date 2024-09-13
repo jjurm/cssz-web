@@ -43,14 +43,14 @@ all:
   - id: zdenek.snajdr
     name: Zdeněk Šnajdr
     role: President
-    about: Zdeněk studies BSc Computer Science at ETH Zurich. He enjoys traveling and and likes swimming and learning new languages.
+    about: Zdeněk studies MSc Computer Science at ETH Zurich. He enjoys traveling and and likes swimming and learning new languages.
     phone: "+41762254840"
     image: images/members/zdenek-snajdr.jpg
 
   - id: rene.caky
     name: René Čáky
     role: Member, Events Infrastructure
-    about: René studies BSc Computer Science at ETH. He is a successful powerlifter on international level. He likes travelling and exloring new cities.
+    about: René studies MSc Computer Science at ETH. He is a successful powerlifter on international level. He likes travelling and exloring new cities.
     image: images/members/rene-caky.jpeg
 
   - id: daniel.mareda
@@ -66,10 +66,16 @@ all:
 
   - id: michal.krkoska
     name: Michal Krkoška
+    about: Michal is studying MSc Data Science at ETH Zurich, after a BSc in Computer Science at TU Delft. He enjoys skiing, traveling, and discovering new cultures.
     role: Events
+    image: images/members/michal-krkoska.jpeg
 
   - id: max.kellenberger
     name: Max Kellenberger
+    role: Infrastructure & Events Support
+
+  - id: ondrej.cernin
+    name: Ondřej Černín
     role: Infrastructure & Events Support
 
 board:
@@ -83,3 +89,5 @@ team:
   - juraj.micko
   - vu.nguyen
   - timon.fopp
+  - emma.hubekova
+  - ondrej.cernin
