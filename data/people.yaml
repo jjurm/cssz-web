@@ -18,7 +18,7 @@ all:
     image: images/members/simon-hrabec.jpg
   - id: vu.nguyen
     name: Vu Nguyen
-    role: Finnce & Legal Support
+    role: Finance & Legal Support
     about: Vu studies MSc Computer Science Student at ETH. In his free time he loves to ski/hike, travel, and do BBQs, among other fun things.
     image: images/members/vu-nguyen.jpeg
     phone: "+41762800264"
@@ -43,7 +43,7 @@ all:
   - id: zdenek.snajdr
     name: Zdeněk Šnajdr
     role: President
-    about: Zdeněk studies MSc Computer Science at ETH Zurich. He enjoys traveling and and likes swimming and learning new languages.
+    about: Zdeněk studies MSc Computer Science at ETH Zurich. He enjoys traveling and likes swimming and learning new languages.
     phone: "+41762254840"
     image: images/members/zdenek-snajdr.jpg
 
@@ -73,6 +73,8 @@ all:
   - id: max.kellenberger
     name: Max Kellenberger
     role: Infrastructure & Events Support
+    about: Max is studying BSc Mechanical Engineering at ETH Zuerich. In his free time he likes to bike, travel and eat.
+    image: images/members/max-kellenberger.jpeg
 
   - id: ondrej.cernin
     name: Ondřej Černín
