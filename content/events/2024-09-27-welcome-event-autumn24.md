@@ -2,7 +2,7 @@
 title: Semester Welcome Event (Autumn 2024)
 description: |
   Come to the first meeting of the semester at bQm, for a chat and a beer 🥳
-image: images/events/2023-02-23-spring-bqm/image.imageformat.lightbox.25242075.jpg
+image: images/events/2024-09-27-welcome-event-autumn24/zh_from_bQm.jpeg
 semesters: 2024-autumn
 pinned: true
 
