@@ -1883,7 +1883,7 @@ We hope you will find the association useful and fun!&lt;/p&gt;
             &lt;div class=&#34;col-9&#34;&gt;
                     &lt;h2&gt;Zdeněk Šnajdr&lt;/h2&gt;
                     &lt;strong&gt;President&lt;/strong&gt;
-                    &lt;p class=&#34;about-person&#34;&gt;Zdeněk studies MSc Computer Science at ETH Zurich. He enjoys traveling and and likes swimming and learning new languages.&lt;/p&gt;
+                    &lt;p class=&#34;about-person&#34;&gt;Zdeněk studies MSc Computer Science at ETH Zurich. He enjoys traveling and likes swimming and learning new languages.&lt;/p&gt;
                     &lt;a href=&#34;mailto:zdenek.snajdr@cssz.ch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;zdenek.snajdr@cssz.ch&lt;/a&gt;
             &lt;/div&gt;
         &lt;/div&gt;
@@ -1969,11 +1969,25 @@ We hope you will find the association useful and fun!&lt;/p&gt;
 
     
         &lt;div class=&#34;person row&#34;&gt;
-            &lt;div class=&#34;col-3&#34;&gt;&lt;/div&gt;
+            &lt;div class=&#34;col-3&#34;&gt;&lt;picture class=&#34;img&#34; style=&#34;background: url(data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIABQAFAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5&amp;#43;gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4&amp;#43;Tl5ufo6ery8/T19vf4&amp;#43;fr/2gAMAwEAAhEDEQA/ANn7VpE7LuupfNlyQFQhRnjbjk9e&amp;#43;am&amp;#43;2aEs5t/MiVcKnkqxYkjOQT65zXCCeOCFI2I3IikluhPvipDqVvDCt/cw5DFZVVycsQQRgdeccHHrWSqNJJGkKHM2dXJcxefKUhMUJbMSHOQv5/Wk&amp;#43;0x&amp;#43;n8/8awB4vW9llup7d1eV920EEDgcc4p3/CS2/wDzxk/8d/xqnUiafU6/8pl&amp;#43;JrSKxSGCAEJ6nqeaiaQ3Wmyed83lK2z/AGQOQB7Vc8Zf62L6/wCFUIf&amp;#43;Qdcf7j/yry8PJygmz0Mt3n8v1MiJjhuf4jT9zepqKL&amp;#43;P/eNSV0Hqpn//2Q==); background-size: cover; display: inline;&#34;&gt;
+            &lt;source srcset=&#39;https://cssz.ch/images/members/max-kellenberger_hu80feeedbc741530bff76873e0cab6c06_175361_3d28613fc44c9636c578aaa48f4dc2bc.webp 180w, https://cssz.ch/images/members/max-kellenberger_hu80feeedbc741530bff76873e0cab6c06_175361_d4485521e539a38534091b3b79f0fc64.webp 360w, https://cssz.ch/images/members/max-kellenberger_hu80feeedbc741530bff76873e0cab6c06_175361_b40a7047b0ad17f175e21f5d7e54023a.webp 128w, https://cssz.ch/images/members/max-kellenberger_hu80feeedbc741530bff76873e0cab6c06_175361_4571a6159416ca52860e7f5920adfd22.webp 205w, https://cssz.ch/images/members/max-kellenberger_hu80feeedbc741530bff76873e0cab6c06_175361_22737fc5a02ddec1d8e5ffbadb330994.webp 320w&#39;
+                    sizes=&#34;(max-width: 180px) 100vw, 180px&#34;
+                    type=&#34;image/webp&#34;
+            /&gt;&lt;source srcset=&#39;https://cssz.ch/images/members/max-kellenberger_hu80feeedbc741530bff76873e0cab6c06_175361_6fc9854b09a281683cceefd243321126.jpeg 180w, https://cssz.ch/images/members/max-kellenberger_hu80feeedbc741530bff76873e0cab6c06_175361_ded50b776f7c0ae1d03263928d672456.jpeg 360w, https://cssz.ch/images/members/max-kellenberger_hu80feeedbc741530bff76873e0cab6c06_175361_42660014057d0daecaecb2b28bb296c3.jpeg 128w, https://cssz.ch/images/members/max-kellenberger_hu80feeedbc741530bff76873e0cab6c06_175361_8294a1b6f00fe856d593088e6a25dca5.jpeg 205w, https://cssz.ch/images/members/max-kellenberger_hu80feeedbc741530bff76873e0cab6c06_175361_8551ba270ba9de35f843a35362b13d12.jpeg 320w&#39;
+                    sizes=&#34;(max-width: 180px) 100vw, 180px&#34;
+                    type=&#34;image/jpeg&#34;
+            /&gt;&lt;img src=&#34;https://cssz.ch/images/members/max-kellenberger_hu80feeedbc741530bff76873e0cab6c06_175361_6fc9854b09a281683cceefd243321126.jpeg&#34;
+                 width=&#34;180&#34;
+                 height=&#34;180&#34;
+                 
+                 
+                 
+                 
+            /&gt;&lt;/picture&gt;&lt;/div&gt;
             &lt;div class=&#34;col-9&#34;&gt;
                     &lt;h2&gt;Max Kellenberger&lt;/h2&gt;
                     &lt;strong&gt;Infrastructure &amp;amp; Events Support&lt;/strong&gt;
-                    &lt;p class=&#34;about-person&#34;&gt;&lt;/p&gt;
+                    &lt;p class=&#34;about-person&#34;&gt;Max is studying BSc Mechanical Engineering at ETH Zuerich. In his free time he likes to bike, travel and eat.&lt;/p&gt;
                     &lt;a href=&#34;mailto:max.kellenberger@cssz.ch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;max.kellenberger@cssz.ch&lt;/a&gt;
             &lt;/div&gt;
         &lt;/div&gt;
@@ -2146,7 +2160,7 @@ We hope you will find the association useful and fun!&lt;/p&gt;
             /&gt;&lt;/picture&gt;&lt;/div&gt;
             &lt;div class=&#34;col-9&#34;&gt;
                     &lt;h2&gt;Vu Nguyen&lt;/h2&gt;
-                    &lt;strong&gt;Finnce &amp;amp; Legal Support&lt;/strong&gt;
+                    &lt;strong&gt;Finance &amp;amp; Legal Support&lt;/strong&gt;
                     &lt;p class=&#34;about-person&#34;&gt;Vu studies MSc Computer Science Student at ETH. In his free time he loves to ski/hike, travel, and do BBQs, among other fun things.&lt;/p&gt;
                     &lt;a href=&#34;mailto:vu.nguyen@cssz.ch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;vu.nguyen@cssz.ch&lt;/a&gt;
             &lt;/div&gt;
