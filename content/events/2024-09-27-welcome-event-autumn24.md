@@ -4,7 +4,6 @@ description: |
   Come to the first meeting of the semester at bQm, for a chat and a beer 🥳
 image: images/events/2023-02-23-spring-bqm/image.imageformat.lightbox.25242075.jpg
 semesters: 2024-spring
-pubdate: 2024-09-14
 pinned: true
 
 event_details:
