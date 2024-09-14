@@ -8,7 +8,7 @@ pinned: true
 
 event_details:
   date_start: 2024-09-27T18:30:00
-  date_end: 2024-02-27T23:00:00
+  date_end: 2024-09-27T23:00:00
   location:
     text: bQm Culture Café & Bar
     link: https://goo.gl/maps/bqDsM5dpDLDDRoGg8
