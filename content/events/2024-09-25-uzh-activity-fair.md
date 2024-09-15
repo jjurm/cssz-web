@@ -4,6 +4,7 @@ description: |
   Meet us and find a way to engage with the Czech and Slovak Students in Zurich!
 image: images/events/2024-09-25-uzh-activity-fair/activity_fair.jpg
 semesters: 2024-autumn
+slug: uzh-activity-fair-hs24
 
 event_details:
   - event_title: Day 1
