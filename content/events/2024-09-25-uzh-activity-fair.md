@@ -1,5 +1,5 @@
 ---
-title: VSUZH Activity Fair
+title: VSUZH Activity Fair HS24
 description: |
   Meet us and find a way to engage with the Czech and Slovak Students in Zurich!
 image: images/events/2024-09-25-uzh-activity-fair/activity_fair.jpg
