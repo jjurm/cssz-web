@@ -27,7 +27,7 @@ all:
     name: Timon Fopp
     role: UZH Representative
     about: |
-      Timon studies BSc Business Informatics at University of Zurich (UZH). He likes playing volleyball, the guitar, riding his motorcycle, travelling and especially loves meeting nice people all over the world.
+      Timon studies MSc Computer Science at ETH. He likes playing volleyball, the guitar, riding his motorcycle, travelling and especially loves meeting nice people all over the world.
     phone: "+41783309888"
     image: images/members/timon-fopp.png
   - id: emma.hubekova
