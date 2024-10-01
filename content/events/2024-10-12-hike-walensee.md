@@ -36,7 +36,8 @@ A round trip will cost approximately 30CHF with the the Half-Fare card. If you d
 **Uphill/downhill:** 730 m / 1290 m  
 **Difficulty:** Moderate
 
-<iframe style="border:none; width: 100%;" src="https://en.frame.mapy.cz/s/pebamagalu" height="600" frameborder="0" class="mb-4"></iframe>
+<iframe style="border:none; width: 100%;" src="https://en.frame.mapy.cz/s/gazamokoca" height="600" frameborder="0" class="mb-4"></iframe>
+
 
 ## Connection back
 
