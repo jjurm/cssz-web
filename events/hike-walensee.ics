@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Czech and Slovak Students in Zurich//Events//EN
+URL:webcal://cssz.ch/events/hike-walensee.ics
+NAME:CSSZ Events
+X-WR-CALNAME:CSSZ Events
+X-WR-CALDESC:
+X-WR-TIMEZONE:Europe/Zurich
+X-PUBLISHED-TTL:PT6H
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-LIC-LOCATION:Europe/Zurich
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Hike Walensee
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/hike-walensee/\n<strong>Location:</strong> <a href="https://en.mapy.cz/s/pebamagalu" target="_blank" rel="noopener">Walenstadtberg to Weesen</a>\n<strong>Coordinator:</strong> Ondřej Černín (<a class="link" href="mailto:ondrej.cernin@cssz.ch" target="_blank" rel="noopener">ondrej.cernin@cssz.ch</a>)\n<strong>Registration:</strong> <a href="https://chat.whatsapp.com/KzIvkJsKxbS3wR8w7vjYFU" target="_blank" rel="noopener">WhatsApp group</a>\n\n<p>This time we will hike along lake Walensee from Walenstadtberg to Weesen. Along the way we will have views of the stunning lake Walensee, cliffs and waterfalls! This hike is ideal for more casual hikers, as a small gradual climb will be followed by a long descent to the shores of the lake. So you can save your attention and breath for conversations with fellow hikers.</p>
+UID:20241012T071000-hike-walensee@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20241012T000000
+DTSTART:20241012T071000
+DTEND:20241012T200000
+LOCATION;ALTREP="https://en.mapy.cz/s/pebamagalu":Walenstadtberg to Weesen
+URL:https://cssz.ch/events/hike-walensee/
+END:VEVENT
+
+END:VCALENDAR
+

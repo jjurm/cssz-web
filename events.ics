@@ -29,6 +29,19 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Hike Walensee
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/hike-walensee/\n<strong>Location:</strong> <a href="https://en.mapy.cz/s/pebamagalu" target="_blank" rel="noopener">Walenstadtberg to Weesen</a>\n<strong>Coordinator:</strong> Ondřej Černín (<a class="link" href="mailto:ondrej.cernin@cssz.ch" target="_blank" rel="noopener">ondrej.cernin@cssz.ch</a>)\n<strong>Registration:</strong> <a href="https://chat.whatsapp.com/KzIvkJsKxbS3wR8w7vjYFU" target="_blank" rel="noopener">WhatsApp group</a>\n\n<p>This time we will hike along lake Walensee from Walenstadtberg to Weesen. Along the way we will have views of the stunning lake Walensee, cliffs and waterfalls! This hike is ideal for more casual hikers, as a small gradual climb will be followed by a long descent to the shores of the lake. So you can save your attention and breath for conversations with fellow hikers.</p>
+UID:20241012T071000-hike-walensee@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20241012T000000
+DTSTART:20241012T071000
+DTEND:20241012T200000
+LOCATION;ALTREP="https://en.mapy.cz/s/pebamagalu":Walenstadtberg to Weesen
+URL:https://cssz.ch/events/hike-walensee/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
 SUMMARY:Semester Welcome Event (Autumn 2024)
 DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/welcome-event-autumn24/\n<strong>Location:</strong> <a href="https://goo.gl/maps/bqDsM5dpDLDDRoGg8" target="_blank" rel="noopener">bQm Culture Café & Bar</a>\n<strong>Coordinator:</strong> Radim Urban (<a class="link" href="mailto:radim.urban@cssz.ch" target="_blank" rel="noopener">radim.urban@cssz.ch</a>), Michal Krkoška (<a class="link" href="mailto:michal.krkoska@cssz.ch" target="_blank" rel="noopener">michal.krkoska@cssz.ch</a>)\n\nJoin us for a lively kick-off to the Autumn semester 2024 at the bQm bar 🍻, where the Czech and Slovak Students in Zurich will meet up for a beer⭐. This is a great opportunity for both new and existing students to meet🤝. We look forward to seeing you there! 🎉
 UID:20240927T183000-welcome-event-autumn24@cssz.ch
