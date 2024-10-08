@@ -94,13 +94,13 @@ URL:https://cssz.ch/events/movienight/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
-SUMMARY:Meet'n'Dine, Goulash!
-DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/meetndine-autumn24/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/WpyMr8Uv8sHp9nEg9" target="_blank" rel="noopener">University of Zurich, KOL-K-Küche</a>\n<strong>Coordinator:</strong> Radim Urban (<a class="link" href="mailto:radim.urban@cssz.ch" target="_blank" rel="noopener">radim.urban@cssz.ch</a>), Michal Krkoška (<a class="link" href="mailto:michal.krkoska@cssz.ch" target="_blank" rel="noopener">michal.krkoska@cssz.ch</a>), Zdeněk Šnajdr (<a class="link" href="mailto:zdenek.snajdr@cssz.ch" target="_blank" rel="noopener">zdenek.snajdr@cssz.ch</a>, <a class="link" href="tel:&#43;41762254840">+41762254840</a>)\n<strong>Registration:</strong> Coming up...\n\nMeet&rsquo;n&rsquo;Dine: Goulash! Join us for an exciting cultural dinner at the University of Zurich on October 18, 2024, from 18:30 to 22:00. This is a wonderful opportunity to connect with fellow students while indulging in the rich flavors of Goulash, a hearty dish with deep roots in Central European cuisine. Goulash is a flavorful stew made from tender cuts of meat, seasoned with a blend of spices, including paprika, and often accompanied by vegetables like potatoes and carrots.
-UID:20241018T183000-meetndine-autumn24@cssz.ch
+SUMMARY:Meet'n'Dine 4 - Goulash Edition
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/meetndine-autumn24/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/WpyMr8Uv8sHp9nEg9" target="_blank" rel="noopener">University of Zurich, KOL-K-Küche</a>\n<strong>Coordinator:</strong> Radim Urban (<a class="link" href="mailto:radim.urban@cssz.ch" target="_blank" rel="noopener">radim.urban@cssz.ch</a>), Michal Krkoška (<a class="link" href="mailto:michal.krkoska@cssz.ch" target="_blank" rel="noopener">michal.krkoska@cssz.ch</a>), Zdeněk Šnajdr (<a class="link" href="mailto:zdenek.snajdr@cssz.ch" target="_blank" rel="noopener">zdenek.snajdr@cssz.ch</a>, <a class="link" href="tel:&#43;41762254840">+41762254840</a>)\n<strong>Registration:</strong> <a href="https://docs.google.com/forms/d/e/1FAIpQLSc-3sMrUEzGDTycZ8lsablYinjXHJB7kh4GNnUekmLfLSjyrw/viewform" target="_blank" rel="noopener">Google Form (Payment required)</a>\n<strong>Notes:</strong>\n• Registration is now open. Please pay the registration fee within 2 days. <strong>Signup available till the 16th of October.</strong> Later only upon request per email.\n\nJoin us for an exciting cultural dinner at the University of Zurich on October 18, 2024, from 19:00 to 22:00. This is a wonderful opportunity to connect with fellow students while indulging in the rich flavors of Goulash, a hearty dish with deep roots in Central European cuisine. About the dish Goulash is a flavorful stew made from tender cuts of meat, seasoned with a blend of spices, including paprika, and often accompanied by vegetables like potatoes and carrots.
+UID:20241018T190000-meetndine-autumn24@cssz.ch
 SEQUENCE:0
 STATUS:CONFIRMED
 DTSTAMP:20241018T000000
-DTSTART:20241018T183000
+DTSTART:20241018T190000
 DTEND:20241018T220000
 LOCATION;ALTREP="https://maps.app.goo.gl/WpyMr8Uv8sHp9nEg9":University of Zurich, KOL-K-Küche
 URL:https://cssz.ch/events/meetndine-autumn24/
