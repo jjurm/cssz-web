@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Czech and Slovak Students in Zurich//Events//EN
+URL:webcal://cssz.ch/events/gingerbread.ics
+NAME:CSSZ Events
+X-WR-CALNAME:CSSZ Events
+X-WR-CALDESC:
+X-WR-TIMEZONE:Europe/Zurich
+X-PUBLISHED-TTL:PT6H
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-LIC-LOCATION:Europe/Zurich
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Czechoslovak Traditions Night - Gingerbread Baking
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/gingerbread/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/WpyMr8Uv8sHp9nEg9" target="_blank" rel="noopener">University of Zurich, KOL-K-Küche</a>\n<strong>Coordinator:</strong> Michal Krkoška (<a class="link" href="mailto:michal.krkoska@cssz.ch" target="_blank" rel="noopener">michal.krkoska@cssz.ch</a>), Max Kellenberger (<a class="link" href="mailto:max.kellenberger@cssz.ch" target="_blank" rel="noopener">max.kellenberger@cssz.ch</a>)\n<strong>Registration:</strong> Coming up...\n\nCzechoslovak Traditions Night- Gingerbread Baking Celebrate the holiday season with us on December 6th, 2024, for an evening filled with Czechoslovak traditions! Enjoy baking and decorating perníčky (gingerbread cookies), sipping on warm svařák (mulled wine), and taking part in a fun Mikuláš Gift Exchange 🎁. Get creative—the best perníček design will win a special prize 🏆! Don’t miss this cozy and festive gathering, perfect for sharing holiday cheer and cultural traditions.
+UID:20241206T173000-gingerbread@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20241206T000000
+DTSTART:20241206T173000
+DTEND:20241206T220000
+LOCATION;ALTREP="https://maps.app.goo.gl/WpyMr8Uv8sHp9nEg9":University of Zurich, KOL-K-Küche
+URL:https://cssz.ch/events/gingerbread/
+END:VEVENT
+
+END:VCALENDAR
+

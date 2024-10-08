@@ -29,6 +29,84 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Ski Day Trip! 🎿
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/ski-day-trip/\n<strong>Location:</strong> TBA\n<strong>Coordinator:</strong> Zdeněk Šnajdr (<a class="link" href="mailto:zdenek.snajdr@cssz.ch" target="_blank" rel="noopener">zdenek.snajdr@cssz.ch</a>, <a class="link" href="tel:&#43;41762254840">+41762254840</a>), Aleš Kubiček (<a class="link" href="mailto:ales.kubicek@cssz.ch" target="_blank" rel="noopener">ales.kubicek@cssz.ch</a>), Juraj Mičko (<a class="link" href="mailto:juraj.micko@cssz.ch" target="_blank" rel="noopener">juraj.micko@cssz.ch</a>, <a class="link" href="tel:&#43;41762639679">+41762639679</a>)\n\nJoin us for a day of skiing! More details to come.
+UID:20231214T000000-ski-day-trip@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20241214T000000
+DTSTART:20231214T000000
+DTEND:20231214T000000
+LOCATION:TBA
+URL:https://cssz.ch/events/ski-day-trip/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Czechoslovak Traditions Night - Gingerbread Baking
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/gingerbread/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/WpyMr8Uv8sHp9nEg9" target="_blank" rel="noopener">University of Zurich, KOL-K-Küche</a>\n<strong>Coordinator:</strong> Michal Krkoška (<a class="link" href="mailto:michal.krkoska@cssz.ch" target="_blank" rel="noopener">michal.krkoska@cssz.ch</a>), Max Kellenberger (<a class="link" href="mailto:max.kellenberger@cssz.ch" target="_blank" rel="noopener">max.kellenberger@cssz.ch</a>)\n<strong>Registration:</strong> Coming up...\n\nCzechoslovak Traditions Night- Gingerbread Baking Celebrate the holiday season with us on December 6th, 2024, for an evening filled with Czechoslovak traditions! Enjoy baking and decorating perníčky (gingerbread cookies), sipping on warm svařák (mulled wine), and taking part in a fun Mikuláš Gift Exchange 🎁. Get creative—the best perníček design will win a special prize 🏆! Don’t miss this cozy and festive gathering, perfect for sharing holiday cheer and cultural traditions.
+UID:20241206T173000-gingerbread@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20241206T000000
+DTSTART:20241206T173000
+DTEND:20241206T220000
+LOCATION;ALTREP="https://maps.app.goo.gl/WpyMr8Uv8sHp9nEg9":University of Zurich, KOL-K-Küche
+URL:https://cssz.ch/events/gingerbread/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Pub Quiz 💡
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/pub-quiz-autumn24/\n<strong>Location:</strong> TBA (Oliver Twist Pub / Cooper's Pub / bQm)\n<strong>Coordinator:</strong> Radim Urban (<a class="link" href="mailto:radim.urban@cssz.ch" target="_blank" rel="noopener">radim.urban@cssz.ch</a>)\n<strong>Registration:</strong> Coming up...\n\n🎉 The first brain-teasing, laughter-filled night of fun this semester with your favourite people from CSSZ! Join us for yet another Pub Quiz night on May 6th at the one and only Oliver Twist Pub in Zurich! 🍻 🏆 Put your knowledge to the test and compete with friends or make new ones as you tackle a wide range of exciting and diverse questions. From pop culture and history to sports and general knowledge, there&rsquo;s something for everyone.
+UID:20241113T183000-pub-quiz-autumn24@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20241113T000000
+DTSTART:20241113T183000
+DTEND:20241113T223000
+LOCATION:TBA (Oliver Twist Pub / Cooper's Pub / bQm)
+URL:https://cssz.ch/events/pub-quiz-autumn24/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Lunch in Untere mensa
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/mensa-autumn24/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/H1iUeh2DAa6N7djf6" target="_blank" rel="noopener">Mercato Mensa A (untere Mensa)</a>\n<strong>Coordinator:</strong> Juraj Mičko (<a class="link" href="mailto:juraj.micko@cssz.ch" target="_blank" rel="noopener">juraj.micko@cssz.ch</a>, <a class="link" href="tel:&#43;41762639679">+41762639679</a>), Max Kellenberger (<a class="link" href="mailto:max.kellenberger@cssz.ch" target="_blank" rel="noopener">max.kellenberger@cssz.ch</a>)\n\nWhat a time saver! Meet your favourite people while you would be eating anyway! Join us for a brief lunch in the mensa. We&rsquo;ll be there from 12:30 to 13:30. Invite your friends to join, too! To find the group, message Juraj on WhatsApp
+UID:20241104T123000-mensa-autumn24@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20241104T000000
+DTSTART:20241104T123000
+DTEND:20241104T133000
+LOCATION;ALTREP="https://maps.app.goo.gl/H1iUeh2DAa6N7djf6":Mercato Mensa A (untere Mensa)
+URL:https://cssz.ch/events/mensa-autumn24/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Movie Night
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/movienight/\n<strong>Location:</strong> TBA (most likely Alumni Pavillon)\n<strong>Coordinator:</strong> Zdeněk Šnajdr (<a class="link" href="mailto:zdenek.snajdr@cssz.ch" target="_blank" rel="noopener">zdenek.snajdr@cssz.ch</a>, <a class="link" href="tel:&#43;41762254840">+41762254840</a>)\n\nMovie Night: Adéla ještě nevečeřela Join us in celebrating the founding of Czechoslovakia on October 28 with a special movie night! We&rsquo;ll be screening the classic Czechoslovak comedy Adéla ještě nevečeřela (Dinner for Adele) from 1977. This beloved film is a playful parody of detective stories, featuring an intrepid investigator and a wildly eccentric adversary. Blending humor, absurdity, and a nod to classic detective tropes, Dinner for Adele became a cult favorite and even won the 1980 Saturn Award for Best Foreign Film.
+UID:20241028T000000-movienight@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20241028T000000
+DTSTART:20241028T000000
+DTEND:20241028T000000
+LOCATION:TBA (most likely Alumni Pavillon)
+URL:https://cssz.ch/events/movienight/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Meet'n'Dine, Goulash!
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/meetndine-autumn24/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/WpyMr8Uv8sHp9nEg9" target="_blank" rel="noopener">University of Zurich, KOL-K-Küche</a>\n<strong>Coordinator:</strong> Radim Urban (<a class="link" href="mailto:radim.urban@cssz.ch" target="_blank" rel="noopener">radim.urban@cssz.ch</a>), Michal Krkoška (<a class="link" href="mailto:michal.krkoska@cssz.ch" target="_blank" rel="noopener">michal.krkoska@cssz.ch</a>), Zdeněk Šnajdr (<a class="link" href="mailto:zdenek.snajdr@cssz.ch" target="_blank" rel="noopener">zdenek.snajdr@cssz.ch</a>, <a class="link" href="tel:&#43;41762254840">+41762254840</a>)\n<strong>Registration:</strong> Coming up...\n\nMeet&rsquo;n&rsquo;Dine: Goulash! Join us for an exciting cultural dinner at the University of Zurich on October 18, 2024, from 18:30 to 22:00. This is a wonderful opportunity to connect with fellow students while indulging in the rich flavors of Goulash, a hearty dish with deep roots in Central European cuisine. Goulash is a flavorful stew made from tender cuts of meat, seasoned with a blend of spices, including paprika, and often accompanied by vegetables like potatoes and carrots.
+UID:20241018T183000-meetndine-autumn24@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20241018T000000
+DTSTART:20241018T183000
+DTEND:20241018T220000
+LOCATION;ALTREP="https://maps.app.goo.gl/WpyMr8Uv8sHp9nEg9":University of Zurich, KOL-K-Küche
+URL:https://cssz.ch/events/meetndine-autumn24/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
 SUMMARY:Hike Walensee
 DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/hike-walensee/\n<strong>Location:</strong> <a href="https://en.mapy.cz/s/pebamagalu" target="_blank" rel="noopener">Walenstadtberg to Weesen</a>\n<strong>Coordinator:</strong> Ondřej Černín (<a class="link" href="mailto:ondrej.cernin@cssz.ch" target="_blank" rel="noopener">ondrej.cernin@cssz.ch</a>)\n<strong>Registration:</strong> <a href="https://chat.whatsapp.com/KzIvkJsKxbS3wR8w7vjYFU" target="_blank" rel="noopener">WhatsApp group</a>\n\n<p>This time we will hike along lake Walensee from Walenstadtberg to Weesen. Along the way we will have views of the stunning lake Walensee, cliffs and waterfalls! This hike is ideal for more casual hikers, as a small gradual climb will be followed by a long descent to the shores of the lake. So you can save your attention and breath for conversations with fellow hikers.</p>
 UID:20241012T071000-hike-walensee@cssz.ch
