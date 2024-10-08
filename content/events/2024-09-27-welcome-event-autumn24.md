@@ -4,7 +4,7 @@ description: |
   Come to the first meeting of the semester at bQm, for a chat and a beer 🥳
 image: images/events/2024-09-27-welcome-event-autumn24/zh_from_bQm.jpeg
 semesters: 2024-autumn
-pinned: true
+
 
 event_details:
   date_start: 2024-09-27T18:30:00
