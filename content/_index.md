@@ -9,4 +9,9 @@ The CSSZ is an association with the goals of uniting the community of students C
 Any questions? Contact us at info@cssz.ch
 
 {{< button link="https://forms.gle/qn6sZEmELCgtTSSr5" label="Become a member" class="btn-dark btn-lg" >}}&nbsp;
+{{< button link="https://chat.whatsapp.com/J1tH3Mmvai68V2DcJEMSsx" label="Join our WhatsApp Community" class="btn-dark btn-lg" >}}&nbsp;
 {{< button link="https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fcssz.ch%2Fevents.ics" label="Subscribe to our events in Google Calendar" class="btn-dark btn-lg" >}}
+
+
+
+
