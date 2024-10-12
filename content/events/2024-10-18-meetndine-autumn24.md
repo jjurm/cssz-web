@@ -1,10 +1,11 @@
 ---
-title: Meet'n'Dine 4 - Goulash Edition
+title: Meet'n'Dine 4 - Goulash + Pilsner Edition
 description: |
   Join a cultural dinner with fellow students. We'll be cooking Goulash!
 image: images/events/2024-10-18-meetndine-autumn24/goulash.jpg
 semesters: 2024-autumn
 pubdate: 2024-10-01
+pinned: true
 
 event_details:
   date_start: 2024-10-18T19:00:00
@@ -26,7 +27,7 @@ event_details:
         Registration is now open. Please pay the registration fee within 2 days. **Signup available till the 16th of October.** Later only upon request per email.
 ---
 
-Join us for an exciting cultural dinner at the University of Zurich on **October 18, 2024**, from **19:00 to 22:00**. This is a wonderful opportunity to connect with fellow students while indulging in the rich flavors of **Goulash**, a hearty dish with deep roots in Central European cuisine.
+Join us for an exciting cultural dinner at the University of Zurich on **October 18, 2024**, from **19:00 to 22:00**. This is a wonderful opportunity to connect with fellow students while indulging in the rich flavors of **Goulash**, a hearty dish with deep roots in Central European cuisine. In addition, we will have a **Pilsner Urquell** on tap.  
 
 ## **About the dish**
 

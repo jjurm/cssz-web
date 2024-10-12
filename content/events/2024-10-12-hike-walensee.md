@@ -5,7 +5,6 @@ description: |
 image: images/events/2024-10-12-hike-walensee/walensee-pano-web.jpg
 semesters: 2024-autumn
 pubdate: 2024-10-01
-pinned: true
 
 event_details:
   date_start: 2024-10-12T07:10:00
