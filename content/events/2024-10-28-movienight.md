@@ -14,6 +14,8 @@ event_details:
     text: UZH RAA-G-15
   coordinator: 
     - zdenek.snajdr
+  registration:
+    link: https://docs.google.com/forms/d/e/1FAIpQLSegpqXkhdxheh0EbMQo8dvZgfOMojz_vqyU3eie6VkzFAldgw/viewform
 ---
 
 ### Movie Night: Adéla ještě nevečeřela
