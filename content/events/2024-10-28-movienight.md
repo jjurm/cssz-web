@@ -16,6 +16,7 @@ event_details:
     - zdenek.snajdr
   registration:
     link: https://docs.google.com/forms/d/e/1FAIpQLSegpqXkhdxheh0EbMQo8dvZgfOMojz_vqyU3eie6VkzFAldgw/viewform
+    text: Google Form
 ---
 
 ### Movie Night: Adéla ještě nevečeřela
