@@ -5,7 +5,6 @@ description: |
 image: images/events/2024-10-18-meetndine-autumn24/goulash.jpg
 semesters: 2024-autumn
 pubdate: 2024-10-01
-pinned: true
 
 event_details:
   date_start: 2024-10-18T19:00:00

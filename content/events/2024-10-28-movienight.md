@@ -27,6 +27,8 @@ We'll be screening the classic Czechoslovak comedy Adéla ještě nevečeřela (
 
 Blending humor, absurdity, and a nod to classic detective tropes, Dinner for Adele became a cult favorite and even won the 1980 Saturn Award for Best Foreign Film.
 
+Popcorn and drinks will be provided.
+
 **The movie starts at 19:15.**
 
 Come laugh with us and enjoy this cinematic gem!
