@@ -5,7 +5,7 @@ description: |
 image: images/events/2024-10-28-movienight/adela.jpg
 semesters: 2024-autumn
 pubdate: 2024-10-01
-pinned: true
+
 
 event_details:
   date_start: 2024-10-28T18:45:00
