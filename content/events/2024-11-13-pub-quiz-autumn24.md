@@ -7,7 +7,7 @@ semesters: 2024-autumn
 pinned: true
 
 event_details:
-  date_start: 2024-11-13T18:30:00
+  date_start: 2024-11-13T19:30:00
   date_end: 2024-11-13T22:30:00
   location:
     text: ETH bQm
