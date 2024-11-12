@@ -15,7 +15,7 @@ event_details:
   coordinator:
     - radim.urban
   registration:
-    text: Google Form
+    text: Google Form (ends on Tuesday at noon)
     link: https://forms.gle/SRozqAzMBZdrSBVT9
 
 ---
