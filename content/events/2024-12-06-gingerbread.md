@@ -7,7 +7,7 @@ pubdate: 2024-10-01
 semesters: 2024-autumn
 
 event_details:
-  date_start: 2024-12-06T17:30:00
+  date_start: 2024-12-06T18:00:00
   date_end: 2024-12-06T22:00:00
   location:
     text: University of Zurich, KOL-K-Küche
@@ -16,8 +16,21 @@ event_details:
     - michal.krkoska
     - max.kellenberger
   registration: 
-    text: Coming up...
+    link: https://docs.google.com/forms/d/e/1FAIpQLSfLYIgdZ3JVeoeXnw8jpprqIilhms-NPJCMCRqW5dWaRkiLOA/viewform
+    text: Google Form (Payment required)
 ---
 **Czechoslovak Traditions Night- Gingerbread Baking**
 
-Celebrate the holiday season with us on December 6th, 2024, for an evening filled with Czechoslovak traditions! Enjoy baking and decorating *perníčky* (gingerbread cookies), sipping on warm *svařák* (mulled wine), and taking part in a fun Mikuláš Gift Exchange 🎁. Get creative—the best *perníček* design will win a special prize 🏆! Don’t miss this cozy and festive gathering, perfect for sharing holiday cheer and cultural traditions.
+Celebrate the holiday season with us on December 6th, 2024, for an evening filled with Czechoslovak traditions! Enjoy baking and decorating *perníčky* (gingerbread cookies), sipping on warm *svařák* (mulled wine), listening to Czech and Slovak Christmas music! Make sure to bring your creative spirit with you, as we will have a competition for the best gingerbread cookies, with the best bakers having a chance to win special prizes 🏆! And maybe during the evening, we might be even have a surprise visited by a special someone. Don’t miss this cozy and festive gathering, perfect for sharing holiday cheer and cultural traditions.
+
+## **Registration and price**
+
+You can now register in the link above. You will be asked to pay a registration fee. Price includes ingredients to make gingerbread cookies and a drinks.
+- **CSSZ members**: CHF 5
+- **Non-members**: CHF 6.5
+
+Please register as soon as possible if you are planning on coming to the event.
+
+We look forward to sharing a delightful evening with you! 
+
+For directions, click [here](https://maps.app.goo.gl/WpyMr8Uv8sHp9nEg9).
