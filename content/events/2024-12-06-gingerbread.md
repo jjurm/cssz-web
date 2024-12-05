@@ -10,18 +10,17 @@ event_details:
   date_start: 2024-12-06T18:00:00
   date_end: 2024-12-06T22:00:00
   location:
-    text: University of Zurich, KOL-K-Küche
-    link: https://maps.app.goo.gl/WpyMr8Uv8sHp9nEg9
-coordinator:
+    text: Sent via email to all registered participants.
+  coordinator:
     - michal.krkoska
     - max.kellenberger
-registration: 
+  registration: 
     text: Registration closed
-notes:
+  notes:
     - alert_type: warning
       icon: solid/info
       text: |
-        Registration is now **closed**.
+        Registration is now **closed**. Location of the event has been sent to all registered participants via email.
 ---
 **Czechoslovak Traditions Night- Gingerbread Baking**
 
