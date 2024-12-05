@@ -12,10 +12,10 @@ event_details:
   location:
     text: University of Zurich, KOL-K-Küche
     link: https://maps.app.goo.gl/WpyMr8Uv8sHp9nEg9
-  coordinator:
+coordinator:
     - michal.krkoska
     - max.kellenberger
-  registration: 
+registration: 
     text: Registration closed
 notes:
     - alert_type: warning
