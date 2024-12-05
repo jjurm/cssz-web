@@ -16,8 +16,12 @@ event_details:
     - michal.krkoska
     - max.kellenberger
   registration: 
-    link: https://docs.google.com/forms/d/e/1FAIpQLSfLYIgdZ3JVeoeXnw8jpprqIilhms-NPJCMCRqW5dWaRkiLOA/viewform
-    text: Google Form (Payment required)
+    text: Registration closed
+notes:
+    - alert_type: warning
+      icon: solid/info
+      text: |
+        Registration is now **closed**.
 ---
 **Czechoslovak Traditions Night- Gingerbread Baking**
 
