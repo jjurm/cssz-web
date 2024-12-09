@@ -1,5 +1,5 @@
 ---
-title: "Ice skating"
+title: Ice skating
 description: |
   Join us for ice skating at Dolder!
 image: images/events/2024-12-14-ice-skating/dolder.png
