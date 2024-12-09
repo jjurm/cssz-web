@@ -8,8 +8,8 @@ semesters: 2024-autumn
 pinned : true
 
 event_details:
-  date_start: 2023-12-14T16:00:00
-  date_end: 2023-12-14T18:00:00
+  date_start: 2024-12-14T16:00:00
+  date_end: 2024-12-14T18:00:00
   location:
     text: Dolder Kunsteisbahn
     link: https://www.doldersports.com
