@@ -2,7 +2,7 @@
 title: Ice Skating
 description: |
   Join us for ice skating at Dolder!
-image: images/events/2024-12-14-ice-skating/dolder.png
+image: images/events/2024-12-14-ice-skating/dolder.jpg
 pubdate: 2024-10-08
 semesters: 2024-autumn
 pinned : true
