@@ -29,6 +29,19 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Ice Skating
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/ice-skating/\n<strong>Location:</strong> <a href="https://www.doldersports.com" target="_blank" rel="noopener">Dolder Kunsteisbahn</a>\n<strong>Coordinator:</strong> Zdeněk Šnajdr (<a class="link" href="mailto:zdenek.snajdr@cssz.ch" target="_blank" rel="noopener">zdenek.snajdr@cssz.ch</a>, <a class="link" href="tel:&#43;41762254840">+41762254840</a>), Aleš Kubiček (<a class="link" href="mailto:ales.kubicek@cssz.ch" target="_blank" rel="noopener">ales.kubicek@cssz.ch</a>), Juraj Mičko (<a class="link" href="mailto:juraj.micko@cssz.ch" target="_blank" rel="noopener">juraj.micko@cssz.ch</a>, <a class="link" href="tel:&#43;41762639679">+41762639679</a>)\n<strong>Registration:</strong> <a href="https://chat.whatsapp.com/DXVjxDB4XaT1kEpcRI4FK5" target="_blank" rel="noopener">Join WhatpApp group</a>\n\nJoin us for ice skating at Dolder Kunsteisbahn! Price Admission for adults: 8 CHF Ice skates : 8 CHF (you can of course use your own) We don not collect any admission, everything has to be paid individually at the entry. Join us for a fun-filled ice skating afternoon at the iconic Dolder Kunsteisbahn on Saturday, 14th December 2024, from 16:00 to 18:00! Whether you&rsquo;re a seasoned skater or a beginner, everyone is welcome to join in the fun.
+UID:20241214T160000-ice-skating@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20241214T000000
+DTSTART:20241214T160000
+DTEND:20241214T180000
+LOCATION;ALTREP="https://www.doldersports.com":Dolder Kunsteisbahn
+URL:https://cssz.ch/events/ice-skating/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
 SUMMARY:Czechoslovak Traditions Night - Gingerbread Baking
 DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/gingerbread/\n<strong>Location:</strong> Sent via email to all registered participants.\n<strong>Coordinator:</strong> Michal Krkoška (<a class="link" href="mailto:michal.krkoska@cssz.ch" target="_blank" rel="noopener">michal.krkoska@cssz.ch</a>), Max Kellenberger (<a class="link" href="mailto:max.kellenberger@cssz.ch" target="_blank" rel="noopener">max.kellenberger@cssz.ch</a>)\n<strong>Registration:</strong> Registration closed\n<strong>Notes:</strong>\n• Registration is now <strong>closed</strong>. Location of the event has been sent to all registered participants via email.\n\nCzechoslovak Traditions Night- Gingerbread Baking Celebrate the holiday season with us on December 6th, 2024, for an evening filled with Czechoslovak traditions! Enjoy baking and decorating perníčky (gingerbread cookies), sipping on warm svařák (mulled wine), listening to Czech and Slovak Christmas music! Make sure to bring your creative spirit with you, as we will have a competition for the best gingerbread cookies, with the best bakers having a chance to win special prizes 🏆!
 UID:20241206T180000-gingerbread@cssz.ch
