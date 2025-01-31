@@ -5,7 +5,6 @@ description: |
 image: images/events/2024-12-14-ice-skating/dolder.jpg
 pubdate: 2024-10-08
 semesters: 2024-autumn
-pinned : true
 
 event_details:
   date_start: 2024-12-14T16:00:00
