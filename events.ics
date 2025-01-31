@@ -29,6 +29,19 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Ski Day in Engelberg - Titlis ⛷️
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/ski-day-engelberg/\n<strong>Location:</strong> <a href="https://www.bergfex.ch/engelberg/" target="_blank" rel="noopener">Engelberg Titlis</a>\n<strong>Coordinator:</strong> Timon Fopp (<a class="link" href="mailto:timon.fopp@cssz.ch" target="_blank" rel="noopener">timon.fopp@cssz.ch</a>, <a class="link" href="tel:&#43;41783309888">+41783309888</a>)\n<strong>Registration:</strong> <a href="https://forms.gle/jFTWssNRqMZUywXw5" target="_blank" rel="noopener">Registration form</a>\n\nJoin us for a day of skiing in the beautiful Urner Alps! We will ski in the Engelberg - Titlis area. Estimated price: 101.20 CHF via SBB (Back and Forth Train Ticket + Ski Ticket included) Travel You need to book the travel yourself, individually. The following options are available (at the time of writing): From Zurich to Engelberg - Titlis: From Engelberg - Titlis to Zurich: with HalbTax even cheaper, without HalbTax 101.
+UID:20250207T070000-ski-day-engelberg@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20250207T000000
+DTSTART:20250207T070000
+DTEND:20250207T190000
+LOCATION;ALTREP="https://www.bergfex.ch/engelberg/":Engelberg Titlis
+URL:https://cssz.ch/events/ski-day-engelberg/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
 SUMMARY:Ice Skating
 DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/ice-skating/\n<strong>Location:</strong> <a href="https://www.doldersports.com" target="_blank" rel="noopener">Dolder Kunsteisbahn</a>\n<strong>Coordinator:</strong> Zdeněk Šnajdr (<a class="link" href="mailto:zdenek.snajdr@cssz.ch" target="_blank" rel="noopener">zdenek.snajdr@cssz.ch</a>, <a class="link" href="tel:&#43;41762254840">+41762254840</a>), Aleš Kubiček (<a class="link" href="mailto:ales.kubicek@cssz.ch" target="_blank" rel="noopener">ales.kubicek@cssz.ch</a>), Juraj Mičko (<a class="link" href="mailto:juraj.micko@cssz.ch" target="_blank" rel="noopener">juraj.micko@cssz.ch</a>, <a class="link" href="tel:&#43;41762639679">+41762639679</a>)\n<strong>Registration:</strong> <a href="https://chat.whatsapp.com/DXVjxDB4XaT1kEpcRI4FK5" target="_blank" rel="noopener">Join WhatpApp group</a>\n\nJoin us for ice skating at Dolder Kunsteisbahn! Price Admission for adults: 8 CHF Ice skates : 8 CHF (you can of course use your own) We don not collect any admission, everything has to be paid individually at the entry. Join us for a fun-filled ice skating afternoon at the iconic Dolder Kunsteisbahn on Saturday, 14th December 2024, from 16:00 to 18:00! Whether you&rsquo;re a seasoned skater or a beginner, everyone is welcome to join in the fun.
 UID:20241214T160000-ice-skating@cssz.ch
