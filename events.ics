@@ -29,6 +29,19 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Semester Welcome Event (Spring 2025)
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/welcome-event-spring25/\n<strong>Location:</strong> <a href="https://goo.gl/maps/bqDsM5dpDLDDRoGg8" target="_blank" rel="noopener">bQm Culture Café & Bar</a>\n<strong>Coordinator:</strong> Zdeněk Šnajdr (<a class="link" href="mailto:zdenek.snajdr@cssz.ch" target="_blank" rel="noopener">zdenek.snajdr@cssz.ch</a>, <a class="link" href="tel:&#43;41762254840">+41762254840</a>), Max Kellenberger (<a class="link" href="mailto:max.kellenberger@cssz.ch" target="_blank" rel="noopener">max.kellenberger@cssz.ch</a>)\n\nJoin us for a lively kick-off to the Spring semester 2025 at the bQm bar 🍻, where the Czech and Slovak Students in Zurich will meet up for a beer ⭐. This is a great opportunity for both new and existing students to meet 🤝. We look forward to seeing you there! 🎉
+UID:20250221T190000-welcome-event-spring25@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20250221T000000
+DTSTART:20250221T190000
+DTEND:20250221T220000
+LOCATION;ALTREP="https://goo.gl/maps/bqDsM5dpDLDDRoGg8":bQm Culture Café & Bar
+URL:https://cssz.ch/events/welcome-event-spring25/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
 SUMMARY:Ski Day in Engelberg - Titlis ⛷️
 DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/ski-day-engelberg/\n<strong>Location:</strong> <a href="https://www.bergfex.ch/engelberg/" target="_blank" rel="noopener">Engelberg Titlis</a>\n<strong>Coordinator:</strong> Timon Fopp (<a class="link" href="mailto:timon.fopp@cssz.ch" target="_blank" rel="noopener">timon.fopp@cssz.ch</a>, <a class="link" href="tel:&#43;41783309888">+41783309888</a>)\n<strong>Registration:</strong> <a href="https://forms.gle/jFTWssNRqMZUywXw5" target="_blank" rel="noopener">Registration form</a>\n\nJoin us for a day of skiing in the beautiful Urner Alps! We will ski in the Engelberg - Titlis area. Estimated price: 101.20 CHF via SBB (Back and Forth Train Ticket + Ski Ticket included) Travel You need to book the travel yourself, individually. The following options are available (at the time of writing): From Zurich to Engelberg - Titlis: From Engelberg - Titlis to Zurich: with HalbTax even cheaper, without HalbTax 101.
 UID:20250207T070000-ski-day-engelberg@cssz.ch
