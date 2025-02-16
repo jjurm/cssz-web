@@ -5,7 +5,6 @@ description: |
 image: images/events/2025-02-07-ski-day-engelberg/engelberg-ski-map.png
 pubdate: 2025-01-31
 semesters: 2025-spring
-pinned: true
 
 event_details:
   date_start: 2025-02-07T07:00:00
