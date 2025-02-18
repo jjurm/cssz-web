@@ -8,7 +8,7 @@ pubdate: 2025-02-21
 pinned: true
 
 event_details:
-  date_start: 2025-02-21T19:00:00
+  date_start: 2025-02-21T18:30:00
   date_end: 2025-02-21T22:00:00
   location:
     text: bQm Culture Café & Bar
