@@ -32,11 +32,11 @@ BEGIN:VEVENT
 ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
 SUMMARY:Semester Welcome Event (Spring 2025)
 DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/welcome-event-spring25/\n<strong>Location:</strong> <a href="https://goo.gl/maps/bqDsM5dpDLDDRoGg8" target="_blank" rel="noopener">bQm Culture Café & Bar</a>\n<strong>Coordinator:</strong> Zdeněk Šnajdr (<a class="link" href="mailto:zdenek.snajdr@cssz.ch" target="_blank" rel="noopener">zdenek.snajdr@cssz.ch</a>, <a class="link" href="tel:&#43;41762254840">+41762254840</a>), Max Kellenberger (<a class="link" href="mailto:max.kellenberger@cssz.ch" target="_blank" rel="noopener">max.kellenberger@cssz.ch</a>)\n\nJoin us for a lively kick-off to the Spring semester 2025 at the bQm bar 🍻, where the Czech and Slovak Students in Zurich will meet up for a beer ⭐. This is a great opportunity for both new and existing students to meet 🤝. We look forward to seeing you there! 🎉
-UID:20250221T190000-welcome-event-spring25@cssz.ch
+UID:20250221T183000-welcome-event-spring25@cssz.ch
 SEQUENCE:0
 STATUS:CONFIRMED
 DTSTAMP:20250221T000000
-DTSTART:20250221T190000
+DTSTART:20250221T183000
 DTEND:20250221T220000
 LOCATION;ALTREP="https://goo.gl/maps/bqDsM5dpDLDDRoGg8":bQm Culture Café & Bar
 URL:https://cssz.ch/events/welcome-event-spring25/
