@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Czech and Slovak Students in Zurich//Events//EN
+URL:webcal://cssz.ch/events/ski-day-flumserberg.ics
+NAME:CSSZ Events
+X-WR-CALNAME:CSSZ Events
+X-WR-CALDESC:
+X-WR-TIMEZONE:Europe/Zurich
+X-PUBLISHED-TTL:PT6H
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-LIC-LOCATION:Europe/Zurich
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:CSSZ Ski Day at Flumserberg 🎿🏔️
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/ski-day-flumserberg/\n<strong>Location:</strong> <a href="https://www.bergfex.ch/flumserberg/" target="_blank" rel="noopener">Flumserberg</a>\n<strong>Coordinator:</strong> Michal Krkoška (<a class="link" href="mailto:michal.krkoska@cssz.ch" target="_blank" rel="noopener">michal.krkoska@cssz.ch</a>), Zdeněk Šnajdr (<a class="link" href="mailto:zdenek.snajdr@cssz.ch" target="_blank" rel="noopener">zdenek.snajdr@cssz.ch</a>, <a class="link" href="tel:&#43;41762254840">+41762254840</a>)\n<strong>Registration:</strong> <a href="https://forms.gle/ZjLafkY97wSYoxAZA" target="_blank" rel="noopener">Registration form</a>\n\nJoin us for an exciting ski day at Flumserberg, just 1 hour from Zurich! With 65 km of slopes and stunning panoramic views, Flumserberg is the perfect spot for a one-day ski adventure. Whether you&rsquo;re a beginner or an expert, this is a great opportunity to hit the slopes and enjoy the snow with fellow students! ⛷️❄️ Meeting Point &amp; Travel All participants must book their own tickets. We meet at 6:50 AM at Zurich HB, Platform 8.
+UID:20250308T065000-ski-day-flumserberg@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20250308T000000
+DTSTART:20250308T065000
+DTEND:20250308T190000
+LOCATION;ALTREP="https://www.bergfex.ch/flumserberg/":Flumserberg
+URL:https://cssz.ch/events/ski-day-flumserberg/
+END:VEVENT
+
+END:VCALENDAR
+

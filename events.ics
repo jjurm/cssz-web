@@ -29,6 +29,19 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:CSSZ Ski Day at Flumserberg 🎿🏔️
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/ski-day-flumserberg/\n<strong>Location:</strong> <a href="https://www.bergfex.ch/flumserberg/" target="_blank" rel="noopener">Flumserberg</a>\n<strong>Coordinator:</strong> Michal Krkoška (<a class="link" href="mailto:michal.krkoska@cssz.ch" target="_blank" rel="noopener">michal.krkoska@cssz.ch</a>), Zdeněk Šnajdr (<a class="link" href="mailto:zdenek.snajdr@cssz.ch" target="_blank" rel="noopener">zdenek.snajdr@cssz.ch</a>, <a class="link" href="tel:&#43;41762254840">+41762254840</a>)\n<strong>Registration:</strong> <a href="https://forms.gle/ZjLafkY97wSYoxAZA" target="_blank" rel="noopener">Registration form</a>\n\nJoin us for an exciting ski day at Flumserberg, just 1 hour from Zurich! With 65 km of slopes and stunning panoramic views, Flumserberg is the perfect spot for a one-day ski adventure. Whether you&rsquo;re a beginner or an expert, this is a great opportunity to hit the slopes and enjoy the snow with fellow students! ⛷️❄️ Meeting Point &amp; Travel All participants must book their own tickets. We meet at 6:50 AM at Zurich HB, Platform 8.
+UID:20250308T065000-ski-day-flumserberg@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20250308T000000
+DTSTART:20250308T065000
+DTEND:20250308T190000
+LOCATION;ALTREP="https://www.bergfex.ch/flumserberg/":Flumserberg
+URL:https://cssz.ch/events/ski-day-flumserberg/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
 SUMMARY:Semester Welcome Event (Spring 2025)
 DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/welcome-event-spring25/\n<strong>Location:</strong> <a href="https://goo.gl/maps/bqDsM5dpDLDDRoGg8" target="_blank" rel="noopener">bQm Culture Café & Bar</a>\n<strong>Coordinator:</strong> Zdeněk Šnajdr (<a class="link" href="mailto:zdenek.snajdr@cssz.ch" target="_blank" rel="noopener">zdenek.snajdr@cssz.ch</a>, <a class="link" href="tel:&#43;41762254840">+41762254840</a>), Max Kellenberger (<a class="link" href="mailto:max.kellenberger@cssz.ch" target="_blank" rel="noopener">max.kellenberger@cssz.ch</a>)\n\nJoin us for a lively kick-off to the Spring semester 2025 at the bQm bar 🍻, where the Czech and Slovak Students in Zurich will meet up for a beer ⭐. This is a great opportunity for both new and existing students to meet 🤝. We look forward to seeing you there! 🎉
 UID:20250221T183000-welcome-event-spring25@cssz.ch
