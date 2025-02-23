@@ -49,6 +49,6 @@ SBB booking https://www.sbb.ch/en
 
 **Ski map:**
 
-{{< image asset="images/events/2025-03-08-ski-day-flumserberg/engelberg-ski-map.png" >}}
+{{< image asset="images/events/2025-03-08-ski-day-flumserberg/flumserberg-ski-map.png" >}}
 
 Flumserberg is one of the closest and best ski resorts to Zurich, offering a variety of runs for all levels.
