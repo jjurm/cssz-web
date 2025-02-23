@@ -5,7 +5,6 @@ description: |
 image: images/events/2023-02-23-spring-bqm/image.imageformat.lightbox.25242075.jpg
 semesters: 2025-spring
 pubdate: 2025-02-21
-pinned: true
 
 event_details:
   date_start: 2025-02-21T18:30:00
