@@ -39,7 +39,9 @@ All participants must book their own tickets. We meet at **6:50 AM at Zurich HB,
 
 ## Booking & Costs
 
-**CHF 101 total** (CHF 29 for SBB return ticket + CHF 72 for a day ski pass)
+If you know that you are going to travel as a group of four and all of you are under 25 then you can buy the [Friends Day Pass for Youth](https://www.sbb.ch/en/tickets-offers/tickets/day-passes/friends-day-pass-youth.html) instead of a regular train ticket.
+
+Otherwise it cheaper to book via use [Snow’n’Rail Flumserberg](https://freizeit.sbb.ch/en/stories/snownrail-flumserberg) or individually - ca **CHF 101 total** (CHF 29 for SBB return ticket + CHF 72 for a day ski pass).
 
 ## Additional information
 
