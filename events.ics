@@ -42,6 +42,32 @@ URL:https://cssz.ch/events/ski-day-flumserberg/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:VSUZH Activity Fair FS25 and Lunch at Aki – Activity Fair
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/uzh-activity-fair-fs25/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/qGfTv7kCa4gTFp239" target="_blank" rel="noopener">Atrium UZH center</a>\n<strong>Coordinator:</strong> Radim Urban (<a class="link" href="mailto:radim.urban@cssz.ch" target="_blank" rel="noopener">radim.urban@cssz.ch</a>), Zdeněk Šnajdr (<a class="link" href="mailto:zdenek.snajdr@cssz.ch" target="_blank" rel="noopener">zdenek.snajdr@cssz.ch</a>, <a class="link" href="tel:&#43;41762254840">+41762254840</a>)\n\nCome and support CSSZ at the VSUZH Activity Fair! This is the right place to learn and ask in person who we are, what we do, how to join us and how to help our efforts. VSUZH Activity Fair Do you have a passion and want to share it with other students? Looking for experiences that complement the knowledge you gained during your studies? The VSUZH Activity Fair is THE fair for student engagement at the University of Zurich.
+UID:20250226T093000-uzh-activity-fair-fs25@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20250226T000000
+DTSTART:20250226T093000
+DTEND:20250226T163000
+LOCATION;ALTREP="https://maps.app.goo.gl/qGfTv7kCa4gTFp239":Atrium UZH center
+URL:https://cssz.ch/events/uzh-activity-fair-fs25/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:VSUZH Activity Fair FS25 and Lunch at Aki – Lunch
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/uzh-activity-fair-fs25/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/jHENj5Emf3iiwsr26" target="_blank" rel="noopener">Aki</a>\n<strong>Coordinator:</strong> Zdeněk Šnajdr (<a class="link" href="mailto:zdenek.snajdr@cssz.ch" target="_blank" rel="noopener">zdenek.snajdr@cssz.ch</a>, <a class="link" href="tel:&#43;41762254840">+41762254840</a>)\n\nCome and support CSSZ at the VSUZH Activity Fair! This is the right place to learn and ask in person who we are, what we do, how to join us and how to help our efforts. VSUZH Activity Fair Do you have a passion and want to share it with other students? Looking for experiences that complement the knowledge you gained during your studies? The VSUZH Activity Fair is THE fair for student engagement at the University of Zurich.
+UID:20250226T120000-uzh-activity-fair-fs25-2@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20250226T000000
+DTSTART:20250226T120000
+DTEND:20250226T130000
+LOCATION;ALTREP="https://maps.app.goo.gl/jHENj5Emf3iiwsr26":Aki
+URL:https://cssz.ch/events/uzh-activity-fair-fs25/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
 SUMMARY:Semester Welcome Event (Spring 2025)
 DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/welcome-event-spring25/\n<strong>Location:</strong> <a href="https://goo.gl/maps/bqDsM5dpDLDDRoGg8" target="_blank" rel="noopener">bQm Culture Café & Bar</a>\n<strong>Coordinator:</strong> Zdeněk Šnajdr (<a class="link" href="mailto:zdenek.snajdr@cssz.ch" target="_blank" rel="noopener">zdenek.snajdr@cssz.ch</a>, <a class="link" href="tel:&#43;41762254840">+41762254840</a>), Max Kellenberger (<a class="link" href="mailto:max.kellenberger@cssz.ch" target="_blank" rel="noopener">max.kellenberger@cssz.ch</a>)\n\nJoin us for a lively kick-off to the Spring semester 2025 at the bQm bar 🍻, where the Czech and Slovak Students in Zurich will meet up for a beer ⭐. This is a great opportunity for both new and existing students to meet 🤝. We look forward to seeing you there! 🎉
 UID:20250221T183000-welcome-event-spring25@cssz.ch
