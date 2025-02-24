@@ -18,7 +18,7 @@ event_details:
       - radim.urban
       - zdenek.snajdr
   - event_title: Lunch
-    date_start: 2025-02-26T012:00:00
+    date_start: 2025-02-26T12:00:00
     date_end: 2025-02-26T13:00:00
     location:
       text: Aki
