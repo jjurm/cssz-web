@@ -5,7 +5,6 @@ description: |
 image: images/events/2025-03-08-ski-day-flumserberg/flumserberg-ski-map.png
 pubdate: 2025-02-23
 semesters: 2025-spring
-pinned: true
 
 event_details:
   date_start: 2025-03-08T06:50:00
