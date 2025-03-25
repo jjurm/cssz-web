@@ -29,6 +29,19 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Mid-semester lunch in Untere mensa
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/mensa-spring25/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/H1iUeh2DAa6N7djf6" target="_blank" rel="noopener">Mercato Mensa A (untere Mensa)</a>\n<strong>Coordinator:</strong> Zdeněk Šnajdr (<a class="link" href="mailto:zdenek.snajdr@cssz.ch" target="_blank" rel="noopener">zdenek.snajdr@cssz.ch</a>, <a class="link" href="tel:&#43;41762254840">+41762254840</a>)\n\nWhat a time saver! Meet your favourite people while you would be eating anyway! Join us for a brief lunch in the mensa. We&rsquo;ll be there from 13:00 to 14:00. Invite your friends to join, too!
+UID:20250402T130000-mensa-spring25@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20250402T000000
+DTSTART:20250402T130000
+DTEND:20250402T140000
+LOCATION;ALTREP="https://maps.app.goo.gl/H1iUeh2DAa6N7djf6":Mercato Mensa A (untere Mensa)
+URL:https://cssz.ch/events/mensa-spring25/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
 SUMMARY:CSSZ Ski Day at Flumserberg 🎿🏔️
 DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/ski-day-flumserberg/\n<strong>Location:</strong> <a href="https://www.bergfex.ch/flumserberg/" target="_blank" rel="noopener">Flumserberg</a>\n<strong>Coordinator:</strong> Michal Krkoška (<a class="link" href="mailto:michal.krkoska@cssz.ch" target="_blank" rel="noopener">michal.krkoska@cssz.ch</a>), Zdeněk Šnajdr (<a class="link" href="mailto:zdenek.snajdr@cssz.ch" target="_blank" rel="noopener">zdenek.snajdr@cssz.ch</a>, <a class="link" href="tel:&#43;41762254840">+41762254840</a>)\n<strong>Registration:</strong> <a href="https://forms.gle/ZjLafkY97wSYoxAZA" target="_blank" rel="noopener">Registration form</a>\n\nJoin us for an exciting ski day at Flumserberg, just 1 hour from Zurich! With 65 km of slopes and stunning panoramic views, Flumserberg is the perfect spot for a one-day ski adventure. Whether you&rsquo;re a beginner or an expert, this is a great opportunity to hit the slopes and enjoy the snow with fellow students! ⛷️❄️ Meeting Point &amp; Travel All participants must book their own tickets. We meet at 6:50 AM at Zurich HB, Platform 8.
 UID:20250308T065000-ski-day-flumserberg@cssz.ch

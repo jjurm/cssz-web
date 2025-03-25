@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Czech and Slovak Students in Zurich//Events//EN
+URL:webcal://cssz.ch/events/mensa-spring25.ics
+NAME:CSSZ Events
+X-WR-CALNAME:CSSZ Events
+X-WR-CALDESC:
+X-WR-TIMEZONE:Europe/Zurich
+X-PUBLISHED-TTL:PT6H
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-LIC-LOCATION:Europe/Zurich
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Mid-semester lunch in Untere mensa
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/mensa-spring25/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/H1iUeh2DAa6N7djf6" target="_blank" rel="noopener">Mercato Mensa A (untere Mensa)</a>\n<strong>Coordinator:</strong> Zdeněk Šnajdr (<a class="link" href="mailto:zdenek.snajdr@cssz.ch" target="_blank" rel="noopener">zdenek.snajdr@cssz.ch</a>, <a class="link" href="tel:&#43;41762254840">+41762254840</a>)\n\nWhat a time saver! Meet your favourite people while you would be eating anyway! Join us for a brief lunch in the mensa. We&rsquo;ll be there from 13:00 to 14:00. Invite your friends to join, too!
+UID:20250402T130000-mensa-spring25@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20250402T000000
+DTSTART:20250402T130000
+DTEND:20250402T140000
+LOCATION;ALTREP="https://maps.app.goo.gl/H1iUeh2DAa6N7djf6":Mercato Mensa A (untere Mensa)
+URL:https://cssz.ch/events/mensa-spring25/
+END:VEVENT
+
+END:VCALENDAR
+
