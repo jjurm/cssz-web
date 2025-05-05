@@ -30,15 +30,15 @@ END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
 SUMMARY:Movie Night
-DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/movienight/\n<strong>Location:</strong> UZH RAA-G-15\n<strong>Coordinator:</strong> Zdeněk Šnajdr (<a class="link" href="mailto:zdenek.snajdr@cssz.ch" target="_blank" rel="noopener">zdenek.snajdr@cssz.ch</a>, <a class="link" href="tel:&#43;41762254840">+41762254840</a>)\n<strong>Registration:</strong> <a href="https://docs.google.com/forms/d/e/1FAIpQLSegpqXkhdxheh0EbMQo8dvZgfOMojz_vqyU3eie6VkzFAldgw/viewform" target="_blank" rel="noopener">Google Form</a>\n\nMovie Night: Adéla ještě nevečeřela Join us in celebrating the founding of Czechoslovakia on October 28 with a special movie night! We&rsquo;ll be screening the classic Czechoslovak comedy Adéla ještě nevečeřela (Dinner for Adele) from 1977. This beloved film is a playful parody of detective stories, featuring an intrepid investigator and a wildly eccentric adversary. Blending humor, absurdity, and a nod to classic detective tropes, Dinner for Adele became a cult favorite and even won the 1980 Saturn Award for Best Foreign Film.
-UID:20241028T184500-movienight@cssz.ch
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/movienight-spring25/\n<strong>Location:</strong> UZH RAA-G-15\n<strong>Coordinator:</strong> Timon Fopp (<a class="link" href="mailto:timon.fopp@cssz.ch" target="_blank" rel="noopener">timon.fopp@cssz.ch</a>, <a class="link" href="tel:&#43;41783309888">+41783309888</a>)\n\nMovie Night: Černák Join us in watching the 2025 Slovak film Černák, directed by Jakub Kroner. It is a gritty crime thriller chronicling Miki Černák&rsquo;s ruthless ascent from a small-town gangster to Slovakia&rsquo;s most feared mafia boss, ultimately clashing with the nation&rsquo;s political elite and secret services. No registration needed. Just come and enjoy. The movie starts at 19:00.
+UID:20250506T184500-movienight-spring25@cssz.ch
 SEQUENCE:0
 STATUS:CONFIRMED
-DTSTAMP:20241028T000000
-DTSTART:20241028T184500
-DTEND:20241028T220000
+DTSTAMP:20250506T000000
+DTSTART:20250506T184500
+DTEND:20250506T210000
 LOCATION:UZH RAA-G-15
-URL:https://cssz.ch/events/movienight/
+URL:https://cssz.ch/events/movienight-spring25/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
