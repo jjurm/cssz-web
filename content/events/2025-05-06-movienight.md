@@ -5,6 +5,7 @@ description: |
 image: images/events/2025-05-06-movienight/cernak.png
 semesters: 2025-spring
 pubdate: 2025-05-05
+pinned: True
 
 
 event_details:
