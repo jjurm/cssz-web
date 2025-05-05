@@ -21,6 +21,6 @@ event_details:
 
 Join us in watching the 2025 Slovak film Černák, directed by Jakub Kroner. It is a gritty crime thriller chronicling Miki Černák's ruthless ascent from a small-town gangster to Slovakia's most feared mafia boss, ultimately clashing with the nation's political elite and secret services.
 
-## No registration needed. Just come and enjoy.
+**No registration needed. Just come and enjoy.**
 
 **The movie starts at 19:00.**
