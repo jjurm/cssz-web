@@ -3,7 +3,7 @@ title: Board Game Evening
 description: |
   Come in for a delightful evening of board & card games! 
 image: images/events/2025-05-09-board-game-evening/board_games.png
-semesters: 2025-sprint
+semesters: 2025-spring
 pubdate: 2025-05-09
 pinned: True
 
@@ -15,7 +15,6 @@ event_details:
     link: https://maps.app.goo.gl/WpyMr8Uv8sHp9nEg9
   coordinator: 
     - matej.mrazek
-    - zdenek.snajdr
   registration:
     link: https://docs.google.com/forms/d/e/1FAIpQLScmjSI0wbKnePylLNyLrSoDiK26ei1xIth-Lkp_sVwMg1TXaA/viewform?usp=sharingGNnUekmLfLSjyrw/viewform
     text: Google Form (4CHF for snacks & drinks required)
