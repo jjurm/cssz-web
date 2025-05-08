@@ -82,6 +82,13 @@ all:
     about: Ondřej studied MSc Computational Science and Engineering. If he's not behind a computer screen, you'll find him hiking in the mountains with his camera or in the forest preparing for his next orienteering race.
     image: images/members/ondrej-cernin.jpg
 
+  - id: matej.mrazek
+    name: Matěj Mrázek
+    role: Events
+    about: Hi! I am Matěj, I am currently finishing my MSc in Computer Science at ETH. I enjoy playing the piano, board/computer games, hiking and bouldering 😃
+    phone: "+420734643958"
+    image: images/members/matej-mrazek.png
+
 board:
   - zdenek.snajdr
   - radim.urban
