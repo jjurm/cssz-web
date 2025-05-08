@@ -20,15 +20,15 @@ event_details:
     text: Google Form (4CHF for snacks & drinks required)
 ---
 
-Join us for a fun and exciting evening filled with card and board games on **Wednesday, May 14, 2024**, from **18:00 to 22:00**. Everybody is welcome - be it experienced players or somebody who just wants to stroll in for a card game, a beer and a chat :D
+Join us for a fun and exciting evening of card and board games on **Wednesday, May 14, 2024**, from **18:00 to 22:00**. Everybody is welcome, whether experienced players or somebody who wants to stroll in for a card game, a beer, and a chat.
 
 
 
 ## **The Games**
 
-The following games will be available (we will update the list as more people join!):
+The following games will be available (we will update the list as more people choose to bring their own!):
 * Dobble
-* 6 takes (6 nimmt)
+* 6 takes! (6 nimmt!)
 * Dice
 * Cabo
 * Bananagrams
@@ -39,17 +39,13 @@ The following games will be available (we will update the list as more people jo
 
 No prior experience needed - we will be sure to explain the rules before each game!
 
-If you have a board/card game of your own that you'd love to play, be sure to bring it too - there will for sure be likeminded people happy to join you :D
+If you own a game that you'd love to play, be sure to bring it; there will definitely be somebody happy to join you for a round.
 
 
 
 
 ## **Registration and price**
 
-You can now register in the link above, with a **4CHF** cost. The money will be used to provide drinks & snacks at the event.
-
-The registration deadline is midnight before the event, **May 13, 23.59**.
+You can register using the link above, with a **4CHF** cost, used to provide drinks & snacks at the event. The deadline is midnight before the event, **May 13, 23.59**.
 
 We look forward to sharing a wonderful evening with you! 
-
-<!-- For directions, click (!! UPDATE TO MATCH LOCATION) [here](https://maps.app.goo.gl/WpyMr8Uv8sHp9nEg9). -->
