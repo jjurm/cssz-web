@@ -29,6 +29,19 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:VSETH Summer Bar
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/summerbar/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/FbBC5vRfJ8EM7FfN7" target="_blank" rel="noopener">ETH Polyterrasse</a>\n<strong>Coordinator:</strong> Zdeněk Šnajdr (<a class="link" href="mailto:zdenek.snajdr@cssz.ch" target="_blank" rel="noopener">zdenek.snajdr@cssz.ch</a>, <a class="link" href="tel:&#43;41762254840">+41762254840</a>)\n<strong>Registration:</strong> <a href="https://forms.gle/eDXspzRcvFVs2zDm8" target="_blank" rel="noopener">Sign up for helpers</a>\n\nSumerbar 2025 – Helpers Needed! We&rsquo;re teaming up with POLANA and Schwung to host the VSETH Summer Bar on the Polyterrasse – and we need your help to make it awesome! Volunteer and Get Perks To keep everything running smoothly, we’re looking for volunteers to help with: Setup Grill &amp; Bar Clean-up Each shift is 3 hours, and as a thank-you, you’ll get free drinks during your shift and one free meal per shift.
+UID:20250515T150000-summerbar@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20250515T000000
+DTSTART:20250515T150000
+DTEND:20250515T220000
+LOCATION;ALTREP="https://maps.app.goo.gl/FbBC5vRfJ8EM7FfN7":ETH Polyterrasse
+URL:https://cssz.ch/events/summerbar/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
 SUMMARY:Board Game Evening
 DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/board-game-evening/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/WpyMr8Uv8sHp9nEg9" target="_blank" rel="noopener">University of Zurich, Room TBD</a>\n<strong>Coordinator:</strong> Matěj Mrázek (<a class="link" href="mailto:matej.mrazek@cssz.ch" target="_blank" rel="noopener">matej.mrazek@cssz.ch</a>, <a class="link" href="tel:&#43;420734643958">+420734643958</a>)\n<strong>Registration:</strong> <a href="https://docs.google.com/forms/d/e/1FAIpQLScmjSI0wbKnePylLNyLrSoDiK26ei1xIth-Lkp_sVwMg1TXaA/viewform?usp=sharingGNnUekmLfLSjyrw/viewform" target="_blank" rel="noopener">Google Form (4CHF for snacks & drinks required)</a>\n\nJoin us for a fun and exciting evening of card and board games on Wednesday, May 14, 2024, from 18:00 to 22:00. Everybody is welcome, whether experienced players or somebody who wants to stroll in for a card game, a beer, and a chat. The Games The following games will be available (we will update the list as more people choose to bring their own!): Dobble 6 takes! (6 nimmt!) Dice Cabo Bananagrams Werewolves Secretly Hitler Blood on the Clocktower Poker/Mariáš cards :D No prior experience needed - we will be sure to explain the rules before each game!
 UID:20250514T180000-board-game-evening@cssz.ch

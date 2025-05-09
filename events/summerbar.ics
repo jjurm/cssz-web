@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Czech and Slovak Students in Zurich//Events//EN
+URL:webcal://cssz.ch/events/summerbar.ics
+NAME:CSSZ Events
+X-WR-CALNAME:CSSZ Events
+X-WR-CALDESC:
+X-WR-TIMEZONE:Europe/Zurich
+X-PUBLISHED-TTL:PT6H
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-LIC-LOCATION:Europe/Zurich
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:VSETH Summer Bar
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/summerbar/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/FbBC5vRfJ8EM7FfN7" target="_blank" rel="noopener">ETH Polyterrasse</a>\n<strong>Coordinator:</strong> Zdeněk Šnajdr (<a class="link" href="mailto:zdenek.snajdr@cssz.ch" target="_blank" rel="noopener">zdenek.snajdr@cssz.ch</a>, <a class="link" href="tel:&#43;41762254840">+41762254840</a>)\n<strong>Registration:</strong> <a href="https://forms.gle/eDXspzRcvFVs2zDm8" target="_blank" rel="noopener">Sign up for helpers</a>\n\nSumerbar 2025 – Helpers Needed! We&rsquo;re teaming up with POLANA and Schwung to host the VSETH Summer Bar on the Polyterrasse – and we need your help to make it awesome! Volunteer and Get Perks To keep everything running smoothly, we’re looking for volunteers to help with: Setup Grill &amp; Bar Clean-up Each shift is 3 hours, and as a thank-you, you’ll get free drinks during your shift and one free meal per shift.
+UID:20250515T150000-summerbar@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20250515T000000
+DTSTART:20250515T150000
+DTEND:20250515T220000
+LOCATION;ALTREP="https://maps.app.goo.gl/FbBC5vRfJ8EM7FfN7":ETH Polyterrasse
+URL:https://cssz.ch/events/summerbar/
+END:VEVENT
+
+END:VCALENDAR
+
