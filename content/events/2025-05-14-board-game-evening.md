@@ -17,7 +17,7 @@ event_details:
     - matej.mrazek
   registration:
     link: https://docs.google.com/forms/d/e/1FAIpQLScmjSI0wbKnePylLNyLrSoDiK26ei1xIth-Lkp_sVwMg1TXaA/viewform?usp=sharingGNnUekmLfLSjyrw/viewform
-    text: Google Form (4CHF for snacks & drinks required)
+    text: Google Form
 ---
 
 Join us for a fun and exciting evening of card and board games on **Wednesday, May 14, 2024**, from **18:00 to 22:00**. Everybody is welcome, whether experienced players or somebody who wants to stroll in for a card game, a beer, and a chat.
@@ -26,7 +26,7 @@ Join us for a fun and exciting evening of card and board games on **Wednesday, M
 
 ## **The Games**
 
-The following games will be available (we will update the list as more people choose to bring their own!):
+The following games will be available (we will update the list as more people choose to bring their own):
 * Dobble
 * 6 takes! (6 nimmt!)
 * Dice
@@ -35,7 +35,7 @@ The following games will be available (we will update the list as more people ch
 * Werewolves
 * Secretly Hitler
 * Blood on the Clocktower
-* Poker/Mariáš cards :D
+* Poker/Mariáš cards
 
 No prior experience needed - we will be sure to explain the rules before each game!
 
@@ -46,6 +46,6 @@ If you own a game that you'd love to play, be sure to bring it; there will defin
 
 ## **Registration and price**
 
-You can register using the link above, with a **4CHF** cost, used to provide drinks & snacks at the event. The deadline is midnight before the event, **May 13, 23.59**.
+You can register using the link above. The entrance is free, bringing any food / drinks is welcome.
 
 We look forward to sharing a wonderful evening with you! 
