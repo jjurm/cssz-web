@@ -11,7 +11,7 @@ event_details:
   date_start: 2025-05-14T18:00:00
   date_end: 2025-05-14T22:00:00
   location:
-    text: University of Zurich, Room TBD
+    text: UZH, RAA-E-12
     link: https://maps.app.goo.gl/WpyMr8Uv8sHp9nEg9
   coordinator: 
     - matej.mrazek
