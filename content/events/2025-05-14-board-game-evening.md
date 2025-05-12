@@ -12,7 +12,7 @@ event_details:
   date_end: 2025-05-14T22:00:00
   location:
     text: UZH, RAA-E-12
-    link: https://maps.app.goo.gl/TAfHtFrtdhAQJ3ih8
+    link: https://www.uniability.uzh.ch/static/current/buildings/RAA/
   coordinator: 
     - matej.mrazek
   registration:
