@@ -29,6 +29,19 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Walk around Oberweningen
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/walk-oberweningen/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/FsJRJDukk3GNd1gX7" target="_blank" rel="noopener">Oberweningen</a>\n<strong>Coordinator:</strong> Ondřej Peterka (<a class="link" href="mailto:ondrej.peterka@cssz.ch" target="_blank" rel="noopener">ondrej.peterka@cssz.ch</a>)\n\nLocation: Coordinator: Ondřej Peterka (ondrej.peterka@email.cz, ‪+41 78 238 21 84‬, ‪+420 607 722 222‬) Join us for a chill circular walk in the forested landscape north of Oberweningen, located relatively close to Zurich. The trip shouldn’t be very demanding so that we can slow down and enjoy chatting together. Connections: There is a direct train back to Zurich every 30 minutes. The actual time will depend on the route and our pace.
+UID:20250525T105200-walk-oberweningen@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20250524T000000
+DTSTART:20250525T105200
+DTEND:20250525T170000
+LOCATION;ALTREP="https://maps.app.goo.gl/FsJRJDukk3GNd1gX7":Oberweningen
+URL:https://cssz.ch/events/walk-oberweningen/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
 SUMMARY:VSETH Summer Bar
 DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/summerbar/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/FbBC5vRfJ8EM7FfN7" target="_blank" rel="noopener">ETH Polyterrasse</a>\n<strong>Coordinator:</strong> Zdeněk Šnajdr (<a class="link" href="mailto:zdenek.snajdr@cssz.ch" target="_blank" rel="noopener">zdenek.snajdr@cssz.ch</a>, <a class="link" href="tel:&#43;41762254840">+41762254840</a>)\n<strong>Registration:</strong> <a href="https://forms.gle/eDXspzRcvFVs2zDm8" target="_blank" rel="noopener">Sign up for helpers</a>\n\nSummerbar 2025 – Helpers Needed! We&rsquo;re teaming up with POLANA and Schwung to host the VSETH Summer Bar on the Polyterrasse – and we need your help to make it awesome! Volunteer and Get Perks To keep everything running smoothly, we’re looking for volunteers to help with: Setup Grill &amp; Bar Clean-up Each shift is 3 hours, and as a thank-you, you’ll get free drinks during your shift and one free meal per shift.
 UID:20250515T150000-summerbar@cssz.ch
