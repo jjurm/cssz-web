@@ -26,7 +26,7 @@ Join us for a chill circular walk in the forested landscape north of Oberweninge
 
 Connections:
 
-{{< image asset="images/events/2025-05-25-walk-oberweningen/connection.jpg" >}}
+{{< image asset="images/events/2025-05-24-walk-oberweningen/connection.jpg" >}}
 
 
 There is a direct train back to Zurich every 30 minutes. The actual time will depend on the route and our pace.
