@@ -5,7 +5,7 @@ description: |
 image: images/events/2024-09-27-welcome-event-autumn24/zh_from_bQm.jpeg
 semesters: 2025-spring
 pubdate: 2025-05-09
-pinned: True
+pinned: False
 
 event_details:
   date_start: 2025-05-15T15:00:00

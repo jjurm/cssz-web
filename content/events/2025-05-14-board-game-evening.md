@@ -5,7 +5,7 @@ description: |
 image: images/events/2025-05-09-board-game-evening/board_games.png
 semesters: 2025-spring
 pubdate: 2025-05-09
-pinned: True
+pinned: False
 
 event_details:
   date_start: 2025-05-14T18:00:00

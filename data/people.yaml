@@ -89,6 +89,11 @@ all:
     phone: "+420734643958"
     image: images/members/matej-mrazek.png
 
+  - id: ondrej.peterka
+    name: Ondřej Peterka
+    role: Events
+  
+
 board:
   - zdenek.snajdr
   - radim.urban
