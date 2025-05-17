@@ -3,7 +3,7 @@ title: Walk around Oberweningen
 description: |
   Chill walk in the forests surrounding Oberweningen.
 
-image: images/events/2025-05-24-walk-oberweningen/main_image.jpg
+image: images/events/2025-05-24-walk-oberweningen/main_image.png
 semesters: 2025-spring
 pubdate: 2025-05-18
 pinned: True
