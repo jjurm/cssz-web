@@ -9,8 +9,8 @@ pubdate: 2025-05-18
 pinned: True
 
 event_details:
-  date_start: 2025-05-25T10:52:00
-  date_end: 2025-05-25T17:00:00
+  date_start: 2025-05-24T10:52:00
+  date_end: 2025-05-24T17:00:00
   location:
     text: Oberweningen
     link: https://maps.app.goo.gl/FsJRJDukk3GNd1gX7
