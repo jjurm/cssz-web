@@ -42,4 +42,4 @@ https://mapy.cz/s/majokavubu
 
 ## Communication
 
-There is a WhatsApp group ![WhatsApp group](https://chat.whatsapp.com/Jie6kXz3UprAM5DdSf92rb) for any news & meeting arrangements. 
+There is a WhatsApp group [WhatsApp group](https://chat.whatsapp.com/Jie6kXz3UprAM5DdSf92rb) for any news & meeting arrangements. 
