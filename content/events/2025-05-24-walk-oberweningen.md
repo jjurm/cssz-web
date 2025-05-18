@@ -31,10 +31,10 @@ You will need a ticket for 4 ZVV zones. One way costs up to 9.20 Fr. depending o
 
 Planned route:
 
-Total distance: 15 km
-Duration: approx. 4 hours
-Uphill/downhill: 427 m / 423 m
-Difficulty: Easy
+* Total distance: 15 km
+* Duration: approx. 4 hours
+* Uphill/downhill: 427 m / 423 m
+* Difficulty: Easy
 
 The route is flexible and can be made shorter (12 km) or longer (19 km) on the spot based on our wishes.
 
