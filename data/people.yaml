@@ -92,6 +92,8 @@ all:
   - id: ondrej.peterka
     name: Ondřej Peterka
     role: Events
+    phone: "+41 78 238 21 84"
+    email: "ondrej.peterka@email.cz"
   
 
 board:

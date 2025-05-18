@@ -18,10 +18,6 @@ event_details:
     - ondrej.peterka
 ---
 
-
-Location: 
-Coordinator: Ondřej Peterka (ondrej.peterka@email.cz, ‪+41 78 238 21 84‬, ‪+420 607 722 222‬)
-
 Join us for a chill circular walk in the forested landscape north of Oberweningen, located relatively close to Zurich. The trip shouldn’t be very demanding so that we can slow down and enjoy chatting together.
 
 Connections:
