@@ -22,19 +22,17 @@ event_details:
 
 
 
-Come join a great evening of playing guitar, piano & singing! We shall meet on **Tuesday, June 2, 2024**, from **19:00 to 23:00**. Everybody is welcome, no matter how much experience with music you have :D
-
+Join a great evening of playing guitar, piano & singing! We shall meet on **Tuesday, June 2, 2024**, from **19:00 to 23:00**. Everybody is welcome, no matter how much experience with music you have :D
 
 ## **Instruments**
 
-A piano and a beginners' guitar are already present, though you are certainly welcome to bring your own instruments.
-
+A piano and a guitar are already present, I'll be really happy if you bring any instruments you enjoy playing as well.
 
 ## **Registration & Disclaimer**
 
-You can register using the link above. The entrance is free, though if you have a bit of spare time on the way here, please stop at Coop and bring some food/beer!
+You can register using the link above. The entrance is free, though if you have some spare time on the way here, please stop at Coop and bring some food/beer!
 
-There should be enough space for everyone, but since I am organizing the event at my WG, there is an upper limit on the number of people - I have enough sitting spots for 12, and we can fit a bit more just around the room. For this reason, the registration is first come first serve, if you don't fit into either limit, I'll be sure to email you at least two days prior.
+There should be enough space for everyone, but since I am organizing the event at my WG, there is an upper limit on the number of people - I have enough sitting spots for 12, and we can fit a bit more just around the room. For this reason, the registration is first come first serve. If you don't fit into either limit, I'll email you at least two days prior.
 
 
 I am looking forward to sharing a wonderful evening with you! 
