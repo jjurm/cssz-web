@@ -88,6 +88,7 @@ all:
     about: Hi! I am Matěj, I am currently finishing my MSc in Computer Science at ETH. I enjoy playing the piano, board/computer games, hiking and bouldering 😃
     phone: "+420734643958"
     image: images/members/matej-mrazek.png
+    email: "mrazekmates@gmail.com"
 
   - id: ondrej.peterka
     name: Ondřej Peterka
