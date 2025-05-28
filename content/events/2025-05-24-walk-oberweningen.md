@@ -6,7 +6,7 @@ description: |
 image: images/events/2025-05-24-walk-oberweningen/main_image.png
 semesters: 2025-spring
 pubdate: 2025-05-18
-pinned: True
+pinned: False
 
 event_details:
   date_start: 2025-05-24T10:52:00
