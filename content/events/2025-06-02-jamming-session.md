@@ -1,9 +1,10 @@
 ---
 title: Jam Session
-description: An evening full of Czech & Slovak songs, featuring a guitar and a piano!
+description: |
+    An evening full of Czech & Slovak songs, featuring a guitar and a piano!
 image: images/events/2025-06-02-jam-session/guitar.jpg
 semesters: 2025-spring
-pubdate: 2025-05-28
+pubdate: 2025-05-30
 pinned: True
 
 event_details:
