@@ -8,8 +8,8 @@ pubdate: 2025-05-30
 pinned: True
 
 event_details:
-  date_start: 2025-06-02T19:00:00
-  date_end: 2025-06-02T23:00:00
+  date_start: 2025-06-03T19:00:00
+  date_end: 2025-06-03T23:00:00
   location:
     text: Probsteistrasse 99, Zurich (close to Bahnhof Stettbach)
     link: https://maps.app.goo.gl/1qYm5MY4yq24GU6v7
@@ -22,7 +22,7 @@ event_details:
 
 
 
-Join a great evening of playing guitar, piano & singing! We shall meet on **Tuesday, June 2, 2024**, from **19:00 to 23:00**. Everybody is welcome, no matter how much experience with music you have :D
+Join a great evening of playing guitar, piano & singing! We shall meet on **Tuesday, June 3, 2024**, from **19:00 to 23:00**. Everybody is welcome, no matter how much experience with music you have :D
 
 ## **Instruments**
 
