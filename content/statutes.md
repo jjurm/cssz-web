@@ -33,7 +33,6 @@ Membership fees are set by the General Assembly at the beginning of the academic
 ## Membership
 
 Natural and legal persons who support the purpose of the association and pay the membership fees can become members.
-and pay the membership fees.
 Applications for membership are to be addressed to the Board; the Board decides on the admission.
 
 ## Expiration of membership
