@@ -56,8 +56,8 @@ params:
       - type: partner_logos
         params:
           partners:
-            - title: ETH & UZH
-              logo: images/partners/eth_uzh.png
+            - title: ETH
+              logo: images/partners/eth.png
             - title: VSETH
               logo: images/partners/vseth_Logo_bylines_Kommission.png
             - title: Impuls Fabrik
@@ -69,8 +69,8 @@ params:
       - type: partner_logos
         params:
           partners:
-            - title: ETH & UZH
-              logo: images/partners/eth_uzh.png
+            - title: ETH
+              logo: images/partners/eth.png
             - title: VSETH
               logo: images/partners/vseth_Logo_bylines_Kommission.png
             - title: Impuls Fabrik
